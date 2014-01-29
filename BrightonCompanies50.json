@@ -1,0 +1,695 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1000, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 136, 
+    "description": "Newsquest is one of the UK's largest regional newspaper publishers with more than 200 newspapers, magazines and trade publications, including 17 paid-for dailies. Weekly readership: 13 million. Weekly circulation: 10 million. \r\nDaily titles include The Herald (Glasgow), The Northern Echo (Darlington), Telegraph & Argus (Bradford), Evening Times (Glasgow), Southern Daily Echo (Southampton), The Argus (Brighton), The Press (York), Oxford Mail and South Wales Argus (Newport). Weekly publications include Berrow's Worcester Journal, the oldest continuously published newspaper in the world.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Newspapers", 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "websiteUrl": "www.wirralglobe.co.uk", 
+    "universalName": "newsquest-north-west-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Newsquest (North West) Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Open Theatre Project is dedicated to the artistic & public community of Brookline, Brighton, Boston & Beyond. We serve the wants, needs & passions of our members in order to cultivate a closer and more educated theatrical community of artists and audience alike.  Through on-going Programs & Productions, Consistent Member & Audience Opportunities, and Constant Outreach to the world outside OTP, we hope to further define Art. For the Purpose of Community.", 
+    "twitterId": "TheOpenTheatre", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "720.299.7546"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "47 Arlington St."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "720.299.7546"
+       }, 
+       "address": {
+        "postalCode": "14850", 
+        "city": "Ithaca", 
+        "street1": "222 S. Geneva St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.TheOpenTheatre.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Performing Arts", 
+      "Education", 
+      "Theatre", 
+      "Workshops", 
+      "Playwriting", 
+      "Resident Actors", 
+      "Original Work"
+     ]
+    }, 
+    "universalName": "open-theatre-project", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Open Theatre Project"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 54, 
+    "description": "Medical Devices & FMCG Recruitment Specialist\r\n\r\nBrainhunters is a division of Brightpower Consulting Pty Ltd and owned solely by Laurie Brighton. Laurie has over 10 years experience in recruiting candidates in the FMCG sector and 6 years in the Healthcare sector. As Brainhunters, this boutique search & selection firm concentrates on roles in General/Business Management, Sales, Marketing, Product Management, Clinical Support, Field Service Engineering as well as Technical Applications, Operations, QA and Customer Service in the healthcare industry and Sales/Marketing/New Product Development & Operations in FMCG.\r\n\r\nLaurie and her team have extensive knowledge and specialist recruiting experience for professionals in the Medical Devices sector with an emphasis on Orthopaedics, Spine, Neurosurgery, Anaesthesia and Critical Care, Cardiology, Cardiac Surgery, Vascular and Cardiac Intervention & CRM, Surgical specialties, Imaging etc. In FMCG, we specialize in food/beverage.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "02 9652 0009", 
+        "phone1": "+61 412 288 204"
+       }, 
+       "address": {
+        "postalCode": "2062", 
+        "city": "Cammeray", 
+        "street1": "PO Box 468"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.brainhunters.com.au", 
+    "universalName": "medihunters-pty-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brainhunters - a division of Brightpower Consulting Pty Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 16, 
+    "name": "Telemark Inc.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1978, 
+    "websiteUrl": "www.telemarkinc.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Ultra-Luxury Residential"
+     ]
+    }, 
+    "universalName": "telemark-inc.", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Telemark (www.telemarkinc.com) and its affiliated companies serve the construction industry with integrity, maintaining its focus on quality and value true to its Scandinavian heritage. They served the industry in various capacities, as a General Contractor in the custom luxury residential market, as a Construction Manager (CM) in roles such as Owner\u2019s Representation, Program Planning, and as a Service and Maintenance provider in roles such as estate management, facilities management, and a small projects division. Co-Founders Frank and Roy Dalene have established an impeccable reputation in several areas of the construction industry. \r\n\r\nTelemark received the 1998 Custom Builder of the Year Award, Best Home \u2013 Northeast Region from Custom Builder Magazine.\r\nTelemark received the 2001 \u201cLIBI Award\u201d- Platinum Award, for Best Community Recreation Center in Oceana at Brighton Beach, Brooklyn, NY from the Long Island Builders Institute."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Hollywood Land provides development advice and land agency services to clients throughout the South East of England on single plots, larger development sites and refurbishment or conversion properties. Its sister company, Mishon Mackay Land, offers similar services and operates within East & West Sussex close to the vibrant city of Brighton & Hove.\r\n\r\nSpecialising in the sale of properties where the owner has secured planning themselves and simply wants to achieve the maximum value for the land; Hollywood Land also offers advice to owners who are looking to sell their property on a subject to planning basis where the obligation and risk of securing planning permission is placed on the buyer.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.hollywoodland.co.uk", 
+    "universalName": "hollywood-land-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Hollywood Land Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "PazMedia is a web design company based in Brighton who create business and personal websites locally and across the UK.\r\n\r\nOur clients include creative entrepreneurs within the music industry, event promotions & management, printing & publishing and personal development coaching.\r\n\r\nAt PazMedia we can tailor our services to suit your needs, such as building a new website from scratch or updating an existing site.\r\n\r\nWe can make sure your website is in the top results on search engines by using the latest in Search Engine Optimisation (SEO) techniques to ensure your potential clients look at your website before viewing your competitors'.\r\n\r\nPazMedia can also adapt the content of your website to mobile and touchscreen devices. This will make your website mobile-friendly and ensure the content loads quickly to the growing market of mobile web users.\r\n\r\nWe can create websites using WordPress which allows you to easily update the content and media yourself, with custom designs and functions. We can also implement an E-Commerce store into a new or existing site so you can start selling online.\r\n\r\nFrom simple web pages to larger, more complex sites; PazMedia will provide you with a website you are happy with for an affordable price.\r\n\r\nVisit us at www.pazmedia.co.uk", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07988004715"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AL", 
+        "city": "Brighton", 
+        "street1": "29 Kensington Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.pazmedia.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Web Design", 
+      "Website Developer", 
+      "Mobile Web Development", 
+      "Search Engine Optimisation (SEO)", 
+      "WordPress Websites", 
+      "Web Hosting", 
+      "E-Commerce", 
+      "Content Management System (CMS)"
+     ]
+    }, 
+    "universalName": "pazmedia", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "PazMedia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "L'Image Fran\u00e7aise specialises in the teaching of general conversational French at all levels.\r\n\r\nIn addition to providing classes in business French, preparation for general and specialised examinations such as the officially recognised DELF (Dipl\u00f4me d\u2019\u00e9tudes en langue fran\u00e7aise) can also be provided.\r\n\r\nI started my business 17 years ago in London with a strong emphasis on \u201cin company\u201d tuition. Teaching individuals and groups at their workplace as part of an employer's inhouse training scheme. Some of my key accounts were Elf (now Total), Soci\u00e9t\u00e9 G\u00e9n\u00e9rale and Bausch & Lomb. I moved my business activities to Brighton and Hove where I have been living since 2005.\r\n\r\nI specialise in teaching professionals in connection with their work, training them to be able to read, write and converse in their specific business environments. I have particular expertise in the legal and financial services sectors\r\n\r\nL'Image Fran\u00e7aise also provide a support service to anyone requiring help with French in respect of correspondence, communication and translation of official and administrative documents\r\n \r\n\r\nSome of the areas covered are :\r\n\r\n      Responding to a letter\r\n    \r\n      Phone calls\r\n    \r\n      Emails\r\n    \r\n      Property Transactions\r\n    \r\n      Utilities (Gas, Electric, Water etc)\r\n    \r\n      Social Security\r\n    \r\n      Tax Authorities", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.frenchlessonsinbrighton", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "One-to-one French Tution", 
+      "In-house Corporate French Tution", 
+      "Correspondence, Communication and Translation services"
+     ]
+    }, 
+    "universalName": "l'image-francaise", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "L'Image Francaise"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "MacPower", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.macpower.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Mac Repair", 
+      "Mac Upgrades", 
+      "Mac Support", 
+      "iPhone/iPod Repair", 
+      "iPhone/iPod Support"
+     ]
+    }, 
+    "universalName": "macpower", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "MacPower - help, training, repairs and upgrades for all Apple products.\r\n\r\nAt MacPower we can upgrade and repair the majority of Mac, iPhone and iPod issues. We can also provide support to help you whatever your skill level. If you need advice for any Apple products our friendly service can aid you.\r\n\r\nMacPower can help you with using programs, creating networks, repairing and upgrading Macs, iPods and iPhones, troubleshooting and anything else you need.\r\n\r\nBased in Brighton but serving all over East Sussex and other UK areas.\r\n\r\nCheck out our website for more detailed information."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "TKC Group Limited is a holding company and operates two wholly owned subsidiaries, TKC Sales Limited and TKC Direct Limited.\r\n\r\nTKC Sales Limited is a Wholesale Distributor of Sports Equipment, Toys and Games.\r\n\r\nTKC Direct Limited trades as \"Route One\" and is the UK's leading Action Sports retailer, with a significant online presence and 6 stores in Cardiff, Brighton, Southampton, Edinburgh, Bath and Guildford.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0870 870 0481", 
+        "phone1": "0870 870 0480"
+       }, 
+       "address": {
+        "postalCode": "GL9 1HE", 
+        "city": "Acton Turville", 
+        "street1": "Buffer Depot"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "0870 870 0150"
+       }, 
+       "address": {
+        "postalCode": "BA14 6EP", 
+        "city": "Trowbridge", 
+        "street1": "The Old Spitfire Hanger"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.routeone.co.uk", 
+    "universalName": "tkc-group-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "TKC Group Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Modern Apartments with historic charm for lease in Rochester New York's Southwedge urban village.  The South Wedge features a number of restaurants, shops, and nightlife activities.  It is Rochester's premier location surrounded by UofR, Strong Hospital, Downtown, Brighton, the Genesee river, the Erie Canal, Mt. Hope Cemetery and two Olmstead parks.  You won't find a better apartment for lease, better management, OR a better rate!", 
+    "twitterId": "wedgeredux", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14620", 
+        "city": "Rochester", 
+        "street1": "223 Gregory St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "17701", 
+        "city": "Williamsport", 
+        "street1": "2120 Marydale Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.WedgeRedux.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Apartment for rent / lease in Rochester NY", 
+      "Urban apartments", 
+      "green living environmental low voc healthy lifestyle living"
+     ]
+    }, 
+    "universalName": "wedge-redux-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wedge Redux LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "This the consulting division of Eyenetwork Video Conference Services.  See our main company page here http://www.linkedin.com/company/eyenetwork?trk=company_name\r\n\r\nWe make Video Conferencing & Telepresence work for your organisation, whether it's making existing systems usable and used or installing new solutions, we will have an answer.\r\n\r\nCommon Experiences are:\r\n\r\n- At least a 30% reduction in travel budgets\r\n- Extremely rapid ROI\r\n- Improved efficiency and effectiveness of teams\r\n- Improved happiness and work life balance of teams\r\n- Credible Environmental Credentials\r\n\r\nVideo conferencing is now a very effective and finally a usable technology. Please ask me how we might be able to help.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 324422"
+       }, 
+       "address": {
+        "postalCode": "BN1 3WB", 
+        "city": "Brighton", 
+        "street1": "Victoria House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.eyenetwork.com/services/consultancy/", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Consulting", 
+      "Video Conferencing", 
+      "Telepresence", 
+      "Cultural Shift", 
+      "Change Management", 
+      "Carbon Footprint Reduction", 
+      "Unified Communications"
+     ]
+    }, 
+    "universalName": "evc---brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Eyenetwork Video Consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 172, 
+    "name": "Domus", 
+    "twitterId": "domus_software", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.domus.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Estate agent software", 
+      "letting software", 
+      "estate agency websites", 
+      "letting agency websites"
+     ]
+    }, 
+    "universalName": "domus", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Online estate and letting agency software for the UK. Take a tour of the software here: http://www.domus.net/tour\r\n\r\nWe design and build bespoke estate and letting agency websites with a variety of optional add-ons.\r\n\r\nWe're based in Brighton, UK where it's always sunny."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Adding to life through music... \r\n\r\nInterested in releasing an Album or Featuring Brighton Jones on your next album?  Contact his manager to make arrangements...  \r\n\r\nBusiness Manager:\r\nBrian Johns\r\nbrianjohns@brightonjones.net\r\n\r\nMailing Address:\r\nBrightonJones.net\r\nPO Box 906\r\nMidvale, Utah 84047\r\n\r\nhttp://www.brightonjones.net", 
+    "twitterId": "brightonjones", 
+    "blogRssUrl": "http://www.brightonjones.net", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.brightonjones.net", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Music Production"
+     ]
+    }, 
+    "universalName": "brightonjones.net", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "BrightonJones.net"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Shebang is a light blue homemade zine crammed with music features, travel guides, artist profiles, craft and any other interesting goings-on that catch our eye! We believe that the simple things in life should be celebrated and shared; the new favourite record you've found for pennies in a charity shop, the cake recipe your nan passed on or the gig last night that made your heart skip... \r\n\r\nFed up of music and pop culture magazines selling more of a rock 'n' roll lifestyle than rock 'n' roll spirit, Shebang was created by Liv from paper scraps and glue in her bedroom. Despite spending a few afternoons photocopying and drawing up plans, Shebang never really took off until Liv moved in with graphic designer Lynsey a few years later, who helped to give the zine a makeover and turned it into a professionally printed mag. The zine now operates between Derbyshire (where Lynsey lives) and London (where Liv is now based), though it's roots will always be Falmouth in Cornwall and Brighton, where the first two issues were made.\r\n\r\nWe're not elitist with who we include in our pages; lesser-known bands as well as those currently courting the limelight lean against each page, and unknown artists and designers share their inspirations amid pretty illustrations and photographs. We also don't care about gender or labels, and just want to share the best bands and interesting creations, old and new, with others.", 
+    "twitterId": "shebangzine", 
+    "blogRssUrl": "http://shebangmag.blogspot.com/feeds/posts/default", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.shebang-mag.co.uk", 
+    "universalName": "shebang-magazine", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Shebang Magazine"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Library of direct contact voice overs and broadcast professionals with offices in London Brighton and South Cotswold. Radio Talent is a world first application which combines recruitment and career management for high profile individuals that work in radio.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Broadcast Media", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.radiotalent.co.uk", 
+    "universalName": "radio-talent", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Radio Talent"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Lucas Creative started as a direct result of a quickly developing client base which grew though recommendations and a reputation for providing flexible, excellent value, high level design work for existing clients. Work is across the board with businesses large and small, public and private, in Brighton, the South East and London.\r\n\r\nServices include:\r\n\r\nGraphic design:\r\nCorporate identity and logo design\r\nBrochures, leaflets, corporate literature and annual reports\r\nExhibition graphics and exhibition advertising\r\n\r\nWebsite design: \r\nHTML and CSS websites\r\nContent management systems and Ecommerce\r\nFlip-page e-zines and email marketing newsletters\r\n\r\nFundamental design approach should always based on effective communication \u2013 perhaps to ask a question, inform or prompt an action, change the public perception or simply making something easier to understand.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.lucascreative.co.uk", 
+    "universalName": "lucas-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Lucas Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "I am a freelance illustrator based in Brighton, England. I graduated with a first class degree in illustration from Falmouth College of Art in 2006.\r\n\r\nSince then I have worked for a broad range of clients, including The New York Times, Bon Iver, Chiswick House, Super Superficial, Clap Your Hands Say Yeah, The Yellow Bird Project and Plan B Magazine.\r\n\r\nIf you'd like to get in touch about any projects, ideas, or just to say hello, please contact hello@eleanorrudge.com", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.eleanorrudge.com", 
+    "universalName": "eleanorrudge.com", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "eleanorrudge.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 244, 
+    "description": "Peyton and Byrne is a restaurant group, retail bakery and event company founded by restaurateur Oliver Peyton OBE. \r\n \r\nThe business was founded in 2005 by renowned restaurateur Oliver Peyton along with his sister Siobhan Peyton, who holds the role of CEO. Over the last few years, the company has helped to transform the dining experience in public spaces, by significantly improving the quality of the food and drink offering within many of London\u2019s famous national institutions and parks.\r\n\r\nA new restaurant and bar at the Royal Academy - Keeper\u2019s House launching autumn 2013 - will mark Peyton and Byrne\u2019s ninth restaurant, adding to Restaurant at the Royal Academy of Arts, Inn the Park, The Wallace Restaurant, The National Caf\u00e9, The National Dining Rooms, The Orangery and Pavilion, both at Kew Gardens and the ICA Caf\u00e9 Bar. \r\n\r\nIn addition Peyton and Byrne also run several bakeries and caf\u00e9s, located at The British Library, St Pancras Station and their most recent opening St Giles, near Covent Garden.\r\n\r\nIn March 2013, the company took its first steps outside of London \u2013 launching a selection of cafes, tea-shops and bars in Brighton\u2019s cultural quarter. \r\n\r\nThe events arm of the business, Peyton Events, caters for over 600 events a year including bespoke corporate and private events, weddings and large scale conferences.\r\nOliver was awarded an OBE earlier last year for services to the hospitality industry.\r\n\r\nwww.peytonandbyrne.com", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.peytonandbyrne.co.uk", 
+    "universalName": "peyton-&-byrne-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Peyton & Byrne Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Cheeky Guides are an independent publishing company with ten years experience and over 50,000 sales of guide books.  We'll also wash your car when sales are slow in February.\r\nCatalyst Club was founded in 2004 and is a spoken word night where people talk about their passions. We've had 250+ speakers in the last 6 years and collaborated with Brighton Science Festival, White Night, Last Tuesday Society in Hackney, Festival of Celebration of Age.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Performing Arts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.drbramwell.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "publishing", 
+      "radio and stage presenting", 
+      "monologues"
+     ]
+    }, 
+    "universalName": "cheeky-guides-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "cheeky guides ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Full service Design Build Remodeling, Design Services, Handyman Services.  We also offer customers full access to kitchen design showroom in New Brighton. Factory certified by both Dura Supreme and Holiday Cabinetry.  We can offer the customer \" one stop shopping \" this has many advantages as we can design every aspect of a project and know that every detail has been accounted for.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "haletremodeling.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Full service Design Build Remodeling", 
+      "Kitchens / Bathrooms", 
+      "Additions", 
+      "Design services"
+     ]
+    }, 
+    "universalName": "halet-remodeling-&-renovations-inc.", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Halet Remodeling & Renovations Inc."
+   }
+  ]
+ }
+}

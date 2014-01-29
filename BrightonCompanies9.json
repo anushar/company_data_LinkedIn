@@ -1,0 +1,820 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 180, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "The Brighton Collaboration is an international voluntary collaboration to facilitate the development, evaluation, and dissemination of high quality information about the safety of human vaccines. The aim of the Brighton Collaboration is to develop globally accepted and implemented standardized case definitions of Adverse Events Following Immunization.", 
+    "industry": "Program Development", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "30033", 
+        "city": "Atlanta"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "CH-4005", 
+        "city": "Basel"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.brightoncollaboration.org", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "adverse events following immunization", 
+      "vaccine safety", 
+      "case definitions", 
+      "immunizations", 
+      "evaluation"
+     ]
+    }, 
+    "universalName": "brighton-collaboration", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton Collaboration"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 181, 
+    "description": "Brighton Racecourse has held a significant place within Brighton over the last 225 years. It is central to the very core of the status of the City, with Royal patronage and historical importance. It could be argued that it is one of the core foundations for giving its continuing resurgence as a thriving International cultural City.\r\n\r\nOver a number of recent years, Racedays have been a successful vehicle for business to thrive, to encourage new business and to entertain. With twenty-two Racedays during the season (April-October), up to seven high-profile races per meet, and opportunities to brand whole sections of the course, Companies are attracted by the stunning locations, the superb hospitality, and the chance to promote their goods and services to a captive and affluent family audience.", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9XZ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1783, 
+    "websiteUrl": "www.brighton-racecourse.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Commercial", 
+      "Events & Hospitality", 
+      "Leisure"
+     ]
+    }, 
+    "universalName": "brighton-racecourse-&-conference-centre", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Racecourse & Conference Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 313, 
+    "description": "Brighton Cromwell, LLC (BC) is a certified small-business supply chain integrator providing procurement, logistics and kitting services to the DoD and prime contractors globally. BC has established relationships with numerous manufacturers, leading industrial supply companies and OEMs to successfully manage hundreds of contracts sourcing aftermarket parts, kitting solutions and equipment for a variety of tactical military vehicles, aircraft and Naval systems.\r\n \r\nIts proprietary supply management technology suite, SENDASearch\u2122, allows BC to meet the complex logistics and procurement needs of the U.S. and international military markets with uncompromising precision and reliability. BC is certified to ISO 9001: 2008 for quality management, and certified to AS9120A (2009) for Aviation, Space and defense distributors. BC\u2019s corporate headquarters and warehouse distribution center is located in Randolph, New Jersey.", 
+    "twitterId": "", 
+    "industry": "Defense & Space", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "07869", 
+        "city": "Randolph", 
+        "street1": "111 Canfield Ave.; C 1-10"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.brightoncromwell.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Performance Based Logistics", 
+      "Program Management", 
+      "Kitting", 
+      "Distribution", 
+      "Defense Contracting"
+     ]
+    }, 
+    "universalName": "brighton-cromwell-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Cromwell, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 155, 
+    "description": "Brighton College has been training students for over 45 years offering self-paced, fully online, distance education programs in the Allied Health fields. Brighton College is accredited by the accrediting commission of the Distance Education and Training Council (DETC), and is military friendly. Fields of study include Medical Billing and Coding, Medical Transcription, Pharmacy Technician, Health Services Management and more.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "E-learning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(602) 212-0502", 
+        "phone1": "1-800-354-1254"
+       }, 
+       "address": {
+        "postalCode": "85260", 
+        "city": "Scottsdale", 
+        "street1": "7332 E Butherus Dr"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "www.brightoncollege.edu", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "medical coding", 
+      "medical transcription", 
+      "medical billing", 
+      "medical records", 
+      "pharmacy technician", 
+      "health services management", 
+      "distance education", 
+      "online training", 
+      "online school", 
+      "online education"
+     ]
+    }, 
+    "universalName": "brighton-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton College"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 358, 
+    "name": "The English Language Centre (Brighton)", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 720898", 
+        "phone1": "+44 1273 721771"
+       }, 
+       "address": {
+        "postalCode": "BN3 2GB", 
+        "city": "Brighton", 
+        "street1": "33 Palmeira Mansions"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 1323 639271", 
+        "phone1": "+44 1323 721759"
+       }, 
+       "address": {
+        "postalCode": "BN21 3LD", 
+        "city": "Eastbourne", 
+        "street1": "8 Trinity Trees"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.elc-brighton.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "EFL", 
+      "ESL", 
+      "English Language Teaching", 
+      "Teacher Training", 
+      "Education", 
+      "Business and Professional courses", 
+      "University preparation", 
+      "Exam preparation (IELTS, FCE/CAE, BEC, TOEIC)", 
+      "English for Engineers", 
+      "One-to-One"
+     ]
+    }, 
+    "universalName": "the-english-language-centre-brighton-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Founded in 1962, The English Language Centre is a not-for-profit educational charity providing quality English language training to adults. ELC operates 2 centres - ELC Brighton and Eastbourne School of English. \r\n\r\nThe centres have an international reputation for providing a wide range of quality English language courses for adults, expert teachers and excellent student services."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Home of the New Brighton Parks and Recreation Department, the 4,400 square foot Eagles Nest Indoor Playground, Meeting & Event Center perfect for groups of all sizes, newly updated Fitness Center and more.  Contact us today to learn how we can help you acheive our motto; Be Active, Live Life.", 
+    "industry": "Recreational Facilities & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "55112"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.newbrightonmn.gov", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Indoor Playground", 
+      "Meeting & Event Center", 
+      "Fitness Center & more.  Be Active", 
+      "Live Life."
+     ]
+    }, 
+    "universalName": "new-brighton-community-center", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "New Brighton Community Center"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12862, 
+    "name": "Beth Israel Deaconess Medical Center", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-667-7000"
+       }, 
+       "address": {
+        "postalCode": "02215", 
+        "city": "Boston", 
+        "street1": "330 Brookline Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "websiteUrl": "http://www.bidmc.org", 
+    "universalName": "beth-israel-deaconess-medical-center", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "With nearly three quarters of a million patient visits annually in and around Boston, Beth Israel Deaconess is rated as one of the top hospitals in the country. Through its affiliate, Beth Israel Deaconess Hospital-Needham, it serves a growing number of patients in Boston\u2019s western suburbs. BIDMC offers outpatient centers in Lexington and Chelsea, several primary care practices in many communities throughout the greater Boston area, and is affiliated with community health centers in downtown Boston, Dorchester, Roxbury, Allston/Brighton, Quincy and other areas."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 59, 
+    "description": "Brighton Bearings Group is one of the leading dealer, distributor, importer, and exporter of ball, roller bearings, and mechanical power transmission products in Malaysia. Established in 1970, the company has seen growth and expansion through its branch and distribution network.\r\n\r\nWe are one of the few selected authorised distributors of FAG(Germany) and NSK(Japan) bearings in Malaysia. We are also the Direct factory representative/ agents/ authorised distributor of leading manufacturers from Italy, Taiwan, Korea, and China.\r\n\r\nWith over 40 years of experience, our unique strengths include:\r\n\r\n- Large and complete range of locally available stocks\r\n- Free local delivery with our own fleet of transport\r\n- Able to assist in emergency and urgent need\r\n- Experienced and helpful staff with technical and engineering support\r\n- Site visit and support with engineers to problem solve\r\n- Top quality and consistent quality products from leading manufacturers\r\n- Affordable and competitive pricing to minimize cost to customers", 
+    "industry": "Mechanical or Industrial Engineering", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0060362770443", 
+        "phone1": "0060362772226"
+       }, 
+       "address": {
+        "postalCode": "52200", 
+        "city": "Kuala Lumpur", 
+        "street1": "Lot No.3, Jalan Kuang Bulan"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.brightonbearings.com.my", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Bearing", 
+      "Power Transmission", 
+      "Gearbox", 
+      "Sprocket", 
+      "Chain", 
+      "Motor", 
+      "Pulley", 
+      "Belt"
+     ]
+    }, 
+    "universalName": "brighton-bearings-m-sdn-bhd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Bearings (M) Sdn Bhd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 155, 
+    "description": "Impure Art is the only erotic art gallery in the UK and what better place than the naughty seaside town of Brighton! Famous for the bringing the notorious Madonna Nudes exhibition to the UK, Impure Art is already making huge waves in the art world.\r\n\r\nSituated in Ship Street Gardens, Brighton\u2019s self-titled \u201cnaughty little alley\u201d as it also plays host to the cult shop, She Said Erotic Boutique and my Brighton Body Casting studio. Impure Art deals in art broadly described as \u2018anything from nude to rude\u2019. From sensual feminine paintings, through humorous illustrations, breathtaking sculptures and saucy neon signs to spellbinding fetish photography the gallery\u2019s self-imposed brief is to sell top quality art which fits the \u2018impure\u2019 remit. The high standard is what sets the gallery apart making it more \u201cfur coat than dirty mac!\u201d\r\n\r\nThere is nowhere else in the UK to go and buy art like this. Customers can chose from hundreds of artworks from artists personally vetted by Nic and Jamie. And with new artists being regularly introduced and new artworks added every week, keeping the gallery fresh and exciting. Impure Art can also arrange for any of their artists whose style you like to create portraits and artworks specifically to suit your requirements.", 
+    "industry": "Fine Art", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 1aj"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.impureart.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "art", 
+      "sculpture", 
+      "photography", 
+      "fine art", 
+      "erotic art", 
+      "erotica"
+     ]
+    }, 
+    "universalName": "impure-art", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Impure Art"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 395, 
+    "description": "BrightonandHoveJobs.com is a partnership that brings together Brighton\u2019s businesses, its universities, colleges & schools, the City Council, charities and community groups and other organisations across the City. We\u2019re committed to providing an accessible and cost effective job board that enables local businesses to connect with the City while providing the people of Brighton with access to local jobs and the skills, training and information that they need to be successful. Post your job vacacancies online for only \u00a399 + vat!\r\n\r\nWe go beyond a normal job board and work with our partners to offer all candidates help and assistance in their employment search. Whether you\u2019re a school leaver, someone looking to get back into work or just simply looking for a new opportunity, we have the information and expertise that will help you. Our support for charities and the third sector means you can also find voluntary positions on our site.\r\n\r\nWe have recently been recognised for our efforts in the community and won an award for the Greatest Contribution to the Community Award at the Brighton and Hove Business Awards 2013 (BAHBA's), which we were thrilled with and was a great honour.\r\n\r\nWe have also just announced the Sussex County Cricket ground is now known as: The BrightonandHoveJobs.com County Ground!", 
+    "twitterId": "BrightonHoveJob", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "One Jubilee Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AN", 
+        "city": "Hove", 
+        "street1": "BrightonandHoveJobs.com County Ground"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightonandhovejobs.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Recruitment", 
+      "Marketing", 
+      "Locally", 
+      "Jobs", 
+      "Advertising", 
+      "Online"
+     ]
+    }, 
+    "universalName": "brightonandhovejobs.com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BrightonandHoveJobs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Brighton Business Consultants are Management Consultants that specialise in the operational and strategic planning aspects of business.  We offer a host of products and services that will improve the profitability of a business.  For more information visit our website or call us on 01273 311270", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "4401273311270"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HG", 
+        "city": "Brighton", 
+        "street1": "Bartholomews"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://brightonbusinessconsultants.co.uk/", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Business operations and strategy planning change management consultants."
+     ]
+    }, 
+    "universalName": "brighton-business-consultants", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Business Consultants"
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "GMen Brighton", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.gmenbrighton.com", 
+    "universalName": "gmen-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "If you are gay or bisexual man join us in Brighton (UK) this July or August 2010 for a fun, stimulating, sociable 3-4 day short-break activity/learning holiday for like-minded gay and bisexual men. All gay and bi men aged 18 years and over are welcome - locals, UK residents and visitors from abroad. (Residential and non-residential packages are available.)\r\n\r\nSpend your days learning with our expert Tutors and your evenings relaxing and having fun in the company of new friends and our GMen Hosts.\r\n\r\nBring yourself or come along with others but don't miss out on the new \"Soho by the Sea\" short-break holiday for gay and bisexual men that everyone is talking about! Afterwards head home refreshed and re-energised, with new skills and lots of new contacts.\r\n\r\nPlease visit the website for full details and to book securely online (http://www.gmenbrighton.com), see you in July or August!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Welcome to Brighton Body Massage. Here you can be assured to find the right massage for you. With specialist training Jeanna can treat you for pain and injury, pregnancy issues or just for the sheer joy of taking time out. Choosing the right treatment can be confusing, so please read the treatment on  the website or call Jeanna for more information. 07971552687\r\n\r\n\r\nI am based at Natural Balance Therapies in Hove and also work from home near Lewes. To book an appointment in Hove, at 30 The Drive, with Jeanna on Monday, Wednesday or Friday please call 07971552687 or book online via my website. to read reviews about me see my website.", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3JD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.brightonbodymassage.co.uk", 
+    "universalName": "brighton-body-massage", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Body Massage"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Brighton Singing Lessons", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.brightonsinginglessons.co.uk", 
+    "universalName": "brighton-singing-lessons", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Chip Jenkins is a singing teacher at Chichester University in the UK, and the British Institute of Modern Music, Sussex Vocal Academy and previously the Academy of Contemporary Music.\r\nA Brighton Singing Teacher, sIngers and voice can have both private lessons and music industry career coaching."
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "City Gate Church - Brighton", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4JF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.citygatechurch.org.uk", 
+    "universalName": "city-gate-church---brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "\"Together for God, each other and the Nations\" - City Gate is a Community Church in the heart of Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "The UK's leading body casting artist. Body casting is the process of creating a sculpture from a mould taken directly from the body. My work is largely commissions for people getting cast for themselves or their loved ones, much as one may have professional photographs taken.\r\n\r\nMy studio in the heart of Brighton's Lanes district is the only body casting studio/gallery in the UK. I am a pioneer, bringing this vibrant new art form to the high street.", 
+    "industry": "Fine Art", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 iaj"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.brightonbodycasting.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "body casting", 
+      "life casting", 
+      "lifecasting", 
+      "sculpture", 
+      "portraits", 
+      "portraiture", 
+      "sculptures", 
+      "art", 
+      "masks", 
+      "plaster casts", 
+      "body moulds", 
+      "moulds"
+     ]
+    }, 
+    "universalName": "brighton-body-casting", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Body Casting"
+   }, 
+   {
+    "websiteUrl": "www.naturalproductsonline.co.uk", 
+    "numFollowers": 30, 
+    "industry": "Publishing", 
+    "universalName": "diversified-business-communications-brighton", 
+    "name": "Diversified Business Communications Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 116, 
+    "description": "At Escape Hatch we find the right people.\r\n\r\nEscape Hatch is a friendly, expert media recruitment consultancy based in the heart of Brighton. We recruit for the leading media companies, advertising agencies, digital agencies, PR agencies and client companies in Brighton, Sussex, Surrey, Kent and Dorset.\r\n\r\nA big part of our role is to provide balanced advice, a range of options and a comprehensive insight into opportunities and talent available across the ever-changing media landscape. We believe in making intelligent connections that deliver optimum results.\r\n\r\nWe\u2019ve got 45 years of media experience under our belts, and over a decade of matching exceptional, driven people with challenging, exciting careers. Our experience and expertise means we understand the needs of our clients and the aspirations of our candidates.\r\n\r\nWe believe in building long-lasting and mutually profitable relationships with everyone we work with. In fact, most of our business comes from referrals from happy clients and candidates \u2013 many of whom we\u2019ve worked with since we were founded in 2000.\r\n\r\nWe\u2019re always happy to meet new people, give advice and help fit the right candidates with the right career path.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN11UQ", 
+        "city": "Brighton", 
+        "street1": "5 Orange Row"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.escapehatchmedia.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Recruitment in Brighton, Sussex, Surrey, Kent", 
+      "Media recruitment", 
+      "Marketing recruitment", 
+      "Digital recruitment", 
+      "PR recruitment", 
+      "Recruitment to recruitment"
+     ]
+    }, 
+    "universalName": "escape-hatch-media-recruitment", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Escape Hatch Media Recruitment Ltd"
+   }, 
+   {
+    "numFollowers": 12, 
+    "name": "BHWRP", 
+    "industry": "Renewables & Environment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9QF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.woodrecycling.org.uk", 
+    "universalName": "bhwrp", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Every day a huge amount of waste timber is generated by industries working in construction, demolition and manufacture, wooden packaging waste and non-returnable pallets. \r\n\r\nBrighton & Hove Wood Recycling Project aims to rescue, re-use and recycle some of the tonnes of wood going to landfill locally by collecting waste wood from local businesses. The reusable timber we collect is offered for sale in our shop, The Wood Store.\r\n\r\nThe Wood Store @ The Brighton & Hove Wood Recycling Project\r\nCircus Street, Brighton, East Sussex BN2 9QF\r\nTel: 01273 570500  Fax. 01273 570600"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Highprompt Ltd", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1NB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.thehoneyclub.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "marketing", 
+      "Event management", 
+      "Promotional support"
+     ]
+    }, 
+    "universalName": "highprompt-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Parent Company of The Honeyclub & Bar 211, Brighton.\r\nTwo  licensed premises on Brighton beach front, the Honey is a 1000 capacity venue with 5 rooms and a beach side terrace which opens 6 nights a week with a variety of dance/music based promotions. During the summer, the Honeyclub also opens in part during the day to serve food and drink on the terrace.\r\nBar 211 is a 200 capacity venue with a 400 capacity terrace right on Brighton beach. Both Venues are very centrally located between the Fisherman's and Artists quarters on the lower esplanade."
+   }
+  ]
+ }
+}

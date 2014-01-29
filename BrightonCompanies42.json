@@ -1,0 +1,949 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 840, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "We are an experienced & friendly team of Chartered Surveyors and Energy Assessors with excellent knowledge of property & market conditions in the City of Brighton & Hove, throughout East & West Sussex and beyond.\r\n\r\nOur Services include Building Surveys; HomeBuyer Reports; Defect diagnosis; Valuations for Mortgage, Right To Buy Purchase, Probate, Tax, Matrimonial, Sale/Purchase and Development Appraisals as well as Leasehold Enfranchisement valuations and advice.\r\n\r\nWe can also be involved in Lease renewal & rent review, Schedules of Dilapidations and Schedules of Condition for commercial properties (Highly recommended if your business is taking a new lease on premises).\r\n\r\nFinally we also provide Energy Performance Certificates on commercial properties as well as Party Wall advice.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 727 883", 
+        "phone1": "01273 821 969"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "10A The Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01444 458 062"
+       }, 
+       "address": {
+        "postalCode": "RH16 4LY", 
+        "city": "Haywards Heath", 
+        "street1": "141-143 South Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.sussexsurveyors.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Valuations", 
+      "Building Surveys", 
+      "HomeBuyer Reports", 
+      "Energy Performance Certificates", 
+      "Lease extension valuations", 
+      "Leasehold Enfranchisement", 
+      "Building Defect Diagnosis", 
+      "Specifications of Works", 
+      "Schedules of Dilapidations and Condition.", 
+      "Party Wall Advice and Notices"
+     ]
+    }, 
+    "universalName": "sussex-surveyors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Sussex Surveyors LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 115, 
+    "name": "Hurstpierpoint College", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)273 835257", 
+        "phone1": "+44 (0)1273 833636"
+       }, 
+       "address": {
+        "postalCode": "BN6 9JS", 
+        "city": "Hurstpierpoint", 
+        "street1": "College Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.hppc.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Excellent academic & extra-curricular provision on an outstanding 140 acre campus", 
+      "Choice of A Levels or IB for Sixth Form study", 
+      "Outstanding pastoral care in a strong, caring community", 
+      "2011 Inspection Report 'excellent' in every category"
+     ]
+    }, 
+    "universalName": "hurstpierpoint-college", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Hurstpierpoint College is an independent school offering outstanding day and boarding education for boys and girls aged 4 to 18 years.  Set in Sussex countryside just north of the South Downs, its 140 campus provides superb academic, sporting and cultural facilities.  Easy access from the M25/M23 network, Gatwick Airport and main London to Brighton railway services.\r\n\r\nThe core belief at Hurst is that education is all about pupils\u2019 pursuit and achievement of personal bests - academic, extra-curricular and in their relationships with others. Through this Hurst pupils, properly guided and supported by the school, gain not only the best grades possible but also develop vital life skills, qualities and values."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "We're Emberlane; a creative studio based out of Brighton in the United Kingdom. \r\n\r\nWHAT WE DO \r\nCreative direction, brand/identity development, graphic design, web design and web development. \r\n\r\nWhether the right solution involves developing your brand identity, designing a piece of literature for print or building your website, solutions are bespoke, project-specific and never off-the-shelf. \r\n\r\nWe build lasting relationships and we're proud to have a growing list of satisfied clients.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "25 Lower Rock Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.tripleyellow.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Branding", 
+      "Web Design", 
+      "Web Development", 
+      "Web Hosting", 
+      "Graphic Design"
+     ]
+    }, 
+    "universalName": "triple-yellow", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Triple Yellow"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Urban Edge Environmental Consulting Ltd is a Brighton based ecology and environmental planning practice.\u00a0 Our expertise lies at the interplay between environment and development.\u00a0\r\n\r\nWe advise public sector bodies across the UK on their environmental and sustainability duties, and assist private sector clients in designing cost effective solutions for sustainable development.", 
+    "twitterId": "", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273686766"
+       }, 
+       "address": {
+        "postalCode": "BN2 4QN", 
+        "city": "Brighton", 
+        "street1": "Unit 5 Westergate Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.ueec.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Environmental Planning", 
+      "Ecology", 
+      "Environmental Impact Assessment", 
+      "Strategic Environmental Assessment", 
+      "Protected Species", 
+      "Habitats Regulations Assessment", 
+      "Mitigation/Enhancement Strategies", 
+      "Green Infrastructure Planning"
+     ]
+    }, 
+    "universalName": "urban-edge-environmental-consulting-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Urban Edge Environmental Consulting Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "We Kumar Metal Co. was established in the year 1965 with the sole aim of catering to the global building hardware industry. We are a internationally recognized manufacturer and exporter of superior quality building hardware products, which include door hardware, window and cabinet fittings etc. Complying the international quality standards, our products have earned us unflinching trust and positive response of our esteemed clients spread all across the globe. Our range includes brass door furniture, classical door handles, polished brass door handles, decorative door handles, black antique finish door handles, lever handle round rose, square lever door handles, zinc diecast cabinet handles, door stopper gate hook, polished brass numerals, brighton fastener, designer pull handle, fleur de lis handle, brass cabinet fittings, sash handle, etc. Located in the capital of Indian Brassware industry, Aligarh ( Uttar Pradesh, India), we are a professionally managed organization. Our vision to be a branded name in our domain makes us liable to manufacture best quality hardware products. Further, capitalizing upon our well laid infrastructure and team of expert professionals, we offer the clients satisfactory value added services like customized packaging, free sampling and on-time delivery etc. Our clients also count on us for their OEM and customized orders, owing to our capability to develop and ship new designs as per their specific requirements.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Fundraising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+(91)-(571)-2410545", 
+        "phone1": "+(91)-(571)-2410543/ 2410544/ 2410546"
+       }, 
+       "address": {
+        "postalCode": "202 001", 
+        "city": "Aligarh", 
+        "street1": "No. 2-A/10, Mansingh Gate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1965, 
+    "websiteUrl": "http://www.kumarmetalco.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "good quality", 
+      "on-time delivery", 
+      "durability", 
+      "competitive prices"
+     ]
+    }, 
+    "universalName": "kumar-metalco", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kumar Metalco"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "description": "El Pelon Taqueria serves authentic Mexican street food in the heart of Boston, Massachusetts.  We strive to offer our menu items at extremely affordable prices, prepared with fresh ingredients daily . Our menu consists of more than just  burritos, we have award winning fish tacos and other Mexican specialties such as Enchiladas, Tortas and handmade Tamales. We provide fast and friendly service, allowing for quick, convenient take-out or dine in from 11am to 11pm seven days a week. Catering now available\r\n\r\nEl Pelon Taqueria  Brighton,  617-779-9090\r\n                                   Fenway     617-262-9090 \r\nwww.elpelon.com \r\nElPelon@ElPelon.com", 
+    "twitterId": "", 
+    "industry": "Restaurants", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-262-9090"
+       }, 
+       "address": {
+        "postalCode": "02215", 
+        "city": "Boston", 
+        "street1": "92 Perterborough St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-779-9060"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "2197 Commonwealth Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.elpelon.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Catering", 
+      "Weekly Specials", 
+      "High Quality Food Preperation", 
+      "Fast Convenient Take out", 
+      "Friendly Service and Authentic  Hospitality", 
+      "Vegan and Vegetarian Options", 
+      "Gluten Free options", 
+      "Highly Trained Staff and Certified in Food Safety and  Allergy Awareness"
+     ]
+    }, 
+    "universalName": "el-pelon-taqueria", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "El Pelon Taqueria"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "At Sign Distinction, we pride ourselves on providing the\r\nhighest quality products and customer service to all our\r\nclients at a competitive rate. With a focus on integrity\r\nand excellence, you can be sure that your signage needs and\r\ndesires are treated with the respect and attention to detail\r\nthat they deserve.\r\n\r\nWith over twelve years experience, our head Signwriter is a\r\nqualified tradesman capable of dealing with even the most\r\nunique signage requirements.\r\n\r\nThough based in metropolitan Melbourne, Sign Distinction has\r\na wide network of quality partners that make producing and\r\ninstalling your signs easy whether you be in Brighton, Broken\r\nHill or Broome.\r\n\r\nContact us and find out how we can take your needs from\r\nconcept to installation.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(03) 8774 7723"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Melbourne", 
+        "street1": "Mobile Service"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.signdistinction.com.au", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Factory Signage", 
+      "Vehical Signag", 
+      "Shop Fronts", 
+      "Store Fitouts", 
+      "Digital Signage", 
+      "Hand Painted (Traditional) Signage", 
+      "Honour Boards"
+     ]
+    }, 
+    "universalName": "signdistinction", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "SignDistinction"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Producers of Hand Crafted Traditional Oak Flooring.\r\n\r\nWe Produce Hand Finished, aged, scraped and distressed authentic Wide Plank Oak Floorboards, tailor made in our workshop and finished with a unique range of colours and wood floor oils.\r\n\r\nWe deliver wood flooring throughout Brighton & Hove, Sussex, Surrey, Kent, London, Uk, Ireland and Continental Europe.\r\n\r\nNaked Floors works closely with the wood flooring trade, builders, developers, architects, interior designers and the general public.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273 457 705"
+       }, 
+       "address": {
+        "postalCode": "BN2 1TS", 
+        "city": "Brighton", 
+        "street1": "14 Margaret Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.nakedfloors.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wide Plank Oak Flooring", 
+      "Handscraped, Aged and Didtressed Oak Flooring", 
+      "Wholesale and Retail Hardwood Flooring", 
+      "Hardwood Flooring Installation and Consultancy Services"
+     ]
+    }, 
+    "universalName": "naked-floors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Naked Floors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 281, 
+    "description": "Founded in early 2012, Classic Consulting is now a well established, multi award winning, specialist recruitment agency that has rapidly made a genuine and significant impact in the Sussex business community.\r\n\r\nOur founders are keen supporters of the Institute of Business Ethics which was established to encourage a strong ethics culture and high standards of business behaviour based on ethical values.\r\n\r\nWe work with a wide range of businesses of all sizes and sectors across the region on temporary, contract and permanent positions specialising in the following areas:\r\n\r\n\u2022 Admin, secretarial, PA, legal\r\n\u2022 HR, training, IT, business development\r\n\u2022 Marketing, PR, digital, media\r\n\u2022 Customer service, call centre, market research\r\n\u2022 Professional and financial services, insurance, property\r\n\u2022 Construction and Engineering\r\n\r\nWe're proud to be a Multi Award Winning, local Recruitment Consultancy\r\n\r\n\u2022 Winner of 'New Business of the Year' at the 2013 NatWest Venus Awards, National Finals\r\n\u2022 Winner of 'New Business of the Year' at the 2013 NatWest Venus Awards, Brighton\r\n\u2022 Finalists for 'Best Customer Service' at the 2013 Sussex Business Awards\r\n\u2022 Winner of 'Most Promising New Business' at the 2012 Sussex Business Awards", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 376999", 
+        "phone1": "01273 607129"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YR", 
+        "city": "Brighton", 
+        "street1": "Tower Point 44"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.classicconsulting.co.uk/", 
+    "universalName": "classic-consulting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Classic Consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Electric Farm is a small but perfectly formed marketing company based in Shoreham-by-Sea and close to Brighton delivering both online and traditional media services to Sussex and beyond. In plain language, Electric Farm provides \u2022 Web Development Services \u2022 Content Managed Websites \u2022 Project Management \u2022 Marketing Consultancy \u2022 Graphic Design \u2022 Print Services \u2022 Photography \u2022 Copywriting.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN43 5RF", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "33 East Meadway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.electricfarm.co.uk", 
+    "universalName": "electric-farm", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Electric Farm"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Your smile is one of the first features people notice about you. If you're looking for (or want to maintain) a healthy, beautiful, confident smile, we invite you to visit Alpine Dental Arts in Lakewood, Colorado.\r\n\r\nAt Alpine Dental Arts you'll find that your smile and your complete satisfaction are always our top priority. Our Dentists and entire team are dedicated to providing you with personalized, gentle and affordable dental care in a warm, friendly environment.\r\n\r\n\r\n\r\n\r\n\r\nDentist | Lakewood | Colorado | Denver | Denver-Metro | Sheridan | Wheatridge | Green Mountain | Littleton | Golden | Highlands Ranch | HR | Arvada | Morrison | Aurora | Brighton | Boulder | Parker | Centennial | Alpine", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303-980-4800"
+       }, 
+       "address": {
+        "postalCode": "80227", 
+        "city": "Lakewood", 
+        "street1": "2323 S. Wadsworth #1778"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "http://anundsen.com/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Dentist", 
+      "Preventive Care", 
+      "Restorative Care", 
+      "Cosmetic Dentistry", 
+      "Patient Care", 
+      "Oral Health", 
+      "Hygiene Consulting", 
+      "Antibiotic therapy"
+     ]
+    }, 
+    "universalName": "alpine-dental-arts", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Alpine Dental Arts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "7AM Recordings Ltd is an independent company offering Audio Production services including Bespoke Audio Productions, Original Productions for purchase or licensing to Media and a Web based independent record label operating out of Brighton, UK. Founded in 2011, the company's goal is to produce and release high quality recordings to a wider audience whilst promoting artistry and innovation in music.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.7amrecordings.com", 
+    "universalName": "7am-recordings-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "7AM Recordings Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "A creative little company based in Brighton,UK. We predominantly provide well designed websites that are developed from scratch by our talented front-end and back-end programmers. Most of our clients are within the Arts industry. The company currently consists of Howard Stagg (Director, Designer), Chris Skilton (Director, Front End Developer) and Rich Shakespeare (Back End Developer).", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton Media Center"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bananamoth.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "web design", 
+      "web development", 
+      "branding"
+     ]
+    }, 
+    "universalName": "bananamoth-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bananamoth ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "The business was founded by Keith Bohanna who is an experienced digital strategist having been working in the internet space since 2001.\r\n\r\nWe have extensive experience in the planning, management and successful delivery of web projects.\r\n\r\nIn the area of personal and group productivity we work with the Brighton based Think Productive to bring their highly effective range of workshops into businesses and organisations in Ireland.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Management Consulting", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.lifetimevalue.ie/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Digital Strategy", 
+      "Delivering Successful Web Projects", 
+      "Personal and Group Productivity"
+     ]
+    }, 
+    "universalName": "lifetimevalue-ie", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LifeTimeValue.ie"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Whiteflame Web Design and eCommerce. We work closely with our clients to produce high quality and contemporary solutions. We add value to our client's businesses by designing simple, effective and user friendly websites that will become successful as a sales and marketing tool. We are based in Litlington near Eastbourne, Lewes and Brighton in East Sussex.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323876665"
+       }, 
+       "address": {
+        "postalCode": "BN26 5RB", 
+        "city": "Litlington", 
+        "street1": "Studio 7"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.whiteflame.eu", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Deisgn", 
+      "eCommerce", 
+      "Websites", 
+      "SEO Search Engine Optimisation"
+     ]
+    }, 
+    "universalName": "whiteflame", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Whiteflame"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Dolphin Languages is different to other language institutions. After interviewing hundreds of students who have studied in the UK we have a comprehensive understanding of what the customer wants and we know how to deliver it. We acknowledge that people have special language requirements and may want to learn quickly in an intensive and professional environment.\r\n\r\nAt Dolphin Languages we aim to meet this demand by offering English Language with specialist courses, executive courses, corporate courses. We can work on a consultation basis to design a course that\u2019s absolutely perfect for an individual or a business.\r\n\r\nWe are also very proud of our courses for children which include stimulating lessons, exciting trips and sports or even business for the executives of tomorrow! Pastoral care is a number one priority on the junior programme and we make every effort to ensure that the students have contact with a social supervisor who can speak their native language. There are also lots of organised activities for the students including our fantastic English and Football programme at the Brighton Amex Stadium.\r\n\r\nAs well as this, Dolphin Languages offers foreign languages for businesses, school children and businesses based in the UK.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 628625"
+       }, 
+       "address": {
+        "postalCode": "BN2 OEF", 
+        "city": "Brighton", 
+        "street1": "The Metway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Falmer"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.dolphinlanguages.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Junior English + Football", 
+      "Specialist English Courses (ESP)", 
+      "Corporate Language Training", 
+      "Senior English", 
+      "Academic English (EAP)", 
+      "Junior English Summer Camp"
+     ]
+    }, 
+    "universalName": "dolphin-languages", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Dolphin Languages"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Mike's Auto Spas are full service car wash we offer exterior car wash starting at $5.00 and include a free vacuum along with a variety of interior cleaning services starting at $12.95. Our Detail Services start at $39.95 and can cost as much as $230.00 for our higher end restoration packages. We are located in the North Denver communities of Brighton and Westminster and are members of the International Watersavers Organization. At Mike's we focus on three main things. The first being the customers; we understand that the customer's trust and confidence are vital to the success of our business. Mike's will provide you with the best possible service everytime. Secondly, we are committed to social responsibility, a clean environment and the conservation of natural resources. Mike's Auto Spa is one of the Denver area's GREEN CAR WASH. We recycle 85% of the water that we use in our washes and use chemicals safely and prudently to ensure our impact on the environment is minimal. Finally, Mike's Auto Spa prides itself on being a member of the community. We share a responsibility to work for the betterment of our local communities. We also, actively support our local chamber of commerce,  schools, churches  and young adults. \r\n\r\nMission Statement - \r\n\"Mike\u2019s Auto Spa will establish itself as a corporate citizen for the communities we work in by creating lifetime customers through the delivery of clean, fast, friendly experience through engaged and valued team members.\"", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "720-880-2273", 
+        "phone1": "720-685-3110"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "720 Platte River Blvd."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "720-88-2273", 
+        "phone1": "303-460-3866"
+       }, 
+       "address": {
+        "postalCode": "80234", 
+        "city": "Westminster", 
+        "street1": "12131 N. Federal BLVD."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.mikesautospacarwash.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Car Wash", 
+      "Automotive Detailing", 
+      "Windshield Repair and replacement", 
+      "Window Tinting"
+     ]
+    }, 
+    "universalName": "mikes-auto-spa", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Mikes Auto Spa"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Based in Brighton, our friendly studio hosts a talented team of experienced people, working to produce exception design. We value every new client and project, applying our established principle of great work on time, on budget & on brief.\r\n\r\nWe\u2019d love to discover more about you and your business to see how we can help. Please don\u2019t hesitate to call us on 01273 777006 or email info@republiquedesign.co.uk", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0127 - 377 7006"
+       }, 
+       "address": {
+        "postalCode": "BN3 3LL", 
+        "city": "Hove", 
+        "street1": "96 Ethel Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.republiquedesign.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Creative Design", 
+      "Print Media", 
+      "Pixel Media", 
+      "Social Marketing"
+     ]
+    }, 
+    "universalName": "r-publique-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "R\u00e9publique Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "Creators of the Mooncup (known in the USA as MCUK): the original silicone menstrual cup and a convenient, safe and eco-friendly alternative to tampons and sanitary pads. \r\n\r\nMooncup Ltd. was established in 2002, with a mission to make women\u2019s experience of menstruation more positive, healthy and eco-friendly. The Mooncup was designed from medical grade silicone to enable women with sensitive skin and particularly latex allergies to use it (earlier models were made from rubber). Mooncup Ltd., and particularly the Advice Centre nurses, are committed to researching menstrual health and to the advancement of education about this under-discussed subject that affects half the world\u2019s population!\r\n\r\nBased in Brighton, Mooncup Ltd today is a multi-award winning small business run entirely by  women, and collaborating with distributors all around the world. In 2004, Mooncup Ltd. was awarded Ethical Company status for its commitment to people and animal friendly practices, making it the first sanitary protection manufacturer in the world to be a certified ethical business.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 673 845"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "40 Arundel Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.mooncup.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "women's health", 
+      "sanitary protection"
+     ]
+    }, 
+    "universalName": "mooncup-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mooncup Ltd"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 25, 
+    "name": "One Hundred Studio", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "100GraphicDesign.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Corporate identity", 
+      "Logo", 
+      "Branding", 
+      "Stationery"
+     ]
+    }, 
+    "universalName": "100graphicdesign", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "The studio specialises in logo and identity as well as advertising and print design. \r\n\r\nStudio is based on the South Coast of England in Portsmouth.\r\nIt\u2019s a stone\u2019s throw away from London, Brighton, Bournemouth and Southampton, so it is easy to meet and discuss requirements with clients.\r\n\r\nHowever this does not limit the Studio to working only in the UK; 100 Studio works with clients all over the world."
+   }
+  ]
+ }
+}

@@ -1,0 +1,829 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1320, 
+  "values": [
+   {
+    "numFollowers": 17, 
+    "name": "Family Mediation Services", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "80202"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.divorcemediationdenvercolorado.com", 
+    "universalName": "family-mediation-services", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Divorce Mediation Colorado\r\n\r\nReaching agreement through mediation can avoid lengthy negotiation through attorneys or disputes in the courts.\r\n\r\nAt Family Mediation Services we believe mediation of divorce and other family disputes is the best solution for parties who believe they can resolve such family legal matters better than a judge. Kristi Jensen is a professionally trained, certified family mediator. She will listen to all sides, be impartial, non-judgemental, resourceful and will work to achieve an amicable and mutually agreed upon solution.\r\n\r\nDivorce Mediation Denver\r\n\r\nWith the help of a trained and experienced mediator, divorcing couples and people in conflict can resolve their issues in a cost-effective and dignified way while preserving key relationships and avoiding protracted litigation.\r\n\r\nCall 303-346-1670 today about our Denver, CO divorce mediation services.\r\n\r\nDivorce mediation services in Arvada, Aurora, Bow Mar, Brighton, Broomfield, Boulder, Castle Rock, Centennial, Cherry Creek, Colorado Springs, Commerce City, Denver, Englewood, Fort Collins, Glendale, Golden, Greeley, Highlands Ranch, Lakewood, Littleton, Longmont, Lodo, Lone Tree, Longmont, Parker, Thornton, Northglenn, Westminster, Colorado"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "J2B provides consultancies in the Telecommunication, Security and Gaming industries. We specialise in Information Assurance and Business Continuity Management. Our consultants provide ISO 27001 Audit and pre-audit consultancy.\r\nOne of our services is in consultation of security in Lottery operation. In particular, we had supported Camelot in the area of Security, Risks and Integrity matters. J2B specialise in offering practical recommendations and actions for implementation by professional Lottery Organisations. We will work in partnership with Lottery Operators to ensure a quick but solid result and ongoing 'stakeholder' confidence.\r\nOur team in IT Service Management provides organisational change design and implementation for businesses delivering mission critical products. We have successfully worked with governments in introducing ITIL best practises and ITSM processes for the service delivery. This included the intensive training of ITIL components to all levels of the service delivery organisations. We are very accustomed to designing fit-for-purpose ITSM frameworks for all types of service delivering environment, taking into consideration of the local operating style.\r\nJ2B is based at Hove, in the Southern England near Brighton, we are specialists in designing solutions in Security Management Solutions, Business Continuity Management and ITSM for all businesses that significantly use IT to deliver their services.", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.wlaj2b.co.uk", 
+    "universalName": "j2b-security-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "J2B Security Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "BellaVista Shutters And Blinds", 
+    "industry": "Consumer Goods", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 7HH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bellavistashutters.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "The Professional Plantation  Shutters and Blinds Specialists for Southern England"
+     ]
+    }, 
+    "universalName": "bellavista-shutters-and-blinds", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Made to measure solutions tailored to any home. Shutters and blinds are an inspired choice for your home whether classic or modern. Especially considering that they're just as beautiful when viewed from the outside as the inside and very easy to keep clean. Whether it is for privacy or light control, functionality or versatility, contemporary or period style, BellaVista can provide shutters and blinds that will fit your needs. Servicing Brighton, London, East Sussex, Surrey, Kent and the South East. \r\n\r\nBella Vista Shutters is the sign of quality within the shutter and Blinds market and the products are designed and built to last. \r\n\r\nUnlike cheaper imitations Bella Vista Shutters are not simply stuck together using dowels. The shutter is engineered and constructed using the finest quality materials and lovingly manufactured using strong mortise and tenon joints. 6 coats of paint or stain are then applied to give a tough, lustrous finish and to prevent fading the final layer is UV protected."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 330, 
+    "description": "We are the first company in the UK to offer full e-commerce buying ability for Surveying Equipment.\r\n\r\nFind A Laser Level Or A Dumpy Level To Fit Your Needs\r\n\r\nWe have been selling surveying equipment for many years; during that time we have found little tools that make your job easier. \r\n\r\nWe sell a Dumpy level, Total Station or self leveling Laser level that will fit your needs. \r\n\r\nFrom safety equipment to line marking paint\r\n\r\nSurveying Instruments For All\r\n\r\nSurveying equipment and instruments have gone from Dumpy levels to total stations. \r\n\r\nThe most advanced surveying equipment on todays market include, total stations, global positioning systems\r\n\r\nLeica, Topcon, Geo Fennell, SECO, Sokkia and many more\r\n\r\nWe have 89 UK locations where goods can be collected from or delivered to your door:\r\n\r\nAshford, Barnsley, Birmingham, Brighton, Bristol, Burton, Cannock, Canterbury, Cardiff, Chesterfield, Coalville, Colchester, Coventry, Dartford, Derby, Durham, Edinburgh, Edinburgh West, Exeter, Folkestone, Gateshead, Gillingham, Glasgow, Great Dunmow, Huddersfield, Hull, Leeds, Leicester, Lincoln, Liverpool, Livingston, London (Central), London (East), London (West), Long Eaton, Loughborough, Maidstone, Manchester, Mansfield, Margate, Melton Mowbray, Middlesbrough, Newcastle, Northfleet, Norwich, Nottingham (Central), Peterborough, Plymouth, Poole, Rugeley, Sheffield, Shrewsbury, Sittingbourne, Skipton, Southampton, Stoke-on-Trent, Strood, Tamworth, Telford, Tonbridge, Warrington, West Bromwich & more", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "0800 142 2030"
+       }, 
+       "address": {
+        "postalCode": "L1 5JW", 
+        "city": "Liverpool", 
+        "street1": "116 Duke Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.survequip.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Surveying Equipment", 
+      "Survey", 
+      "Total Station", 
+      "Laser Level", 
+      "Builders Level"
+     ]
+    }, 
+    "universalName": "survequip", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Survequip"
+   }, 
+   {
+    "numFollowers": 21, 
+    "name": "Beats De Vyne", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.myspace.com/beatsdevyne", 
+    "universalName": "beats-de-vyne", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Since turning professional in 2000 Manos has clocked up a vast amount of gigs all over the UK and abroad across a variety of entertainment platforms:\r\n\r\nLIVE CIRCUIT \u2013 BARCELONA, CROATIA, ITALY, NETHERLANDS, GERMANY, SWEDEN, ATHENS, GUILFEST, CAFE DE PARIS, MAU MAU'S, MOVIMIENTOS, JAZZ REFRESHED, NOTTINGHILL ARTS CLUB, INN ON THE GREEN, HOOTANANNY, BABALOU, LOUNGE ON THE FARM, PRINCE ALBERT (Brighton), LIVING ROOM (Islington), MONKEY CHEWS, BAR MUSIC HALL & a range of other LONDON VENUES :\r\n\r\nManos is currently performing Live with 'DeLATIN SOUND', 'BUTCHERD BEATS', 'KELLI LEIGH' & 'KI'. Most recently Manos has performed with Kelly Marie (Shapeshifters) from the Hepcats (www.myspace.com/hepcatstv) and is looking forward to more live performances with this superb up & coming artist.\r\n\r\nAt the start of Manos' career he experimented with Dance Music & worked all over the UK and abroad for many of the best known events, such as:\r\n\r\nDANCE SCENE - CREAM, PACHA, MINISTRY OF SOUND, SERIOUS, MISS MONEYPENNY'S, BRIXTON ACADEMY, TURNMILLS & THE CROSS - ABROAD : IBIZA - GOD'S KITCHEN, TWICE AS NICE and GATECRASHER @ SPACE plus INDIGO IN ISTANBUL to name but a few. He performed Live on Internet & Underground Radio Stations and along side many of the worlds best known DJ\u2019s : Judge Jules, Sister Bliss, Tall Paul, Brandon Block, Jeremy Healy, Alex P, Spoony, Warren Clarke, Lisa Loud, Soul Avengerz, Alistair Whitehead, Lisa Lashes, Hoxton Whores \u2026 \u2026 the list goes on!\r\n\r\nCORPORATE \u2013 FUNCTION BANDS, WEDDINGS, EXHIBITIONS, PERCUSSION TROUPES, WORKSHOPS & DRUM CIRCLES."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Synergy Collective are Marta Stysiak, cinematographer and Zbigniew Kotkiewicz, intermedia artist. They started their collaboration in 2008. \r\n\u00a0\r\n\u2018Synergy\u2019, a video that they made together was awarded third prize in Third International Festival of Experimental Film and Video Art in Rybnik, Poland In October 2008 and has been shown as a part of the \u2018Optimistic Immigrants\u2019 screenings in London (2008) and Brighton (2009). \r\n\r\nCurrently SYNERGY COLLECTIVE is collaborating with director Douglas Rintoul (Transport Theatre) and composer Sebastiano Dessanay on a short film project entitled 'The Drop'. \r\n\r\nIn June 2009 the 'Synergy' was included in the 'RePlace' exhibition in London, curated by [noplaceprojects*].\r\n\r\nStysiak and Kotkiewicz pursue further collaboration and currently are developing their new film project under the name \u2018Synergy Collective\u2019.\r\n\r\n\"We aim to create a communicative, thoughtful and visually powerful moving image works through galvanising the experience of all members of the \u2018Synergy Collective\u2019; bringing our different individual artistic skills from the fields of cinematography, writing and new media art. We want to be an open group and consider collaboration with other creative individuals such as directors, actors and sonic artists.\r\n\r\nWe are interested in exploring borderline sites and areas, and terms such as fate and accident, temporary and random events, \u2018grey zone\u2019, migration, functions of objects, becoming an object, and useful vs. useless. \r\n\r\nOur goal is to explore and expand the moving image\u2019s vocabulary. We aim not only to experiment with visual clich\u00e9s and innovations but also to play around with narratives and storytelling.\"", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "N16 7TH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.synergycollective.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "filmmaking"
+     ]
+    }, 
+    "universalName": "synergy-collective", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "SYNERGY COLLECTIVE"
+   }, 
+   {
+    "numFollowers": 16, 
+    "name": "Big Buzzard", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "TQ13 7DZ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.bigbuzzard.co.uk", 
+    "universalName": "big-buzzard", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Big Buzzard is really a musical 'family' of many ensembles. The original band is the 12 piece Big Buzzard Boogie Band playing great swing/blues/funk/latin & soul, at places from the high class and swanky to the most basic you can possibly imagine, and being equally at home in them all. These have included London's 100 Club, The Famous Spiegeltent at the Edinburgh and Brighton Festivals, Buckingham Palace for the Queen's Golden Jubilee proms, The opening of the New Sadlers Wells Theatre, The Soho Ball, staff Christmas parties and other events at the Royal Festival Hall, as well as back gardens, bars, festivals and weddings all over the country.\r\n\r\nIt's run by Andy Williamson, saxophonist, singer and sometimes chef. He is active in jazz , choral and classical music, plus various flavours of folk and world music. He's adepts at combining these in unusual ways. Fro example, last year, he put together all of the music for a wedding involving English, indian and Jewish families - the results included a jazz quintet, a jewish wedding band, a recital by a world class tabla player who then joined the Big Buzzard band for a bangra flavoured version of their set.\r\n\r\nWe have a laid back, friendly approach, and our musicians are all the kind of people you'd like to have as guests at any event - friendly and considerate. They also happen to be some of the most talented in the business. Do get in touch."
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "DatBoys Data Recovery LLC", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02478"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.databoys.com", 
+    "universalName": "datboys-data-recovery-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Data Recovery Experts\r\n\r\nDatBoys has been involved in IT Services since 1995. Many customers have been referred to us by places like MicroCenter in Cambridge Ma., CompUSA formerly in Brighton Ma., and other Data Recovery companies that for whatever reason couldn't help. \r\n\r\nWe succeed where others have failed in hard drive data recovery and we provide you Letters of Recommendation to prove it.\r\n\r\nWe are a data recovery service not like any other professional data recovery company. Each customer is treated with dignity and respect. \r\n\r\nOur hours are 7am - 7pm Monday through Friday and 9am -1pm on Saturdays. No longer will you need to be worried on being late to work or picking up the kids because of your hard drive data recovery problem. Now you can either pickup or drop-off your hard drive data recovery problem before or after work. No more hard drive data recovery problems. \r\n\r\nWe work with you!\r\nWe provide data recovery services for, PC data recovery, Laptop data recovery, RAID data recovery, CD data recovery, flashcard data recovery, smartcard data recovery, jumpdrive data recovery and 3.5 Floppy disk data recovery. We are your mission critical data recovery company. \r\nWe recover data from Windows, Linux and MAC Operating Systems \r\nPC won\u2019t boot?... Your Hard Drive has crashed?... E-mails are gone? Let us get it back for you because attempting to recover data yourself can very easily  make the situation worse. We will make you happy and at a cost below our competitors."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 66, 
+    "name": "John Pardey Architects", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "SO415SR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.johnpardeyarchitects.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "residential"
+     ]
+    }, 
+    "universalName": "john-pardey-architects", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "John Pardey Architects was established in 1988 as a sole trader practice in conjunction with teaching at several schools of architecture.\r\n\r\nThe practice relaunched in 2000 and now employes 8 staff. Over the years our commissions have grown from private houses to large international schemes.\r\n\r\nWe have undertaken numerous private house commissions ranging from refurbishment and extensions to large new build houses for which we have gained national recognition and received many awards.\r\n\r\nThe educational sector is a field currently undergoing major development with support from both local and national government. We have extensive experience designing primary schools and we have also designed university buildings. The practice regularly works with 1991 RIBA Gold Medal winner Prof. Sir Colin Stansfield Smith, a prominent consultant on educational buildings.\r\n\r\nWith increasing pressure on urban re-generation and infrastructure improvements in city centres, large mixed-use schemes and master planning have become other important areas of work. We regularly work as part of a team of architects providing design services for schemes in London, Cambridge, Dublin and America. We have specialist experience working with modern listed buildings and have been involved with intricate change of use projects in Dublin, St. Albans, Brighton and London.\r\n\r\nBeing a relatively small practice, we can offer clients a personal service with the involvement of our directors at all stages of the design process."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 38, 
+    "description": "About Us\r\n\r\nMWI is an SEO firm based in Salt Lake City, Utah. Although SEO (or search engine optimization) is our primary service, we also provide search engine marketing or pay-per-click management services, and we've been designing websites for over 10 years. Our SEO and web design clients include such notables as 3com, Brighton Ski Resort, Extra Space Storage, Garage Technology Ventures, LG, Sony, Utah's Hogle Zoo, and Zions Bank.\r\n\r\nAlthough we are headquartered in Utah, we have provided web design and SEO services to clients across the United States from California to New York. We have worked with small, family-owned businesses as well as billion-dollar corporations, and with companies in all sorts of industries from high-tech to self storage, and bed and breakfasts to banks.\r\n\r\nHow We're Different\r\n\r\nSize. We're large enough to be able to handle any size of SEO campaign, but small enough that every client is important to us, and not merely one of many.\r\n\r\nOrganization. We have developed a system for producing positive results. We know what needs to be done, how to do it, and we execute.\r\n\r\nFlexibility. Although we have a system for getting things done, we're also flexible and can adapt to the particular needs of any client.\r\n\r\nTransparency. There is no secret to what we do. We provide monthly SEO reports telling our clients what we've done, what the results are, what we're planning on doing the next month, and what results the client can expect to see.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "801-495-4190", 
+        "phone1": "801-495-4110"
+       }, 
+       "address": {
+        "postalCode": "84020", 
+        "city": "Draper", 
+        "street1": "12180 S 300 E #108"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.mwi.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "seo", 
+      "search engine optimization", 
+      "search engine marketing", 
+      "web design", 
+      "ppc management", 
+      "internet marketing", 
+      "online marketing", 
+      "self storage seo", 
+      "self storage web design", 
+      "self storage online marketing"
+     ]
+    }, 
+    "universalName": "mwi-utah", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "MWI Utah"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 40, 
+    "description": "Freelance Internet Marketing / SEO & PPC Advertising Consultant / Trainer for Surrey, London, Hampshire and beyond.\r\n\r\nPlease contact Christopher Byrne via cwjbyrne at aol.com or 07913 370177. \r\n\r\nI have a consistent track record of helping various local, national and international clients in the London, Surrey, Sussex, Kent, Dorset, Berkshire and Hampshire areas of the UK obtain Top 10 positions across the major search engines in competitive areas including professional services, double glazing, insurance etc by various techniques including inbound link building, site content creation and site structure optimisation.\r\n\r\nBrands and companies I have worked on / for in my time in online marketing / SEO include Yamaha Music UK, Robert Dyas, Heals, Starcom MediaVest Group (world's largest media agency and part of Publicis - one of the top 5 advertising agencies worldwide), Jordans (UK's number one company formation agent) etc.\r\n\r\nI have worked as a Certified Google Adwords Professional and am proficient in online reputation management, search engine optimisation (using a content management system), experienced in online strategy research / analysis / definition for businesses of all sizes (up to a turnover of \u00a3100 million per year), pay per click advertising, copywriting etc. I have managed and advised on (international) pay per click advertising campaigns with variable budgets of up to \u00a31000 per day.", 
+    "twitterId": "seotipsntricks", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01252 757562"
+       }, 
+       "address": {
+        "postalCode": "GU9 7QR", 
+        "city": "Farnham", 
+        "street1": "Studio 9"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.seolondonsurrey.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "SEO", 
+      "Surrey_Hampshire_London_Sussex", 
+      "Search Engine Optimisation", 
+      "Internet Marketing", 
+      "Freelance Digital Marketing & Advertising", 
+      "Brighton_Reading_Guildford_Crawley_Portsmouth_Southampton", 
+      "Content Strategy", 
+      "Digital Marketing", 
+      "Online Marketing", 
+      "Ecommerce & Ebusiness"
+     ]
+    }, 
+    "universalName": "seo-surrey-london-uk", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "SEO Surrey London UK"
+   }, 
+   {
+    "numFollowers": 34, 
+    "description": "Houston Countertop was founded in February of 1985, by two brothers, Felipe and Jose \"Pepe\" Mendoza. The owners of Houston Countertop have over 70 years of experience in the Countertop Industry. They have gone to serve the Greater Houston Area proudly. They have gone as far south as Kingsville, TX to as for north as Dallas,TX to install countertops. Why would they serve such great distances, because they are known as the leaders in quality, service, and price.   \r\n\r\nHouston Countertop has worked with many builders over the years such as, Ashtonwoods Homes, KB Homes, Trendmaker Homes, DR Horton Homes, Gateway Homes, David Weekly Homes, Trophy Homes, Brighton Homes, and so many more.\r\n          Houston Countertop is actively involved in the community with such sponsorships to Arabia Shiners Circus, Houston Habitat for Humanity,  and many other local charities.\r\n          Houston Countertop is amember of the National Association of Home Builders (NAHB), the Greater Houston Builders Association (GHBA), the Texas Association of Builders (TAB).", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "77061"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.HoustonCountertop.com", 
+    "universalName": "houston-countertop-company-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Houston Countertop Company Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Expert Messaging was created to promote the work of award-winning international facilitator Bob Hallewell.\r\n\r\nGive us an hour and we'll give you back a month.\r\n\r\nBob is an outstanding and entertaining communicator who has been developing people for over 25 years. For the last ten he has specialised in email best practice and has helped hundreds of thousands of people across a broad range of sectors.\r\n\r\nAs well as delivering all over the UK, Bob has run sessions for companies in USA, Saudi Arabia, the Far East, Eire, Czech Republic, Germany, Holland, Italy, Norway and France (in French, alors).\r\n\r\nHe is the leading email consultant, having produced more change in messaging habits than anyone else in the UK, probably the world.\r\n\r\nBob has gained invaluable insights into the causes of problems that organisations have with messaging, including email addiction. He has developed the expertise and unique processes with which to solve those problems.\r\n\r\nHere are just some of Expert Messaging's clients:\r\n\r\n    * Age Concern\r\n    * Bank of America\r\n    * Bank of New York Mellon\r\n    * Barnardos\r\n    * Brighton & Hove City Council\r\n    * Business Link\r\n    * Cadbury\r\n    * Canada Life\r\n    * Capgemini\r\n    * Deutsche Bank\r\n    * E.on UK\r\n    * HBOS\r\n    * Hermes\r\n    * House of Fraser\r\n    * Kent County Council\r\n    * London Borough of Croydon\r\n    * London Borough of Wandsworth\r\n    * Newstar Asset Management\r\n    * NSPCC\r\n    * Red Cross\r\n    * Save the Children\r\n    * Scottish & Southern Energy\r\n    * Shelter\r\n    * Shropshire County Council\r\n    * Southampton City Council\r\n    * XL Capital Ltd", 
+    "twitterId": "http://www.expert-messaging.com/blog.php", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)20 7633 0050"
+       }, 
+       "address": {
+        "postalCode": "SE1 0HS", 
+        "city": "London", 
+        "street1": "30 Great Guildford Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.expert-messaging.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "email", 
+      "communication", 
+      "expert"
+     ]
+    }, 
+    "universalName": "expert-messaging", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Expert Messaging"
+   }, 
+   {
+    "numFollowers": 16, 
+    "name": "Werkshop CIC", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thewerks.org.uk", 
+    "universalName": "werkshop-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Werkshop CIC is an umbrella organisation which provides events, workshops, mentoring, strategic consultancy, dedicated spaces and support for creatives and social enterprises. Our network is currently 2500 people mostly in Brighton, Hove and Lewes. Since 2007 we have supported the development of 4 unique spaces/ communities, hundreds of events, supported start-ups and growing companies and built virtual teams from our network."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Great looking design and production by people you will enjoy working with.\r\n\r\nNeujuice Design is an established multi-disciplinary production studio based in Brighton, East Sussex with a proven track record for producing successful digital media, design for print and brand development projects. We are a friendly, service orientated company offering creative and technical expertise to a broad range of UK based clients from small businesses to international organisations.\r\n\r\nWe offer a stimulating environment for businesses and organisations to develop their brands across digital and print media.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 688872"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ZE", 
+        "city": "Brighton", 
+        "street1": "5 The Offices"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.neujuice.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Brand development", 
+      "corporate identity", 
+      "design for print", 
+      "website design & production", 
+      "graphic design", 
+      "brochure design", 
+      "advertising"
+     ]
+    }, 
+    "universalName": "neujuice-design", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Neujuice Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 180, 
+    "description": "Affordable, Accurate, Real-Time Motion Capture Systems\r\n\r\nWhether you are looking to capture complicated dance moves or researching subtle movements, our range of motion capture systems will give you the results you want at the right price.\r\n\r\nAnimazoo is the world\u2019s leading manufacturer of inertial motion capture systems. Based in Brighton, UK Animazoo\u2019s head office contains both administration and manufacturing departments. All Animazoo systems are assembled and tested by UK qualified engineers ensuring quality and performance.\r\n\r\nAs of January 2010 Animazoo have a client base of over 250 companies using our award winning motion capture systems across 43 different countries. At present Animazoo manufactures both electromechanical inertial systems and gyroscopic inertial systems.\r\n\r\nOver the past 20 years Animazoo has been setting industry firsts. The award winning Gypsy range of electromechanical systems introduced the world to portable, occlusion free, camera-less motion capture in the mid 90\u2032s. In 2004 Animazoo released the first commercial inertial motion capture system to use gyroscopic sensors on body limbs. The Gypsy Gyro 18 raised the bar for modern motion capture.", 
+    "twitterId": "@Animazoo", 
+    "industry": "Animation", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 417 440"
+       }, 
+       "address": {
+        "postalCode": "BN41 1WF", 
+        "city": "Brighton", 
+        "street1": "Basin Road South"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+1 (800) 676-4380"
+       }, 
+       "address": {
+        "postalCode": "90046", 
+        "city": "Los Angeles", 
+        "street1": "1314 N. Alta Vista Blvd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.animazoo.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Inertial Motion Capture", 
+      "Animation", 
+      "Biomechanics", 
+      "3D Visualisation"
+     ]
+    }, 
+    "universalName": "animazoo", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Animazoo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 590, 
+    "description": "Make-A-Wish Michigan grants the wishes of children with life-threatening medical conditions to enrich the human experience with hope, strength and joy.\r\n\r\nWe have three operating offices. Our main headquarters is in Brighton with two satellite offices located in Detroit and Grand Rapids.\r\n\r\nWe can be found online at:\r\nweb: www.wishmich.org\r\nBlog: www.wishmich.org/blog\r\nFacebook: www.facebook.com/wishmich\r\nTwitter: www.twitter.com/makeawishmi\r\nYouTube: www.youtube.com/makeawishmi", 
+    "twitterId": "makeawishmi", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "734.994.8025", 
+        "phone1": "734.994.8620"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "2300 Genoa Business Park Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "313.833.9103", 
+        "phone1": "313.833.9100"
+       }, 
+       "address": {
+        "postalCode": "48201", 
+        "city": "Detroit", 
+        "street1": "Old Hutzel Building, Ground Floor G67"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "616.363.5415", 
+        "phone1": "616.363.4607"
+       }, 
+       "address": {
+        "postalCode": "49503", 
+        "city": "Grand Rapids", 
+        "street1": "648 Monroe Ave., NW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "www.wishmich.org", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "granting wishes", 
+      "bringing joy", 
+      "helping children", 
+      "helping families", 
+      "raising money", 
+      "collecting donations", 
+      "hosting events", 
+      "hosting fundraisers", 
+      "donor satisfaction", 
+      "bicycle tour", 
+      "walk events", 
+      "making children smile"
+     ]
+    }, 
+    "universalName": "make-a-wish-michigan", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Make-A-Wish Michigan"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Developing Dreams is a full service digital, communications and creative agency based in Brighton, UK. We specialise in multimedia, PR, marketing, social media, website development, photography, video, graphic design and writing.\r\n\r\nWe are a professional network of freelancers who get excited about new technologies, news stories, charities, the environment and anything that inspires us to come up with innovative and fun campaigns to engage the unengaged!\r\n\r\nWe have worked for major news agencies, international development charities, UK charities, public sector organisations, and private companies. Some of our projects have given us the pleasure to work with world-renowned artists, major venues, museums, broadcasters, and government departments.", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 3HA", 
+        "city": "Brighton", 
+        "street1": "17a Park Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.developingdreams.com", 
+    "specialties": {
+     "_total": 15, 
+     "values": [
+      "photography", 
+      "PR", 
+      "public relations", 
+      "charities", 
+      "social media", 
+      "website development", 
+      "marketing", 
+      "video", 
+      "graphic design", 
+      "writing", 
+      "multimedia", 
+      "strategy development", 
+      "campaign development", 
+      "digital communications", 
+      "website design"
+     ]
+    }, 
+    "universalName": "developing-dreams", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Developing Dreams"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Launched in November 2008, OpenMusic is an open source music label run by musicians. We operate from Brighton, UK. Open is run by Piratio but is greatly helped by John Cohen & Leo Piggot.\r\n\r\nWe don\u2019t believe in the conventional record label. OpenMusic\u2019s objective is to release great music and sound projects from around the world, in a freel, share-friendly and re-distributable manner. We encourage you to redistribute individual tracks or whole releases via sharing links, Peer-to-Peer networks, MP3 Blogs and any other form you see fit, as long as you respect the rights of the respective Artists and follow the rules of the Creative Commons Sharing License.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.thisisopenmusic.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Open Source Music Web Label"
+     ]
+    }, 
+    "universalName": "thisisopenmusic-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "ThisIsOpenMusic!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Traction Sound creates and supports exceptionally low distortion sound reinforcement. We make loudspeakers for theatres, nightclubs and installations. We are a UK based and located in Brighton. Our new SDS Range has been nominated for a 2011 Plasa Innovation Award.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://api.twitter.com/1/statuses/user_timeline.rss?screen_name=TractionSound", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "Bn3 2LJ", 
+        "city": "Brighton", 
+        "street1": "Unit 2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.tractionsound.com", 
+    "universalName": "traction-sound", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Traction Sound"
+   }
+  ]
+ }
+}

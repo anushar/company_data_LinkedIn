@@ -1,0 +1,774 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 60, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1112, 
+    "description": "Established in 1989, Brighton is a full-service independent marketing and communications agency, serving regional and national clients from its St. Louis headquarters. Brighton\u2019s client list includes Monsanto Company, Natura Pet Products, Horizon Ag, Thermadyne Industries and Clayco Inc.", 
+    "twitterId": "BrightonAgency", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "314-726-0700"
+       }, 
+       "address": {
+        "postalCode": "63105", 
+        "city": "St. Louis", 
+        "street1": "7711 Bonhomme Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.brightonagency.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Marketing", 
+      "Advertising", 
+      "Interactive Marketing", 
+      "Public Relations", 
+      "Brand Development", 
+      "Strategic Planning", 
+      "Marketing Consulting", 
+      "Promotions"
+     ]
+    }, 
+    "universalName": "brighton-agency", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Agency"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 183, 
+    "industry": "Higher Education", 
+    "universalName": "university-of-brighton-and-brighton-and-sussex-medical-school-bsms-", 
+    "name": "University of Brighton and Brighton and Sussex Medical School (BSMS)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Brighton Mastering is an online mastering studio based in Brighton, UK. As musicians, we recognise how much the processing done at the mastering stage can change the overall sound of the music, and take a collaborative approach to make sure this is in tune with the artists' vision.", 
+    "twitterId": "BTNmastering", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.brightonmastering.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "mastering", 
+      "music mastering", 
+      "online mastering", 
+      "audio mastering"
+     ]
+    }, 
+    "universalName": "brighton-mastering", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Mastering"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 81, 
+    "description": "The Brighton & Hove Food Partnership is working for a healthier, more sustainable food system for the city. We believe all residents should be able to enjoy food that is good for health, respects environmental limits and supports a vibrant farming and food economy. We drive forward progress on the city's food strategy \u2018Spade to Spoon: Digging Deeper\u2019, campaign on local and national food issues and deliver a range of community-based cookery, nutrition and growing projects.\r\n\r\nWe undertake lobbying work and provide training and information to achieve:\r\n- better access to affordable fresh, seasonal food\r\n- more locally produced food\r\n- more opportunities to learn to cook and grow food\r\n- a better understanding of the links between food and health\r\n- a better understanding of where food comes from.\r\n\r\nWe are a not-for-profit, membership body that brings together community organisations, statutory services, local businesses and individual residents. Membership is free and open to anyone who lives or works in Brighton & Hove and wants to support our work. Members receive a monthly email update and our quarterly printed newsletter as well as the chance to come to member events.", 
+    "twitterId": "harvestbh", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 431 700"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YD", 
+        "city": "Brighton", 
+        "street1": "Brighthelm Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.bhfood.org.uk", 
+    "universalName": "brighton-&-hove-food-partnership", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Food Partnership"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 7, 
+    "industry": "Health, Wellness & Fitness", 
+    "universalName": "brighton-dental-centre-brighton-dental-implant-centre", 
+    "name": "Brighton Dental Centre ; Brighton Dental Implant Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 154, 
+    "description": "Lighthouse is a digital culture agency based in Brighton. We support, commission and exhibit work by artists and filmmakers.\r\n\r\nLighthouse creates vibrant, inspirational programmes that show how important artists and filmmakers are in a changing media landscape.\r\n\r\nWe work with digital art and moving image, which we present in our own venue in Brighton and beyond, nationally and internationally. By supporting artists and filmmakers, through commissioning, exhibition and professional development, we provide a platform for digital artists and creators to demonstrate that digital culture is about more than technology and tools; it is about ideas, emotion, learning, and aesthetics.\r\n\r\nLighthouse also runs the UK\u2019s leading mentoring programme for filmmakers \u2013 Guiding Lights \u2013 which supports rising film talent by connecting them with some of the industry\u2019s greatest names, including Sam Mendes, Alex Garland, Nick Hornby and Barbara Broccoli.\r\n\r\nLighthouse is a vibrant venue for events in Brighton. As well as hosting our own events, we provide spaces for commercial hire.\r\n\r\nIf you\u2019d like to know more about what we do, or our venue in central Brighton, get in touch.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 4AJ", 
+        "city": "Brighton", 
+        "street1": "28 Kensington Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "http://www.lighthouse.org.uk", 
+    "universalName": "lighthouse-arts-and-training", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Lighthouse Arts and Training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Brighton and Hove Psychotherapy", 
+    "twitterId": "", 
+    "industry": "Mental Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 921355"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "6 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonandhovepsychotherapy.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Counselling", 
+      "Therapy Room Rental", 
+      "Psychotherapy"
+     ]
+    }, 
+    "universalName": "brighton-and-hove-psychotherapy", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Brighton and Hove Psychotherapy is comprised of three experienced clinicians offering a range of counselling, psychotherapy and psychological services, in central Hove. \r\n\r\nWe offer short-term and open-ended counselling, psychotherapy for individuals and couples and clinical supervision. We offer a choice of therapists with varying experience and specialisms. \r\n\r\nWe are fully insured and registered as either accredited members of the BACP or UKCP. We are also registered with the major private healthcare providers to offer counselling and/or psychotherapy. \r\n\r\nOur consulting rooms comprise the third floor of a beautiful period building, centrally located on The Drive in Hove. Our central, but discreet location offers quiet rooms furnished to a high standard. We also offer our rooms to other practitioners who require therapy room rental in Brighton & Hove area."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Dockerills is a thriving family business situated in the North Laine area of Brighton. Although the site of the Brighton shop has changed over the years, it has been part of the town's business community for as long as most Brightonians can recall.\r\n\r\nA growing stock of products & services has ensured the shop offers a traditional and fascinating shopping experience in the tradition of historic ironmongers and hardware stores.\r\n\r\n\r\nThe business was established over 100 years ago by Mr Walter Dockerill, carried on by his son Mr Walter Harry Dockerill and is now owned by his son Mr Malcolm Dockerill who with his wife Brenda, daughters Karen and Jo and son-in-law Ryan continue the family tradition.\r\n\r\n\r\nDockerills has an enviable reputation for friendly personal service and for a vast range of products in stock. Whatever you want...be it a single screw, a key cut or a complete door entry system Dockerills will have it or attempt to source for you.\r\n\r\nThe experienced staff are on hand to give prompt expert advice and assistance to both trade customers and the general public.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 679771", 
+        "phone1": "01273 607434"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "3abc Church Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1900, 
+    "websiteUrl": "www.dockerills.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Architectural Ironmongery", 
+      "Locksmith Service & Security Products", 
+      "Tools & Fixings", 
+      "DIY & Domestic Products"
+     ]
+    }, 
+    "universalName": "dockerills-brighton-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Dockerills Brighton Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Brighton Peak", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.brightonpeak.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Bitcoin Consultancy", 
+      "Bitcoin Exchange", 
+      "Bitcoin Merchant Integrator", 
+      "Bitcoin"
+     ]
+    }, 
+    "universalName": "brighton-peak", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Here at Brighton Peak, we offer Bitcoin brokerage services that facilitates the purchase and sale of Bitcoins worldwide. We offer an easy to use, fast and convenient one-stop place to buy and sell Bitcoins\r\n\r\nAdditionally we are an official BitPay Service Integrator Partner that provides BitPay merchant integration services to businesses both online and offline.\r\n\r\nBrighton Peak operates in Singapore and Australia."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 104, 
+    "description": "Sanford Rose Associates\u00ae - Brighton understands the need to find the people who will \u201cmake a difference\u201d. Our goal is to match your human capital needs with highly qualified individuals as quickly and efficiently as possible, with the end goal of enhancing the client\u2019s \u201corganizational capability\u201d. \r\n\r\nSanford Rose Associates\u00ae - Brighton is an independently owned and operated office of SRA International, Inc., an organization in its 50th+ year of offering executive search services. We specialize in retained searches for experienced executives, management and individual contributors. We work on behalf of our client companies to search for and recruit highly qualified professionals.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "517-552-9231", 
+        "phone1": "517-552-9230"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "132 East Grand River Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1959, 
+    "websiteUrl": "http://www.sanfordrose.net/brighton/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Manufacturing Leadership positions", 
+      "Human Resources Leadership positions", 
+      "Sales, Marketing and Business Development professional and leadership positions"
+     ]
+    }, 
+    "universalName": "sanfordroseassociates-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Sanford Rose Associates - Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Brighton Plastic Surgery was established in 1999 by specialist plastic and cosmetic surgeon Mr Keith Mutimer MBBS, FRACS, ASPS. An accredited day procedure centre, it provides comfort and support for clients who prefer to have day surgery.\r\n\r\nMr Mutimer performs a complete range of plastic and cosmetic surgery procedures for both men and women at Brighton Plastic Surgery.  He works with a team of highly qualified and experienced medical and nursing staff to make certain that you receive the highest quality care. His priority is ensuring that your surgery is safe and that your results are natural.", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "03 9592 0522"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Melbourne", 
+        "street1": "206 New St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.plasticsurgeryaustralia.com", 
+    "universalName": "brighton-plastic-surgery", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Plastic Surgery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Brighton Implant Clinic", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.brightonimplantclinic.co.uk", 
+    "universalName": "brighton-implant-clinic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Implant Clinic is a group of three clinics based in Sussex offering affordable dental implant treatment. Our clinics are based in Hove, Brighton and Hailsham. Each of our clinics are equipped with CT scanners and onsite dental laboratory. For more information see our website www.brightonimplantclinic.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Personal Trainer David Staffell works in Brighton, Hove, Southwick, Shoreham, Rottingdean, Peacehaven and all across the borough of Brighton & Hove. He offers home, office and outdoor fitness training. www.dsfitbrighton.co.uk\r\n\r\nHis team of experienced, enthusiastic trainers consist of Tom Wilcox, Katie Whittle and Ka-Mun Fung work in Richmond, Twickenham, Sheen, Barnes, Putney, Kew and across south-west London and Surrey. www.dsfit.co.uk", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07714961129"
+       }, 
+       "address": {
+        "postalCode": "BN2 3FR", 
+        "city": "Brighton", 
+        "street1": "56a Roundhill Crescent"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07714961129"
+       }, 
+       "address": {
+        "postalCode": "TW9 1XL", 
+        "city": "Richmond", 
+        "street1": "10 Townshend Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.dsfitbrighton.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Personal Training", 
+      "Injury Rehabilitation", 
+      "Boxing", 
+      "Circuit Training", 
+      "Fitness Training", 
+      "Outdoor Training", 
+      "Home Training", 
+      "Sports/event specific training", 
+      "Pre & Post-natal exercise"
+     ]
+    }, 
+    "universalName": "ds-fit-personal-trainer-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "DS FIT Personal Trainer Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Welcome to our page! The mission of the Brighton Hall Academy is to provide a world-class international education for young people in Nigeria in a multi-cultural context, for the benefit of both Nigerians and non-Nigerians.\r\n\r\nBrighton Hall Academy was established by Adamma Ibeawuchi to provide a world-class international education for Nigerians and non-Nigerians. The school is a Pre-school, Primary school for students ages 2 to 9 years.\r\n\r\nThe idea for establishing the school originated from the knowledge that several million persons of Nigerian decent live in the United States on a more or less permanent basis and they often express concern that their own children do not know Nigeria, it\u2019s culture and languages. They also realize that their children are so \u201cAmerican\u201d that they would be hard pressed to cope with just being sent to Nigeria to live with relatives there, go to school and learn the culture.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://brightonhallacademy.com", 
+    "universalName": "brighton-hall-academy-com", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Hall Academy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Family owned and run property investment company based in Brighton, United Kingdom. Founded in 1939 by Stanley Theobald, Marine Property Investments (Brighton) Ltd has been trading continuously for over 70 years.\r\n\r\nSIC Code: 7020, Letting Of Own Property", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07891868557"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UJ", 
+        "city": "Brighton", 
+        "street1": "100 Church Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1939, 
+    "websiteUrl": "www.marinepropertyinvestments.co.uk", 
+    "universalName": "marine-property-investments-brighton-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Marine Property Investments (Brighton) Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Welcome to the Social Brighton page! We are a small, friendly company based in Brighton helping small and medium sized businesses make the most of social media through consultation, strategy design and training. Follow our page for useful articles, tips and ideas!\r\n\r\nRead more about how we work here: \r\n\r\n\r\nSocial media can be an intimidating landscape if you're not sure exactly what you're doing or why and we help people get to grips with it.  Without a clear strategy which is aligned with business objectives, the majority of social media efforts will not achieve anything. We take the time to establish the goals and values of your company, gather an overview of your business model, understand what resources you have, and ascertain what you hope to gain from having a social media plan in place. This and a few other simple questions will give us enough information to put together a bespoke training proposal for you.\r\n\r\nTraining could take the form of a presentation to senior executives or management on the importance of using social media. Or group training sessions with employees who are involved at various levels. Training will be relevant to your business and cover all aspects relevant to your strategy and will teach the delegates exactly what they need to know and all of the platforms and tools they need, best practice and loads of tips to help you meet your objectives!", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.socialbrighton.com/feed/", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07766 310317"
+       }, 
+       "address": {
+        "postalCode": "BN1 1US", 
+        "city": "Brighton", 
+        "street1": "9 Church Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.socialbrighton.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "business strategy", 
+      "training", 
+      "Social Media consultancy", 
+      "blogging", 
+      "social media strategy", 
+      "digital marketing"
+     ]
+    }, 
+    "universalName": "social-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Social Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 60, 
+    "description": "Backed by the strength of one of Idaho's largest land development companies and led by noted residential designer and builder, Lars Hansen, Brighton Homes offers a combination of resources, vision and passion that is unmatched in the Treasure Valley.\r\n \r\nWhat makes Brighton Homes truly unique is their professional and personal approach to working with clients that creates enduring relationships and homes of exceptional quality. \r\n \r\nBiography of Lars Hansen:\r\nLars began designing custom homes in 1992 in Boise, Idaho while attending the Pre-Architecture program at Boise State University.  He would complete his studies with a professional degree in Architecture from the Universtiy of Idaho In 1998. His commercial experience includes work on the National Institutes of Health in Washington D.C., The New Terminal Building at the Boise, Idaho Airport and many other large scale design projects.\r\n \r\nIn 2003 Lars moved his focus to residential design and home building. In the years since, he has become recognized as a leader in the Idaho homebuilding industry with a focus on energy efficiency and custom homebuilding. Lars is a Registered Master Homebuilder and was awarded the 2010 / 2011 Idaho Energy Star Builder of the Year.\r\n \r\nLars Has designed and built over 600 homes in the Boise, Idaho area.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(208) 378-4000"
+       }, 
+       "address": {
+        "postalCode": "83713", 
+        "city": "Boise", 
+        "street1": "12601 W. Explorer Dr."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.brightonhomes-idaho.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Custom Home Design and Construction", 
+      "Green Construction Practices", 
+      "High Performance Homes", 
+      "Customer Service"
+     ]
+    }, 
+    "universalName": "brighton-homes-idaho", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Brighton Homes Idaho"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Brighton Technologies Group, Inc. is an advanced materials and surface engineering firm specializing in technology development and R&D services. We manufacture instrumentation under the name Surface Analyst(TM). \r\n\r\nThe Surface Analyst is a hand-held device that measures the surface quality of most materials including composites, polymers, metals, ceramics, biologicals, and papers.  It is engineered for cost control and quality assurance on the manufacturing floor in bonding, coating, sealing and printing operations. This is accomplished by quantifying surface condition to insure proper surface preparation, or the absence of molecular level contamination prior to critical manufacturing processes. In addition to preventing product failures, the Surface Analyst embodies an enabling technology for product formulation, expanded use for adhesive bonding, and rapid data gathering in the lab.\r\n\r\nWith the help of the Surface Analyst, Brighton Technologies can advise on new ways many operations can use adhesives or coatings.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Research", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "513-469-1800"
+       }, 
+       "address": {
+        "postalCode": "45217", 
+        "city": "Cincinnati", 
+        "street1": "5129 Kieley Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.btgnow.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Manufacturer of Surface Analyst and other instrumentation", 
+      "Advanced Materials Engineering specializing in R&D", 
+      "Advanced Materials Production", 
+      "Advanced Materials Laboratory"
+     ]
+    }, 
+    "universalName": "brighton-technologies-group-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Technologies Group, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Brighton Company Formations is here to help you incorporate your new UK limited company quickly, cheaply and with the minimum of effort. The ordering process for company formation is a simple step by step procedure with guidance notes at each stage. The formation of your company is electronic giving a quick formation. Turnaround time is short and is dependent on Companies House workload. \r\n\r\nBrighton Company Formations can also assist in restoring companies that have been struck off of the register whether to continue trading or to recover assets. \r\n\r\nFor further details on either of these two services please look at the available services tab or contact us directly on 01273 831 891.", 
+    "twitterId": "BCFormations", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 835282", 
+        "phone1": "01273 831 891"
+       }, 
+       "address": {
+        "postalCode": "BN6 9EL", 
+        "city": "Hurstpierpoint", 
+        "street1": "118 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.brighton-company-formations.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Limited Company Restorations", 
+      "Right to Manage Companies & Process Specialists", 
+      "Limited Company Incorporations", 
+      "Company Secretarial Duties"
+     ]
+    }, 
+    "universalName": "brighton-company-formations-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Company Formations Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "The Allston Brighton CDC builds a stronger and more stable community by representing and supporting the expressed interests, positive engagement and leadership of Allston Brighton\u2019s diverse local communities, institutions, individuals and families of all incomes.\t\r\n\r\nFollow us on Twitter: @AllstnBrightCDC\r\nLike us on Facebook: facebook.com/AllstnBrightonCDC", 
+    "twitterId": "AllstnBrightCDC", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617-787-0425", 
+        "phone1": "617-787-3874"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Allston", 
+        "street1": "20 Linden St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.allstonbrightoncdc.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Homeownership Education", 
+      "Community Engagement", 
+      "Affordable Housing"
+     ]
+    }, 
+    "universalName": "allston-brighton-cdc", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Allston Brighton CDC"
+   }
+  ]
+ }
+}

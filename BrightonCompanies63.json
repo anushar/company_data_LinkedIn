@@ -1,0 +1,1166 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1260, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1092, 
+    "description": "Guided by insights. Driven by passion. Measured by results.\r\n\r\niCrossing UK is a digital marketing agency specialising in data driven strategies to build connected  brands.\r\n\r\nThe company blends best-in-class digital marketing services \u2014 including paid media, search engine optimisation, creative, Web development, social media, UX, research and analytics \u2014 to create integrated digital marketing programmes that engage consumers and drive ROI. \r\n\r\niCrossing UK\u2019s client base includes such recognized brands as The Coca-Cola Company, LG Electronics, The LEGO Group, Heathrow and M&S Bank.\r\n\r\niCrossing UK is part of iCrossing, one of the world\u2019s largest digital marketing agencies, which employs over 900 staff in 17 offices around the globe, including 150 staff based at UK offices in London, Manchester and Brighton.\r\n\r\niCrossing is a unit of Hearst Corporation, one of the nation's largest diversified media companies. \r\n\r\nFor more information, please visit www.icrossing.co.uk or contact us at results@icrossing.co.uk", 
+    "twitterId": "@icrossing_uk", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 827 701", 
+        "phone1": "+ 44 (0)1273 827 700"
+       }, 
+       "address": {
+        "postalCode": "BN1 1ND", 
+        "city": "Brighton", 
+        "street1": "13 Black Lion Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 (0)20 7828 2866", 
+        "phone1": "+44(0)20 7821 2300"
+       }, 
+       "address": {
+        "postalCode": "SW1P 4NP", 
+        "city": "London", 
+        "street1": "22 Chapter Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 161 451 0822"
+       }, 
+       "address": {
+        "postalCode": "M33 2DH", 
+        "city": "Manchester", 
+        "street1": "Stamford House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.icrossing.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "SEO", 
+      "Social Media", 
+      "PPC", 
+      "Content Marketing", 
+      "Creative Services", 
+      "Digital Strategy"
+     ]
+    }, 
+    "universalName": "icrossing-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "iCrossing UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1893, 
+    "description": "Front Range Community College, the largest community college in Colorado, offers nearly 100 degree and certificate programs from locations in Boulder County, Larimer County, Westminster, and Brighton, and online. FRCC is the No. 1 transfer institution for the University of Colorado, Colorado State University, and Metropolitan State College of Denver. In addition to a statewide guaranteed-transfer agreement, FRCC has transfer agreements with Regis University and the Colorado School of Mines. FRCC's newest career/technical programs are Clean Energy Technology and Health Information Technology.", 
+    "twitterId": "frcc", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 404-5000"
+       }, 
+       "address": {
+        "postalCode": "80031", 
+        "city": "Westminster", 
+        "street1": "3645 West 112th Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(970) 226-2500"
+       }, 
+       "address": {
+        "postalCode": "80526", 
+        "city": "Ft. Collins", 
+        "street1": "4616 S. Shields Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 678-3722"
+       }, 
+       "address": {
+        "postalCode": "80501", 
+        "city": "Longmont", 
+        "street1": "3645 West 112th Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 404-5099"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1850 E. Egbert St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1968, 
+    "websiteUrl": "http://www.frontrange.edu", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Associate Degrees that Transfer", 
+      "Career/Technical Programs", 
+      "Workforce Development", 
+      "Continuing Education"
+     ]
+    }, 
+    "universalName": "front-range-community-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Front Range Community College"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 104, 
+    "name": "Matchbox Mobile", 
+    "twitterId": "matchboxmobile", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 208 009"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BE", 
+        "city": "Brighton", 
+        "street1": "45 Church Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+1 206 446 1996"
+       }, 
+       "address": {
+        "postalCode": "98033", 
+        "city": "Kirkland", 
+        "street1": "5400 Carillon Point"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://matchboxmobile.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "User Experience Design", 
+      "User Interface Design", 
+      "Development", 
+      "Test", 
+      "Information Architecture", 
+      "iOS", 
+      "Windows Phone", 
+      "Android", 
+      "Windows", 
+      "Azure"
+     ]
+    }, 
+    "universalName": "matchbox-mobile", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "At Matchbox we're proud of our reputation as pioneers and trusted professionals.\r\n\r\nWe understand the business and the technology. We know the devices and the platforms. We have the agile practices and industry experience. We have delivered award winning, innovative and successful apps achieving over 8 million downloads.\r\n\r\nWe're based in BRIGHTON, UK and SEATTLE, USA."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1194, 
+    "description": "Headquartered in Brighton, England, Embassy English is one of the most established and prestigious English language education institutions with 18 year-round schools across the USA, Canada, England, Australia and New Zealand. Every year, more than 30,000 students from 78 countries attend Embassy\u2019s premium courses.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 339 401", 
+        "phone1": "+44 1273 339 400"
+       }, 
+       "address": {
+        "postalCode": "BN1 4LF", 
+        "city": "Brighton", 
+        "street1": "1 Billinton Way"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "M5S 2V1", 
+        "city": "Toronto", 
+        "street1": "9th Floor"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SE8 3DE", 
+        "city": "London", 
+        "street1": "Bounty House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "2010", 
+        "city": "Sydney", 
+        "street1": "61-65 Oxford Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "NY 10001", 
+        "city": "New York", 
+        "street1": "328 Seventh Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "https://www.embassyenglish.com?ch=li", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "General English", 
+      "Business English", 
+      "English Exam Preparation", 
+      "Summer Schools"
+     ]
+    }, 
+    "universalName": "embassy-english", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Embassy English"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 323, 
+    "description": "The Village Automotive Group includes such distinct and respected local dealers as Boston Volvo Village of Allston/Brighton, Charles River Saab, Honda Village of Newton Corner, Nissan Village of North Attleboro, Hyundai Village of Danvers, Volvo Village of Norwell, Audi Norwell, Porsche of Norwell, and our newest location Volvo Village of Danvers.\r\n \r\nVillage Automotive Group Mission Statement\r\nThe mission of the Village Automotive Group is to profit from the sale of automobiles, parts and service. We will achieve this by creating an environment for our customers of comfort, trust and respect.\r\n \r\nThis environment will be created through the continued emphasis on employee satisfaction, which leads to greater efficiency and productivity through employee retention.\r\n \r\nWe will strive to teach our employees to establish a daily goal of anticipating and satisfying our customers needs in order to establish a relationship-based business, which cultivates an ever-growing customer base.", 
+    "twitterId": "villagegroup", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-560-1700"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Boston", 
+        "street1": "75 N Beacon Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "781-762-5900"
+       }, 
+       "address": {
+        "postalCode": "02061", 
+        "city": "Norwell", 
+        "street1": "Audi Norwell & Porsche of Norwell"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-965-8200"
+       }, 
+       "address": {
+        "postalCode": "02458", 
+        "city": "Newton Corner", 
+        "street1": "Honda Village"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "978-646-8890"
+       }, 
+       "address": {
+        "postalCode": "01923", 
+        "city": "Danvers", 
+        "street1": "Hyundai Village & Volvo Village of Danvers"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "508-695-3515"
+       }, 
+       "address": {
+        "postalCode": "02761", 
+        "city": "N Attleboro", 
+        "street1": "Nissan Village"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1963, 
+    "websiteUrl": "www.villageautomotive.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Automotive New & Used Sales", 
+      "Service & Parts"
+     ]
+    }, 
+    "universalName": "village-automotive-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Village Automotive Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 565, 
+    "description": "The Telemarketing Company is one of the the UK's biggest B2B outbound telemarketing agencies. \r\n\r\nFounded in 1990 and based on the Brighton sea front, we work with many of the world's leading organisations. We have an unrivalled track record of providing high quality sales lead generation, appointment setting, data enhancement and market research, in both English and a wide range of other native languages. \r\n\r\nWith 200 seats and trained, salaried agents we can deliver high quality results at any scale. MRS, IQCS, AITS, FCA, DMA, TPS and IIP accreditations guarantee best practice and high quality results.", 
+    "twitterId": "nhabba", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 765 111", 
+        "phone1": "01273 765 000"
+       }, 
+       "address": {
+        "postalCode": "BN1 2FH", 
+        "city": "Brighton", 
+        "street1": "26 and 27 Regency Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "www.ttmc.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Sales lead generation", 
+      "Sales appointment setting", 
+      "B2B", 
+      "Market Research", 
+      "Business to Business telemarketing", 
+      "Telemarketing", 
+      "Telesales", 
+      "Event Attendee Generation"
+     ]
+    }, 
+    "universalName": "the-telemarketing-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Telemarketing Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 883, 
+    "description": "99p Stores Ltd was founded by Entrepreneur Nadir Lalani in January 2001. He opened his first store in Holloway in London, and continued to open 3 more stores that year. In 2002 Nadir decided to expand the business throughout the UK. He has rapidly developed 99p Stores and when London Road, Brighton opens this will take the total to 117 stores. He has opened 54 new stores this year (47 of which are ex- Woolworths stores) serving 1 million customers per week!", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "NN11 8NF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.99pstoresltd.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Quality products under a pound"
+     ]
+    }, 
+    "universalName": "99p-stores-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "99P Stores Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 494, 
+    "description": "Boyne USA owns and operates twelve seasonal and year-round resort facilities including ski, golf, lodging, restaurant, retail and other recreational amenities.  Properties include Boyne Mtn MI, Boyne Highlands MI, Inn at Bay Harbor MI, Sugarloaf ME, Sunday River ME, Loon Mtn NH, Gatlinburg TN, Big Sky MT, Brighton UT, Crystal Mtn WA, Summit at Snowqualmie WA, Cypress Mtn BC", 
+    "industry": "Recreational Facilities & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "49713"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "foundedYear": 1947, 
+    "websiteUrl": "www.boyneresorts.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Ski resorts", 
+      "Golf resorts", 
+      "Lodging", 
+      "Sporting Goods tores"
+     ]
+    }, 
+    "universalName": "boyne-usa", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Boyne USA"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 119, 
+    "description": "Founded in 2004, XCEND Group sells and implements management & security solutions that transform how IT manages IT.  With a powerful portfolio of Symantec solutions and our own MetriX-branded service management & IT analytics software, we help clients automate the processes associated with the requesting and fulfillment of IT services and gain real-time visibility into every aspect of IT operations.\r\n\r\nXCEND Group is headquartered in Brighton, Michigan with offices throughout the U.S.  For more information, please visit www.xcendgroup.com", 
+    "twitterId": "xcendgroup", 
+    "blogRssUrl": "http://feeds.feedburner.com/xcendgroup", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810-225-7976", 
+        "phone1": "810-494-7144"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "732 W. Grand River Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.xcendgroup.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Endpoint Management", 
+      "Security & Compliance", 
+      "Service Management", 
+      "IT Analytics"
+     ]
+    }, 
+    "universalName": "xcend-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "XCEND Group"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 754, 
+    "description": "London Clubs International (also known as Caesars Entertainment UK) is one of the most established and innovative operators in the casino industry, having been a market leader for over 40 years.\r\n\r\nCurrently operating under a number of brand names throughout the UK including; the iconic Playboy Club in Mayfair, The Casino at the Empire, The Sportsman, Golden Nugget, The Rendezvous (Brighton and Southend), Manchester235 and Alea Casinos (Nottingham and Glasgow).\r\n\r\nA pioneer of loyalty in the industry, LCI was the first to introduce a loyalty scheme; Player Rewards, based on the highly successful Total Rewards scheme used by Caesars Entertainment in the US.  The scheme has over 1.2m members.  LCI was also the first casino in the UK to introduce dynamic leisure facilities to its properties to make them true entertainment destinations, these include celebrity chef restaurants (James Martin and Marco Pierre White) and a sports bar in partnership with Carlsberg.\r\n\r\nIn 2006, Caesars Entertainment, the world\u2019s largest casino entertainment company and best known for properties such as Caesars Palace, Planet Hollywood and Harrahs acquired LCI.  Being part of this global gaming giant provides unrivalled networks and benefits for customers such as an advanced VIP offering and cross marketing opportunities in Las Vegas and Atlantic City.\r\n\r\nWithin the community, the company is a corporate supporter of Sports Aid, The Prince\u2019s Trust Business in the Community charity and Crimestoppers as well as making regular contributions to the Gambling Trust which funds research and education programmes to support problem gamblers.  Individual casino brands are also active in their local communities with grass roots initiatives.\r\n\r\nLondon Clubs International is passionate about delivering exceptional gaming entertainment and being part of the Caesars Entertainment family;  inspiring grown-ups to play throughout the world.", 
+    "twitterId": "", 
+    "industry": "Gambling & Casinos", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 207 518 0000"
+       }, 
+       "address": {
+        "postalCode": "W1J 7HQ", 
+        "city": "London", 
+        "street1": "10 Brick Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1965, 
+    "websiteUrl": "www.lciclubs.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Casino", 
+      "Award-winning Bars", 
+      "Celebrity Restaurants", 
+      "Function Spaces"
+     ]
+    }, 
+    "universalName": "london-clubs-international", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "London Clubs International"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 769, 
+    "name": "Chantrey Vellacott DFK", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)20 7436 8884", 
+        "phone1": "+44 (0)20 7509 9000"
+       }, 
+       "address": {
+        "postalCode": "WC1B 5LF", 
+        "city": "London", 
+        "street1": "Russell Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.cvdfk.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Accounting", 
+      "Tax", 
+      "VAT", 
+      "Audit", 
+      "Business Recovery", 
+      "Advisory"
+     ]
+    }, 
+    "universalName": "chantrey-vellacott-dfk", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Chantrey Vellacott DFK provides accountancy, taxation, and related advisory services. The company\u2019s services include business assurance, taxation, mergers and acquisitions, corporate finance, business recovery, e-business and management consultancy, outsourcing, corporate secretarial, and audit. It also offers online services. \r\n\r\nOur range of services is exceptional for a firm of our size, reflecting the strength of our organisation and our commitment to delivering the expert services our clients require.\r\n\r\nWe work with quoted companies and privately owned businesses drawn from a wide range of commercial sectors. Our clients include professional partnerships, regulatory bodies, charities and other not-for-profit organisations, public sector bodies and private clients.\r\n\r\nChantrey Vellacott DFK has ten offices in Birmingham, Colchester, Croydon, Leicester, London, Northampton, Reading, Southampton, Stevenage, Brighton and Hove."
+   }, 
+   {
+    "numFollowers": 7, 
+    "description": "CMJ Designs is a dynamic and energetic company specializing in the design and development of point-of-sale (POS) software.\r\n\r\nCMJ Designs was incorporated in 1999. We have grown in sales volume, gross profit, and net profit every year since our date of incorporation. We currently are located in Brighton, MI", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "888-803-4747"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "7122 Kensington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.cmjdesigns.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Point of sale", 
+      "scheduling", 
+      "credit card processing", 
+      "and hardware integration"
+     ]
+    }, 
+    "universalName": "cmj-designs-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CMJ Designs, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 96, 
+    "description": "Cubeworks is a Brighton based web agency with a passion for delivering measurable results for its clients.\r\n\r\nCubeworks specialises in internet strategy, content-managed websites, large-scale bespoke web applications, agile software development and internet marketing campaigns.\r\n\r\nClients include: NSPCC, Coca-Cola, Guinness, EMAP, SANYO, University of Southampton, University of the Arts London, Kent County Council & Land Registry.", 
+    "twitterId": "@cubeworks", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 733373"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EF", 
+        "city": "Brighton", 
+        "street1": "Bank House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.cubeworks.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "website integration", 
+      "website development", 
+      "UX & user-centred design", 
+      "C#", 
+      "ASP.NET", 
+      "systems integration", 
+      "business analysis", 
+      "information architecture"
+     ]
+    }, 
+    "universalName": "cubeworks", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cubeworks"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 138, 
+    "description": "Big Machine Media - We offer Events Publicity and Marketing.  We have offices in New York and London and service a diverse range of clients from Roisin Murphy, Dillinger Escape Plan to Family Force Five, Andrew WK a Brighton Festival, Vanilla Restaurant Bar, Battersea Power Station, Bar Weeks around the UK and many many more.", 
+    "twitterId": "bigmachinemedia", 
+    "blogRssUrl": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "W1W 5BB", 
+        "city": "London", 
+        "street1": "131-151 Great Titchfield Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "NY 10017", 
+        "city": "New York", 
+        "street1": "780 Third Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.bigmachinemedia.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Events", 
+      "Public Relations and Marketing", 
+      "Digital Marketing"
+     ]
+    }, 
+    "universalName": "big-machine-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Machine Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1597, 
+    "name": "Sussex Police", 
+    "twitterId": "", 
+    "industry": "Law Enforcement", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1967, 
+    "websiteUrl": "http://www.sussex.police.uk/", 
+    "universalName": "sussex-police", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Law enforcement in the two counties of East Sussex,  West Sussex and the City of Brighton and Hove.\r\n\r\nPublic Service\r\n\u2022 In tune with Sussex communities\r\n\u2022 Customer service comes first\r\n\u2022 Providing value for the public\u2019s money\r\n\u2022 Being part of the local community\r\n\r\nCourage\r\n\u2022 Taking action to protect the public\r\n\u2022 Standing up for what is right\r\n\u2022 Not being afraid to take difficult decisions\r\n\r\nCompassion\r\n\u2022 Taking time to really understand others\u2019 point of view\r\n\u2022 Showing people who need our help that we care\r\n\u2022 Not thinking we always know bes\r\n\r\nJustice\r\n\u2022 Doing the right thing\r\n\u2022 Treating people fairly\r\n\u2022 Ensuring our actions stand up to public scrutiny\r\n\r\nInnovation\r\n\u2022 Focusing on solving problems\r\n\u2022 Being resourceful\r\n\u2022 Being open to new ideas and prepared to take some risks\r\n\u2022 Always looking for better and more affordable ways to do things\r\n\r\nPersonal Responsibility\r\n\u2022 Seeing things through\r\n\u2022 Not just following the rules\r\n\u2022 Making the effort to work with others to get results\r\n\u2022 Trusted to use discretion"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 102, 
+    "description": "Structural Civil and Environmental Consulting Engineers operating nationally in UK. Offices in Brighton, Fareham and St Albans.\r\nProjects in Libya, Saudi Arabia and Caribbean.\r\n\r\nSTRUCTURAL CONSULTANCY.\r\nMajor Buildings for Universities:- Teaching Facilities, Student Accommodation, Laboratories, Sports Facilities, Catering Facilities, Engineering Workshops, Performing Arts Buildings. Up to \u00a350M.\r\n\r\nEducational:- Schools, Colleges,Nurseries from \u00a350K to \u00a335M. Full Range of Refurbishment and New Build.\r\n\r\nWaste Facilities:- WTF, MRW, EfW, Composting Facility\r\n\r\nResidential:- Affordable, Public and Private Houses and Flats up to 20 Storeys in UK (50 Storeys Kuala Lumpur)\r\nOne-off Upmarket Houses, UK and Caribbean.\r\n\r\nCommercial:- Offices, Manufacturing, Warehouses, Retail Parks.\r\n\r\nSmall Works/Refurbishment:- From \u00a320K to \u00a315M Capital Value. Historic to 1960's. Steel, RC, Masonry,Timber. Additional Floors on Major Buildings.\r\nConversion Office to Residential.\r\n\r\nCIVIL CONSULTANCY:\r\nRoads, Drainage and Highways on Wide Range of Projects. Public Health Scheming on Projects up to \u00a3150M.\r\nTraffic Impact Assessment and Flood Risk Assessment.\r\nVehicle Swept Path Analysis. Cut and Fill Analysis.\r\n\r\nENVIRONMENTAL CONSULTANCY\r\nContaminated Land Evaluation. Remediation Strategy.\r\nCost Effective Clean Up of Contaminated Sites.\r\nScoping of SI/Contamination Investigations.\r\nEnvironmental Legislation and Guidance.\r\n\r\nINTERNATIONAL\r\nMaster Planning of Industrial and Business Parks up to \u00a3700M. Eco Town Master Planning. FE Colleges.", 
+    "industry": "Civil Engineering", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 4EF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.gyouryself.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Cost Effective Solutions in the Ground and Relative to Contamination."
+     ]
+    }, 
+    "universalName": "gyoury-self-partnership-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Gyoury Self Partnership LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 285, 
+    "name": "Rix & Kay Solicitors LLP", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 1658 177"
+       }, 
+       "address": {
+        "postalCode": "TN22 1SL", 
+        "city": "Uckfield", 
+        "street1": "The Courtyard"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273329797"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JS", 
+        "city": "Hove", 
+        "street1": "7 The Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 1658 178"
+       }, 
+       "address": {
+        "postalCode": "BN25 1RS", 
+        "city": "Seaford", 
+        "street1": "Paignton House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "TN13 1BL", 
+        "city": "Sevenoaks", 
+        "street1": "6th Floor, Suite E"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://www.rixandkay.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Employment law", 
+      "Company Commercial Law", 
+      "Commercial Property Law", 
+      "Personal Injury", 
+      "Medical Injury", 
+      "Dispute Resolution", 
+      "Family", 
+      "Wills", 
+      "Trusts", 
+      "Probate", 
+      "Tax", 
+      "Court of Protection", 
+      "Intellectual Property", 
+      "Sports Law"
+     ]
+    }, 
+    "universalName": "rix-&-kay-solicitors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Rix & Kay is a leading regional law firm with offices in Brighton & Hove, Seaford, Sevenoaks, and Uckfield.  The firm has grown significantly over the last decade which bears testament to the strength of our client relationships and progressive attitude.  We serve individuals, organisations and businesses across the South East and further afield.    \r\n\r\nRix & Kay is recognised as a leading firm in the latest editions of The Legal 500 and Chambers and Partners in thirteen and eight practice areas respectively.  We can claim significant sector expertise and thirteen of our lawyers are Leaders in their Field.    \r\n\r\nOur clients say we are proactive, accessible, tenacious, personable and that we provide sound commercial advice.  96%* say they would be prepared to recommend our services (*based on 4455 surveys since 2005).  We hope you will become one too.\r\n\r\nPlease find all our current vacancies at:  http://www.rixandkay.co.uk/who-we-are/careers/"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 871, 
+    "description": "The GDST (Girls' Day School Trust) is the leading network of independent girls\u2019 schools in the UK, with nearly 4,000 staff, and 20,000 students between the ages of three and 18. \r\n\r\nAs a charity that owns and runs a network of 24 schools and two academies in England and Wales, it reinvests all its income in its schools. \r\n\r\nFounded in 1872, the GDST has a long history of pioneering innovation in the education of girls, and is the largest single educator of girls in the UK (and the UK\u2019s largest educational charity).\r\n\r\nGDST schools and Academies:\r\nThe Belvedere Academy, Liverpool\r\nBirkenhead High School Academy\r\nBlackheath High School\r\nBrighton & Hove High School\r\nBromley High School\r\nCentral Newcastle High School\r\nCroydon High School\r\nHeathf ield School, Pinner\r\nHowell\u2019s School, Llandaff, Cardiff\r\nIpswich High School\r\nKensington Prep School\r\nNorthampton High School\r\nNorwich High School for Girls\r\nNotting Hill & Ealing High School\r\nNottingham Girls\u2019 High School\r\nOxford High School\r\nPortsmouth High School\r\nPutney High School\r\nThe Royal High School, Bath\r\nSheffield High School\r\nShrewsbury High School\r\nSouth Hampstead High School\r\nStreatham & Clapham High School\r\nSutton High School\r\nSydenham High School\r\nWimbledon High School", 
+    "twitterId": "GDST1872", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7393 6666"
+       }, 
+       "address": {
+        "postalCode": "SW1P 1JP", 
+        "city": "London", 
+        "street1": "100 Rochester Row"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1872, 
+    "websiteUrl": "www.gdst.net", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Girls' education"
+     ]
+    }, 
+    "universalName": "gdst", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "GDST (The Girls' Day School Trust)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 431, 
+    "description": "Mayo Wynne Baxter is one of the leading law firms in the South East and provides a comprehensive and personal service to a broad spectrum of local and national clients.\r\n\r\nWith over 200 staff and teams of solicitors in Brighton, Eastbourne, East Grinstead, Lewes and Seaford, we specialise in all aspects of business law and personal legal services. \r\n\r\nWe also offer tailored legal advice to specialist industry sectors throughout the UK including Travel, Leisure and Hospitality, Media and Creative Industries and Agricultural &Rural Affairs.\r\n\r\nWe are one of only a small number of law firms in England and Wales who have been awarded Lexcel accreditation for Legal Excellence. \r\n\r\nExcellent Service from Outstanding People", 
+    "twitterId": "mayowynnebaxter", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 207744", 
+        "phone1": "01273 775533"
+       }, 
+       "address": {
+        "postalCode": "BN1 3FE", 
+        "city": "Brighton", 
+        "street1": "Century House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 477071"
+       }, 
+       "address": {
+        "postalCode": "BN7 1JU", 
+        "city": "Lewes", 
+        "street1": "3 Bell Lane"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 891412"
+       }, 
+       "address": {
+        "postalCode": "BN25 1RS", 
+        "city": "Seaford", 
+        "street1": "1 Warwick Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 730543"
+       }, 
+       "address": {
+        "postalCode": "BN21 4RP", 
+        "city": "Eastbourne", 
+        "street1": "20 Gildredge Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01342 310600"
+       }, 
+       "address": {
+        "postalCode": "RH19 3BL", 
+        "city": "East Grinstead", 
+        "street1": "The Studio"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1860, 
+    "websiteUrl": "www.mayowynnebaxter.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Commercial Law", 
+      "Insurance litigation", 
+      "Employment Law", 
+      "Intellectual Property", 
+      "Property Law", 
+      "Litigation", 
+      "Debt Recovery", 
+      "Professional Negligence", 
+      "Mediation", 
+      "Licensing", 
+      "Travel. (We also offer a range of legal services for families and private individuals).", 
+      "Inquests"
+     ]
+    }, 
+    "universalName": "mayo-wynne-baxter-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Mayo Wynne Baxter LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 548, 
+    "description": "Wired Sussex is a Brighton-based membership organisation for companies and freelancers operating in the digital, media and tech sectors in Sussex.\r\n\r\nOur goal is to support our members in their quest to deliver innovation, creativity and growth, and to enhance the reputation of this fast-growing regional cluster on the international stage.\r\n\r\nWe help our members access talent, workspaces, investment and clients. We run recruitment, training and internship services, we help members find studio and office space, and we help our members promote their services and find new clients.\r\n\r\nWe also speak up for our members\u2019 collective interests, engaging with national government, the higher education sector, and local and regional authorities.\r\n\r\nWe believe that the most successful innovations come from below, that there is wisdom in the crowd and that businesses gain from generating social as well as economic value.", 
+    "twitterId": "http://www.wiredsussex.com/news.asp", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 692888"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GH", 
+        "city": "Brighton", 
+        "street1": "The FuseBox, Level 4 North, New England House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.wiredsussex.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Networking", 
+      "Support", 
+      "Training", 
+      "Office space", 
+      "Events"
+     ]
+    }, 
+    "universalName": "wired-sussex", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Wired Sussex"
+   }
+  ]
+ }
+}

@@ -1,0 +1,740 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1060, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 52, 
+    "description": "Film Division is an independent film, music video and corporate video production company.\r\n\r\nBrendan O'Neill is a Birmingham based producer, writer and director. In 2011 he was selected for the Screen West Midlands Emerging Producer Mentoring Scheme. He was mentored by Rachel Robey (London to Brighton, Skeletons, Better Things).\r\n\r\nStewart Addison studied photography for five years (35mm) from his teenage years, built a dark room at home, printed thousands of photographs and developed an advanced understanding of photography, film, video and the moving image..\r\n\r\nStewart has been working as a freelance DP (director of photography) for several years working on corporate videos/advertisements/short films and music videos that have been broadcast on TV in the UK, North America and India. Stewart has experience as a music video producer. He is also the managing director of Panny Hire a leading broadcast camera hire company.", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01212884884"
+       }, 
+       "address": {
+        "postalCode": "B12", 
+        "city": "Birmingham", 
+        "street1": "Green Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://filmdivision.co.uk/", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Music Video", 
+      "Independent Film", 
+      "Low Budget Film", 
+      "Corporate Video", 
+      "Locations Consultancy", 
+      "Producing", 
+      "Copywriting", 
+      "Treatment and script writing", 
+      "Script Reading and Editing", 
+      "Post Production, Ediitng and Grading (Colour correction)", 
+      "After Effects", 
+      "Music Composing"
+     ]
+    }, 
+    "universalName": "film-division", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Film Division"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 182, 
+    "name": "Planned Parenthood Mid and South Michigan", 
+    "twitterId": "PPMSM", 
+    "industry": "Hospital & Health Care", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1922, 
+    "websiteUrl": "http://www.plannedparenthood.org/midsouthmi/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Reproductive Health Care", 
+      "Advocacy", 
+      "Education"
+     ]
+    }, 
+    "universalName": "planned-parenthood-mid-and-south-michigan-company", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Planned Parenthood Mid and South Michigan pledges to provide sexual and reproductive health services that are confidential, affordable, non-judgmental and medically accurate, in a sensitive, respectful way.   We are currently serving a 22 County area, with 15 health centers located in:  Ann Arbor, Ann Arbor-West, Benton Harbor, Brighton, Burton, Detroit, East Lansing, Flint, Jackson, Lansing, Livonia, Owosso, Saginaw, Warren and Ypsilanti."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Time For Tease puts on events that combine a delightful afternoon tea with a dollop of burlesque cabaret in one scrumptious package.\r\n\r\nZoe Fletcher and her team of waitresses and burlesque artistes embarked on this flight of fancy in June 2006 with the very first Afternoon Tease! at Volupt\u00e9 and since then things have gone a little crazy - but they're loving every minute!\r\n\r\nTime For Tease has held a few events in Brighton, hosted private parties in peoples front rooms and even brought afternoon tea & burlesque to a field in the Isle Of Wight for the crowds at Bestival.\r\n\r\nIn 2009 Time For Tease delighted the Chelsea Arts Club, they also held Afternoon Tease! at the Pigalle Club and wowed the crowds at Camp Bestival and Bestival. In 2008 Time For Tease entertained Queen's Roger Taylor at an Alice in Wonderland themed party in the Caf\u00e9 Royal's prestigious Grill Room. They also provided Kate Moss with glam rock themed cupcakes and a burlesque fan dance at her 34th birthday party.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.timefortease.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Burlesque", 
+      "Afternoon Tea"
+     ]
+    }, 
+    "universalName": "time-for-tease", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Time For Tease"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Dr. Harry Witchel is a Senior Lecturer at the Brighton and Sussex Medical School in UK. In 2004 he received the national honour of being awarded The Charles Darwin Award Lecture by the British Science Association.  He has consulted and run experiments for Honda, Tesco, Nike and Nokia, and his writings have in appeared in the Financial Times, the Times Higher Educational Supplement.  His regular appearances internationally as a commentator on radio and television include shows ranging from Big Brother to the BBC and the Discovery channel.  His new book on music You Are What You Hear will be available in January 2011.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Higher Education", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.harrywitchel.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Body Language", 
+      "Cardiac Ion Channels", 
+      "Music and the brain", 
+      "Public Popular Science"
+     ]
+    }, 
+    "universalName": "dr-harry-witchel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Dr Harry Witchel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "A calm, sensitive and friendly teacher, with over twenty years of personal Pilates experience, I strive to help clients achieve their physical potential through developing a healthy and happy body.\u00a0 I teach group matwork and one-to-one classes in and around the Brighton and Hove area, and have many ongoing clients, in East Sussex and London.", 
+    "twitterId": "TurningTide", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.turningtidepilates.com", 
+    "universalName": "turning-tide-pilates", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Turning Tide Pilates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Kwantu is an African social enterprise with a mission to improve the effectiveness of development organisations.  We have offices in Cape Town and Brighton and a team of eight.\r\n\r\nOur expertise lies in producing web applications that increase the impact of your work.  Woven into websites and extended via mobile phones our applications help people work together to achieve common goals.\r\n\r\nWe develop long term partnerships with organisations committed to social change.  We understand the development sector and will continue working with you as a partner long after specific projects have ended.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.kwantu.net", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "programme management", 
+      "knowledge management"
+     ]
+    }, 
+    "universalName": "kwantu-it", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Kwantu"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 5, 
+    "name": "Find Your Deal", 
+    "twitterId": "http://www.twitter.com/dealsinuk", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://findyourdeal.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Digital Marketing", 
+      "Product Promotion", 
+      "Speciality Marketing"
+     ]
+    }, 
+    "universalName": "dealsinuk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "FindYourDeal.co.uk is a one-stop online destination to find the best deals in UK. We get deals for you from Top Stores and Retailers in UK.\r\n\r\nWe understand that searching for best deals has not been easy for many people. FindYourDeal.co.uk partnered with reputable merchants, retail stores and recommends the best daily deals to save you the time of searching endlessly on the internet.\r\n\r\nWe're available in London, Bristol, Nottiingham, Manchester, Leeds, Liverpool, Oxford, Brighton, Plymouth and other major UK cities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "WBER is a listener and school district supported community radio station owned and operated by the Board of Cooperative Educational Services, Monroe #1. Serving the Rochester and Western New York area since 1985, as a real life training ground for students in Monroe #1 BOCES Eastern Monroe Career Center (EMCC) Radio and Television Career & Technical Education (CTE) class, students from participating school districts via their radio clubs, as well as members of the community interested in learning about radio broadcasting. WBER also offers remote broadcasting services to area school districts which currently include Webster, West Irondequoit,Brighton and Fairport. WBER is o\u00adne of America's first full time Alternative Music radio stations, believing in and supporting this genre of music long before it became commercially viable.", 
+    "twitterId": "", 
+    "industry": "Broadcast Media", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.wber.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Radio", 
+      "Education", 
+      "Broadcasting", 
+      "Alternative Music"
+     ]
+    }, 
+    "universalName": "wber", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "WBER"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "I established Lynne Passmore Family Law in January 2011 as I was disatisfied with the constraints of working within a large organisation which I felt prevented me from working in a supportive and informative way with my clients during their relationship breakdown.\r\n\r\nI am now able to work closely alongside other professionals such as counsellors, coaches and financial advisors to provide my clients with the full support they need.\r\n \r\nI work primarily using collaborative family process or mediation and in all cases work closely with my clients to put the needs of any children first.\r\n\r\nI am based in Brighton but work with clients across Sussex, Surrey and London.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07554 887985"
+       }, 
+       "address": {
+        "postalCode": "BN1 6FL", 
+        "city": "Brighton", 
+        "street1": "221 Preston Drove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.lynnepassmore.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Collaborative Family Lawyer", 
+      "Family Mediator", 
+      "Divorce and Relationship Breakdown", 
+      "Financial Settlements", 
+      "Parenting and advice on issues relating to children following relationship breakdown", 
+      "Relationship Agreements", 
+      "Co-habitation disputes"
+     ]
+    }, 
+    "universalName": "lynne-passmore-family-law", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Lynne Passmore Family Law"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Founded in 2007 by Sevag Yeghoyan, a boutique litigation defense firm that represents clients throughout south-central Ontario.  The full-service defense firm of Mitchell-Gill, Yeghoyan & Jacula primarily represents clients facing criminal and/or quasi-criminal allegations with agents in various court houses, including; Barrie, Bradford, Brampton, Brighton, Cobourg, Durham, Lindsay, Milton, Minden, Napanee, North York, Orillia, Peterborough, Scarborough and Toronto.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "info@mgylaw.ca", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Criminal & Quasi-Criminal Defense", 
+      "Private Prosecution", 
+      "Appelate Defense", 
+      "Litigation"
+     ]
+    }, 
+    "universalName": "mitchell-gill-yeghoyan-&-jacula", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Mitchell-Gill, Yeghoyan & Jacula"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "Roman Pardon was born in 1967 and studied architecture at Kingston Polytechnic and London Metropolitan University, qualifying as an architect in 2004. Roman has worked for a number of practices, most notably Bennetts Associates from 2003-2008 where he worked on, amongst other projects, the Jubilee Library in Brighton (pictured) and 1 Basinghall Avenue, an office development in the City of London. Jubilee Library received The Prime Minister's Better Public Building Award 2005 and was shortlisted for the Stirling Prize.\r\n\r\nRoman is committed to the production of an architecture for our time: modern designs whose meticulous execution reflect his deep interest in the relationship between ideas and the process of construction. Mastery of materials and technology allows the production of buildings that are responsive to the client\u2019s brief, the demands of the site and today\u2019s environmental criteria. Roman's extensive experience of clients and contractors has taught him the importance of clear communication between all parties in the delivery of successful projects. The aim is to always exceed the expectations of all clients.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "N7 0HH", 
+        "city": "London", 
+        "street1": "8 Dalmeny Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.romanpardon.com", 
+    "universalName": "roman-pardon-architecture-&-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Roman Pardon Architecture & Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 694, 
+    "description": "Capital Hair & Beauty started out in 1955 as a scissor sharpening company based in Brighton. Since then we have grown into one of the UK's largest suppliers to Hairdressers, Beauty Therapists and Nail Technicians, now with over 30 stores throughout the UK and Ireland. We're known for our great customer service, fantastic product range and low prices. We've been selling products online since 2004 and launched a brand new website in September 2010.", 
+    "twitterId": "capitalhair", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 331144", 
+        "phone1": "01273 331122"
+       }, 
+       "address": {
+        "postalCode": "BN1 8YA", 
+        "city": "Brighton", 
+        "street1": "The Old Coach House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1955, 
+    "websiteUrl": "www.capitalhairandbeauty.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Hairdressing Supplies", 
+      "Beauty Supplies", 
+      "Salon Furniture", 
+      "Training Courses"
+     ]
+    }, 
+    "universalName": "capital-hair-&-beauty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Capital Hair & Beauty"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "FM is a music industry social networking night.\r\n \r\nFM Stands for First Monday \u2013 the date every month when we get together \u2013 that way everyone knows exactly when it is. It's not stuffy in any way; no badges or bossy organisers \u2013 if it was like that, we wouldn\u2019t come!!\r\n \r\nFM is a very relaxed get together with people from the industry, in a bar, all there to meet other people in the industry and possibly do business. And it\u2019s totally free. So much business is now done by email and online, I wanted to do things on a more personal level. \r\n\r\nWe have been running in London since March 2007. There have been ad hoc satellite events in Brighton, Liverpool, New York, Latvia and Amsterdam and generally the events attract between 10-40 people. They range from heads of societies i.e. MMF, MPA, BASCA to lawyers, artists, video directors, promoters, publishers and students.\r\n\r\nAs well as the monthly get togethers, I also send emails out between events with my take on things that are happening in the industry and a more light hearted look at life in general as well as posting messages on behalf of people on the mailing list looking for jobs, band members and offering deals to other FM members.\r\n \r\nPeople who come are; MANAGEMENT \u2013 LABELS \u2013 ARTISTS \u2013 PROMOTORS \u2013 PUBLISHERS \u2013 PRODUCERS \u2013 LAWYERS \u2013 ACCOUNTANTS \u2013 PR\u2019s \u2013 PHOTOGRAPHERS \u2013 VIDEO PRODUCERS \u2013 CHARITIES \u2013 TRADE BODIES SUCH AS MMF, BPI, AIM, MPA ETC, UKI TRADE AND INVESTMENT AS WELL AS STUDENTS LOOKING FOR INTERNSHIPS", 
+    "twitterId": "fmfirstmonday", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "Various"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.fmfirstmonday.com", 
+    "universalName": "fm-first-monday", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "FM First Monday"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Kevin Claxton photographer based near Brighton, Sussex. Digital and 35mm film photographs reproduced on paper, canvas & giclee. People Places Pets Animals Portrait Weddings Advertising. Photographic images made for today and for you. \r\n\r\nI have had a camera since my father bought me one for my fifth birthday. That was a long time ago, and I have come a long way since then. Having used film, I now use digital SLR Cameras as well. More recently I have been able to devote more time to building up my knowledge and experience. A camera goes everywhere I go, most recently to Santorini and the Greek Cyclades islands. You can see some of the results on the Photo Art Gallery pages.\r\n\r\nI have won photographic competitions, and have recently completed repeat commissions for Lewes Rugby Club, the Sussex Police Offshore Sailing Club and the Southdowns Branch of the RAF Police Association, as well other individual briefs. Future work already booked includes weddings and less formal work.  \r\n \r\nI am keen to help you acheive the photographic task you have in mind, and happy to discuss options with you if you want something, but you are not sure exactly what it is, what will work, or what is possible, and all at a price that you are happy with.\r\n\r\nPlease contact me at Kevin@KC-Photography.eu", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07856 917007"
+       }, 
+       "address": {
+        "postalCode": "BN10 7AG", 
+        "city": "Brighton", 
+        "street1": "1b Amhurst Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.KC-Photography.eu", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Photo Shoots", 
+      "Photo Art Prints"
+     ]
+    }, 
+    "universalName": "kc-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "KC Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Whether it is printing business cards, brochures, point-of-sale material or leaflets, we will always ensure that we provide our clients with the most environmentally-friendly printing option.\r\n\r\nWe provide quotes for short-run digital printing or longer run litho printing using the most up-to-date methods and materials, including a new carbon neutral printing service.\r\n\r\nIn 2011, we introduced the MCR \u2018Go Green\u2019 challenge, enabling you to compare your current print prices with our \u2018Go Green\u2019 environmentally friendly print prices. This way, you\u2019ll see if you could Go Green without it costing the earth, affecting the planet or compromising on quality\r\n\r\nWe are keen to offer the best quality of service and our offices in both Brighton and London help us do just that.", 
+    "twitterId": "", 
+    "industry": "Printing", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.mcrprint.co.uk", 
+    "universalName": "mcr-print-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MCR Print Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Pretty Eccentric\u2122 opened the doors of it's first jewel like boutique in October 2009 Brighton followed in Oct 2010 by a fabulous new store in the heart of Bath's new Southgate quarter. \r\nThe boutique combines a fusion of gallery inspired space with unique quirky/vintage/boudoir styling.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.prettyeccentric.co.uk", 
+    "universalName": "pretty-eccentric", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pretty Eccentric"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Originally named SRM Selective Recruitment Management Ltd the company, as a talent acquisition advisory services and training firm, was renamed Belesol in January, 2009. Founded near Brighton, UK, in 2006, we have worked on seeking to develop a true competitive advantage for our clients.\r\n\r\nBelesol Ltd is headed up by its Director, Charles Brittain, BA(Hons). Charles is a provocateur and strategist in the field of human resources and talent acquisition. For more than 10 years he has offered his critique and insight to professionals seeking to develop a true competitive advantage for their organisation through strategic talent acquisition planning and employer-of-choice branding .", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44(0)7711 83 84 83"
+       }, 
+       "address": {
+        "postalCode": "RH15 5BN", 
+        "city": "Burgess Hill", 
+        "street1": "PO Box 366"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.belesol.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Talent Acquisition Management", 
+      "Resourcing Specialists", 
+      "Recruitment Strategists"
+     ]
+    }, 
+    "universalName": "belesol-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Belesol Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "Facemediagroup.co.uk are a Brighton based printing company, essentially a sales office with design and pre-press studio. A 15 strong team of highly experienced print sales and design team, are on hand to answer any questions thrown at them.\r\n\r\nFacemediagroup.co.uk work with a network of over 40 UK printing presses. If your requirement is just a set of business cards, they have the right machine for that (a set of laminated business cards from \u00a320). If you need 5000 folded leaflets, they have the right machine for that too (5000 A4 folded leaflets from just \u00a3315) and if you want to self-publish a 500 page book, they have the right machine for that as well.", 
+    "twitterId": "facemediagroup", 
+    "blogRssUrl": "http://facemediagroup.blogspot.com/feeds/posts/default", 
+    "industry": "Printing", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0333 8000 329", 
+        "phone1": "0333 8000 888"
+       }, 
+       "address": {
+        "postalCode": "BN41 1GG", 
+        "city": "Brighton", 
+        "street1": "Victoria House, Vale Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0333 8000 888"
+       }, 
+       "address": {
+        "postalCode": "BN12 6EG", 
+        "city": "Worthing", 
+        "street1": "51 Nelson Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://facemediagroup.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "business cards", 
+      "flyers and leaflets", 
+      "business stationery", 
+      "exhibition graphics"
+     ]
+    }, 
+    "universalName": "facemediagroup.co.uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "facemediagroup.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "The travel agency Holiday Hut opened in 2004 and the company has evolved into one of the few truly independent travel advisers in the UK. \r\n\r\nThe travel researcher service from Holiday Hut takes travellers away from the usual 'one size fits all' attitudes of most holiday companies and helps you to ensure that your holiday will give you a lifetime of outstanding memories.\r\n \r\nThe lack of interest in your trip by internet travel agencies means that you probably have only 'nearly been' somewhere and not really experienced the best of what your chosen destination has to offer you.\r\n \r\nWhether you're staying in Brighton, Barcelona or Bermuda, the Travel Researcher from Holiday Hut will find the information to ensure that you have the best trip.\r\n \r\nMost travellers base their choice of accommodation/resort on rational reasons \u2013 location, price and amenities. Travel Researcher clients want to know how they can enhance their travel experience. The Travel Researcher will research the accommodation, local area and transportation to ensure that every holiday you take will be a tough act to follow.", 
+    "twitterId": "Holiday_Hut", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.holidayhut.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "travel research", 
+      "travel agent", 
+      "holiday research"
+     ]
+    }, 
+    "universalName": "holiday-hut-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Holiday Hut Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Based near Brighton, Computer-eyez (south) Ltd provides Business IT Support to clients throughout Sussex, Surrey and Kent. Established in 2005 the firm's employees have more than thirty years combined experience in the Computer Services sector. \r\n\r\nHelping clients to keep their IT systems running efficiently with maximum uptime, the company provides businesses with professional IT support services that proactively maintain their IT systems. With a fully qualified and capable engineers, the service is designed to meet and exceed client expectations. \r\n\r\nFrom 'PAYG' to proactive unlimited support to the fully manned helpdesk, the services provided by the Computer-eyez are suitable for business users of all sizes. All support can be tailored to your individual network needs, as Computer-eyez recognise that not every network is the same.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Computer Networking", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "0845 6066943"
+       }, 
+       "address": {
+        "postalCode": "BN9 9BA", 
+        "city": "Newhaven", 
+        "street1": "Newhaven Enterprise Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.computer-eyez.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Managed Networks (Manage IT)", 
+      "Off-site Backup", 
+      "Disaster Recovery Services", 
+      "Block Hours"
+     ]
+    }, 
+    "universalName": "computer-eyez-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Computer-eyez Ltd"
+   }
+  ]
+ }
+}

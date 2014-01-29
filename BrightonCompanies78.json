@@ -1,0 +1,596 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 12, 
+  "_start": 1560, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 104, 
+    "description": "We're your local Aussie Home Loans mortgage brokers servicing Brisbane. We\u2019ll find you the home loan that's suits your needs from the hundreds available on our panel of lenders. \r\n\r\nWhy spend weeks running around to dozens of lenders to get the best deal, when we can search home loans from 16 of Australia's leading lenders in just minutes. Our mortgage broking service is fast and free.\r\n\r\nOur exclusive territory for Aussie is:Aspley \r\n4034  Taigum 4018 Chermside South 4032 Sandgate 4017 Bracken Ridge 4017 Carseldine 4034 Chermside West 4032 Shorncliffe 4017 Fitzgibbon 4018 Brighton 4017 Deagon 4017 Zillmere 4034 Chermside 4032 Boondall 4034 Geebung 4034", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0732162178", 
+        "phone1": "0736243333"
+       }, 
+       "address": {
+        "postalCode": "4018", 
+        "city": "Taigum", 
+        "street1": "Corner Beams and Church Rds"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.aussie.com.au/taigum", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Home Loans", 
+      "Investment Loans", 
+      "Commercial Loans", 
+      "Equity Loans"
+     ]
+    }, 
+    "universalName": "aussie-taigum", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Aussie Taigum"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2284, 
+    "description": "Established in 2004, Harvey John is a specialist recruitment consultancy sourcing Accountancy & Finance, Human Resources, Sales, Legal and Marketing vacancies on a temporary, contract and permanent basis.\r\n\r\nThe team of consultants at Harvey John has experience of working in niche markets utilising skills and methodologies including search, market mapping, testing, social media and digital strategies that are timely, unique and effective. \r\n\r\nPrinciples and values are core to our processes and behaviours from the selection of staff joining the business through to candidate and client relationships in our day to day working. \r\n\r\nAs a business, we have built our brand around core values to understand each individual requirement creating value through expert knowledge with clear and balanced communication. Encourage to work with an open mind and a new perspective to find the right people for the right opportunities with a focus on delivery. We approach relationships with a business partnering and long term viewpoint adding value throughout the process.  \r\n\r\nThe vacancy listing on the Harvey John website is updated on a regular basis ensuring that opportunities are live and current.\r\n\r\nFor news and all the latest vacancies follow us on Twitter @HarveyJohnLtd\r\n\r\nHead office is based in Brighton, East Sussex.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 820808"
+       }, 
+       "address": {
+        "postalCode": "BN1 3GD", 
+        "city": "Brighton", 
+        "street1": "Lees House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.harveyjohn.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Accountancy/Finance recruitment", 
+      "Legal recruitment", 
+      "Sales recruitment", 
+      "Marketing recruitment", 
+      "Human Resources recruitment (HR)"
+     ]
+    }, 
+    "universalName": "harvey-john-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Harvey John"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 76, 
+    "description": "Whether you are an individual or a business in need of legal advice, martin searle solicitors can help you. We help clients resolve a comprehensive range of employment law and community care law issues.\r\n\r\nFrom offices in Brighton & Hove, Eastbourne, Gatwick & Crawley and Croydon, our employment law and community care solicitors provide support and legal advice that suits your needs. Expect a professional approach from a friendly solicitor that you can rely on to take your case seriously.\r\n\r\nOur team has earned a reputation for being one of the leading law firms in Sussex by fighting tirelessly for the rights of our clients \u2013 leaving no stone unturned on the road to success. That is why our employment law and community care experts are frequently recommended by other solicitors.\r\n\r\nToday, people from the south-east and across the UK seek our advice on recovering care home fees, complex workplace discrimination cases and everything inbetween \u2013 often on a no-win no-fee basis. It doesn't matter where in the country you are. If you need our help, get in touch today.", 
+    "twitterId": "@ms_solicitors", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 609911"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UB", 
+        "city": "Brighton & Hove", 
+        "street1": "9 Marlborough Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 189 0152"
+       }, 
+       "address": {
+        "postalCode": "CR9 2ER", 
+        "city": "Croydon", 
+        "street1": "The Lansdowne Building"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 813983"
+       }, 
+       "address": {
+        "postalCode": "RH11 7XX", 
+        "city": "Crawley", 
+        "street1": "Basepoint"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 649151"
+       }, 
+       "address": {
+        "postalCode": "BN21 4PN", 
+        "city": "Eastbourne", 
+        "street1": "2 Hyde Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.ms-solicitors.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Employment Law", 
+      "Community Care Law", 
+      "Discrimination in the Workplace", 
+      "Mental Capcity and Safeguarding", 
+      "Compromise Agreements", 
+      "Redundancy Advice", 
+      "Reclaiming nursing home fees", 
+      "Power of Attorney"
+     ]
+    }, 
+    "universalName": "martin-searle-solicitors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Martin Searle Solicitors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 135, 
+    "name": "Varndean College", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 508011"
+       }, 
+       "address": {
+        "postalCode": "BN1 6WQ", 
+        "city": "Brighton", 
+        "street1": "Varndean College"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.varndean.ac.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Education"
+     ]
+    }, 
+    "universalName": "varndean-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Varndean College, Brighton is a popular and successful sixth form college with over 1450 students aged 16 to 18. In the evenings it opens its doors to the community to offer a wide range of courses. Full or part-time Access courses have places for up to 60 mature students and the college is increasingly popular with international students.\r\n\r\nVarndean\u2019s mission is :\r\n\r\n\u2018through the quality of its provision and support for a diverse community, encourage and inspire all its students to fulfil their potential\u2019."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "We are a highly motivated and professional main contracting organisation based in New Brighton, Mold, Flintshire.\r\n\r\nWe offer a variety of construction solutions from minor works to major projects. We operate in the following sectors:-\r\n\r\nHealthcare, Industrial & Commercial, Education & Lifelong Learning, Domestic, Refurbishment & Conservation.\r\n\r\nPlease contact us to discuss your requirements on 0844 - 225 - 2788.", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "CH76QW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.pentagonconstructionltd.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Construction", 
+      "Refurbishment & Conservation."
+     ]
+    }, 
+    "universalName": "pentagon-construction-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pentagon Construction Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Stick It On started out as a humble Brighton club night with only one single mandate. 'To empower the many which had been held by the few.' Rob and Karim were frustrated, and a little bit annoyed, that DJing had become so elitist that clubland had suddenly got way too serious. Both were party DJs who loved good music whichever genre it came from. They played everywhere from pub\u2019s, small clubnights and house parties but what was clear to them was how much fun getting behind the decks and playing music to people could be.\r\n\r\nThe feeling to share this and rebel against the \u2018Superstar DJ\u2019 phenomenon, that at the time, was sweeping the nation inspired them to become the antithesis of all of what that stood for.   Together they put on their first clubnight, essentially to a bunch of their friends, but this was the beginning of Stick It On.\r\n\r\nThe night was split into 15 minute slots for each person Stickin\u2019 It On. It was open to anyone who fancied giving it a go. All they had to do was choose some of their favourite tunes (4/5 songs) that they wished to play to rock the dancefloor.\r\n\r\nNo DJ experience is necessary as a technical helper is close on hand to guide everyone through the whole process. It gave everyone the chance to rock the dancefloor, shake what your mama gave ya and enjoy yourself \u2013 Pure and simple.\r\n\r\nThat was the start of an idea that has far exceeded everybody's expectations. Stick It On is now becoming a very popular choice for wedding entertainment and corporate events.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1", 
+        "city": "Brighton", 
+        "street1": "13-17 Marlborough Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.stickiton.co.uk/", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "corporate events", 
+      "entertainment", 
+      "wedding entertainment", 
+      "parties", 
+      "club nights", 
+      "party organising", 
+      "event organising.", 
+      "charity fundraisers", 
+      "birthday parties", 
+      "facilitating fun"
+     ]
+    }, 
+    "universalName": "stick-it-on", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Stick It On"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 399, 
+    "description": "Xavier College first opened in 1878 and has a proud history as an Australian educational institution. We have three campuses \u2013 the Senior Campus in Kew (Years 9-12), Burke Hall in Kew (K-8), and Kostka Hall in Brighton (K-8) \u2013 educating 125 girls from Kindergarten to Year 4 and 1960 boys from Kindergarten to Year 12.\r\n\r\nAs a Catholic school within the spiritual tradition of St Ignatius Loyola, Xavier College belongs to a worldwide network of Jesuit schools whose origins lie in a vision he formulated four-and-a-half centuries ago.  A Jesuit education has a clear purpose: the development of a well-rounded Christian person of competence, conscience and compassion who will be of service in the world and has the generosity to make a contribution.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(03) 9853 3728", 
+        "phone1": "(03) 9854 5411"
+       }, 
+       "address": {
+        "postalCode": "3101", 
+        "city": "Kew", 
+        "street1": "135 Barkers Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(03) 9853 3792", 
+        "phone1": "(03) 9855 4100"
+       }, 
+       "address": {
+        "postalCode": "3101", 
+        "city": "Kew", 
+        "street1": "Studley Park Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(03) 9592 7017", 
+        "phone1": "(03) 9592 2127"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "47 South Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1878, 
+    "websiteUrl": "www.xavier.vic.edu.au", 
+    "universalName": "xavier-college-kew", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Xavier College, Kew"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 79, 
+    "description": "The Power of Local Banking, 120 plus years in the making.\r\n\r\nFirst National Bank in Howell established its roots as First State and Savings Bank in 1891 and merged with First National Bank of Howell in 1946. Over our 120 plus years in Livingston County, Michigan, it\u2019s likely that your grandparents, parents, family, friends and neighbors have banked with us. \r\n\r\nToday, as the only bank headquartered in Livingston County, First National takes great pride as a key corporate citizen. From Brighton to Howell, Fowlerville to Whitmore Lake and Hamburg to Hartland, First National puts the power of local banking in your hands.  You see, this is the place we call home too.  The folks who make decisions here appreciate your history and hopes for the future because we share them too. \r\n\r\nDay to day, First National does much more than cash checks, take in deposits, issue ATM cards and make car loans. We reinvest your dollars wisely in your community. Your money helps businesses take off and grow and helps people like you buy a new home, send a child to college or live life according to your plan. No other area bank can make this claim: nine out of 10 loans are made here in Livingston County.  \r\n\r\nThe power of local banking is also evident in the more than $1 million First National has contributed to area organizations, causes and events. Add to this the hundreds of hours First National employees volunteer locally each year, and you\u2019ll understand why we think local banking is the only way to go.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Banking", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "517.546.3150"
+       }, 
+       "address": {
+        "postalCode": "48843", 
+        "city": "Howell", 
+        "street1": "101 E Grand River"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1891, 
+    "websiteUrl": "www.fnbh.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Personal Banking and Lending", 
+      "Business and Commercial Banking and Lending", 
+      "Wealth Management"
+     ]
+    }, 
+    "universalName": "first-national-bank-in-howell", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "First National Bank in Howell"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 154, 
+    "name": "Jefferson County Board of Education", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "35209", 
+        "city": "Birmingham", 
+        "street1": "2100 18th Street South"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.jefcoed.com", 
+    "universalName": "hueytown-high-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Jefferson County School District has 52 schools from grades K-12.  There are 13 high schools and 12 middle schools.  I serve Oak Grove Middle/High, Hueytown Middle, Hueytown High, Pleasant Grove High, Pleasant Grove Middle, McAdory Middle, McAdory High, Brighton Middle, Shades Valley High/SVTA, Irondale Middle, Clay Chalkville Middle, and Clay Chalkville HIgh."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 40, 
+    "description": "BVB General Contractors is Brighton's hometown contractor. We specialize in dental, medical, veterinary, retail, restaurant, industrial, historic, ground-up or tenant improvement projects servicing the entire front range.  We have been named one of Denver fastest growing private companies for three years by the Business Journal.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303-659-1887", 
+        "phone1": "303-637-0981"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1289 S 4th Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.bvgci.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "medical", 
+      "dental", 
+      "veterinary", 
+      "retail", 
+      "restaurant", 
+      "industrial", 
+      "historical and site work."
+     ]
+    }, 
+    "universalName": "bvb-general-contractors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BVB General Contractors"
+   }, 
+   {
+    "numFollowers": 26, 
+    "name": "Frie Arndt & Danborn, P.C.", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "80003"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.friearndt.com", 
+    "universalName": "frie-arndt-&-danborn-p.c.", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "We are a team of four attorneys and support staff located in Arvada, Jefferson County, Colorado. Since 1985, we have served clients in Denver, Golden, Boulder, Brighton, and surrounding areas. \r\n\r\nWe offer legal representation in a broad range of practice areas, including:\r\n\r\nFamily Law \r\nEstate Planning \r\nBusiness & Commercial Law \r\nBusiness Organizations \r\nContract Law \r\nHome Owners Association \r\nCommunity Association Law \r\nLitigation & Appeals \r\nReal Estate Law \r\nProbate & Estate Administration \r\nState, Local & Municipal Law \r\nPersonal Injury \r\nElder Law"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Independently owned Finance Recruitment Consultancy based in Hove near Brighton specialising in placing Qualified and Part-Qualified Accountants into permanent and interim assignments. With a client base that spans all sectors and sizes of business from SME's to large Blue Chip organisations as well as accountancy firms across Sussex and Surrey.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 229499"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DD", 
+        "city": "Hove", 
+        "street1": "2nd Floor, Sheridan House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.graftonbanksfinance.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Finance & Accountancy", 
+      "Interim Recruitment", 
+      "Finance Recruitment", 
+      "Permanent Recruitment", 
+      "Accountancy Recruitment", 
+      "Sussex", 
+      "Surrey", 
+      "Qualified Level Finance Recruitment", 
+      "Part Qualified Level Finance Recruitment"
+     ]
+    }, 
+    "universalName": "grafton-banks-finance", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Grafton Banks Finance Ltd"
+   }
+  ]
+ }
+}

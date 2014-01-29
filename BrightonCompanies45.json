@@ -1,0 +1,845 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 900, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "name": "Bagelman", 
+    "twitterId": "Bagelman_", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 387171"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "7 Bond St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 772779"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AD", 
+        "city": "Brighton", 
+        "street1": "31 Ship St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 777251"
+       }, 
+       "address": {
+        "postalCode": "BN3 2EB", 
+        "city": "Hove", 
+        "street1": "106 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.bagelman.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Deli", 
+      "Bakery", 
+      "Wholesale", 
+      "Delivery/Catering"
+     ]
+    }, 
+    "universalName": "bagelman", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Bagelman is Brighton\u2019s own authentic bagel bakery chain.  Launched in 1999, it was the first on the South Coast and is the only one in Sussex.  Winner of the Sussex Business Award for best business in Sussex in 2007, Bagelman is a cherished local brand with an enviable reputation for high-quality, healthy made to order fast food."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Update is an affordable one-day conference exploring the hottest topics in mobile design and development. \r\n\r\nCurated by user experience designer and developer Aral Balkan, Update features inspiring talks from top names from the worlds of iOS, web, and user experience including Brendan Dawes, Jeremy Keith, Sarah Parmenter, Matt Gemmell, Jeff LaMarche, and Cennydd Bowles. \r\n\r\nTheir inspirational keynote sessions are punctuated by lively geek ninja battles debating platforms and technologies, and the conference day itself is followed by two days of hands-on workshops on topics ranging from iOS design to HTML5 for mobile. \r\n\r\nUpdate\u2019s special guest this year is Ronald Wayne. He founded Apple alongside Steve Jobs and Steve Wozniak, created the first Apple logo, and wrote the manual for the first Apple computer. He then gave up his 10% share in Apple for just $2,300. If he\u2019d kept it, it would be worth over $30 billion today and would make him one of the world\u2019s 15 richest people.\r\n\r\nDATE: 5th September 2011\r\nVENUE: Brighton Dome \r\nBOOK: http://www.eventbrite.com/event/1423476657", 
+    "twitterId": "@updateconf", 
+    "blogRssUrl": "", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Various"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.updateconf.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "iOS", 
+      "Design", 
+      "Digital", 
+      "Copywriting", 
+      "Workshops", 
+      "Web"
+     ]
+    }, 
+    "universalName": "update-conference---the-human-touch-ios-&-beyond", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Update Conference - The human touch: iOS & beyond"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 191, 
+    "description": "Since 1991, New England Eye Center has been a leading eye care center in New England.  As the Ophthalmology department of Tufts Medical Center and Tufts University School of Medicine, patients also are seen at our main office in Boston and our satellite locations in Brighton, Brookline, Cambridge, Framingham, Wellesley and Leominster.\r\n\r\nNew England Eye Center is a complete clinical and technical center for the testing and treatment of all types of eye diseases and visual problems.    We also have a full service LASIK & Premium Cataract Center in Boston.\r\n\r\nTo complement the expertise of our doctors, our equipment & technology equals or surpasses that found in ophthalmic centers anywhere. Our operating rooms are fully equipped with the latest instrumentation for ophthalmic microsurgery, including advanced vitreoretinal surgery. Our clinical laser center offers a range of therapeutic capabilities equalled by few other ophthalmic centers anywhere in the world.\r\n\r\nPatients benefit from the New England Eye Center\u2019s position as a major research and education facility. Our physicians and technical staff are in immediate touch with the latest developments in all areas of ophthalmology. In fact, some of these developments are the result of investigations conducted at the New England Eye Center.", 
+    "twitterId": "DrLASIK", 
+    "blogRssUrl": "http://www.mylasikdoc.com/blog/index.rss", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617-636-4867", 
+        "phone1": "617-636-4600"
+       }, 
+       "address": {
+        "postalCode": "02111", 
+        "city": "Boston", 
+        "street1": "260 Tremont Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "781-237-4727", 
+        "phone1": "781-237-6770"
+       }, 
+       "address": {
+        "postalCode": "02481", 
+        "city": "Wellesley", 
+        "street1": "1 Washington Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-734-1396"
+       }, 
+       "address": {
+        "postalCode": "02446", 
+        "city": "Brookline", 
+        "street1": "1371 Beacon Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "508-620-0098"
+       }, 
+       "address": {
+        "postalCode": "01702", 
+        "city": "Framingham", 
+        "street1": "181 Concord Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-783-0734", 
+        "phone1": "617-783-5050"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "11 Nevens Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.neec.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Comprehensive Ophthalmology", 
+      "Laser Vision Correction", 
+      "Cataract Surgery", 
+      "Glaucoma", 
+      "Retina", 
+      "NeuroOphthalmology", 
+      "Pediatric Ophthalmology", 
+      "Eyelid Surgery", 
+      "Optometry", 
+      "Eye Exams & Contact Lens Fitting", 
+      "Vision Rehabilitation", 
+      "Eye Research"
+     ]
+    }, 
+    "universalName": "new-england-eye-center", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "New England Eye Center"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Fashion boutique based in Brighton.\r\nAt our standalone boutique in the heart of the North Laines, we offer a unique collection of exclusive and stylish Yoma branded shoes, sandals, boots, handbags and accessories.\r\nThese are complimented by a beautiful collection of womenswear.", 
+    "twitterId": "@yomauk", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.yomauk.com", 
+    "universalName": "yoma-shoes", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Yoma Shoes"
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 6, 
+    "description": "Brighton has a thriving music and media industry, which is constantly growing, and we are pleased to announce a new addition to this up and coming market \u2026. Find A Beat.\r\n\r\nIntroduction\r\nFind A Beat is a DJ agency supplying professional DJ\u2019s to the best clubs, bars, festivals and large events in the UK and Europe (Find A Beat also supply DJ\u2019s for corporate events and private party\u2019s).  Their roster includes the best new talent together with well-known favourites.\r\n\r\nPolicy\r\nThe music policy is anything that fall\u2019s under the banner of \u201cDance\u201d from Funky & Soulful House through to Drum & Bass, Breaks or even Chill out.\r\n\r\nRoster\r\nFind A Beat\u2019s roster is looking impressive as they are representing well-respected and popular acts such as \u2026\r\nManumission\u2019s long standing resident Griff\r\nDJ duo Bobkat who are more well know as LnM Projekt under which guise they produced Everywhere which was a top 40 hit on Hed Kandi\r\nAnother Ibiza legend and local boy Matt Cassar \r\nAnd the ever popular Alex Collings\r\n\r\nBackground\r\nRussell Ruckman who has been involved in the local dance scene for many years, working on various radio projects and promoting club nights, created Find A Beat.  With his knowledge of the industry and passion for music this is one project that is set for success.\r\n\r\nService\r\nFind A Beat\u2019s aim is to provide the best possible service to every client no matter how big or small the booking and will endeavour to find the right DJ for the event.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.findabeat.net", 
+    "universalName": "find-a-beat", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Find A Beat"
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 3, 
+    "description": "The Bazaar Bar is a small cosy venue, during the day Bazaar is a caf\u00e9 bar where you can relax with a coffee and something to eat, read the paper or check your e-mails with the free wireless internet, and at night Bazaar is a pre\u2019 club bar where you can come and enjoy a cocktail in the mellow Moroccan themed lounge bar and hear one of the many resident DJ\u2019s playing a tasteful selection of deep, soulful & funky house.\r\n\r\nAs well as all this downstairs there is a games room where you can play pool or table football, and soon to come will be another games lounge for those into their consol games.\r\n\r\nBazaar stocks a varied selection of drinks from around the world like, Hoegaarden, Lowenbrau and of course Tuaca which for those of you who don\u2019t know is a brandy based Italian liquor previously only available in its home of Brighton, watch out for this one as Bazaar will be working closely with Tuaca on some promotions in the very near future.\r\n\r\nPLEASE NOTE: Bazaar Bar is no longer trading.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.bazaarlounge.com", 
+    "universalName": "bazaar-bar", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Bazaar Bar"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 115, 
+    "description": "City of London Sinfonia creates dynamic and engaging musical experiences for people of all ages and backgrounds. We perform throughout London and the UK in venues ranging from traditional concert halls, to schools and hospitals, alternative venue spaces and diverse community settings. We place our audiences at the heart of everything we do, bringing unforgettable music and cultural events to them.\r\n\r\nLed by our Artistic Director, Stephen Layton, and Principal Conductor, Michael Collins, we regularly work with world class artists as well as up and coming talent, including in the last year: Gwilym Simcock, Tim Garland, Polyphony, Hugh Brunt, Roderick Williams and Elizabeth Watts among others. We perform across London at all the major concert halls and venues, as well as St Paul's Cathedral and other venues in the City of London and on the City fringes. We are resident orchestra at the capital's popular Opera Holland Park and regular guests at major UK festivals, performing at the BBC Proms, Brighton, Spitalfields Music and Cheltenham Festivals this year.\r\n\r\nOur education and outreach programme, Meet the Music, was one of the first established by a UK orchestra. Last year our musicians spent over 100 days making music with a wide range of groups throughout the country, reaching over 10,000 people.", 
+    "twitterId": "CityLdnSinfonia", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7621 2800"
+       }, 
+       "address": {
+        "postalCode": "SW9 8DJ", 
+        "city": "London", 
+        "street1": "4th Floor, Piano House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1971, 
+    "websiteUrl": "http://www.cityoflondonsinfonia.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Classical Music Concerts", 
+      "Education and Outreach Work", 
+      "Business Skills Training"
+     ]
+    }, 
+    "universalName": "city-of-london-sinfonia", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "City of London Sinfonia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Torture Garden is the worlds leading fetish club, with monthly events held in London.  We also hold events in brighton and Edinburgh as well as franchises in Tokyo, Rome, Toronto, Montreal, Paris and Athens.\r\n\r\nWe also have a production company that produce events, event management and supply performers to companies that like something with a twist.\r\n\r\nClients include Kerrang!, Avalon Productions, Erotica, HMS President, London Tattoo Expo,", 
+    "twitterId": "torture_garden", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "020 7729 7652", 
+        "phone1": "0207 613 4733"
+       }, 
+       "address": {
+        "postalCode": "E2 8HD", 
+        "city": "London", 
+        "street1": "111 Cremer Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.torturegarden.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fetish Body Art events", 
+      "event decoration", 
+      "stage shows", 
+      "entertainment"
+     ]
+    }, 
+    "universalName": "torture-garden", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Torture Garden"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Bright Lite Productions Ltd (BLP) is a fast expanding lighting and sound AV hire firm operating throughout the UK, particularly in London, Brighton, Cardiff, Birmingham, Manchester and Liverpool. BLP has been trading since 2007, the business is on target for considerable growth within the next year covering more aspects of the entertainment industry.\r\n\r\n\r\nHaving a wide range of equipment in stock including:\r\n\r\nGenerics\r\nIntelligent Lighting\r\nFollow Spots\r\nLighting Control\r\nLED Fixtures\r\nTruss\r\nRigging Equipment\r\nKv2 Audio\r\nFestival PA Equipment\r\nComplete DJ Rigs\r\n\r\nFrom design to delivery and operation of equipment on site, our expertise will ensure that your event runs smoothly as planned.\r\n\r\nWe can meet any production needs you may have. We can provide a dedicated project manager to work with you from your initial enquiry throughout the planning process to make your event a success.\r\n\r\nAll technical & design aspects of your event are addressed with our attention to detail you won\u2019t suffer any unfortunate surprises on the day! However, should a shoal of herring fall from the skies you can be certain that our enthusiastic, problem solving team will save the day.\r\n\r\nhttp://blproductions.co.uk\r\nhttp://portalz.co.uk", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://blproductions.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Hire", 
+      "Sales", 
+      "Installations", 
+      "Event Planning", 
+      "Design", 
+      "Kv2 Audio Dealer"
+     ]
+    }, 
+    "universalName": "bright-lite-productions", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bright Lite Productions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Back in June 2008, I was having a face to face interview for a training position at Virgin Media, I was asked a standard interview question \u2018what are your long term career aspirations?\u2019\u2026 even back then I knew what I wanted to do.\r\n\r\nAs a freelance consultant my principles around training solutions are:\r\n\r\n\u201cEngage learners early as adults, provide them with an interactive learning environment and give them the tools to retain the information and transfer their new knowledge into the workplace\u201d\r\n\r\nPenguin Learning Limited was started back in September 2011 after a company restructure with the goal to design bespoke training solutions to meet a client\u2019s specific needs. My training experience comes from many years attending training courses while working in B2B and B2C sales environment, progressing through to management positions before moving into training and development.\r\n\r\nBelow is a list of clients past and present:\r\n\r\nWocester Car Sales Ltd\r\nSandwell Council\r\nExpress Estate Agency\r\nBrighton City College\r\nPICS ltd\r\nCarphone Warehouse\r\nVirgin Media\r\nInternational Hotel Derby\r\nE.On\r\nSagacity Solutions Ltd\r\nTomtom\r\nCRM Students Cambridge\r\nGovernance Training\r\nMel Pyke Consultancy\r\nMTD Sales Training\r\nKnowledgePool\r\nBeyond the Box", 
+    "twitterId": "PenguinLearning", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07732883211"
+       }, 
+       "address": {
+        "postalCode": "DE139AY", 
+        "city": "Burton Upon Trent", 
+        "street1": "Rolleston on Dove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.penguinlearning.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Performance Management", 
+      "Business Change Projects", 
+      "Sales and Customer Service Training", 
+      "Train the Trainer", 
+      "Personal Development and Coaching", 
+      "Situational Leadership Training", 
+      "Blended Learning"
+     ]
+    }, 
+    "universalName": "penguin-learning", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Penguin Learning Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Creative Industrial Design Studio in Brighton. We design and develop new innovative products, from concept through to prototype creation. \r\n\r\nFondue Design addopts a hands on approach to developing a design, we use low fidelity prototypes every step of the way to help us design products which really work. We like to add as much creative flare into our products to help them stick out from the croud.\r\n\r\nOur design process is a clear map which we use to guide us through a project and ensure we achieve our objectives. A project brief clearly identifies our goals and objectives and is used by us as a job sheet and check list. We pride ourselves on project managment and ability to manage your high expectations.", 
+    "twitterId": "fonduedesign", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.fonduedesign.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Concept Visualisation", 
+      "Solidworks Drawings", 
+      "Prototype creation", 
+      "Problem Solving"
+     ]
+    }, 
+    "universalName": "fondue-design", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Fondue Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Manzi Group Ltd:\r\n\r\nManzi Group Ltd's head office is based in Brighton, with offices in London, Birmingham and Saint Leonards on Sea.\r\n\r\nThe following companies are part of Manzi Group Ltd\r\nManzi recruitment\r\nAlliance Performance Ltd\r\nAlliance Performance Healthcare Ltd", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Investment Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08455055101", 
+        "phone1": "08455055100"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "3 rd Floor Queensberry House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.manzirecruitment.co.uk", 
+    "universalName": "manzi-group", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Manzi Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Social and commercial photographers based in Brighton in Sussex. Providing high speed publishing of images and immediate downloads vis FTP for news and corporate events.\r\n\r\nA photographer with many years corporate experience and able to handle the small to large wedding with a team of like minded photographers.", 
+    "twitterId": "photosussex", 
+    "blogRssUrl": "http://robin-cook.blogspot.com/", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1982, 
+    "websiteUrl": "www.robin-cook.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Weddings", 
+      "company and corporate events"
+     ]
+    }, 
+    "universalName": "robin-cook-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Robin Cook Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Foot + Leg Pain Clinics is one of Australia's largest Sports Podiatry companies. We specialise in the treatment of all manner of foot & leg pain, soft tissue injury, musculoskeletal issues, plantar fasciitis, bunions, adolescent growing pains, work, sports and recreational related injuries and concerns. We undertake minor surgery, specialise in prescription orthotic therapy, nutrition therapy, prolotherapy (regenerative injection therapy) and can advise on proper footwear selection.\r\n\r\nWe look past the surface symptoms to find the cause of your foot and leg problems and always take a personal interest in ensuring all our patients' achieve successful outcomes.\r\n\r\nWe have 16 locations across Melbourne - Armadale, Berwick, Brighton, Clayton, Coburg, Doncaster East, Fitzroy North, Hampton, Hawthorn, Ivanhoe, Moonee Ponds, Mt Eliza, Port Melbourne, Wantirna South, Werribee, Williamstown", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.footlegpainclinics.com.au", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Foot, ankle, leg, knee, hip pain", 
+      "soft tissue injuries", 
+      "Prescription Orthotic therapy", 
+      "prolotherapy (regenerative injection therapy)", 
+      "Nutrition therapy"
+     ]
+    }, 
+    "universalName": "foot-leg-pain-clinics", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Foot + Leg Pain Clinics"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "A Product Design Company in Brighton\r\nAre you looking for great Product Design ? \r\nYou may have just found what you need... Read on....\r\n\r\nIs this you ?\r\n\u2022Are you looking for a extra design resource ?\r\n\u2022Did you know that many forward thinking companies are now utilising outsourced design to get fresh thinking team members to call on whenever they need them ? \r\nWe can offer you . . .\r\n\u2022A team with a diverse approach to problem solving and proven track record\r\n\u2022All efforts focused coherently towards your business goals\r\n\u2022A fun friendly and flexible team that really adds value\r\nTry us out for one week . . . .\r\nWe offer a week of design to new customers at a discounted rate so that you can get a feel for where we can take your design and how we work together.\r\n\r\nFree first meeting . . . .\r\nWith a nice cup of tea ... We do like tea!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 799801"
+       }, 
+       "address": {
+        "postalCode": "BN9 9BA", 
+        "city": "Newhaven", 
+        "street1": "Newhaven Enterprise Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.designandproduct.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Consumer product design", 
+      "Medical product design", 
+      "Mechanical design of any type", 
+      "\u2022Assistance taking products to market through our network of contacts"
+     ]
+    }, 
+    "universalName": "design-and-product-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Design and Product Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "PixelCounter Ltd.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://pixelcounter.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Interactive design", 
+      "Website development", 
+      "HTML5 front-end web development", 
+      "Project management", 
+      "Search engine optimisation", 
+      "Responsive web development"
+     ]
+    }, 
+    "universalName": "pixelcounter-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Specialist front-end web development studio based in Brighton on the South coast.  Produces highly creative and responsive digital development, operating at the forefront of emerging interactive technologies.\r\n\r\nWorks alongside many big-names (agencies and household names) and have established a strong reputation based on the very high quality of work produced."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "We provide professional, original, creative and artistic audio solutions for media.  Be it Film, Television, Radio, Web, Videogames or any other purpose.  With studios in the UK media hub of Brighton, we have access to a host of talented composers and musicians who\u2019s talents are only matched by their passion for music.", 
+    "twitterId": "UrchinAudio", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 7968910597"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "13 Selborne Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.urchinaudio.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Composition", 
+      "Production", 
+      "Music", 
+      "Sound Design"
+     ]
+    }, 
+    "universalName": "urchin-audio", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Urchin Audio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Chrome Group are an Audio Visual Supply & Event Management company based in Brighton headed by Chris Gray, an audio visual technician and promotions specialist. \r\n\r\nOur wide-ranging team are enthusiastic, creative and all strive for complete customer satisfaction.\r\n\r\n \r\n\r\n    \r\nWe supply, hire and install audio visual equipment - anything from data projectors to PA systems and stage lighting.\r\n\r\nWe create and manage events designed solely to help our clients engage and inspire their target audience.\r\n    \r\nWe deliver meeting and conference peripherals at a moments notice - anything from whiteboards to conference phones and branded stationary.\r\n    \r\nWe can help in any other way that transforms your event from the ordinary to the extraordinary!", 
+    "twitterId": "chrome_group", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.chromegroup.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Audio Visual", 
+      "Event Planning & Production", 
+      "Conference & Meetings", 
+      "Promotions"
+     ]
+    }, 
+    "universalName": "chrome-group-uk", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Chrome Group UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "digi-training provides one-to-one or small group training in your own home or office in the following areas:\r\n\r\nAdobe Photoshop\r\nAdobe Illustrator\r\nAdobe InDesign\r\nWeb Design: Dreamweaver, HTML, JavaScript, PHP and MySQL\r\nPortfolio building and CV creation\r\n\r\nWe are fully qualified tutors with over 20 years' teaching and professional industry experience, covering the Brighton and Hove area.\r\n\r\nPrices start from \u00a330 per hour with a minimum booking of 2 hours.", 
+    "twitterId": "http://twitter.com/#!/", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07527 831 829"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.digi-training.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Adobe Photoshop", 
+      "Adobe Illustrator", 
+      "Adobe InDesign", 
+      "Web Design", 
+      "Portfolio building and CV creation"
+     ]
+    }, 
+    "universalName": "digi-training", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "digi-training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "CommonUncommon is a Brighton based independent design studio with over 12 years experience of delivering highly effective, award winning design solutions.\r\n\r\nFrom working with large agencies to small companies and individuals, CommonUncommon specialises in creating potent visual communications and interactive experiences for deployment across a wide range of platforms and devices.\r\n\r\nCommonUncommon Ltd: Web Design, Front-End Development, iPhone Applications, iPad Applications, Creative Direction, Art Direction, Advertising, Branding, E-Commerce, Social Media", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.commonuncommon.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Digital Design & Communication", 
+      "Web/Interface Development", 
+      "Illustration & Animation", 
+      "Design & Development for Mobile"
+     ]
+    }, 
+    "universalName": "commonuncommon-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CommonUncommon Ltd"
+   }
+  ]
+ }
+}

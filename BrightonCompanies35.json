@@ -1,0 +1,861 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 700, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "St George Osteopathy is a progressive Osteopathic Practice set up by experienced Osteopaths Edward Clark and Themos Gourlas in 2012 to provide the St George District in Sydney with the highest standards of Osteopathic treatment available- Our mission statement is to incorporate the best of traditional osteopathic techniques like gentle manual joint and spinal mobilizing and manipulation, massage and muscle contraction work with the best evidence based musculoskeletal care in a professional, convenient setting. Our clinic was custom built for the practice of Osteopathy and patient convenience. We operate from a medical hub in the heart of Kogarah- at Number 4 Belgrave Street. We have relationships with local health professionals and will work collaboratively with your health care providers.\r\n\r\nOur clinic is close to Kogarah Station, St George Hospital, Rockdale, Bexley, Allowah, Carlton, Banksia, Arncliffe. We are a short drive from the Airport, Brighton, Ramsgate, Hurstville, Blakhurst, Carss Park, Mortdale, Penshurst and Oatley. \r\n\r\nWe treat: \r\nBack pain, neck pain, some types of headache, work injuries, aches and pains that keep coming back, repetitive strain injuries, knee injuries, shoulder injuries, sports injuries and more. Call 02 9553 9823 or check www.stgeorgeosteopathy.com.au for more info.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02 95539823"
+       }, 
+       "address": {
+        "postalCode": "2217", 
+        "city": "Sydney", 
+        "street1": "Suite 1 D,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.stgeorgeosteopathy.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Osteopathy", 
+      "Rehabilitation", 
+      "Massage", 
+      "Workplace injury treatment"
+     ]
+    }, 
+    "universalName": "st-george-osteopathy", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "St George Osteopathy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "name": "Glide Training Ltd", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.glidetraining.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Microsoft Office", 
+      "Personal Development", 
+      "In-company Bespoke Systems", 
+      "System Upgrade Training", 
+      "Group Training", 
+      "Floor-walking", 
+      "1 to 1 Coaching", 
+      "Presentation style delivery to large groups"
+     ]
+    }, 
+    "universalName": "glide-training-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Glide Training Ltd provides IT Applications, In-House Systems, Personal Development, Management and Leadership training. We specialize in bespoke training delivered in-company and our focus is on the end objectives of the individual, the team and their organisation. It can be difficult to explain to a training provider what you need training on, and at Glide Training we fully appreciate that \u201cyou don\u2019t know, what you don\u2019t know\u201d. When identifying training needs, we will always ask you what problems you are experiencing and where you would like to be.\r\n\r\nOur trainers each have around 15 years experience of working with companies from a range of industries including Financial, Legal, Oil, Utilities, Engineering, Medical, Pharmaceuticals, Manufacturing, Security and Defence, Banking, Leisure, Media, Recruitment, Travel, Retail, Charities, Government bodies, Schools, Colleges and Councils. Based in Sussex, we provide training in Brighton, London and around the South and South East of England."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Artnyx Gallery Brighton offers collectable signed limited edition art prints by established and emerging artists from across the U.K. We provide opportunities for new talented artists to showcase their work to a wide range of art collectors and investors.Browse through our affordable collection of urban art, pop art, contemporary fine art, illustrations and digital art to find the perfect piece for any occasion.", 
+    "twitterId": "", 
+    "industry": "Arts & Crafts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 2424 11"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "15"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.artnyx.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Limited edition art prints", 
+      "Paintings", 
+      "Illustrations", 
+      "Urban art", 
+      "Contemporary fine art", 
+      "Street art", 
+      "Digital art"
+     ]
+    }, 
+    "universalName": "artnyx-gallery", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Artnyx Gallery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "description": "The Iowa Chapter of the BMW Car Club of America strives to create a sense of community among BMW enthusiasts. The club facilitates a variety of events promoting social interacting, technical education and high-performance driving experiences.\r\n\r\nThe Iowa Chapter of the BMW Car Club of America is run by an unpaid elected board of directors and many volunteers who donate their time to help all club members enjoy their BMWs and each other. We welcome anyone who would like to participate or volunteer; please contact club president David Brighton. If you are as enthusiastic about driving your BMW as we are about ours, then we want you as part of the Club!\r\nPlease visit BMW CCA website [new member section] to become a member. If you need help contacting the National Office, please call 1-800-878-9292.", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "http://www.bmwia.org", 
+    "universalName": "bmw-car-club-of-america-iowa-chapter", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "BMW Car Club of America, Iowa Chapter"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "I have worked for the last 20 years as a professional photographer after studying at Cheltenham & Gloucester College of Art. Having spent three years as a photographer's assistant in London, I moved to Brighton in 1992 to set up my first studio and have never looked back.\r\n \r\nI work with a number of publishers, advertising, marketing, PR and design agencies for clients including Virgin Holidays, Parker Pens, P&O Ferries, Royal Bank of Scotland, The Body Shop, Francis Lincoln, Neil\u2019s Yard, Tektura, The Ivy Press and Peter Christian.\r\n\r\nI feel privileged to have worked with and retained some wonderful clients, many of whom have become great friends over the years. I like to think my clients appreciate my down-to-earth attitude and old fashioned work ethic - I recognize the importance of getting a job done, well, to specification and with a personable approach. I am proud of my ability to build a rapport with my subjects whether they are professional models, members of the public or most recently a host of unruly animals for the interestingly series of \u2018beautiful\u2019 books.\r\nI am passionate about photography and I hope that is obvious from my work, whatever the subject might be, as I always have a genuine enthusiasm to create something unique. Over the years my style and experience has developed hugely but my core strength has always been working with light, whether natural or artificial \u2013 I find it fascinating and both a technical and creative challenge - one that I will never tire of.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07736 516383"
+       }, 
+       "address": {
+        "postalCode": "BN7 2PH", 
+        "city": "Lewes", 
+        "street1": "Units 4 & 7 Phoenix House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.andrewperris.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Photography", 
+      "Video"
+     ]
+    }, 
+    "universalName": "andrew-perris-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Andrew Perris Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "We are a progressive law firm based in Brighton & Hove with an approachable team of lawyers who pride ourselves in developing and sustaining strong, long term client relationships. Our reputation is built on the provision of accessible but affordable and high quality legal services to both individuals and business clients.\r\n\u200b\r\nWe offer all our clients:-\r\n\ufeff\r\n\u2022 A thorough and clear approach to your matter - to help you understand all the relevant considerations and set your objectives;\r\n\ufeff\r\n\u2022 Our experience and expertise \u2013 committed to achieving the most favourable outcomes and goals for you;\r\n\ufeff\r\n\u2022 Our integrity and independence - which is devoted to  protecting your legal rights and best interests;\r\n\ufeff\r\n\u2022 A prompt, pragmatic and solutions driven service - as our clients testify;\r\n\ufeff\r\n\u2022 Direct access to an experienced solicitor - throughout your case.\r\n\u200b\r\n\u200b\ufeffContact us at any time, for a friendly, no-obligation enquiry about our services.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 773629", 
+        "phone1": "01273 956270"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "6 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.goodlawsolicitors.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Personal Injury", 
+      "Medical Negligence", 
+      "Family Law", 
+      "Residential Conveyancing", 
+      "Commercial Property", 
+      "Company & Commercial", 
+      "Coroner's Inquests", 
+      "Wills, Trusts & Probate"
+     ]
+    }, 
+    "universalName": "goodlaw-solicitors", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "GoodLaw Solicitors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "description": "Tersus is strategically placed in four locations in the UK (Brighton, Birmingham, London & Sheffield) and the Tersus group has in excess of 50 technical staff nationwide. The Group has over 20 surveyors based at strategic locations around the country. Its four UKAS-accredited laboratories are capable of handling over 1,000 asbestos samples a day. In addition it has over 30 mobile laboratories covering the whole of the UK.\r\n\r\nAll Tersus staff are trained to a minimum standard of BOHS proficiency modules for the disciplines for which they are engaged. \r\n\r\nTersus maintains the highest possible level of accreditation for any asbestos consultancy, offering a completely managed service of all your asbestos obligations including surveying, air monitoring, bulk identification and bulk sampling. Tersus holds multisite accreditation for the complete outsource-management/consultancy service it provides i.e. surveying, air monitoring, bulk identification and bulk sampling. Tersus Group accreditation for all locations\r\n\r\nAsbestos management services - \r\n\r\nAsbestos Air monitoring\r\nAsbestos Survey\r\nAsbestos Bulk ID\r\nAsbestos Consultancy\r\nAsbestos Removal management\r\n\r\n\r\n Workplace Environmental services - \r\n\r\nEnergy performance certificates\r\nDisplay Energy Certificates\r\nFire Safety Risk Assessments\r\nWater Management\r\nLegionella testing\r\nIndoor air quality\r\nDDA", 
+    "twitterId": "", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01212441801", 
+        "phone1": "01212441824"
+       }, 
+       "address": {
+        "postalCode": "B28 8JG", 
+        "city": "Birmingham", 
+        "street1": "Kings Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01708555925", 
+        "phone1": "01708555705"
+       }, 
+       "address": {
+        "postalCode": "RM13 8RH", 
+        "city": "Rainham, London", 
+        "street1": "1st Floor Rainham House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01909550418", 
+        "phone1": "01909560673"
+       }, 
+       "address": {
+        "postalCode": "S25 2RG", 
+        "city": "Dinnington, Sheffield", 
+        "street1": "Unit 6 Carrera Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273621800", 
+        "phone1": "01273621100"
+       }, 
+       "address": {
+        "postalCode": "BN2 4JE", 
+        "city": "Bevendean, Brighton", 
+        "street1": "Prospect House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "www.tersusgroup.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Asbestos Air monitoring", 
+      "Asbestos Survey", 
+      "Asbestos Bulk ID", 
+      "Asbestos Consultancy", 
+      "Asbestos Removal management", 
+      "Energy performance certificates", 
+      "Display Energy Certificates", 
+      "Fire Safety Risk Assessments", 
+      "Water Management", 
+      "Legionella testing", 
+      "Indoor air quality", 
+      "DDA"
+     ]
+    }, 
+    "universalName": "tersus-consultancy-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tersus Consultancy Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Family Law Financial Planning Ltd is a joint venture between specialist family law solicitors Family Law Partners and North Laine Financial Management Ltd - a Chartered and independent financial advisory firm based in Brighton.\r\n\r\nThe venture with North Laine Financial Management Ltd was born out of a shared commitment to excellent service and a solution-focused approach based on the same values. Experienced financial planners Sam Jermy and Nick Gorton each bring a wealth of expertise to clients of Family Law Financial Planning.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 646900"
+       }, 
+       "address": {
+        "postalCode": "BN1 3HR", 
+        "city": "Brighton", 
+        "street1": "Clifton Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.familylawfinancialplanning.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Financial advice", 
+      "Pension advice", 
+      "Wealth protection", 
+      "Estate and succession planning", 
+      "Tax planning", 
+      "Retirement planning", 
+      "Family income protection", 
+      "Child savings and investments", 
+      "Investment management", 
+      "Expatriate financial planning"
+     ]
+    }, 
+    "universalName": "family-law-financial-planning-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Family Law Financial Planning Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Anya Designs has been providing iLaw legal software to law firms for 15 years. Our highly rated iLaw Case Management, billing software and legal accounts software products are used in over 350 firms, including 7 of the top 10 crime firms. \r\n\r\nOur specialist team is based in Brighton, UK, and many of our team have extensive legal experience which helps us to ensure that the software we develop and the services we supply match your specific needs.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 259 1276"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EL", 
+        "city": "Brighton", 
+        "street1": "24 Old Steine"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.anyadesigns.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Legal Technology", 
+      "Case Management", 
+      "Legal Accounting Solutions", 
+      "Legal Web Development"
+     ]
+    }, 
+    "universalName": "anya-designs-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Anya Designs Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Moore Law is a dynamic commercial and Intellectual Property law firm based out of Brighton, UK.\r\n\r\nWe specialise in providing niche commercial and intellectual property law advice and have sector specific experience in new media and technology/telecoms, life sciences, software development and licensing, transport, retail and sport.\r\n\r\nWhilst we are often engaged on a reactive basis to help negotiate a contract, secure IP or advise on a business undertaking we believe that we can also deliver excellent value by being more proactive advisors to our clients.\r\n\r\nWe conduct commercial and intellectual property audits designed to identify risks and opportunities which can be a very cost effective way of improving commercial strategies and focusing on unlocking the value in these business assets.\r\n\r\nWe also provide contract management services to ensure that our clients are getting the best deal from a legal point of view without exposure to any unacceptable degree of risk.\r\n\r\nWe pride ourselves on delivering a personal service in those areas of practice where we have recognised expertise. We believe that our experience, accessibility and flexible working practices deliver an exceptional level of client care at a reasonable cost which cannot be matched by other law firms.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 707492"
+       }, 
+       "address": {
+        "postalCode": "BN1 9SB", 
+        "city": "Brighton", 
+        "street1": "University of Sussex, Science Park Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.moore-law.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Commercial Law", 
+      "Intellectual Property Law", 
+      "New Media & Technology/Telecoms", 
+      "Life Sciences"
+     ]
+    }, 
+    "universalName": "moore-law", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Moore Law"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Ceteres Ltd", 
+    "twitterId": "", 
+    "industry": "Aviation & Aerospace", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.ceters.com", 
+    "universalName": "ceteres-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Ceteres provides Scientific Instruments and Consumer Electronics globally based in Brighton, United Kingdom. Ceteters holds consumer electronic audio/visual brands targeting the global market place. Ceteres also develops scientific instruments for the pro/educational astronomical sector."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 31, 
+    "name": "4A LAW LAWYERS", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.4alaw.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Business Immigration and UK Visas", 
+      "Advice", 
+      "Applications", 
+      "Appeals", 
+      "Advocacy"
+     ]
+    }, 
+    "universalName": "4a-law-lawyers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "4A LAW LAWYERS provide legal services in business, corporate immigration, private immigration, company commercial, insolvency, litigation, property and debt collection matters. \r\n\r\n4A LAW LAWYERS serve many varied clients, UK national and international clients from across the globe. From Mexico, to Canada, Australia, New Zealand to Saudi Arabia and the Middle East to Europe (western and eastern) from a base in the Gatwick diamond, Crawley West Sussex.\r\n\r\nStrategically founded as a virtual law firm to serve the Business Immigration Property and Litigation needs of international business as well as private clients. Many business clients are based in various parts of the world and 4A LAW LAWYERS are fast becoming the choice business lawyers of those based in London, Brighton and Hove and the surrounding areas.\r\n\r\nWhy do business with 4A LAW LAWYERS? Simple. 4A LAW LAWYERS operate fixed fees, without the usually high costs associated with premises. The lawyers are time served with international legal organisations and regional practices. Collectively the lawyers have over 30 years of experience and success built through client service, referrals and an enviable reputation.\r\n\r\nAs a unique and innovative leading law firm, 4A LAW provide fixed fee assistance with the 4A\u2019s of law: Advice, Applications, Advocacy and Appeals. If you would like more information contact 4A LAW litigation lawyers or email info@4alaw.com for personalised legal advice."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "description": "As \u2018Britain\u2019s Brick Specialists\u2019, Michelmersh Brick Holdings PLC unites the best in clay traditions. The UK\u2019s largest independent producers of handmade bricks and pavers we are also leaders in tiles, bespoke products, specials and Terra Cotta, producing approximately 70 million clay bricks, tiles and pavers per annum.\r\n\r\nWe have grown and innovated from brands that enjoy rich heritages, and have become some of the most trusted names behind today prestigious built environment. The latest technology and new designs let us satisfy wider audiences and still retain our reputation for beautiful, durable, natural looking pieces.\r\n\r\nRecently MBH\u2019s products have been successfully used in projects such as the extension of the Lutyens-designed, Grade II Listed, Henrietta Barnett School in Hampstead Garden Suburb, the award-winning Holiday Inn Express in Manchester and the contemporary Falmer Academy building in Brighton. We are also suppliers to high value housing developers such as Berkeley and St James Homes, delivering to key city regeneration projects such as Battersea Reach.\r\n\r\nFurther information on the Company can be found at www.mbhplc.co.uk and downloadable BIM data for our products can be sourced at www.bimbricks.co.uk", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1825 790350"
+       }, 
+       "address": {
+        "postalCode": "RH17 7HH", 
+        "city": "Sussex", 
+        "street1": "Freshfield Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.mbhplc.co.uk/index.php", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Customer Service", 
+      "Wide Range of Handmade Products", 
+      "Building Information Modelling Files", 
+      "Bespoke Product Makers", 
+      "Bricks, Pavers, Terra Cotta and Tiles", 
+      "Large Bespoke Faience Craftsmanship"
+     ]
+    }, 
+    "universalName": "michelmersh-brick-holdings-plc", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Michelmersh Brick Holdings PLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "CleverBee is a digital marketing agency based in Brighton, UK. We provide a wide range of services including search engine optimisation (SEO), website design, insight from website data analysis and social media consultation. Get in touch today to discuss how we can help your business grow its online presence and improve performance.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.cleverbee.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Digital Marketing", 
+      "Web Analytics", 
+      "SEO", 
+      "Web Design", 
+      "Social Media Marketing"
+     ]
+    }, 
+    "universalName": "cleverbee-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "CleverBee Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "JooJoo Creative is a boutique web design and development agency based in the heart of Brighton and Hove. Working with some of the most talented designers and developers, we create beautiful branding, engaging websites and e-commerce stores that convert traffic to sales. We Design. We Build. We Market (you).", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 326807"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FT", 
+        "city": "Hove", 
+        "street1": "47 Lansdowne Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.joojoocreative.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Project Management", 
+      "E-Commerce", 
+      "Email Marketing", 
+      "SEO", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "joojoo-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "JooJoo Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Architectural practice based in London, established in 2012.\r\n\r\nPhilip Miller is an ARB registered Architect based in London. A graduate of the University of Brighton and the Bartlett School of Architecture, Phil began his career working on collaborative community based projects as a founding member of the academic research unit, Open Architecture Studio.\r\n\r\nPredominately working in London and the South East, Phil has spent the last ten years successfully delivering projects across the residential, commercial, and retail sectors. With a particular focus on refurbishing and regenerating existing buildings in order to realise their full potential, from residential refurbishments and extensions, commercial office and retail fit-out, to educational buildings.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "Wheler Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.pmillerarchitecture.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Residential refurbishment", 
+      "Retail", 
+      "Commercial fit-out"
+     ]
+    }, 
+    "universalName": "philip-miller-architecture-and-design-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Philip Miller Architecture and Design Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 253, 
+    "description": "At De Vere Hotels, we don\u2019t believe in dull or ordinary.\r\n\r\nYou\u2019ll find no branded slippers here, no \u2018d\u00e9j\u00e0 vu\u2019. Each of our hotels is chosen for its distinctive British character, individual style and quirky charm.\r\n\r\nWe can\u2019t boast avant-garde chic, if, however, you\u2019re looking for a bit of soul, character and old-world grandeur with a modern touch, then a stay at De Vere's luxury hotels might be just your cup of tea.\r\n\r\nWith 10 luxury hotels in the UK, from the beautiful surroundings of Loch Lomond, Scotland to the grandeur of an iconic Victorian hotel in Brighton, we know that we can provide you with an unforgettable experience.", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "websiteUrl": "www.devere-hotels.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Golf", 
+      "Spa and Leisure", 
+      "Food and Wine", 
+      "Weddings and Celebrations", 
+      "Business"
+     ]
+    }, 
+    "universalName": "de-vere-hotels", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "De Vere Hotels"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "PublicationSolver.com", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.publicationsolver.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Document Cleanup", 
+      "Publication Assistance", 
+      "Computer Tutoring", 
+      "Copy and Grapic Design"
+     ]
+    }, 
+    "universalName": "publicationsolver-com", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Headquartered in Brighton, Michigan, delivering publications assistance and document clean-up for clients throughout the United States. Graphic design and editing services. Professional \"information organizers.\" PublicationSolver.com, (810) 354-2113, office@publicationsolver.com. \r\n\r\nProud supporters of public broadcasting, the future of local libraries, local election precincts, solutions for situational and generational poverty, and community recycling efforts."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Charlotte Mary Rose is a London-based freelance photographer from Margate who studied English Literature at the University of Sussex before mastering Analogue & Digital Image Production at the University of Arts.\r\n\r\nShe has since worked in production for three fantastic creative agencies & received photographic commissions from Jelly London, Blue Hive, Ford of Europe, HSS Training Group LTD, Moshi Monsters, Brighton Fashion Week & HTC, Europe.\r\n\r\nWorking with a Canon 5D Mark II & a Faber-Castell pen she is available for commissions on a freelance basis.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://charlottemaryrose.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Portrait Photography", 
+      "Post Production", 
+      "Event  Photography", 
+      "Creative Direction"
+     ]
+    }, 
+    "universalName": "charlotte-mary-rose-photography", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Charlotte Mary Rose Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Sign*A*Rama Colorado is locally owned  and conveniently located in Brighton, Colorado.  We were formerly located in Lakewood, CO and relocated January, 2012.  \r\n\r\n2013 marks our 7 years of service to  Colorado and we would love to be your sign company!  Dawn Homa is the owner of SignARama and just simply loves helping people create eye catching signs to attract customers.  Keeping it simple is key to signage.  The right colors provide the \"pop\" and gets you notices.  \r\n\r\nSignARama provides graphic design, fabrication and installation.  We have full time graphic designers to bring your ideas to life!  Our project management team will coordinate the installation from permitting to final completion.  Leave everything to us and you continue to build your business.  \r\n\r\nWe can help you with banners and event signage to complete building signage.", 
+    "twitterId": "", 
+    "industry": "Printing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1289 South 4th Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "http://www.signaramacolorado.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Signage", 
+      "Advertising", 
+      "Signs"
+     ]
+    }, 
+    "universalName": "signarama-colorado", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "SignARama Colorado"
+   }
+  ]
+ }
+}

@@ -1,0 +1,839 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 500, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Red-Inc are acknowledged specialists in the cost reduction, streamlining and consolidation of Office Supplies, Printing and Promotional Products. Based in Worthing & Brighton West Sussex, servicing the local community and wider across the UK. \r\n\r\nOur services include providing office supplies, promotional products, print management and an added value full recycling scheme. Contact us for a free cost analysis - We are SO confident we guarantee to save you a minimum of 18% on your regular stationery spend.\r\n\r\nWe lead with ethics, passion and firmly believe that we deliver a superior service without compromise. \r\nWe provide essential reporting that gives you a firm grip on your companies spend and product areas allowing us to further reduce spend and look at alternative products. We operate an on-line  facility that controls the whole process from your desktop.", 
+    "twitterId": "", 
+    "industry": "Business Supplies & Equipment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN14 8PQ", 
+        "city": "Worthing", 
+        "street1": "Unit 14, Northbrook Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.red-inc.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Office Supplies", 
+      "Promotional Products & Print", 
+      "Helping companies save money & time", 
+      "Ethical Busiess Practices"
+     ]
+    }, 
+    "universalName": "red-inc", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Red Inc"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Infinity Business Growth Network", 
+    "twitterId": "", 
+    "industry": "Management Consulting", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2014, 
+    "websiteUrl": "www.infinitybusinessgrowthnetwork.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Franchising", 
+      "Marketing", 
+      "Internet marketing", 
+      "Telemarketing"
+     ]
+    }, 
+    "universalName": "infinity-business-growth-network", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Infinity Business Growth Network stands out from other small business growth consultants. \r\n\r\nWhy? Founded by an expert franchise consultant in Sussex we are a network of entrepreneurs that have achieved success across several industries over 20 years. Our skills have been gained in the real world, delivering real results.\r\n\r\nMarketing & IT jargon? No way! We will explain our services and what we can achieve for your business in \"English\", no jargon, we do not need to hide behind it. We will spend time to fully understand your business and goals, give you realistic feedback on if we believe this to be achievable and then create a plan to deliver results.\r\n\r\nServices we provide including;\r\n\r\nFranchising consultancy\r\nMarketing consultancy\r\nCloud based CRM software\r\nSales training\r\nSearch Engine Marketing ( SEM )\r\nEmail marketing\r\nTelemarketing\r\n\r\nWe are a Sussex based company but we also cover the entire UK. We offer free initial consultations in Brighton, Eastbourne, Lewes, Seaford and across East Sussex & West Sussex."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "AllRegionalJobs,com is an easy to use jobs website dedicated to jobs in the South of England. Job seekers can search our vacancies to find jobs in various industries across South, including Chichester, Brighton ,Portsmouth, Crawley. Recruiters can advertise their vacancies using our cost effective service.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08456 800 829"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Chichester", 
+        "street1": "Chichester Marina"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08456 800 829"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Sydney Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.allregionaljobs.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Recruitment advertising", 
+      "Jobs  board", 
+      "Candidate sourcing"
+     ]
+    }, 
+    "universalName": "allregionaljobs-com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "AllRegionalJobs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Certified home inspector serving the Denver metro area.\r\n\r\nI am a Certified Master Inspector\u00ae, have completed more than 1,000 inspections and/or hours of Continuing Education, have been in business for more than three years, abide by the Master Inspector Certification Board\u2019s strict Code of Ethics, and have agreed to a criminal background check.\r\n\r\nAs a proven Certified Master Inspector\u00ae,  Shawn Veith brings a variety of skills and experience ensuring you are delivered a quality home inspection. The variety and depth of his experience, combined with professional training and dedication to customer service, provides you with the comfort you will be receiving a top-notch home inspection.\r\n\r\nCall Shawn at (720) 308-2711 to discuss your home inspection needs. Or fill out our contact form for a free home inspection quote. Then, if you like, create your own user account for accessing your home inspection application and your home inspection report.\r\n\r\nWe provide quality home inspection services in the Denver metro area to include Arvada, Aurora, Boulder Brighton, Broomfield, Castle Rock Commerce City, Denver, Englewood, Golden, Henderson, Highlands Ranch, Louisville, Lakewood, Littleton, Lafayette, Morrison, Parker, Wheat Ridge and Westminster.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "729 308-2711"
+       }, 
+       "address": {
+        "postalCode": "80127", 
+        "city": "Littleton", 
+        "street1": "7493 S Quail Cir # 933"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "HomeInspectionOfdenver.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Home Inspection", 
+      "Appliances Recall Check", 
+      "Radon Testing", 
+      "Infrared Thermography Inspection", 
+      "De-Winterisation and Winterisation"
+     ]
+    }, 
+    "universalName": "home-inspection-of-denver", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Home Inspection Of Denver"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Lancing College is situated on the South Downs, near Brighton and Hove, in 550 acres of an Area of Outstanding Natural Beauty. It has a reputation for academic excellence in all subjects and a strong performance in value-added terms. There are 540 students in the school, which was founded in 1848 by the forward thinking Revd Nathaniel Woodard, whose aim was to provide a good and complete education\u2026 of sound principle and sound knowledge, firmly grounded in the Christian faith. Lancing is an ideal size: big enough to offer a diverse range of opportunities; small enough for everybody to be known and appreciated.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 452213"
+       }, 
+       "address": {
+        "postalCode": "BN15 0RW", 
+        "city": "Lancing", 
+        "street1": "Lancing College"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1848, 
+    "websiteUrl": "www.lancingcollege.co.uk", 
+    "universalName": "lancing-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Lancing College"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Makelight Productions is an independent film production company founded in 2009 by Andromeda Godfrey and Diana Juhr-DeBenedetti. We produce striking and memorable films that shake you up a little and make you feel, think and laugh. We take care of all aspects of a film's production and shepherd it from inception to completion and well beyond. We are based in Munich, Germany and Brighton, United Kingdom.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Munich", 
+        "street1": "Bergmoserstrasse 25"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Hove/"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.makelightproductions.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Film Producer"
+     ]
+    }, 
+    "universalName": "makelight-productions", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Makelight Productions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Founded in 2010 by French artist/designer Flavie Michou, Flavie Michou Joaillerie is an independent jewellery business based in London, with offices in Melbourne and Paris.\r\nBoasting three high-end collections - Michoacan; Les Tresor de la Mer; and Cupcakes, and one high-street collection - Paradox, Flavie Michou Joaillerie is fun, quirky and pretty with all pieces hand-made from either gold, silver, powder-coated metals, or semi-precious stones.  Unique and contemporary, Flavie Michou Joaillerie is fashion-forward whilst still maintaining its distinctive style.\r\n\r\n\r\nShop:\r\nwww.flavie-michou.com\r\nwww.etsy.com/shop/flaviemichou\r\n\r\n\r\nStockists:\r\n\r\nLondon, UK:\r\nJohnny Rocket - www.johnnyrocketltd.com\r\n@Work Gallery - www.atworkgallery.co.uk\r\n\r\nBrighton, UK\r\nJewel Thief Gallery - www.jewelthiefgallery.com\r\n\r\nBristol, UK:\r\nDiana Porter Contemporary Jewellery - www.dianaporter.co.uk\r\n\r\nBangor, Ireland\r\nRobinson Goldsmiths - www.robinsongoldsmiths.com\r\n\r\nOnline:\r\nJewelStreet - www.jewelstreet.com\r\n\r\n\r\nFor bespoke commissions and technical enquiries please contact info@flavie-michou.com\r\nFor wholesale/stockist, media, and general enquiries please contact bianca@flavie-michou.com", 
+    "twitterId": "", 
+    "industry": "Luxury Goods & Jewelry", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "Hatton Gardens"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Melbourne", 
+        "street1": "."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Paris", 
+        "street1": "."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.flavie-michou.com", 
+    "universalName": "flavie-michou-joaillerie", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Flavie Michou Joaillerie"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Robert Harding Computers Ltd", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273728827"
+       }, 
+       "address": {
+        "postalCode": "BN3 3WE", 
+        "city": "Hove", 
+        "street1": "65a Sackville Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.rh-computers.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Apple Computers", 
+      "Apple Support Service", 
+      "IT Managed Services"
+     ]
+    }, 
+    "universalName": "robert-harding-computers-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton based Apple Authorised Service Provider.  Founded in 1979 and boasting awards for quality of service, RHC provide warranty service on Apple Computer products, hardware and software support contracts and drop-in service together with multi-platform IT consultancy services."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Zoe Coleman Music", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.zoecolemanmusic.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Composition", 
+      "Video Game Music", 
+      "Film Scoring", 
+      "Music for Animation", 
+      "Music for TV", 
+      "Arranging"
+     ]
+    }, 
+    "universalName": "zoe-coleman-music", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Zoe Coleman is a composer and sound designer based in Brighton, UK. Having graduated from the University of Sussex with a BA Hons in Music, she has worked on a variety of projects with collaborators worldwide.\r\n\r\nThough specialising in music for games, films and animations, Zoe has also produced stand-alone compositions and arrangements \u2013 for both personal projects and commissioned work.\r\n\r\nZoe offers flexible, indie-friendly rates for unique and imaginative soundtracks at a professional standard.\r\n\r\nNeed music that brings your project to life? Want a piece of music arranged or orchestrated? Get in touch at info@zoecolemanmusic.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Filthy Sky Ltd", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.filthysky.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "media", 
+      "music", 
+      "design"
+     ]
+    }, 
+    "universalName": "filthy-sky-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Filthy Sky Ltd was founded in 2013 by broadcaster, music producer & DJ Jimmy Willis. With offices based in Brighton, Filthy Sky is a music, television and digital content company.\r\n \r\nThe idea to start the company originated from Jimmy wanting to be entirely self-contained giving him the freedom to work on music and television productions without the creative restrictions placed upon people by some of the large music and media companies. Over the years, Jimmy has worked with some truly talented individuals from the world of media and music and decided that he would build his own team so he could work on projects from start to finish, without having to answer to anyone but himself. This has given him a huge amount of creative freedom.\r\n\r\nFilthy Sky Records is the trading name for the music side of Filthy Sky Ltd. We are a refreshing independent record label releasing high quality dance music across all genres. We shall be bringing you the freshest and most unique songs from both the commercial and the underground world, ranging from international stars to brand new up and coming talent. At Filthy Sky Records we care about our artists and help them to succeed in their music careers. We have a massive range of services and advice available if needed, to help with the artists\u2019 production and DJ journey giving them the best chance to succeed in a very hard industry. \r\n \r\nAt Filthy Sky we aim to help young up and coming talent to break in to the world of TV and music while also helping out established stars in their journey though the world of entertainment. We're also looking in to starting up workshops for young people in the very near future, mixing education with fun and bringing music and TV production in to places where you wouldn\u2019t expect to see it.\r\n \r\nWatch this space, there\u2019s a lot happening very soon!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "(We Are) Caper (Ltd)", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.wearecaper.com", 
+    "universalName": "-we-are-caper-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We build digital prototypes, develop communications campaigns and create innovative culture change programmes such as Articulate, Culture Hack, Happenstance, and Coding for Kids.\r\n\r\nOur clients include BBC Radio 3, Kings Cultural Institute, RSC, British Council, NHS, University of Cambridge Museums, and Royal Pavilion, Libraries & Museums, Brighton & Hove."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Upshot Marketing", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.upshotmarketing.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Insight", 
+      "Strategy", 
+      "Campaigns", 
+      "Digital"
+     ]
+    }, 
+    "universalName": "upshot-marketing", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A results-driven marketing agency based in Brighton.\r\n\r\nWe help clients make well-informed, insight-driven plans \r\nWe produce campaigns that deliver the best ROI \r\nAnd we measure in a meaningful way so your next plan delivers more\r\n\r\nConnect with us to be kept informed of our news."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Surface Impression is an imaginative and innovative digital media development company.\r\n\r\nSince the company was founded in Brighton in 2001, we have specialised in delivering communication resources for charities, cultural heritage, education and arts organisations.\r\n\r\nOur core services are web and graphic design, smartphone apps, programming, user interface design, content management, database development, strategic consultancy and information architecture. We also provide content creation, editorial consultancy, accessibility and usability testing, ongoing support and training.\r\n\r\nWith Surface Impression you get:\r\n\r\n* plain English, enthusiasm, commitment and a \u2018can do\u2019 attitude\r\n* expertise in user centred design and accessibility\r\n* stacks of experience in museums, archives, education and the public/third sectors", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 958600"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UT", 
+        "city": "Brighton", 
+        "street1": "11a Jew St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.surfaceimpression.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Websites", 
+      "Apps", 
+      "Museums", 
+      "Archives", 
+      "Arts Organisations", 
+      "Galleries"
+     ]
+    }, 
+    "universalName": "surface-impression", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Surface Impression"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Coast to Coast Direct specialise in supplying businesses across the UK with all their stationery, furniture, print and IT consumables. \r\n\r\nCoast to Coast has decades of combined industry experience, and since our inception we have grown every year and now supply customers all across the UK but specialising in London and the South East.  We have won industry awards for our growth and our service levels, and have recently been awarded \u2018Brilliant Partner\u2019 status with our main supplier.\r\n\r\nOur Head Office is situated just outside of Brighton, with our main warehouse in Greenwich. We also have depots placed strategically around the country so we are able to service customers across the UK with stationery, IT hardware and software, furniture, promotional products and printed stationery.\r\n\r\nOur success is based purely on our service.  Put simply, our aim is to make your life as easy as possible.  No job is too big or too small, and we\u2019ll do whatever it takes to meet your needs and exceed your expectations.  Check out some of the things our loyal customers have to say about us by visiting the Testimonial page on our website.\r\n\r\nOur service is fitted specifically around your needs and requirements, so whether it is ordering online, via the telephone, fax or e-mail, we will build a system that is tailored and designed to work for you.  We\u2019ll take all the hassle and stress out of ordering, and make sure you can return to the other tasks on your To-Do list as quickly as possible!\r\n\r\nWe believe in friendly, personal and hands-on service, so each client is assigned a dedicated account manager who is responsible for running your account. You will always be able to speak to the same person with any problems, queries or questions, and we will make it our priority to build a strong and valued relationship with you and your business.", 
+    "twitterId": "", 
+    "industry": "Business Supplies & Equipment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01903 238987", 
+        "phone1": "01903 236863"
+       }, 
+       "address": {
+        "postalCode": "BN11 3SD", 
+        "city": "Worthing", 
+        "street1": "Brooks Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.coasttocoastdirect.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Stationery", 
+      "IT Consumables", 
+      "Printed Stationery", 
+      "Furniture"
+     ]
+    }, 
+    "universalName": "coast-to-coast-direct", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Coast to Coast Direct Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Private Barman", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.privatebarman.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Hire a Cocktail Bartender", 
+      "Cocktail Classes London", 
+      "Hire a Flair Bartender", 
+      "Hire a Barman London"
+     ]
+    }, 
+    "universalName": "private-barman", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Professional Cocktail Bartending Services available for hire in London, Brighton, Bristol and Cardiff, Manchester & Liverpool, Edinburgh, Glasgow, Dundee & Aberdeen.\r\n\r\nPrivate Barman has been formed in 2007 in London providing Bar Staff available for hire and since it quickly expanded throughout UK. We cover all aspects of the bar service to include:\r\n- cocktail bartenders available for hire\r\n- cocktail waiters\r\n- cocktail classes\r\n- hen party cocktail making classes\r\n- barbacks\r\n- mobile cocktail bar hire\r\n- cocktail glasses hire\r\n- cocktail equipment hire\r\nFor further details, rates and availabilities in your area please visit us at  www.privatebarman.com\r\n \r\n\r\nWeddings, Private and Corporate Banquets, Trade Shows and Product Launches, Birthday Parties or Hen Do's -we have the perfect bartender to match the occasion. We offer full options from the Full Bar Package to include the mobile bar, glassware and ingredients to the standard Bartender Hire only package. Our barmen have years of experience working at some of the most glamorous events both in UK and abroad, hire your cocktail bartender today with Private Barman UK!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Award Creative", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.awardcreative.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Graphic Design", 
+      "Web Design", 
+      "Art Direction", 
+      "Photography"
+     ]
+    }, 
+    "universalName": "award-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "A creative design agency working with a diverse range of clients offering bespoke design solutions. Independently owned and based in the heart of Brighton & Hove we are fifty minutes from London and five minutes from the beach.\r\n\r\nAward Creative can offer advice or a competitive quote to suit your budget. We can handle your job from concept to completion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Established in 1963, We are a family run business based in East Sussex, we have two showrooms; one in Crowborough and one in Brighton. \r\nWe specialise in all aspects of interior design and furnishings for your home. Covering every stage of making, fitting and furnishing, through to offering our own interior design service, whatever you need to make your home complete, Mister Smith Interiors will fulfil your vision and create your ideal living space.\r\nFrom British made stylish sofas and chairs to table and pendant lamps, fine fabrics and wall coverings to cozy carpets and rugs. Be it classic charm or cutting edge cool, Mister Smith will find the right product for you.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01892 664152"
+       }, 
+       "address": {
+        "postalCode": "TN6 1DR", 
+        "city": "Crowborough", 
+        "street1": "1-3 The Parade"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 605574"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UF", 
+        "city": "Brighton", 
+        "street1": "23 New Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1963, 
+    "websiteUrl": "www.mistersmith.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fabric", 
+      "Carpet", 
+      "Lighting", 
+      "Interior Design"
+     ]
+    }, 
+    "universalName": "mister-smith-interiors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mister Smith Interiors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Individually, Allor Manufacturing and Plesh Industries had become steel manufacturing leaders by focusing on custom engineering solutions in the heavy industry. Allor Manufacturing and Plesh Industries merged operations and teams to become Allor-Plesh In 2003.\r\n\r\nBy combining resources, Allor-Plesh has become a united business entity with an incredible platform for world market growth. By optimizing both manufacturing locations in Brighton, Michigan, Allor-Plesh is able to meet an even higher global demand for custom solutions. And by consolidating resources and merging talents, Allor-Plesh is fast becoming the leading provider of custom designs and solutions in the manufacturing of chain, wheels, rollers, conveyors, cartridge style bearings, levelers and much more. Commitments to quality and customer satisfaction are the outstanding strengths of Allor-Plesh. Our products withstand the harshest environments - and meet/exceed any industry challenge.", 
+    "twitterId": "", 
+    "industry": "Industrial Automation", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.allorplesh.com", 
+    "universalName": "allor-manufacturing-and-plesh-industries-inc-", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Allor Manufacturing and Plesh Industries, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Get Manic offer bespoke Website Design, SEO services, Paid Search Campaign Management, Web Copy Writing, Article Writing, Social Marketing throughout Brighton and the UK.\r\n\r\nWith clients throughout the UK benefiting from quality SEO services from Get Manic, we strive for success by gaining higher search rankings for businesses, developing your online brand, monitoring behavior flow and tracking analytics results to understand your business and the impact it has online.\r\n\r\nGet Manic offer bespoke website design, no templates found here! Whether its a brochure website or E-commerce store, the Manics can offer stunning design, clean coding and a effective workable visitor experience. \r\n\r\nWith our ongoing Search Marketing and Social Media campaigns we can help grow your business online, develop your brand and ensure successful results through Digital Marketing techniques.\r\n\r\nCall one of our friendly team today for a chat about your digital marketing requirements.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 900265"
+       }, 
+       "address": {
+        "postalCode": "BN2 3AB", 
+        "city": "Brighton", 
+        "street1": "Suite 1, 39"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.getmanic.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "SEO", 
+      "Website Design", 
+      "Social Marketing", 
+      "Link Building"
+     ]
+    }, 
+    "universalName": "get-manic-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Get Manic Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Nutrition-al is a freelance dietitian and nutrition consultantancy offering professional nutritional advice and dietetic intervention.\r\n\r\nAll nutrition services are provided by Registered Dietitians (RDs), who are the gold standard of food and nutrition professionals.  Dietitians are statutorily regulated, with a protected title and governed by an ethical code, to ensure that they are appropriately qualified (at least to degree level) and always work to the highest standard.\r\n\r\nNatalie graduated with a BSc Hons in Human Nutrition and Dietetics in 1998.  She has over 15 years of experience in the field of nutrition and dietetics.  She has previously held positions within the NHS in Ayrshire, Glasgow and the South East of England and has worked in the acute, community and health promotion settings.  She has also worked as a guest lecturer on undergraduate and postgraduate courses at The University of Brighton and Glasgow Caledonian University.\r\n\r\nNatalie has extensive dietetic expertise and knowledge especially in the areas of weight management, behaviour change, diabetes, cardiovascular disease and training and education.  She also has significant experience in coeliac disease, IBS, PCOS, pre-conception, pregnancy and breastfeeding nutrition, weaning and healthy eating in infants and children and sports nutrition.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01292 737789"
+       }, 
+       "address": {
+        "postalCode": "KA7 4PY", 
+        "city": "Ayr", 
+        "street1": "21 Alloway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.nutrition-al.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Nutrition", 
+      "Dietitian", 
+      "Sports Nutrition", 
+      "Nutritional Consultants", 
+      "Dietetic Intervention", 
+      "Professional Nutritional Advice"
+     ]
+    }, 
+    "universalName": "nutrition-al", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Nutrition-al"
+   }
+  ]
+ }
+}

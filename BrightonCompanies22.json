@@ -1,0 +1,910 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 440, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 68, 
+    "name": "PEAKER SERVICES INC.", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.peaker.com", 
+    "universalName": "peaker-services-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Peaker Services, Inc. (PSI) was founded in 1971 in a two-car garage in Belleville, Michigan to repair and maintain EMD diesel generators or \"Peakers\" as they are known in the utility industry. As demand for PSI's services grew, the company built and moved into larger quarters next to the two-car garage. After having to move the basketball court next to the garage, the company moved to Brighton, Michigan, approximately 30 minutes northwest of Detroit. In 1978, PSI built its \"Green Oak No. 1\" plant and office on a rural 10-acre site in Brighton. The facility was then tripled in size in 1984 to the current 45,000 sq. ft., including additonal remanufacturing and warehouse space. In 2006, PSI added the New Castle, Delaware location to service PSI's expanding East Coast market."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 199, 
+    "description": "Vandersanden Group is a family company established in 1925. Based on a rich experience and knowledge in innovation Vandersanden profiles itself as the Belgian market leader in handformed facing bricks.\r\n\r\nVandersanden Group develops and sells worldwide handformed facing bricks, pavers, joint-free brickwork (Zero), insulated brick solutions (E-Brick & E-Board) and creative brick cladding systems (Signa).  \r\n\r\nVandersanden Group offers facing bricks in different colours, shapes and textures to obtain a unique esthetic result for every project. There is a continuous improvement and prevention of energy use. Vandersanden Group is positioning itself as a real force for sustainable development and demonstrating its active concern for the environment.\r\n\r\nSome references:\r\n- Raakspoort - Haarlem - The Netherlands (awarded with the BDA Brick Award 2012)\r\n- Isala Klinieken (medical facility) - Zwolle - The Netherlands\r\n- Invalidovna - Praha - Czech Republic\r\n- Futurama Business Park - Praha - Czech Republic\r\n- Sacre Coeur Project - Praha - Czech Republic\r\n- Mayesbrook Park Sports Arena (training facility Olympic Games 2012) - London - UK\r\n- Kamino Z - Osaka - Japan\r\n- University of Bergen, Social Sciences and Arts Library - Bergen - Norway\r\n- Flanders Business Park - Warsaw - Poland\r\n- Belgian Village - Moscow - Russia\r\n- University of Southampton, Life Science Building - Southampton - UK\r\n- Brighton Aldridge Community Academy - Brighton - UK (awarded with the RIBA Regional Sustainability Award 2012)", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+32 89 510 140"
+       }, 
+       "address": {
+        "postalCode": "3740", 
+        "city": "Bilzen", 
+        "street1": "Riemsterweg 300"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(+31) 0416 36 96 99", 
+        "phone1": "(+31) 0416 36 96 96"
+       }, 
+       "address": {
+        "postalCode": "6917 AD", 
+        "city": "Spijk", 
+        "street1": "Spijksedijk 24"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(+32) 089 75 41 90", 
+        "phone1": "(+32) 089 79 02 50"
+       }, 
+       "address": {
+        "postalCode": "3650", 
+        "city": "Lanklaar", 
+        "street1": "Nijverheidslaan 11"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(+31) 0416 36 96 99", 
+        "phone1": "(+31) 0416 36 96 96"
+       }, 
+       "address": {
+        "postalCode": "5256 TC", 
+        "city": "Hedikhuizen", 
+        "street1": "Bokhovenseweg 8"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(+33) 0320 23 89 63", 
+        "phone1": "(+33) 0320 23 93 00"
+       }, 
+       "address": {
+        "postalCode": "59250", 
+        "city": "Halluin", 
+        "street1": "Avenue de Machelen 14"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1925, 
+    "websiteUrl": "www.vandersandengroup.com", 
+    "universalName": "vandersanden-nv", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Vandersanden Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1066, 
+    "description": "Dotsquares are an International creative digital design and development company based in Albourne (near Brighton & Hove) , United Kingdom, Australia & Texas, U.S.A with two development centres in Jaipur, India. We provide online solutions for companies of all sizes. DotSquares Video Presentation http://www.youtube.com/watch?v=RQypVDfhcrs\r\n\r\nDotsquares have a worldwide reputation for delivering innovative websites and mobile applications on time and on budget. \r\n\r\nOur aim is to combine quality web design and development with offshore benefits, in order to provide online solutions & taking the current economic downturn problems away from customers. Whether you are a small start up company looking to establish yourself in the market, or a large multinational looking for expansion, we can put in place a number of solutions to help you achieve your targets. Remember, we were once a start up company, and are now going through rapid expansion.\r\n\r\nHaving completed in excess of 5000 projects, including content managed systems, e-commerce stores and social networking apps, the Dotsquares team continues to grow. A unique business model allows Dotsquares to treat its clients as individuals; whether working with multi-nationals, public sector organisations, the small business sector or fellow digital companies.\r\n\r\nThe company continues to grow and can now boast over 400 experienced technical staff, from designers and developers to SEO gurus and project managers.", 
+    "twitterId": "dotsquares", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0844 811 3503", 
+        "phone1": "01273 575190"
+       }, 
+       "address": {
+        "postalCode": "BN6 9DB", 
+        "city": "Albourne", 
+        "street1": "Unit 2,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.dotsquares.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Websites", 
+      "E-Commerce", 
+      "Mobile Apps", 
+      "Content Manages Systems", 
+      "Bespoke Development", 
+      "Games Development", 
+      "iPhone Applications", 
+      "Facebook Applications", 
+      "BlackBerry Applications", 
+      "Project Management", 
+      "Search Engine Optimisation", 
+      "Managed Hosting"
+     ]
+    }, 
+    "universalName": "dotsquares", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dotsquares"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 43, 
+    "description": "Big Box Storage Company was founded in 1995 to offer quality Self Storage in the South East of England. Based in Brighton, the company has expanded to operate Centres in Mid-Sussex, Maidstone, Tonbridge, High Wycombe, Ipswich and Norwich, along with three Centres in the immediate Brighton area. Co-founders, brothers Mike and Peter Rayner still run the company, with a dedicated management team.", 
+    "twitterId": "bigboxss", 
+    "blogRssUrl": "", 
+    "industry": "Facilities Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.bigboxstorage.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Secure Self Access Storage", 
+      "Packaging Materials", 
+      "Serviced Office Spaces"
+     ]
+    }, 
+    "universalName": "big-box-storage", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Box Storage"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2828, 
+    "description": "Co-founded by Howard Panter and Rosemary Squire in 1992, the Ambassador Theatre Group (ATG) has a total of 39 venues across the UK. ATG is also one of the country\u2019s foremost theatre producers and has been behind some of the most successful and innovative productions in Britain and internationally.\r\n\r\nATG\u2019s impressive portfolio of West End theatres includes historic buildings such as the Apollo Victoria, Comedy, Donmar Warehouse, Duke of York\u2019s, Fortune, Lyceum, Phoenix, Piccadilly, Playhouse, Savoy, Trafalgar Studio 1 and Trafalgar Studio 2. \r\n\r\nATG\u2019s regional theatres include The Ambassadors Woking encompassing the New Victoria and Rhoda McGaw Theatres and the award-winning 6 screen cinema complex, Ambassador Cinemas; Alexandra Theatre, Birmingham; Aylesbury Waterside Theatre; Theatre Royal Brighton; Bristol Hippodrome; Churchill Theatre Bromley; Edinburgh Playhouse; Leas Cliff Hall, Folkestone; King\u2019s Theatre and Theatre Royal, Glasgow; Grimsby Auditorium; Liverpool Empire; Palace Theatre and Opera House, Manchester; Milton Keynes Theatre; New Theatre, Oxford; Richmond Theatre; Southport Theatre; Regent Theatre and Victoria Hall, Stoke-on-Trent; Sunderland Empire; Princess Theatre, Torquay; New Wimbledon Theatre and New Wimbledon Studio; Grand Opera House, York.\r\n\r\nFind out more at www.atgtickets.com", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "GU21 6GQ", 
+        "city": "Woking", 
+        "street1": "The Ambassadors"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "http://www.atgtickets.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "theatre producer", 
+      "promoter", 
+      "venue operator"
+     ]
+    }, 
+    "universalName": "ambassador-theatre-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ambassador Theatre Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1039, 
+    "description": "Progressive email marketing company Pure360 provides the best email marketing services to customers such as innocent drinks, Seatwave, The FT Group, Rightmove, Zoopla and LA Fitness. \r\n\r\nPure360 don\u2019t tie customers in with a long contracts, instead they maintain the highest customer retention rate of 98.6% by making sure marketers are getting the best possible results from their email marketing campaigns. \r\nMembers of the DMA, Pure360 have recorded a 10% higher open rate for their customers than the DMA average, leading to higher clicks and conversions than competitor products.\r\n\r\nYou can find the team working to improve over 2,000 marketers email campaigns, down in Brighton, pop in or give them a call 0844 586 0001 to discuss how they can help you get excellent results from your email & SMS campaigns.", 
+    "twitterId": "@pure360", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 586 0001"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GH", 
+        "city": "Brighton", 
+        "street1": "Unit A-E Lvl 3 South, New England House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.pure360.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "email", 
+      "sms", 
+      "marketing", 
+      "service provider", 
+      "online", 
+      "software", 
+      "solutions"
+     ]
+    }, 
+    "universalName": "pure360", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pure360"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 64, 
+    "description": "Based in central Brighton, but very much with an international focus, Skoosh is an ambitious and dynamic online travel agency specialising in hotels. Despite our relatively small size we compete directly with the largest travel companies in the world with an innovative range of technology and marketing skills. Our ambition is to set ourselves apart from the rest by doing 'everything better'. Indeed, in everything we do, we aim to improve on what's already out there.", 
+    "twitterId": "skooshhotels", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 728862"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AW", 
+        "city": "Hove", 
+        "street1": "48 Rochester Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.skoosh.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Discount Hotels", 
+      "Cashback Hotels", 
+      "Hotels Near Attractions"
+     ]
+    }, 
+    "universalName": "skoosh-international-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Skoosh"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 287, 
+    "name": "Boss Alien Ltd", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bossalien.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Mobile Videogame Development", 
+      "Freemium Business Model", 
+      "Game Design"
+     ]
+    }, 
+    "universalName": "boss-alien-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Boss Alien Ltd is an energetic and creative videogame developer for iOS and other mobile platforms.  Formed from a core of ex-Disney Black Rock staff we have vast experience of game development on console, PC and mobile platforms stretching back over the last 20 years.\r\n\r\nWe focus on freemium titles using high-end graphics to engage our players with simple yet compelling gameplay that fits the form factor and usage patterns of mobile devices.  \r\n\r\nWe are based in the heart of Brighton in the UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Based on the UK\u2019s sunny south coast, in the vibrant, creative city of Brighton, we create innovative games and experiences for home and mobile platforms. We love games, as both players and creators, and we reflect that passion in our work. We believe in the power of teamwork, bringing together the creative disciplines involved in game development to collaborate in the on-time delivery of sparkling titles.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton", 
+        "street1": "15-17 Middle Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.wishstudios.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Creative Development", 
+      "Motion Control", 
+      "Augmented Reality", 
+      "In-the-Room Multiplayer Gaming", 
+      "Console Game Development"
+     ]
+    }, 
+    "universalName": "wish-studios-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wish Studios Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 110, 
+    "description": "The award-winning Sussex Innovation Centre is one of the premier business incubators in the UK. Established in 1996 and situated near Brighton, it offers functional, modern business accommodation in an attractive two-storey building that is designed to encourage innovation and give companies and business start ups both the freedom and the support to succeed.", 
+    "twitterId": "sinc_innovation", 
+    "blogRssUrl": "http://www.sinc.co.uk/feed/atom/news", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+441273704400"
+       }, 
+       "address": {
+        "postalCode": "BN1 9SB", 
+        "city": "Falmer", 
+        "street1": "University of Sussex"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.sinc.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Startup and growth support", 
+      "Business Networks", 
+      "Mentoring", 
+      "Business Incubation"
+     ]
+    }, 
+    "universalName": "sussex-innovation-centre", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Sussex Innovation Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 294, 
+    "description": "We founded Gobo with the aim to manage a small, boutique developer with the premise to GO Beyond Ordinary. The studio has the strongest culture of any studio that we have ever worked at and is situated in one of the most enviable working environments in the city of Brighton & Hove. But most important of all we have a bright, cohesive, talented team.\r\n\r\nSo far we have been lucky enough to work with some amazing development teams and help augment their teams with our hugely talented people here at Gobo. We've been trusted with responsibility for full development of headline features by our partners - we're proud that our partners can see and trust our total devotion to quality and excellence.\r\n\r\n2013 - Gobo are supporting Avalanche Software on Disney Infinity - a major new toys-and-video-games platform from Disney Interactive launching in June 2013. We are responsible for the Pirates of the Caribbean playset which is one of the three launch playsets for the platform - a major, headline, front-of-box feature.\r\n\r\n2012 - Gobo augmented Codemasters development capacity and successfully released F1 2012 on PC, PS3 and Xbox360 (84% metacritic). We were responsible for headline, front-of-box features.\r\n\r\n2012 - Gobo worked with Microsoft Studios, Soho Productions on an unannounced new production.\r\n\r\n2011 - Gobo had the pleasure to work with Ruffian Games in Dundee, Scotland on unannounced productions for Microsoft Studios.", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 6HA", 
+        "city": "Brighton", 
+        "street1": "Unit 8, Hove Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.studiogobo.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "AAA Game Development", 
+      "Unity", 
+      "iOS", 
+      "Xbox360/PS3", 
+      "PC", 
+      "Lean project management"
+     ]
+    }, 
+    "universalName": "studio-gobo", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "STUDIO GOBO"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "name": "Player Research", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "playerresearch.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Playtesting", 
+      "Games User Research", 
+      "Player Experience", 
+      "Research"
+     ]
+    }, 
+    "universalName": "player-research", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Player Research provide playtesting and user research services to the video games industry. Founded in 2012, Player Research is based in Brighton, UK.\r\n\r\nPlayer Research publish a fortnightly column in Edge Online, which can be read here: http://www.edge-online.com/filter/all/tags/759"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "We are a small company who design and build high quality web and mobile applications. We believe in user-centred design and rigorous engineering standards. We take an open and friendly approach in all that we do.\r\n\r\nWe are a strong team of professionals who bring a high level of expertise and experience to our individual roles. We have formed DabApps to bring the best of our skill sets together along with our shared desire to produce high quality work that we and our clients can be proud of.\r\n\r\nWe work both directly with clients in a B2B relationship, delivering custom web and mobile applications that help their businesses succeed. We also work in partnership with other design and digital agencies who require specialist IT skills to fulfill their client briefs.\r\n\r\nYou can find us in the heart of Brighton's thriving digital community where we regularly orgainise events, take part in and contribute to local initiatives and generally benefit from the wealth of talent around us.", 
+    "twitterId": "dabapps", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "012732 08222"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AG", 
+        "city": "Brighton", 
+        "street1": "31 Duke Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://dabapps.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Django", 
+      "Frontend engineering", 
+      "User experience design", 
+      "Visual design", 
+      "Prototyping", 
+      "Agile project management methodologies", 
+      "Python", 
+      "API development", 
+      "Training"
+     ]
+    }, 
+    "universalName": "dabapps", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "DabApps"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 61, 
+    "description": "www.bliink.tv\r\n\r\nBLIINK is an ideas led full service multi disciplinary creative studio located in Brighton UK. \r\n\r\nWe strive to find elegant solutions to our clients' needs via branding, design, direction, animation and motion graphics.\r\n\r\nCommunicating complex ideas through narrative is what makes us tick.\r\n\r\nOur work frequently crosses the boundaries between art, design and technology and we try to avoid the ordinary, unless the ordinary is beautiful and the best solution.", 
+    "twitterId": "bliink_", 
+    "industry": "Animation", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273221637"
+       }, 
+       "address": {
+        "postalCode": "BN11NH", 
+        "city": "Brighton", 
+        "street1": "39 Old Steine"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.bliink.tv", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "animation", 
+      "design", 
+      "motion graphics", 
+      "art direction", 
+      "visual effects", 
+      "3D", 
+      "events", 
+      "branding", 
+      "corporate comms", 
+      "visual storytelling", 
+      "digital design", 
+      "interactive applications", 
+      "motion design", 
+      "digital ooh", 
+      "creative applications", 
+      "campaign strategy"
+     ]
+    }, 
+    "universalName": "bliink", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BLIINK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Mosaic are a conversion focused digital agency in the lively, creative hub of Brighton, UK. We develop brands, sales and customer relations through the creative use of technology and user experiences. We specialise in web and email creative development to produce results that work for you and your brand.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 811091"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AF", 
+        "city": "Brighton", 
+        "street1": "The Grain Store"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "http://www.emosaic.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Digital strategy", 
+      "Responsive design", 
+      "User experience", 
+      "Digital campaigns", 
+      "Web development", 
+      "Testing and insights", 
+      "Email marketing", 
+      "SEO", 
+      "Social Media"
+     ]
+    }, 
+    "universalName": "mosaic-digital", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Mosaic Digital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "42 Branches Ltd.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://42b.co", 
+    "universalName": "42-branches-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "artisan software engineering solutions crafted by hand in brighton.\r\n\r\n42 branches is a niche software engineering consultancy specialising in tailor-made, internet connected software / hardware solutions for industries ranging from finance to fashion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Coast to capital is the LEP for Brighton and Hove, Croydon, Gatwick Diamond (including four Surrey areas), Lewes and West Sussex. Local Enterprise Partnerships were founded in 2011 designed to determine local economic priories and stimulate job creation within its local area, working closely with local businesses and strategic partners. The overall aim; to achieve strong sustainable economic growth. \r\n\r\nOur vision Is to create an outward facing, high performing international business economy, with a reputationfor being a good place to do business. Business and economic performance will be transformed so our area can compete in any global market place.\r\nIf we achieve our vision the Coast to Capital economy will be one where:\r\n\r\n\u2022\tA high proportion of businesses are internationalised\r\n\u2022\tThere is a strong, competitive dynamic with high rates of business formation.\r\n\u2022\tThere are high levels of innovation and business growth.\r\n\u2022\tThere is a highly skilled workforce with high levels of economic activity.\r\n\u2022\tYoung people can learn and follow rewarding careers, without having to move away.\r\n\u2022\tPrivate sector employment growth is strong and public sector employment forms one fifth, or less, of the total.\r\n\r\nOur Goal\r\nTo create net private sector employment growth of 100,000 jobs over the next 25 years to 2035", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Horsham", 
+        "street1": "Horsham"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.coast2capital.org.uk", 
+    "universalName": "coast-to-capital", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Coast to Capital LEP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Puree Design is a design agency based in the heart of Brighton.\r\nWe are a small team who specialise in branding and web design.\r\n\r\nBrand development:\r\nMany businesses think of the brand as simply a logo, and we can certainly deliver that. \r\nHowever a brand is much more than this. It's something that shapes your every point of contact with those you do business with. Good branding will create a common thread through all of your communications so that all of your assets from website to business cards, flyers and vehicle livery all communicate the right personality for your business. We'll endeavour to understand our clients' audience and brand essence so that we can make your brand work harder for our clients.\r\n\r\nWe design beautiful, usable websites:\r\nA website is often the first point of contact with the audience so it's an important first impression to make. We design websites that are easy to navigate, we give careful consideration to the information architecture and useabilty, considering your main objectives for the site and those of your visitors. We'll bring your brand alive and optimise your site to maximise traffic. \r\n\r\nWe also provide services in online advertising, advertising creative, illustration and print design.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.pureedesign.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Branding", 
+      "Web Design", 
+      "Print Design", 
+      "Marketing", 
+      "Illustration"
+     ]
+    }, 
+    "universalName": "puree-design-limtied", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Puree Design Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Founded by Vashikeh and Lydia in 2013, Milla Grace is a beautiful boutique that combines high-end fashion trends from Paris and Milan with the vivacity of South East Asian art; it juxtaposes the classic and the elegant with the cutting edge and modern and boasts both unique products from the other side of the world and locally-sourced items from Sussex.\r\n \r\nMilla Grace captures the elusive and transient nature of fashion and art itself, supports new and undiscovered artists and designers and makes them accessible to the everyday buyer.", 
+    "twitterId": "", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 220409"
+       }, 
+       "address": {
+        "postalCode": "BN1 1BG", 
+        "city": "Brighton", 
+        "street1": "24"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.millagrace.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Luxury Fashion", 
+      "Womens Apparel", 
+      "Lifestyle Fashion", 
+      "Brighton Style"
+     ]
+    }, 
+    "universalName": "milla-grace", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Milla Grace"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "A space in the centre of Brighton to learn, experiment, collaborate and incubate projects at the edges of technology, art, culture and society.\r\n\r\nWe host workshops and events that teach the most potent, useful cutting-edge technologies in a friendly, clear and simple way. And we bring together experimental art, social movements and self-development under one roof. And get people involved and talking to each other, connecting and collaborating.\r\n\r\nIf there's a specific activity that you'd like to see happen, please let us know.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07941 192398"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "45 Gloucester Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://L4RP.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "technology", 
+      "web development", 
+      "html5", 
+      "javascript", 
+      "art", 
+      "education", 
+      "culture", 
+      "society", 
+      "social movements", 
+      "mobile"
+     ]
+    }, 
+    "universalName": "lab-for-the-recently-possible", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Lab for the Recently Possible"
+   }
+  ]
+ }
+}

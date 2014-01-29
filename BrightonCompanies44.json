@@ -1,0 +1,782 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 880, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Headed up by Director and Designer Alvaro Rodriguez, we are a small manufacturer of Luxury Bespoke Beds based near Brighton in East Sussex.  Taking pride in our craft, our goal is to manufacture stunning wood masterpieces, to constantly excel in the level of quality and excellence we deliver. All of  beds are handmade in our workshop. Every piece of furniture we produce is unique and tailored to our customers needs.\r\n\r\nOur Luxury Bespoke Beds are synonymous to quality and durability. All beds are Custom made to your exact specifications and built using high quality woods.", 
+    "twitterId": "BespokeBeds", 
+    "blogRssUrl": "http://feeds.feedburner.com/BespokeBedBlog", 
+    "industry": "Furniture", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.luxurybespokebeds.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Bespoke Beds", 
+      "Luxury Beds", 
+      "Custom made Beds"
+     ]
+    }, 
+    "universalName": "luxury-bespoke-beds", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Luxury Bespoke Beds"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Bringing good Brighton music out of the salad bowl and into your music collection, Big Salad Records specializes in releasing the more unusual and experimental projects from the city's overwhelming and over-saturated musical scene. It focuses on promoting acts who demonstrate pop sensibilities but defines this liberally within the context of wider genres. Big Salad Records also holds a preference for the underly serious and an avoidance of those with indolent or po-faced austerity.", 
+    "twitterId": "bigsaladrecords", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.bigsaladrecords.com", 
+    "universalName": "big-salad-records", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Salad Records"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 38, 
+    "description": "In 1973, the first Keys Caf\u00e9 opened for business in St. Paul on Raymond Avenue. Barbara Hunn founded this first adventure, refining and improving her successful formula until the second Keys opened in New Brighton in 1983. \r\n\r\nTogether with her family, the Keys Caf\u00e9 have expanded to nine Twin Cities locations and have been recognized and awarded both locally and nationally for their fine food. \r\n\r\nThe Keys Caf\u00e9 philosophy is simple: memorable service and absolutely the best food ... breakfasts, lunches, dinners, and desserts created from scratch recipes \"you grew up with\".", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(651) 646-5756"
+       }, 
+       "address": {
+        "postalCode": "55114", 
+        "city": "Saint Paul", 
+        "street1": "767 Raymond Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "www.keyscafe.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Made from scratch home cookin'...", 
+      "Breakfast, Lunch, Dinner, Bakery, Catering, Wedding Cakes..."
+     ]
+    }, 
+    "universalName": "keys-cafe-&-bakery", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Keys Cafe & Bakery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "name": "ABC Structures Ltd", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.abcmarquees.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Marquee Hire", 
+      "Wedding Marquees", 
+      "Ice Rink Hire", 
+      "Event Management"
+     ]
+    }, 
+    "universalName": "abc-structures-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Marquee hire and event services for weddings, parties and corporate events including bar hire, catering, furnishings and accessories, staff and entertainment. We also offer ice rink hire and ice bars for ultra-glamorous events!\r\n\r\nAlso known as ABC Marquees, we are based near Brighton and serve locations throughout Sussex, Kent, Surrey, Hampshire & Berkshire, UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Inspiration Yoga brings together two yoga teachers, Janaki and Davy. \r\n\r\nEach has their own individual yoga approach and together they bring a sense of fun and adventure to yoga. They teach classes and 1-to-1 lessons in Brighton and London, and together they run workshops and yoga holidays in the UK and abroad.\r\n\r\nThe Inspiration Yoga website can be found here: http://www.inspirationyoga.net/\r\n\r\nYou can follow Inspiration Yoga on Facebook here: https://www.facebook.com/DavyandJanaki \r\n\r\nAnd on Twitter as: DavyJanakiyoga", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.inspirationyoga.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Hatha Yoga", 
+      "Ashtanga Yoga", 
+      "Partner Yoga", 
+      "Yoga holidays and workshops"
+     ]
+    }, 
+    "universalName": "inspiration-yoga", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Inspiration Yoga"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "We are Pamoja. It means 'together' in Swahili. We think this Swahili word\r\nsays a lot about us. It lets you know that we work globally as well as in the\r\nUK. This gives us a rich and unique perspective few other consultancies can\r\noffer. Like the Swahili language we want our legacy to be about bringing\r\npeople together in the pursuit of human development. At Pamoja, we\r\nbelieve people can achieve great things by working together.\r\n\r\nWe support the global not-for-profit sector to better demonstrate the\r\nimpact of their work. Based in Brighton, we work in the UK and\r\ninternationally, offering consultancy services which are specifically designed\r\nfor the sector. We work with charity and voluntary organisations, public\r\nsector organisations and academic institutions.\r\n\r\nSince our establishment in 2008 we have quickly gained a reputation for\r\nclearly understanding clients' needs and, through our professionally\r\nmanaged and high quality services, translating those needs into meaningful\r\nand useful solutions. We achieve this by providing expert services in\r\nevaluation and research, strategic planning, and training and capacity\r\ndevelopment. We focus on producing practical outputs that enhance\r\norganisational economy, efficiency and effectiveness.", 
+    "twitterId": "pamojauk", 
+    "industry": "International Trade & Development", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 509 683"
+       }, 
+       "address": {
+        "postalCode": "BN1 5NL", 
+        "city": "Brighton", 
+        "street1": "1 Robertson Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.pamoja.uk.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Evaluation and rsearch", 
+      "Strategic planning and facilitation", 
+      "Training and capacity development"
+     ]
+    }, 
+    "universalName": "pamoja-consulting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pamoja Consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "No Nation is an independent arts programming, production and promotion company established by Guy Morley in 2006. Over the last three years Guy has headed up the revitalised 40,000 capacity Big Chill Festival. He programmes and commissions music and dance for the Brighton Festival and No-Nation produces a broad range of work that has toured and performed in the UK and abroad. Tom Sweet joined in 2008 and has brought a range of  programming experience to the company.\r\n\r\nNo-Nation is creating innovative ways to develop new work through developing partnerships to manage complex and artistically enriching new work. We are developing international two-way relationships; looking to bring more international acts to the UK as well as presenting a diverse, fresh and exciting range of British work overseas.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.no-nation.com", 
+    "universalName": "no-nation", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "No-Nation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Benson Cairns develops digital media, online applications and content for agencies and businesses that want to create meaningful interactive experiences. \r\n\r\nWe do everything you need from your digital hot shop \u2013 strategy, planning, content development, high-end coding (and just regular coding too), testing, social media marketing and SEO. We work with both agencies and direct clients, and some of our favourite projects have come out of slotting into larger agency teams to help augment their existing capability and capacity.\r\n\r\nOur team is super talented and we also work with award-winning specialists around the world to offer our clients the kind of specialised skills that you usually only find with larger organisations.\r\n\r\nWe\u2019re based in Brighton, UK and have been in the web industry since 1995, working with top brands and agencies.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 385129"
+       }, 
+       "address": {
+        "postalCode": "BN2 5EX", 
+        "city": "Brighton", 
+        "street1": "8 Robin Dene"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.bensoncairns.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Website development", 
+      "Digital planning", 
+      "Copywriting & content development", 
+      "Online games development", 
+      "Project management"
+     ]
+    }, 
+    "universalName": "benson-cairns-communications", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Benson Cairns Communications"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Web design and Search Engine Optimisation services\r\n\r\nContent Management Systems (CMSMS, Concrete5, Wordpress)\r\n\r\nWeb analytics and Google adwords\r\n\r\nLocalised SEO for Brighton companies\r\n\r\nPlease see more information and contact at http://curriculumvit.ae", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Queens Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://curriculumvit.ae", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web design", 
+      "Web development", 
+      "Search Engine Optimisation", 
+      "Web analytics"
+     ]
+    }, 
+    "universalName": "curriculumvit-ae", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "curriculumvit.ae"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "antwords is a creative copywriting and content agency based in Brighton, UK. Established in 2001 by experienced copywriter and marketer Anthony Bullock, antwords delivers across the full spectrum of copywriting work, online and offline, from creative concepts, advertising, scripts, dm and emails, through to high volume production work.\r\n\r\nantwords has been at the forefront of SEO copywriting from the early days, is experienced in website copywriting, news and blogs, and has an established track record working with both clients and creative agencies. \r\n\r\nUnusually, antwords consists of a group of professional writers working under Ant's editorial direction, creating capacity for high volumes of quality content in short timescales when required.", 
+    "twitterId": "@antword", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 739477"
+       }, 
+       "address": {
+        "postalCode": "BN1 3AH", 
+        "city": "Brighton", 
+        "street1": "5"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.antwords.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "SEO copywriting", 
+      "Website copywriting and content", 
+      "Creative copywriting and concepts"
+     ]
+    }, 
+    "universalName": "antwords", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "antwords"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Welcome to Century Classics.\r\n\r\nCentury Classics is a work in progress, of over 40 years. Located in West Berkshire, close to Lambourn (where they know a bit about horse power) Century classics has been restoring, repairing, servicing and modifying everything from Brighton run veterans to 1970s classics for over thirty years with experience of personal classics for over forty. Take a look at the picture gallery of past projects. Here you will find a section for cars offered for sale. These vehicles belong to existing clients, generally restored and or maintained by us and sold on a commission basis. We are therefore in an ideal position to give an accurate description of each car, we do not buy unknown cars for resale.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "www.centuryclassics.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Car Restoration", 
+      "Car Sales", 
+      "Car Repairs & Servicing"
+     ]
+    }, 
+    "universalName": "century-classics", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Century Classics"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Energycom Solar Ltd. is a newly established business based in Brighton UK. We offer Design, Installation & Commissioning solutions to the commercial and domestic markets as well as Consultancy services.\r\n \r\nOperating with a wealth of experience within the PV Solar industry and the renewable energy's sector; drawing on a background in Mission Critical applications and Turn-Key solutions, we are highly regarded across the European commercial and domestic markets for our attention to detail. We embody a willingness to ever drive efficiency and  improve the integrity of solutions on all projects we take ownership of.\r\n\r\nEnergycom Solar Ltd. was born out of an established Italian business; Energycom S.r.l. \r\nAn ENEL Green Power affiliate operating for many years together, based in Rome. (http://www.enelgreenpower.com/en-GB/)", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Renewables & Environment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 945212"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YE", 
+        "city": "Brighton", 
+        "street1": "Coronation Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.energycomuk.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Renewable Energy", 
+      "PV Solar", 
+      "Consultancy", 
+      "Microgeneration", 
+      "Design", 
+      "Installation", 
+      "Commissioning solutions"
+     ]
+    }, 
+    "universalName": "energycom-solar-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Energycom Solar Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Finally, someone cares enough to lower the high cost of Jewish Funerals.\r\n\r\nA chapel from a neighborhood Street, not Wall Street:\r\n\r\nWe are conveniently located in Brighton Beach just 5 minutes from Coney Island Avenue, Ocean Parkway, the Belt Parkway and a few minutes from Flatbush, Sheepshead Bay, Bensonhurst and Bayridge.\r\n\r\nWe are 100% family owned and operated and we are proud to be the third generation in our family to help others in their time of need. Jewish Funeral Traditions with personal sensitivity have been provided to every family who we have been honored to serve in the past 60 years.\r\n\r\nWe can attend to a wide range of services for you and your family. In addition to arranging for a funeral  in one of our chapels, we can also provide funeral services at your synagogue, temple or cemetery. \r\n\r\nWe will arrange FDIC insured  \u201dPre-Need\u201d funerals, regardless of the State in which you reside. \r\n\r\nWe will assist in the selection of a cemetery. \r\n\r\nShould the death or burial take place out of New York State we can assist in making all funeral arrangements. \r\n\r\nWe are experienced in arranging for burials in Israel, and other countries. \r\n\r\nWe will be there to help you erect a monument or complete an inscription. \r\n\r\nWe promise to provide all the benefits you may be entitled to receive from any burial society or fraternal lodge.\r\n\r\nMost of all, we, as a family, pledge to assist and comfort your family when we are called to arrange a funeral.", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "718-332-0025", 
+        "phone1": "718-332-3311"
+       }, 
+       "address": {
+        "postalCode": "11235", 
+        "city": "Brooklyn", 
+        "street1": "60 Brighton 11 Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.KehilaChapelsInc.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "At-Need and Pre-Need funerals", 
+      "Monuments and Inscriptions", 
+      "Burials throughout the United States", 
+      "Burials in Israel, Russia, Ukraine and Canada", 
+      "Member of KAVOD", 
+      "Member of the JFDA", 
+      "Member of the NYSFDA"
+     ]
+    }, 
+    "universalName": "kehila-chapels-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kehila Chapels, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "With many years experience in the security services industry, Dorcom Limited is a long established business, offering servicing and maintenance of door entry and entry phone systems, access control, IP CCTV and gate automation systems across the South East. Established in 1974, the business is also a specialist in the rental of door entry and entry phone systems. \r\n\r\nDorcom Ltd has a large customer base and equipment rental base, located throughout the UK, including the London area. The company is owned by Mr Derek Berman and managed by Mr Martin Fry who has been developing the property security business for Dorcom Limited since 2008, having previously worked in the building services industry for many years. The company has undergone a re-organisation and move to its new location at Shoreham by Sea where it now has a showroom and retail outlet. \r\n\r\nAreas covered for service, maintenance and repair of systems include:\r\n\r\nBrighton, Hove, Shoreham By Sea, Worthing, East Sussex, West Sussex, Surrey, Dorset, Hampshire, Kent and London", 
+    "twitterId": "dorcom_ltd", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Electronics", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 220108", 
+        "phone1": "0800 0685447"
+       }, 
+       "address": {
+        "postalCode": "BN43 5WA", 
+        "city": "Brighton", 
+        "street1": "25 Brunswick Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1974, 
+    "websiteUrl": "http://www.dorcom.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Door Entry Systems", 
+      "IP CCTV Surveillance Cameras", 
+      "Door and Gate Automation", 
+      "Intruder Alarms"
+     ]
+    }, 
+    "universalName": "dorcom-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dorcom Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "THE GATE newspaper is a bi-lingual, bi-monthly publication published by the Back of the Yards Neighborhood Council. While THE GATE is based in the Back of the Yards neighborhood is also distributed in key areas located in Englewood, Brighton Park, Pilsen, Bridgeport and Little Village.  \r\n\r\nTHE GATE empowers community residents through relative and informative articles. With the support of community partners, residents, and organizations, THE GATE has become an outlet to inform, express, and share information throughout the Back of the Yards neighborhood and its surrounding areas.\r\n\r\nTHE GATE \u2018s ability to report in both English and Spanish allows for a better connection among residents from diverse backgrounds. THE GATE is dedicated to inform, educate, engage and bring the community together.", 
+    "twitterId": "@thegatenews", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "773-254-3525", 
+        "phone1": "773-523-4416"
+       }, 
+       "address": {
+        "postalCode": "60609", 
+        "city": "Chicago", 
+        "street1": "1751 W. 47th St. 2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.thegatenewspaper.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Media Production", 
+      "Bi-lingual reports", 
+      "Disemination of Information", 
+      "Community engagement", 
+      "Youth Education"
+     ]
+    }, 
+    "universalName": "the-gate-newspaper-bync", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "THE GATE newspaper/BYNC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "name": "Paddle Round the Pier", 
+    "twitterId": "prtp", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.paddleroundthepier.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Event Management", 
+      "Fundraising", 
+      "Water Safety", 
+      "Charity Support"
+     ]
+    }, 
+    "universalName": "paddle-round-the-pier", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Paddle Round the Pier (or \u2018Paddle\u2019) is Europe\u2019s biggest FREE beach and watersports festival. It runs every year on the beautiful venue of Hove Lawns \u2013 Brighton & Hove \u2013 and features the very best in water, street & urban sports, live music, kids entertainment, \u2018have a go\u2019 opportunities and much, much more.\r\nPaddle has always appealed to surfers and watersports enthusiasts, but it seems we just can\u2019t stop people wanting to get involved. With all the usual suspects, from surfing, stand up paddle boarding, kayaking, skating, windsurfing and free running, to all new sports like Surf lifesaving, land paddling, Kitesurfing and freestyle mountain biking\u201a"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "We specialise in web design but provide a complete range of digital design services, including branding and design for print.\r\n\r\nBased in Brighton, we design beautiful, easy-to-use CMS driven web sites that integrate with a range of social media, marketing and commercial tools.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 806106"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UT", 
+        "city": "Brighton", 
+        "street1": "11 Jew St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.devourdesign.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Interface Design", 
+      "CMS driven web sites", 
+      "eCommerce development"
+     ]
+    }, 
+    "universalName": "devour-design", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Devour Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "ArthurGuy.co.uk is based in Brighton in the South East of England and designs and builds accessible, content driven websites which are search engine friendly. \r\n\r\nArthurGuy.co.uk primarily works on content management systems and other behind the scenes elements, but also implements dynamic interfaces and other user interaction elements.", 
+    "twitterId": "ArthurGuy", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://arthurguy.co.uk", 
+    "universalName": "arthurguy-co-uk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ArthurGuy.co.uk Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Chequers Property Management who out of a void on the island of Gran Canaria provide a comprehensive property management service for owners looking to rent their apartments or villa to holiday makers or for long term rentals.\r\n\r\nOur Management are based in Brighton in the UK and also in Mogan in Gran Canaria.We organise the relevant cleaning and laundry schedules from the Mogan and offer a 24 hour emergency contact number should guests experience any problems outside of office hours.\r\n\r\nFor owners we offer a comprehensive property management service, from a simple key-holding service, to general repairs and maintenance. We can ensure that your apartment or villa is maintained to the standard you expect, whilst keeping you in complete control of any expenditure this may entail.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Facilities Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.chequerspm.com", 
+    "universalName": "chequers-property-management", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Chequers Property Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Patcham Bookkeeping Solutions Ltd (PBS),  an offsite bookkeeping and payroll administration bureau based in Brighton, East Sussex and run by Wendy Ridley FCCA \r\n\r\nPBS provides professional bookkeeping, payroll and VAT return services for all types of businesses, from sole traders to medium-sized companies in Sussex. We will take away the stress of trying to juggle your accounting with trying to run and grow your business and will provide guidance through the unfamiliar world of PAYE and VAT. Remove these burdens from yourself and be free to focus on your businesses core activities.\r\n\r\nPBS will do as much or as little as you require and can offer both a computerised and manual service depending on your business size and needs. We use Sage software.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07801 023890"
+       }, 
+       "address": {
+        "postalCode": "BN1 8UR", 
+        "city": "Brighton", 
+        "street1": "9 Patcham Grange"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.pbsltd.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Bookkeeping", 
+      "Payroll", 
+      "VAT"
+     ]
+    }, 
+    "universalName": "patcham-bookkeeping-solutions-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Patcham Bookkeeping Solutions Ltd"
+   }
+  ]
+ }
+}

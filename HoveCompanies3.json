@@ -1,0 +1,830 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 60, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Cobb Electrical Limited", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.cobbelectrical.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Domestic wiring", 
+      "NICEIC testing", 
+      "Commercial wiring", 
+      "Property maintainence"
+     ]
+    }, 
+    "universalName": "cobb-electrical-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Cobb Electrical is a family run business based in Brighton, established in 1980 offering years of experience and knowledge to our clients. From an initial one man company, Mr. Cobb now has three sons, who are all fully qualified senior electricians. One daughter in law, who runs the office side of the business. In addition to this we have other fully qualified and trainee staff. All staff receive ongoing training while working to ensure they are meeting current regulatory standards.\r\n\r\nWe are a well established local company with a vast proportion of our work coming from regular customers and recommendation. We take great pride in the existing customer base we have built up over the years and work hard to create a friendly and professional environment for our clients throughout Brighton, Hove and Sussex.\r\n\r\nCobb Electrical is fully insured and complies with all current health and safety legislation. We are able to carry out all electrical works from replacing light bulbs to a full rewire to suit your needs.\r\n\r\nWe offer a comprehensive service to domestic, commercial and industrial customers from minor repairs to full servicing of your electrical installation. We Also offer free estimates and advice.\r\n\r\nWe cover Brighton, Hove, Lewes, Shoreham, Worthing, Eastbourne, Hastings Haywards Heath, Hassocks, Seaford, Uckfield, Burgess Hill and all areas in Sussex.\r\n\r\nWe are always happy to discuss your requirements and use our experience and knowledge to offer advice regarding your inquiries."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Fysiotherapie en Kinderfysiotherapie TriFitt te Holten is in 2009 opgericht door de maatschapsleden Olga ten Hove, Dinja Vasquez Corea- Baan en Gerlinde Wiersema-ten Brinke. De visie van Fysiotherapie TriFitt is actief, zelfstandigheid en kwaliteit. De hulpvraag van de patient staat centraal en samen werken wij aan een zo optimaal mogelijk functioneren. \r\nFysiotherapie TriFitt biedt algemene fysiotherapie, kinderfysiotherapie en oedeemtherapie. Naast deze specialisatie geven wij beweegprogramma's voor mensen met diabetes, copd en kanker. \r\nOok hebben mensen bij ons mogelijkheid om te trainen in een van onze medische fitnessgroepen en kunnen zwangere vrouwen de zwangerschapscursus ZwangerFit volgen.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0548-365343"
+       }, 
+       "address": {
+        "postalCode": "7451 BS", 
+        "city": "Holten", 
+        "street1": "Dorpsstraat 39"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.trifitt.nl", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fysiotherapie", 
+      "Oedeemtherapie", 
+      "Kinderfysiotherapie", 
+      "Beweegprogramma diabetes, copd en kanker"
+     ]
+    }, 
+    "universalName": "fysiotherapie-en-kinderfysiotherapie-trifitt", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Fysiotherapie en Kinderfysiotherapie TriFitt"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Exclusive to Brighton & Hove, Original Music Knights proudly present Band of Teachers, a music tuition school specializing in a wide range of professional services in music tuition including 1 to 1 private & group lessons, Music Workshops and Music groups and clubs in primary schools around Brighton & Hove. With both classical and contemporary instruments on offer, and with a variety of course options to choose from, Band of Teachers cover everything you need to become a fantastic musician. We offer a fun and personalized learning experience that not only covers the techniques and theory to become a great musician, but also the knowledge on how to use your talents to become a successful musician.", 
+    "twitterId": "bandofteachers", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton and Hove", 
+        "street1": "0"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.bandofteachers.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Music Tuition on any instrument", 
+      "1 to 1 lessons", 
+      "Group lessons", 
+      "School visits", 
+      "Guitar"
+     ]
+    }, 
+    "universalName": "band-of-teachers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Band of Teachers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "name": "Paddle Round the Pier", 
+    "twitterId": "prtp", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.paddleroundthepier.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Event Management", 
+      "Fundraising", 
+      "Water Safety", 
+      "Charity Support"
+     ]
+    }, 
+    "universalName": "paddle-round-the-pier", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Paddle Round the Pier (or \u2018Paddle\u2019) is Europe\u2019s biggest FREE beach and watersports festival. It runs every year on the beautiful venue of Hove Lawns \u2013 Brighton & Hove \u2013 and features the very best in water, street & urban sports, live music, kids entertainment, \u2018have a go\u2019 opportunities and much, much more.\r\nPaddle has always appealed to surfers and watersports enthusiasts, but it seems we just can\u2019t stop people wanting to get involved. With all the usual suspects, from surfing, stand up paddle boarding, kayaking, skating, windsurfing and free running, to all new sports like Surf lifesaving, land paddling, Kitesurfing and freestyle mountain biking\u201a"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 36, 
+    "description": "Rhythmix is one of the UK\u2019s leading music Charities, delivering a large range of music making opportunities for young people across the South East region. Since 1999, Rhythmix has worked with more than 40,000 young people, enabling their creativity through music and developing their personal and social skills.\r\n\r\nRhythmix works with its partners in Youth Support Services, such as Youth Workers, Arts Officers, Crime Reduction and Youth Offending Teams, to identify young people in challenging circumstances, and enables those young people to shape and develop projects that respond to their needs.\r\n\r\nWorking with a team of over 50 professional community musicians, Rhythmix is continually developing innovative and exciting new programmes that challenge young people to express their creativity.\r\n\r\nRhythmix manages and delivers the Youth Music Action Zone for the South East region, with funding from Youth Music.\r\n\r\nRhythmix is core funded by Surrey County Arts, Brighton & Hove Music, Arts and Study Support, East Sussex Music Service, and Kent Music, and has attracted funding from Youth Music, Arts Council England, Surrey County Council, East Sussex County Council, Kent County Council, Medway Council, Brighton & Hove City Council and many others.", 
+    "twitterId": "http://twitter.com/RhythmixMusic", 
+    "blogRssUrl": "www.rhythmixmusic.blogspot.com", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.rhythmixmusic.org.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Music Education", 
+      "Charity", 
+      "Music Production", 
+      "Working with Young People", 
+      "Live Band", 
+      "Partnership Working", 
+      "Workforce Development", 
+      "Vocal & Lyric Writing"
+     ]
+    }, 
+    "universalName": "rhythmix", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Rhythmix"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "The-Plumbers.Com offers excellent plumbing repairs service in Bognor Regis, Chichester , Worthing, Hove Horsham and on to Haywards Heath areas.  Our professional plumbers have a wealth of experience and expertise in the industry, and will strive to provide the outstanding service that you deserve. If you require emergency plumbers, look no further than our company.\r\n\r\nOur plumbing repairs company's success is due to the cornerstones of our business; honesty, integrity, and very competitive pricing. If you are having problems with your plumbing, you want to get it fixed as soon as possible, and that is where our emergency plumbers can help. All of our plumbers will work hard to give you the first class service that you deserve\r\n\r\nOur emergency plumbers offer all of our customers a prompt, dependable and reliable service. With our plumbers, you can rest assured that you are working with the best, and all of our work is insured for up to \u00a32,000,000. Whatever plumbing repairs you need, our firm have the experience and skill to help you.\r\n\r\nThe-Plumbers.Com: your leading choice for the plumbing services you need in  Bognor Regis, Chichester , Worthing, Hove, Horsham and on to Haywards Heath areas covering most parts of West and East Sussux", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.the-plumbers.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Plumbing Repairs", 
+      "Low cost Plumbing"
+     ]
+    }, 
+    "universalName": "the-plumbers.com", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The-Plumbers.Com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Zhoosh! Connecting LGBTQ people in Brighton & Hove. \r\nZhoosh offers an alternative and  non-scene guide to LGBTQ life in the city. \r\nIt's a hub containing: \r\na directory of Brighton listings of lesbian, gay, bisexual and trans groups, organisations and services - updated regularly so it's always accurate. \r\na blog - reflecting and commenting on LGBTQ life in Brighton & Hove.  \r\nevens guide - not just another pub & club guide, Zhoosh promotes alternative local group & charity fundraising events.\r\nnetwork - here you can create your own profile, join lesbian, gay, bisexual and trans groups, chat with friends and meet new people.\r\n\r\nZhoosh' purpose is to contribute to reducing isolation someone may feel because they identify as LGBT and improving their physical & mental well-being.'\r\n\r\nBecome a fan of Zhoosh! on Facebook: http://www.facebook.com/Zhooshbrighton\r\nYou can also follow us on Twitter: http://twitter.com/zhooshbrighton", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Brighton & Hove", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.zhoosh.co.uk", 
+    "universalName": "zhoosh-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Zhoosh Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 40, 
+    "description": "* LEWIS PROPERTY SERVICES:  We are an independently run family business who specialise in property letting mainly within the Hove area of East Sussex (also Brighton and Worthing, West Sussex). \r\n\r\n* The Company has been trading since 1993 as residential Landlords and are experienced in dealing with all aspects of property letting, property management and building maintenance. We can also provide Energy Performance Certificates (EPC) in Brighton & Hove, East Sussex areas - all EPCs will be carried out by us and not contracted out to anybody else. \r\n\r\n* We can undertake small building works (kitchen and bathroom refits), decorating, general maintenance and handyman services, lock replacement/fitting, carpet cleaning, flat roofs and guttering. No obligation estimates available upon request. Private and Commercial.\r\n\r\n* We have extensive knowledge of the local area and can offer impartial advice, are current members of the Southern Landlords Association (SLA) and adhere to their code of practice.\r\n\r\n* Our mission is to ensure a professional, personal and reliable service at all times.", 
+    "twitterId": "LewisProperty", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0775 9779651"
+       }, 
+       "address": {
+        "postalCode": "BN3 6LR", 
+        "city": "Brighton", 
+        "street1": "Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.Lewis-Property.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Property letting", 
+      "Property management", 
+      "Building maintenance", 
+      "Energy Performance Certificates (EPC)", 
+      "Domestic Energy Assessor (DEA)", 
+      "Landlord services"
+     ]
+    }, 
+    "universalName": "lewis-property-services", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Lewis Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "The Hanover Christmas Tree Company delivers luxury, locally grown real Christmas trees directly to homes and offices in Brighton & Hove.\r\n\r\nSelling only the highest quality, non-needle drop Nordmann fir Christmas trees, our aim is to make buying a real Christmas tree as convenient and sustainable as possible. We deliver in Brighton and Hove throughout the Christmas period. We offer a Christmas tree installation service and we can collect it in the new year for recycling.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273 672439"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.hanoverchristmastrees.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Christmas trees", 
+      "Christmas tree delivery"
+     ]
+    }, 
+    "universalName": "the-hanover-christmas-tree-company", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "The Hanover Christmas Tree Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Why Bother Lifestyle is a first class domestic cleaning and concierge services company serving the Brighton and Hove area. Offering an extensive range of services including: domestic cleaning, ironing, errand running, pet sitting and lifestyle management.\r\n\r\nDomestic cleaning - an individual cleaner is assigned and is regularly monitored and assessed through close communication with the customer enabling a long term solution to taking care of those mundane domestic chores. All staff are fully employed, screened, referenced and insured.\r\n\r\nThe company was formed following the realisation that Brighton and Hove needed a first class domestic cleaning company people could rely upon. They strive to give customers time to do things they like to do rather than the tasks they have to do.\r\n\r\nCall us today to find out how we can help.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 776 056"
+       }, 
+       "address": {
+        "postalCode": "BN3 3GA", 
+        "city": "Hove", 
+        "street1": "19 Palmeira Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.why-bother.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Domestic cleaning", 
+      "Office cleaning", 
+      "Spring cleaning", 
+      "End of tenancy cleaning"
+     ]
+    }, 
+    "universalName": "why-bother-lifestyle-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Why Bother Lifestyle Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Whether searching for property lettings in Brighton & Hove for the first time, or contemplating a move to a new area, our extensive coverage and in-depth knowledge of every part of the city means that we are perfectly equipped to assist your search, whatever your requirements. \r\n\r\nIf you are a Landlord looking for a letting agent, Harringtons have built a solid reputation for successfully letting property in the Brighton & Hove area. Contact us for independent, impartial advice and competitive rates for landlords.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1FA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.harringtonslettings.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Property Lettings"
+     ]
+    }, 
+    "universalName": "harringtons-lettings", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Harringtons Lettings"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "name": "Bonetts Estate Agents", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "BONETTS ESTATE AGENTS LTD", 
+        "phone1": "441273 677365"
+       }, 
+       "address": {
+        "postalCode": "BN2 1EF", 
+        "city": "Brighton", 
+        "street1": "78"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bonetts.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Estate agency Sales", 
+      "Lettings", 
+      "Property management", 
+      "valuations"
+     ]
+    }, 
+    "universalName": "bonett's-estate-agents", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Bonett\u2019s Estate Agents in Kemp Town are well known in Brighton & Hove for our honest, friendly and professional service.\r\n\r\n\u2018The City is our Office\u2019 \u2122 \u2013 we are open and approachable with solid local knowledge in sales and lettings.\r\n\r\nBonett\u2019s are members of the team network of estate agents, enabling your property to be marketed automatically with hundreds of estate agents all over the country \u2013 including London, thereby bringing your sales or letting property in Brighton & Hove to a local, national and international audience. When you contact us by email or on the telephone, you will find a very focused and invariably enthusiastic team.\r\n\r\nWe want you to walk out of our office with a smile on your face!"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Go Ahead Events", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.goaheadevents.com", 
+    "universalName": "go-ahead-events", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "What we do:\r\nTOAST Festivals\r\nToast Festival is the northern hemisphere's largest celebration of South African, New Zealand and Australian food, wine, polo, live music and culture. It takes place in London over three days and 2010 celebrates the 10th anniversary of this iconic event. www.toastfestivals.com\r\n\r\nHOVE CHAMPAGNE FESTIVAL\r\nA sensational day out discovering and learning more about champagne with a showcase of over 50 champagnes and sparkling wines to try from some of the best champagne houses and suppliers in the world. This festival takes place on the beautiful hove seafront with the English Channel as the backdrop. The day out is complimented by delicious food and fine entertainment. www.hovechampagnefestival.com\r\n\r\nBRIGHTON WINE AND POLO FESTIVAL\r\nLaunching in 2011 is a fantastic extravaganza of over 100 wines from around the world to try by the glass along with fine and fabulous food to taste and take home. A wonderful setting to enjoy an action packed polo match, one of Britain's most dynamic sports. www.brightonwineandpolo.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Edible Magazine is a local Brighton and Hove publication covering all aspects of fine dining and drinking.\r\nA free magazine distributed around selected restaurants, pubs, coffee shops, bars, hotels and most of the local food and drink events happening in the city. \r\nOur distribution network ensures the quality magazine reaches a certain demographic of people who enjoy eating and drinking, at home and out, around Brighton and Hove.\r\nA quarterly publication ensures the emphasis on seasonal foods and strives to be informative, interesting and helpful.", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 5DA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.ediblemagazine.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Food and Drink Publication"
+     ]
+    }, 
+    "universalName": "edible-magazine-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Edible Magazine Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "name": "Italk Ltd", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 7BD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.italktelecom.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Telecoms and Debt Management"
+     ]
+    }, 
+    "universalName": "italk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "One of Brighton and Hove\u2019s best kept secrets is Italk, a well established and fast expanding Telecoms company. \r\n\r\nAt Italk we pride ourselves on offering superb value call packages backed up with unrivalled customer service.\r\n\r\nOur head office and call centre is situated within a large hi-tech establishment which is centrally located in Hove. \r\n\r\nWe pride ourselves on our UK-based team who understand their customers\u2019 needs exactly and expectations are always exceeded both in service and quality. Consequently we value, train and nurture each and every employee as we recognise that they are vital to our future growth and success.\r\n\r\nOver the past year the company has grown and developed to a point where we have hired a dedicated Recruitment and HR Manager to handle the huge demand. \r\n\r\nItalk have many campaigns to assist with our recruitment drive and have teamed up with our local Job Centre and City College to offer unemployed and freshly trained Contact Centre staff the opportunity to work in our newly renovated and refurbished call centre.\r\n\r\nOur focus is on the employee and their potential. We are not looking for just another Sales agent, what we are striving for is staff retention and a team who are not only great at what they do but who are honest, committed, dedicated and part of our expanding team.\r\n\r\nWith a friendly team of 50 employees stretching over head office and sales we are looking to double our call centre numbers which will in effect double our head office positions making our recession survived company sought after to work for."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4946, 
+    "description": "The University of Sussex was the first of the new wave of universities founded in the 1960s, receiving its Royal Charter in August 1961. As we celebrate our 50th anniversary, Sussex has become a leading teaching and research institution.\r\n\r\nSussex is a leading research university, with over 13,000 students, of which over a third are postgraduates. Creative thinking, pedagogic diversity, intellectual challenge and interdisciplinarity have always been fundamental to a Sussex education.\r\n\r\nOur goal is to deliver teaching and learning programmes that are informed by current research, are attractive to students from all socioeconomic and cultural backgrounds, and which deliver skills for life.\r\n\r\nSussex has developed a reputation for innovation and inspiration, and attracts leading thinkers and researchers. We have over 2,100 staff, including around 540 teaching and research staff, and 270 research-only staff. \r\n\r\nWe have counted three Nobel Prize winners, 13 Fellows of the Royal Society, six Fellows of the British Academy and a winner of the prestigious Crafoord Prize on our faculty. The University attracts staff and students to its campus from over 120 different countries across the world. Nearly a third of staff come from outside the UK.\r\n\r\nSussex has one of the most beautiful campus locations in Britain. We are surrounded by the South Downs National Park, but just a few minutes away from the lively city of Brighton and Hove.", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 678335", 
+        "phone1": "+44 (0)1273 606755"
+       }, 
+       "address": {
+        "postalCode": "BN1 9RH", 
+        "city": "Brighton", 
+        "street1": "University of Sussex"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "http://www.sussex.ac.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Research", 
+      "Higher Education", 
+      "Innovation"
+     ]
+    }, 
+    "universalName": "university-of-sussex", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "University of Sussex"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 172, 
+    "description": "A medium - large sized charity offering services for children, young people and families. We are based in Hove but provide services throughout Sussex. Previously known as Hove YMCA we now incorporate the work of Mid-Sussex and Horsham YMCAs and shortly Lewes YMCA. We also work closely with our partner YMCAs in Sussex (Brighton, Eastbourne and Hastings) and are part of the national federation of YMCAs.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3", 
+        "city": "Hove", 
+        "street1": "Reed House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1919, 
+    "websiteUrl": "www.sussexcentralymca.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "housing", 
+      "advice", 
+      "education"
+     ]
+    }, 
+    "universalName": "sussex-central-ymca", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex Central YMCA"
+   }, 
+   {
+    "numFollowers": 38, 
+    "name": "Thomas Locksmiths Ltd", 
+    "industry": "Security & Investigations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn3 5dp"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thomaslocks.co.uk", 
+    "universalName": "thomas-locksmiths-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Thomas Locksmiths Ltd have been established since 1983 initially covering the City of Brighton & Hove.\r\nSince then we have grown to become one of the largest locksmiths in the South East of England covering major Towns and Cities such as Brighton, Hove,  Burgess Hill, Haywards Heath, Hastings Horsham, Crawley, Chichester, Worthing, Guildford, Reigate, Redhill, Eastbourne, Worthing, Lewes, Hastings, Tunbridge Wells and East Grinstead.  We are proud members of the Master Locksmiths Association, Guild of Master Craftsmen and are Safe Contractor approved.\r\n\r\nOur client list include Local authorities, Housing associations, Schools, Colleges, Police and Hospitals.\r\n\r\nOur services range from Simple non destructive gain entry to Access Control, CCTV, Door phone entry systems, Locksmiths & Key cutting which Includes car transponder keys all of which are very competitively priced.\r\n\r\nThomas Locks have a complete range of Safes both new and used with a new safes showroom opening soon.\r\n\r\nAll quotations and Surveys are completely free of charge, and we specialise in Insurance approved installations.\r\n\r\nLocked out? Need a Locksmiths?  Insurance company insisting you upgrade your locks?\r\n\r\nWhatever your security needs just simply call the above freephone number now for our fast, friendly, efficient locksmiths service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Seven Ways provides supported accommodation in Brighton and Hove for young people who have been in the care of the Local Authority and who need to develop practical and emotional skills prior to managing their own tenancies. \r\n\r\nSeven Ways offers a unique combination of services, providing support to care leavers and their social workers where it is needed most. We provide a safe platform from which young people can test and develop their independence: \r\n\r\n\u2022 a service exclusively for care leavers with best practice assured \r\n\u2022 direct support from support workers 365 days a year \r\n\u2022 great one bedroom flats with furnishings \r\n\u2022 a strategic approach helping young people to achieve their personal targets \r\n\u2022 commitment from resilient, versatile and effective workers \r\n\u2022 flexibility \r\n\r\nOur care packages are specially designed for each individual, created in partnership with social workers, and rigorously reviewed to ensure effectiveness. \r\n\r\n\r\n\r\nSeven Ways is run by Jon Mackie who has over thirteen years post-qualifying social work experience in East Sussex and the Brighton & Hove areas.", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.sevenwayssussex.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Supporting Young People"
+     ]
+    }, 
+    "universalName": "seven-ways-support-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Seven Ways (Support) Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Met een ruime ervaring in het taxeren van woningen, bedrijfspanden, agrarische objecten en WOZ-taxaties durf ik mij met een gerust hart Adviseur Onroerende Zaken te noemen. Als adviseur begeef ik mij niet op de verkoopmarkt. Hierdoor kan ik bij advisering voor aankoop, financiering of anderzijds, volledig onafhankelijk optreden. Als adviseur ben ik gecertificeerd door: - Stichting VastgoedCert - Kamer Wonen/MKB - Kamer Landelijk Vastgoed - Kamer WOZ Tevens ben ik lid van de Landelijk Makelaars Vereniging (LMV).", 
+    "industry": "Commercial Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "4332 CG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.berendtenhove.nl", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Taxaties en Aankoopadvisering"
+     ]
+    }, 
+    "universalName": "berend-ten-hove-adviseur-onroerende-zaken", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Berend ten Hove Adviseur Onroerende Zaken"
+   }
+  ]
+ }
+}

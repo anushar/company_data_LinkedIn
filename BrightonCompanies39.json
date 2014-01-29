@@ -1,0 +1,951 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 780, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 73, 
+    "description": "Obicon Group partner with clients to build-out both teams and individual recruitment solutions across any International location\r\n\r\nWe have an established network within the Oracle community and have multiple recruitment solutions that include Retained Campaigns, RPO and Executive Search & Selection\r\n\r\nWe meet our clients recruitment needs while simultaneously branding them as the employer of choice within the candidate community\r\n\r\nOffices: London, Brighton, India, Australia, USA", 
+    "twitterId": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Studio 1 Alpha House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "City of London", 
+        "street1": "40 Gracechurch St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Karnataka", 
+        "street1": "101 Evoma Business Center"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Marietta,", 
+        "street1": "3605 Sandy Plains Road Suite"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.obicongroup.com", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Oracle Recruitment", 
+      "Oracle Campaign Recruitment", 
+      "International Recruitment", 
+      "Delivery", 
+      "Partnering", 
+      "Oracle Recruitment Asia", 
+      "Oracle Recruitment American", 
+      "Oracle Recruitment Europe", 
+      "Oracle Recruitment India", 
+      "Oracle Recruitment APAC", 
+      "Oracle Recruitment EMEA"
+     ]
+    }, 
+    "universalName": "obicon-group", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Obicon Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "MTM Property is a market leader for Sales & Lettings in Brighton & Hove. With the largest rental portfolio and an ever expanding sales department, you can be confident in instructing us to sell or let your property.  \r\n\r\nWe work hard to match tenants and buyers to properties with a degree of tenacity that is hard to match. We are very experienced and have gained thorough knowledge through years of buying, selling and letting our own property. Our range of services is comprehensive, can be tailored to meet your needs and our rates are competitive so call us to find out why 100% of respondents in a recent survey would recommend MTM to friends and family.\r\n\r\nOver the last couple of years our sales department has developed and expanded to accommodate a diverse range of properties, buyers and sellers. Our growth is underpinned and driven by our sheer determination to provide you, the customer, with an unrivalled personal and detailed service. We take the time to listen to you, understand your requirements and then tailor our package to meet your specific needs.\r\n\r\nIn many cases we have succeeded in agreeing sales on properties marketed by other larger agents in the area. Even in what is undeniably a challenging market, our focus on matching serious buyers to the right property has paid off, with many sellers pleasantly surprised at our ability to source a buyer for their property where others failed.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 559567", 
+        "phone1": "01273 645797"
+       }, 
+       "address": {
+        "postalCode": "BN24AE", 
+        "city": "Brighton", 
+        "street1": "Ursa Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.mtmproperty.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Lettings", 
+      "Sales", 
+      "Buy to let investments", 
+      "Student accommodation", 
+      "Valuations"
+     ]
+    }, 
+    "universalName": "mtm-property-services-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MTM Property Services Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Midtown Studios is an affordable Audio Production & Recording Studio based in Sutton, South London. Specializing in recording,  editing, mixing & mastering audio for all media platforms. The studio complex is built within the premises of Sutton Music Centre, boasting three fully isolated sound proof studio rooms and an excellent range of pro audio equipment and music production software.\r\n\r\nSet up in early 2011, by Tom Hand & Alex Williams, two BA(Hons) Music Production Graduates from the University of Brighton, who between them have an extensive knowledge of modern record  production and audio manipulation techniques.\r\n\r\nSo no matter if a full Length commercial music album, one track demo or even a voice over, Midtown Studios has the equipment and the knowhow to bring out the best in any production.", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "sm25lf", 
+        "city": "Sutton", 
+        "street1": "35 St Nicholas Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.midtownstudios.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Audio Recording", 
+      "Music Production", 
+      "Mixing", 
+      "Mastering"
+     ]
+    }, 
+    "universalName": "midtown-studios", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Midtown Studios"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Professional advisers on commercial property across South East England with offices in both Horsham & Brighton.\r\n\r\nThe practice of Crickmay, Chartered Surveyors, was established in 1984 with Crickmay Asset Management being established in 2002. The offices are strategically placed, allowing the practice to cover both East and West Sussex and the South East. Our range of knowledge within these offices allows us to provide a wide spectrum of advice on property matters.\r\n\r\nThe Client base of the firm is broad, acting on behalf of Public Companies, Statutory Bodies and many of the major Banks, together with multiple and local retailers, office occupiers, industrialists, developers and private individuals, dealing with a whole range of matters, from the smallest property to a multi-million pound development.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01403 270222", 
+        "phone1": "01403 264259"
+       }, 
+       "address": {
+        "postalCode": "RH12 1 AY", 
+        "city": "Horsham", 
+        "street1": "22 London Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "http://www.crickmay.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Commercial Agency", 
+      "Professional Services", 
+      "Property Asset Management", 
+      "Building Surveying"
+     ]
+    }, 
+    "universalName": "crickmay-chartered-surveyors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Crickmay Chartered Surveyors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 189, 
+    "description": "Since 2002, video2brain has been working with leading instructors to build a world-class video training library. We produce English, German, French, and Spanish-language courses on a wide variety of topics, including web design, video production, photography, web and mobile development, 3D graphics, and much more. The English-language team has been creating courses since 2009 and our library now has 190 English-language titles with over 722 hours of training!\r\n\r\nWe're an international crew, spread out over the globe, from San Francisco and San Jose, to Austin and New York, to Brighton and London, and back over to Vienna and our home office in Graz, Austria, a student city in the Austrian Alps.  \r\n\r\nWe're passionate about teaching and our chief aim is to help you create extraordinary work by providing you with the most engaging, effective, and affordable video training possible.", 
+    "twitterId": "", 
+    "industry": "E-learning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "8020", 
+        "city": "Graz", 
+        "street1": "Idlhofgasse 31"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.video2brain.com", 
+    "universalName": "video2brain", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "video2brain"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "International Health and Wellbeing Distribution Company.\r\n\r\nBased in UK with offices in Colchester and Brighton.\r\n\r\nIncorporated in October 2010.\r\n\r\nCo-founders Mr Darren Alger and Mr Barry Wright.\r\n\r\nOver 30 years of combined experience in the commercial and professional footcare markets.\r\n\r\nPortfolio of brands include:\r\n\r\nhigh heel mate\u00ae with Insolia\u00ae High Heel Inserts\r\nVasyli\u2122 Medical Orthotics and Footwear\r\nVionic\u2122 Retail Orthotics and Footwear\r\nBootmate\u00ae Pressure Protection Socks\r\n\r\nWe are a distribution business covering the EMEA region.\r\n\r\nContact us by email: info@diastemalimited.com for further information about distribution opportunities across the EMEA region.\r\n\r\nSpecialties:\r\nOne director is a former Podiatrist with over 10 years clinical practice, the other has a wealth of foot care and logistics knowledge to offer.\r\nWe are entrepreneurial by culture and instinct. \r\nWe pride ourselves on being business relationship specialists -  we continue to build long term business relationships that are mutually beneficial.\r\nDiastema Limited is sales and results focused, combined with a conviction that in our sector we can make a difference to people's health and wellbeing, and be successful in business.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1206 266709", 
+        "phone1": "+44 (0)1206 796247"
+       }, 
+       "address": {
+        "postalCode": "CO1 2ZF", 
+        "city": "Colchester,", 
+        "street1": "19, Moorside Business Park,"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 701705"
+       }, 
+       "address": {
+        "postalCode": "BN2 7FD", 
+        "city": "Brighton", 
+        "street1": "17 Court Ord Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.diastemalimited.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Health and Wellbeing brand development company", 
+      "Innovation and enterprise", 
+      "Excellent logistics and product support for our partners", 
+      "EMEA  focused", 
+      "Offering both retail and medical expertise"
+     ]
+    }, 
+    "universalName": "diastema-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Diastema Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Anthony Hunt Photography", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "15 Windlesham Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3AG", 
+        "city": "London", 
+        "street1": "15 Windlesham Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.anthony-hunt.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Corporate photography", 
+      "Press photography", 
+      "Industrial photography", 
+      "PR photography"
+     ]
+    }, 
+    "universalName": "anthony-hunt-photography", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Anthony Hunt Photography is a Brighton and London based commercial photography and press photography agency - providing professional photography for commercial briefs across Sussex, Surrey and London.\r\n\r\nWith over 10 years of experience, AHP looks to provide our clients with creative and dynamic photography in a flexible and affordable way"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 31, 
+    "description": "Producers, performers and promoters, most notably of the international\r\ntouring show, Faulty Towers The Dining Experience.\r\n\r\nTouring over 20 countries in 2013 and with a permanent London West End\r\nresidency too, this critically acclaimed show has been winning five-star reviews and\r\nstanding ovations since 1997. It\u2019s \u2018a two-hour eat, drink and laugh sensation\u2019 (Daily\r\nTelegraph).\r\n\r\nThe fun starts as the audience wait to be seated and then hurtles along as they\r\nbecome diners in that infamous hotel. Meanwhile, Basil, Sybil and Manuel aspire\r\nto be their warring waiters, serving a 3-course meal with a good dollop of mayhem.\r\nThis is fully immersive, highly improvised, site-specific comedy theatre at its best \u2013\r\nand because only a third of show is scripted, performances are always fresh. Expect\r\nall the best gags and \u2018a rip-roaringly hilarious night out\u2019 (This Is London). Just don't\r\nmention the war!\r\n\r\n- \u2018utterly delicious entertainment\u2019 (Edinburgh Evening News, Edinburgh Fringe)\r\n- \u2018the best comedy show I have ever been to\u2019 (Sunday Express, Edinburgh Fringe)\r\n- \u2018faultless\u2019 (What\u2019s on Stage, Brighton Fringe)\r\n- \u2018amazing talents!\u2019 (Australian Stage, Melbourne International Comedy Festival)\r\n- \u2018There\u2019s a reason this show constantly gets rave reviews. It\u2019s brilliant!\u2019 (Adelaide\r\nNow headline, Adelaide Fringe 2013)\r\n\r\nSpecialities\r\n\r\nImmersive theatre, tour planning and management, improvisation, PR and arts\r\nmarketing.", 
+    "twitterId": "", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(+61) 07 3844 8014", 
+        "phone1": "(+61) 07 3397 4703"
+       }, 
+       "address": {
+        "postalCode": "4151", 
+        "city": "Brisbane", 
+        "street1": "29 Hillock Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(+44) 07932 783768"
+       }, 
+       "address": {
+        "postalCode": "OX14 4PA", 
+        "city": "Appleford", 
+        "street1": "1 Manor Farm Cottages"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.interactivetheatre.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Immersive theatre", 
+      "Tour planning and management", 
+      "Improvisation", 
+      "PR and arts marketing"
+     ]
+    }, 
+    "universalName": "interactive-theatre-international", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Interactive Theatre International"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Fifty Zero Design Agency", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.fiftyzerodesign.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Branding / Rebranding Consultation & Design", 
+      "Logo Design", 
+      "Design for Print", 
+      "Design for Large Print - Banners / Billboards etc", 
+      "Website Design & Development", 
+      "Professional Social Media Development", 
+      "High Definition (HD) Video", 
+      "Digital Magazines / Brochures"
+     ]
+    }, 
+    "universalName": "fifty-zero-design-agency", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Fifty Zero Design Agency is part of Fifty Zero Ltd - a UK registered company founded by British online marketeer Richard Christopher Hills. Richard is the Creative Director and Project Manager of the agency who currently lives in the digital hub of Brighton, UK, previously being based in Phnom Penh, Cambodia for 18 months.  \r\n\r\nThe agency often teams up with top designers, coders and creative I.T. professionals from around the world - predominantly from the UK, Singapore and Pakistan. We are always looking for new and exciting projects to work on and can cater for all budgets and ambitions.\r\n\r\nWe approach design from a business based perspective, where creative decisions are made with the goals of the companies / organisations / individuals we work with firmly in mind. Quality design is only possible after careful research and analysis of your companies position in the market and the vision you have for the future. We work in partnership with you to turn your creative visions into realities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Kraft Renewable Energy is committed to helping you save and make your own energy.\r\n\r\nWe provide a full PV Solar Panel Insulation Service. We start with a free detailed solar suitability survey of your home and promise an honest, straightforward view of your solar potential. We use MCS accredited solar installers and only recommend the best quality solar panels. We pride ourselves on our solar after-care service.\r\n\r\nWe also now provide a complete Air Source Heat Pump service, from advice on government incentives and savings to installation and aftercare.\r\n\r\nIn addition we can conduct home energy surveys which come with an Energy Performance Certificate (EPC) for your home. We can install a range of energy saving products, from insulation to energy efficiency monitors.\r\n\r\nIf you live in Brighton or Sussex, why not come in for a chat at our Renewable Energy showroom? We can show you our own solar installation and we also have an eco play house for the kids! \r\n\r\nAlternatively please call us on our free phone number 0800 298 0259 or email us at info@kraftrenewableenergy.com.", 
+    "twitterId": "", 
+    "industry": "Renewables & Environment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 298 0259"
+       }, 
+       "address": {
+        "postalCode": "BN2 6BA", 
+        "city": "Brighton", 
+        "street1": "72 Warren Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.kraftrenewableenergy.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Solar Installation", 
+      "Renewable Energy", 
+      "Saving Energy", 
+      "Insulation"
+     ]
+    }, 
+    "universalName": "kraft-renewable-energy", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kraft Renewable Energy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Raison Online", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://raison-online.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "SEO", 
+      "Wordpress", 
+      "WooCommerce", 
+      "Buddypress"
+     ]
+    }, 
+    "universalName": "raison-online", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Wordpress and SEO specialists based in Brighton. We build websites with search in mind from the start and empower businesses to take control and develop content rich websites which can rank well. We also specialise in the more bespoke side of Wordpress including the WooCommerce Ecommerce platform and Buddypress social networks."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "A Passion for Living is a small chain of retail stores that prides itself in offering its customers personalized service together with a wide assortment of unique and beautiful giftware, home accents and ladies fashion.\r\n\r\nA Passion for living provides perfect gifts for every occasion whether it\u2019s a holiday, wedding, shower, anniversary or birthday.We carry a variety of decorative accessories. We present an amazing range of ladies fashions, shoes, handbags, clothing and sparkling jewelry, and stylish garments to make you feel beautiful and special.\r\n\r\nSome of our most popular brands:\r\n   \r\n- Pandora\r\n- Thomas Sabo\r\n- Brighton\r\n- ToyWatch\r\n- Lampe Berger\r\n- Sympli \r\n- Bella Donna\r\n\r\n                                                           \u201cDiscover your Passion for Living\u201d\r\n\r\nOur two store locations are:\r\n\r\nANCASTER:\r\n\r\n(Walmart Plaza)\r\n1090 Wilson St. W \r\nAncaster, Ontario\r\nCanada\r\nL9G 3K9\r\nP. (905) 304-3044\r\n\r\n\r\n\r\nBURLINGTON:\r\n\r\n(Winners Plaza, corner of Appleby Line & Dundas)\r\n2435 Appleby Line\r\nBurlington, Ontario\r\nCanada\r\nL7L 0B6\r\nP. (905) 331-4477", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(905) 304-3044"
+       }, 
+       "address": {
+        "postalCode": "L9G 3K9", 
+        "city": "Ancaster", 
+        "street1": "1090 Wilson St. W"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(905) 331-4477"
+       }, 
+       "address": {
+        "postalCode": "L7L 0B6", 
+        "city": "Burlington", 
+        "street1": "2435 Appleby Line"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.apassionforliving.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Home Accessories", 
+      "Giftware", 
+      "Ladies Fashion"
+     ]
+    }, 
+    "universalName": "a-passion-for-living-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "a PASSION for Living Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 4, 
+    "description": "Efficient, cost-effective freelancing services for Brighton and the Southeast. We are a crack team of experienced creative professionals available for hire at rates that will delight you. If you have a tough job or an insane deadline, call the Secret Designers.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.secretdesigners.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "graphic design", 
+      "artworking", 
+      "branding", 
+      "advertising"
+     ]
+    }, 
+    "universalName": "secret-designers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Secret Designers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "BigBlueSea is a boutique agency of talented designers, web developers, social media addicts, internet marketing and SEO experts in Brighton with the skills to make your business succeed on the web. \r\n\r\nBBS is a full service web agency providing services for all aspects of the Internet and business beyond. The team has wide ranging experience in design, marketing, technical development, SEO, social media and business management.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bigbluesea.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "web design", 
+      "web development", 
+      "seo"
+     ]
+    }, 
+    "universalName": "big-blue-sea-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Blue Sea Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Cognify is a creative and innovative e-learning agency based in Brighton.\r\n\r\nWe specialise in bespoke e-learning, gamification, mobile learning and online learning portals. We are passionate about creating innovative learning solutions that really work for our clients. So we\u2019re bringing new thinking from other digital media and web industries and combining it with proven e-learning concepts, as we believe that e-learning and the industry as whole needs shaking up.", 
+    "twitterId": "", 
+    "industry": "E-learning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3FE", 
+        "city": "Brighton", 
+        "street1": "Norwood House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.cognify.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Bespoke E-Learning", 
+      "Gamification", 
+      "Mobile Learning", 
+      "E-Learning Consultancy"
+     ]
+    }, 
+    "universalName": "cognify", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cognify"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "This is Freshcut audio.\r\nWe are a Brighton based music production house, providing music for pretty much anything you can throw at us. Short films, advertising campaigns, TV shows, you name it. Get in touch here or visit our website for more information.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.freshcutaudio.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "audio production", 
+      "music writing", 
+      "sound creation"
+     ]
+    }, 
+    "universalName": "freshcut-audio", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Freshcut audio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "name": "S A Prestige Events", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273  862291"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XF", 
+        "city": "Brighton", 
+        "street1": "3rd Floor, Queensbury House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.saprestigeevents.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Corporate Events", 
+      "Weddings", 
+      "Product Launches", 
+      "Christmas Parties"
+     ]
+    }, 
+    "universalName": "s-a-prestige-events", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "S A Prestige Events specialise in luxury and bespoke events across London, Brighton, South and South East. We have a lovely team of ladies here to tailor your event to your specific requirements making it memorable, unique and special. We have years of events and marketing experience and we guarantee a professional and flawless service.\r\n\r\nWe've held parties for over 1000+ guests and brought that extra bit of sparkle to each party. We are able to cater for whatever your heart desires, from the most extravagant, avant-garde parties to something more small, intimate and private. We can ensure you an unforgettable party your friends and family will be talking about for months after...\r\n\r\n\r\nWe plan for:\r\n \r\nCorporate Parties & Conferences \r\nConferences and award shows\r\nTrade shows and product launches\r\nChristmas Parties (Large events or small team parties)\r\nNew Year Eve Parties\r\nCharity Balls\r\nTeam Building\r\nVenue Finding\r\nSporting Events\r\nAfter Parties\r\nClub Promotions\r\nBirthday Parties (At home or at luxury venue)\r\nWedding Planning (please go to our dedicated website (www.timelessevents.co.uk)\r\nGarden Parties\r\nBar/Bat Mitzvahs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "A small web company, based in the vibrant city of Brighton, U Web Designs consists of team of designers, software developers and, and PRINCE2 certified Project Managers with over 10 years experience.\r\n\r\nWith the aim to \u2018take the headache' away from any manager or person running their private business, our approach offers an affordable, personal and, prompt service with assured quality, if not excellence.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.uwebdesigns.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web design", 
+      "Website development & hosting", 
+      "E-marketing & Email setup", 
+      "E-commerce"
+     ]
+    }, 
+    "universalName": "u-web-designs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "U Web Designs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "description": "The Blue Spire accountancy practice is a \u2018one-stop shop\u2019 for audit, accountancy and tax, providing all aspects of advice to owner-managed businesses. \r\n\r\nBased in Brighton, Chichester and Portsmouth, Blue Spire offers an extensive range of business advisory and specialist services.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01243 791770", 
+        "phone1": "01243 781234"
+       }, 
+       "address": {
+        "postalCode": "PO19 1SY", 
+        "city": "Chichester", 
+        "street1": "Cawley Priory"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "023 9229 1019", 
+        "phone1": "023 9281 5342"
+       }, 
+       "address": {
+        "postalCode": "PO5 1DS", 
+        "city": "Portsmouth", 
+        "street1": "Holbrook Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 822614", 
+        "phone1": "01273 739533"
+       }, 
+       "address": {
+        "postalCode": "BN3 1TL", 
+        "city": "Hove", 
+        "street1": "201 Dyke Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.bluespiregroup.com/", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Audit and Accounts", 
+      "Charities, clubs and schools", 
+      "Financial Management", 
+      "Outsourcing", 
+      "Pension scheme auditing", 
+      "Taxation", 
+      "VAT Services", 
+      "Payroll", 
+      "Company Valuation", 
+      "Financial Services", 
+      "Consultancy", 
+      "Software Solutions"
+     ]
+    }, 
+    "universalName": "blue-spire-south-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Blue Spire South LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "360 Degree Vision", 
+    "twitterId": "", 
+    "industry": "Management Consulting", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.360degreevision.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Research & tracking/events/consultancy", 
+      "'Living' customer/employee research feedback experiences", 
+      "Short, interactive 'bootcamps'", 
+      "Live+virtual events to animate key messages", 
+      "Award winning collection of short plays + bespoke capability"
+     ]
+    }, 
+    "universalName": "360-degree-vision", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We help companies bring their strategy to life internally and externally through events and ongoing consultancy. \r\n\r\nOur programmes are immersive, authentic and engaging, to help cultivate a sustained enthusiasm for expressing company, team and personal vision and values.\r\n\r\nOur background is a mix of 25 years of blue chip consulting in customer experience, culture change and personal effectiveness, large group corporate communications, coupled with a 7 year track record of 5-star press acclaimed and award winning international theatre productions.\r\n\r\nThis mix of abilities provides a unique style and facilitates engagement with our tools and methods.\r\n\r\nWe are co-authors of the book 'Brand Alchemy' (2007, Blackhall Publishing).\r\n\r\n360 Degree Vision is a trading name of Visions Training & Development Ltd Ref:2241851; Registered Offices: Maria House, 35 Miller's Road, Brighton, BN1 5NP"
+   }
+  ]
+ }
+}

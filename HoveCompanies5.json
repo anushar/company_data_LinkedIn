@@ -1,0 +1,777 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 100, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A Queen's English (AQE Ltd) is a UK-based educational travel agency that specialises in the planning and execution of study trips for international secondary school students aged 13 to 17.\r\n\r\nAQE endeavours to provide international secondary schools with a unique insight into the reasoning, planning and execution of study tours abroad. This is in a bid to underline the value of extra-curricular activities and integrate them more fully into school curriculums. \r\n\r\nWe work closely with our clients to create study tours that are meticulously designed to inspire students to grow in self-confidence. Students will benefit hugely from mixing with other young people from a wealth of nationalities and backgrounds.\r\n\r\nFrom our offices in the UK\u2019s premier resort city of Brighton and Hove, just one hour from London, AQE offers your group a reassuring presence from the moment they arrive in the UK.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44(0)1273731816", 
+        "phone1": "+44(0)1273207775"
+       }, 
+       "address": {
+        "postalCode": "BN2 0YS", 
+        "city": "Brighton", 
+        "street1": "20 Bedford Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.aqueensenglish.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Objective-Based Development Planning", 
+      "Promoting Extra-Curricular Travel in Secondary Schools", 
+      "Promoting the UK as a Study Destination", 
+      "Representing UK Language Schools Worldwide"
+     ]
+    }, 
+    "universalName": "a-queen's-english-aqe-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "A Queen's English (AQE LTD)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Furry Friends Pet Services", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.furryfriendspetservices.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Dog walking", 
+      "Dog boarding", 
+      "Dog day care", 
+      "Pet feeding"
+     ]
+    }, 
+    "universalName": "furry-friends-pet-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Furry Friends Pet Services provide friendly, professional and reliable dog walking, dog day care, dog boarding and pet feeding service in and arond Brighton and Hove, Sussex, England.\r\n\r\nFurry Friends Pet Services is a Brighton-based family business run by owners (and lifelong animal lovers) Sam and Billie-Jo since 2007.\r\n\r\nHaving tried to juggle pet care for our own dog for many years whilst working out of town, we understand how important it is to know that your beloved furry family member is properly looked after when you can\u2019t be there.\r\n\r\nSpending time with and caring for animals is our livelihood, so with Furry Friends Pet Services you can be sure that your pet is being loved and cared for as if he/she were our own.\r\n\r\nSam and Billie are both CRB (police) checked and in previous careers have worked extensively with children and vulnerable adults.\r\n\r\nWe have 40 combined years\u2019 experience of handling and living with dogs and other pets. We are qualified dog trainers and behaviourists through the Institute of Modern Dog Trainers and provide ethical, modern, reward-based training and control methods.\r\n\r\nWe are fully insured and animal first aid trained in case of an emergency involving your pet. We drive professionally customised, air conditioned dog and pet-carrying vans for your pet\u2019s safety and comfort."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Commercial & residential property acquisition, development & on-going management. Based in South East region, U.K. Primarily Brighton & Hove, Lewes. Independently owned and managed. Portfolio includes self storage, retail shops, residential apartments, student accommodation, offices.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN7 2YY", 
+        "city": "Lewes", 
+        "street1": "1 Station Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.harket.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "self storage", 
+      "property", 
+      "offices", 
+      "shops", 
+      "commercial property", 
+      "HMOs", 
+      "residential property", 
+      "B8 storage"
+     ]
+    }, 
+    "universalName": "harket-property-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Harket"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 202, 
+    "description": "Skerritt Chartered Financial Planners are a firm of Independent Financial Advisers (IFAs) and Wealth Managers, dealing with all areas of Financial Services. With Our head office is in Hove  and we also have  offices in London at the heart of the City.\r\n\r\nOver the past few years we have purchased a number of companies throughout the South East and now serve in excess of 25,000 clients.\r\n\r\nWe are  one of the few firms in the South East to hold Chartered Financial Planning and Discretionary Investment Management status, our financial advisers and investment managers are regularly quoted in the Press and have appeared on television and radio.\r\n\r\nIn May 2008, we obtained permission from the FSA to operate on a Discretionary Investment Management basis. This meant an increase in our capital requirements, but we believe this service brings additional care, benefit and value to our clients.\r\n\r\nWhat we do best:\r\n    Investments\r\n    Discretionary Investment Management Service (Skerritts Wealth Management)\r\n    Pensions - Corporate and Individual\r\n    Mortgages\r\n    Protection\r\n    General Insurance\r\n    PayingTooMuch - Online Insurance Comparison\r\n\r\nFollow Us on FaceBook http://www.facebook.com/pages/Skerritt-Consultants/159667374116537\r\nFollow Us on Twitter http://twitter.com/Andy_Skerritts", 
+    "twitterId": "@Andy_Skerritts", 
+    "blogRssUrl": "http://twitter.com/Andy_Skerritts", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 204 480", 
+        "phone1": "01273 204 999"
+       }, 
+       "address": {
+        "postalCode": "BN3 5AB", 
+        "city": "Hove", 
+        "street1": "Skerritt House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 283 1051", 
+        "phone1": "0203 206 1066"
+       }, 
+       "address": {
+        "postalCode": "EC4R 0BE", 
+        "city": "London", 
+        "street1": "8 Laurence Poutney Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "www.skerritts.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Personal Wealth - Wealth Protection, Wealth Creation, Wealth Management, Mortgages", 
+      "Corporate Planning - Group Pensions, Benefit Packages, Corporate Investment Consulting, Directors Planning, Business Protection", 
+      "Paying Too Much - Online Insurance Comparison"
+     ]
+    }, 
+    "universalName": "skerritt-consultants-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Skerritt Consultants Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 57, 
+    "name": "XYZ Magazine", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.xyzmagazine.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Marketing", 
+      "Advertising"
+     ]
+    }, 
+    "universalName": "xyz-magazine", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "XYZ Magazine, Brighton's FREE monthly guide to what\u2019s on! \r\n\r\nWe find the best club nights, gigs, shows, comedy, theatre, shopping & more, publishing it in a colourful glossy magazine. We're proud to have been guiding thousands of Brighton visitors, residents & students through the hustle and bustle of the busy Brighton entertainment scene every month for over six years.\r\n\r\n- Est readership 100k pcm\r\n- Distribution 600+ Stockists.  \r\n- Age range 35+ 30% |25-34 35% |18-24 32% |13-17 3% \r\n- Gender split = Female 45% Male 55% \r\n- Pick-up 98% \r\n- Website 100-300k Unique Visitors per month \r\n- Social Media Network 25k connections \r\nInfo/reserve space at Sales@xyzmagazine.co.uk or visit xyzmagazine.co.uk\r\n\r\nEstablished in 2006, XYZ is a trusted guide to what's on,  and a trusted partner for businesses wishing to share appropriate offers and news with XYZ readers. \r\n\r\nWe service institutions in Brighton for whom access to the best advertising platform is key, such as Brighton & Hove City Council, Brighton Institute of Modern Music and Brighton City College. We provide advertising for key brands with clout who need an experienced partner to provide the best in performance and value, such as Reading & Leeds Festivals, Fat Face Clothing or Jack Daniels Bourbon. We also ensure that local businesses enjoy access to the same service, with advertising available at a budget to allow access to thousands of local potential new customers in Brighton - one of the UK's most 'current' and cosmopolitan cities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "description": "Extreme Element is the leading extreme sports agency in the UK. We offer over 1000 extreme sports courses & experiences in the UK.  Based in Hove we are predominantly an Internet based company and operate a network of websites including exelement.co.uk & experiencedays.co.uk. Our current & continuing success is in part due to our focus and grasp of new media marketing channels, cutting edge bespoke e-commerce site and excellent web presence.", 
+    "twitterId": "http://twitter.com/exelement", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 358 107", 
+        "phone1": "0845 862 9900"
+       }, 
+       "address": {
+        "postalCode": "BN3 1GN", 
+        "city": "Hove", 
+        "street1": "Unit 5 Hove Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.exelement.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Experiences", 
+      "Online e-commerce"
+     ]
+    }, 
+    "universalName": "experience-days-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Experience Days Ltd"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Uden sales and lettings", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3jd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.udenestateagents.com", 
+    "universalName": "uden-sales-and-lettings", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We sell and let a wide variety of propery in the Brighton and Hove area, we have every type of landlord from single property owners to large professional landlords, we always taylor of service to suit our customers needs. and we live my our morals and provide a top quality service"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Lancing College is situated on the South Downs, near Brighton and Hove, in 550 acres of an Area of Outstanding Natural Beauty. It has a reputation for academic excellence in all subjects and a strong performance in value-added terms. There are 540 students in the school, which was founded in 1848 by the forward thinking Revd Nathaniel Woodard, whose aim was to provide a good and complete education\u2026 of sound principle and sound knowledge, firmly grounded in the Christian faith. Lancing is an ideal size: big enough to offer a diverse range of opportunities; small enough for everybody to be known and appreciated.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 452213"
+       }, 
+       "address": {
+        "postalCode": "BN15 0RW", 
+        "city": "Lancing", 
+        "street1": "Lancing College"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1848, 
+    "websiteUrl": "www.lancingcollege.co.uk", 
+    "universalName": "lancing-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Lancing College"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "(We Are) Caper (Ltd)", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.wearecaper.com", 
+    "universalName": "-we-are-caper-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We build digital prototypes, develop communications campaigns and create innovative culture change programmes such as Articulate, Culture Hack, Happenstance, and Coding for Kids.\r\n\r\nOur clients include BBC Radio 3, Kings Cultural Institute, RSC, British Council, NHS, University of Cambridge Museums, and Royal Pavilion, Libraries & Museums, Brighton & Hove."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Award Creative", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.awardcreative.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Graphic Design", 
+      "Web Design", 
+      "Art Direction", 
+      "Photography"
+     ]
+    }, 
+    "universalName": "award-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "A creative design agency working with a diverse range of clients offering bespoke design solutions. Independently owned and based in the heart of Brighton & Hove we are fifty minutes from London and five minutes from the beach.\r\n\r\nAward Creative can offer advice or a competitive quote to suit your budget. We can handle your job from concept to completion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Vengedalen er et ridested med islandskeheste, der ligger i det natursk\u00f8nne S\u00f8h\u00f8jlandet ved Ry \u2013 med skovene ved Juls\u00f8 som baghave.\r\n\r\nVengedalens turridninger er for det voksne publikum. Her rider man ikke ud i k\u00e6mpeflokke p\u00e5 heste, der kun kan g\u00e5 i r\u00e6kke. Vengedalen er ikke en rideskole, men et ridested.\r\n\r\n-Inden vi rider ud, starter vi med at hente hestene p\u00e5 marken, strigler, renser hove og sadler op. S\u00e5 tr\u00e6kker vi hestene over folden og stiger op, n\u00e5r vi er i skoven, fort\u00e6ller Lillijan.\r\n\r\nDer er tre timers ture (med indlagt pa...use i skoven) 0g to timers ture.\r\nHer udover er der specialture som eksempelvis t\u00f8seture, hvor m\u00e6nd dog ogs\u00e5 er velkomne. S\u00e5dan en tur starter om formiddagen med kaffe og br\u00f8d i stalden inden en lang ridetur med en hvilepause i skoven, hvor der bydes p\u00e5 kaffe og hjemmebag. \r\nTilbage p\u00e5 g\u00e5rden er der \u201dafterridning\u201d med \u00f8l eller sodavand og lidt til ganen i den hyggelige stald med hestenes gumlen som lydkulisse.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "87483748"
+       }, 
+       "address": {
+        "postalCode": "8680", 
+        "city": "Ry", 
+        "street1": "Rodelundvej 44"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.vengedalen.dk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Turridning", 
+      "Oplevelser", 
+      "Rideture"
+     ]
+    }, 
+    "universalName": "vengedalen", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Vengedalen"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Lets Go specialises in residential lettings. Based in Rottingdean we cover the surrounding Deans areas and also cover the wider Brighton & Hove market. We manage a range of period and contemporary properties and provide a high quality service based on trust and personal recommendation. We offer sound advice on the ins-and-outs of successful renting based on our detailed knowledge and experience of the local market and of  the relevant legislation.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 236547"
+       }, 
+       "address": {
+        "postalCode": "BN2 7HE", 
+        "city": "Brighton", 
+        "street1": "59 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.letsgoproperty.co.uk/", 
+    "universalName": "lets-go-lettings-&-property-management-specialists", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lets Go Lettings & Property management specialists"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Concordia Dental", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN41 2DR", 
+        "city": "Hove", 
+        "street1": "39a Salisbury Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01342 313 886"
+       }, 
+       "address": {
+        "postalCode": "Rh19 3EA", 
+        "city": "East Grinstead", 
+        "street1": "138 Holtye Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.concordiadental.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "General Dentistry", 
+      "Nervous Patients", 
+      "Cosmetic Dentistry", 
+      "Orthodontics", 
+      "Tooth Replacement", 
+      "Teeth Whitening", 
+      "Jaw Join Problems", 
+      "Hygienist"
+     ]
+    }, 
+    "universalName": "concordia-dental", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A Unique and Exclusive Dental Practice Based in the Heart of Hove and East Grinstead. Dedicated to Dental Excellence, We Aim to Meet Individual Patient Needs and Expectations. Put Your Dental Fears to Rest Here in Our Relaxing and Tranquil Surroundings and Be Greeted With a Warm and Friendly Smile at Every Appointment."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "The Curtain Workshop", 
+    "twitterId": "", 
+    "industry": "Textiles", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.the-curtain-workshop.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Curtains", 
+      "Blinds", 
+      "Upholstery", 
+      "Commercial Properties", 
+      "Bespoke Design"
+     ]
+    }, 
+    "universalName": "the-curtain-workshop", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "The Curtain Workshop - based in Hove offers bespoke curtains, blinds and upholstery. We have many years experience, and will come to you to offer a free quote and design ideas. Everything we do is handmade in our own workroom, allowing us to ensure absolute satisfaction and quality every time. \r\nThe Curtain Workshop belongs to Kim, and it is Kin you will deal with from initial first meeting and estimate, until completion. We are a local company that take pride in our work. Have a look at our website to see some of our recent projects, and feel free to contact me if i can help!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Brighter Futures Foster Care", 
+    "twitterId": "", 
+    "industry": "Individual & Family Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "brighterfuturesfostercare.co.uk", 
+    "universalName": "brighter-futures-foster-care", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighter Futures Foster Care Limited is an independent fostering agency. It was established in 2007 by the current  Directors, Justina Gay and Sali Walker. Our agency achieved a 'good' in our recent Ofsted inspection and operates across the South and East of England with children placed from 20 different local authorities. We currently have carers in Kent, East and West Sussex, Brighton and Hove, London, Essex, Hertfordshire, Bedfordshire, Cambridgeshire and Hampshire.\r\n The agency has low staff turnover rates, low placement breakdown rates and high satisfaction levels amongst carers and young people.\r\n\r\nOur vision is to make sure young people are happy, foster carers feel values, staff are motivated and stakeholders feel positive results have been achieved.\r\n\r\nOur mission is to provide caring and supportive placements for children and young people, which will enable them to achieve positive life outcomes."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Sussex Area Conservative Future", 
+    "twitterId": "", 
+    "industry": "Political Organization", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "sussexareacf.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Politics", 
+      "Youth Engagment", 
+      "Social Action", 
+      "Campaigning"
+     ]
+    }, 
+    "universalName": "sussex-area-conservative-future", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Set among the South Downs, Sussex Area encompasses the council territories of East Sussex, West Sussex and Brighton & Hove, providing fantastic opportunities for members and communities alike. With a population of over 1.6 million, we are one of the largest areas in the UK with 18 branches and universities available to join.\r\n\r\nConservative Future in Sussex has a host of social and campaign activities to be involved in aimed at supporting the Conservative party in Sussex and providing a fantastic opportunity for our members to hang out and meet up with friends."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "ABE Media", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.abemedia.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Web Development", 
+      "Joomla Development", 
+      "Custom CMS Development", 
+      "HTM5 + CSS3", 
+      "E-commerce", 
+      "Responsive Web Design", 
+      "UX"
+     ]
+    }, 
+    "universalName": "abe-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "ABE Media are a small, yet highly innovative web design and development company based in Brighton & Hove, East Sussex.\r\n\r\nSince its incorporation in 2005, ABE Media have been at the forefront of new technology, shaping the future of web design with each and every project."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Taizhou Boteli Machinery & Electrical Equipment Co.,Ltd. Located in Pengjie Industrial Zone, Luqiao District, Taizhou, Zhejiang, is a modern enterprise with rich experience in R&D, trading , manufacturing and marketing. The endless innovation of high-caliber employees enables it to be a leader in the industry. The sincere and persistent dedication mission wins them both market share and customers' trust. Its products sale well both at home and abroad.\r\n\r\nEquipped with superior plant, advanced equipment and checkout equipment, as well as a high-caliber team, the company has been ISO9001 approved. There are mainly 6 series and totally over 50 kinds of products including low-noise piston air compressor of oil-free, dental noise-free air compressor,vacuum pump,oilless air pump, gas water pump,gas generator which are widely applied to many industries such as textile, paper making, printing and dyeing, plastic, aquiculture raising, hardware decoration, dust removal, paint spray, and blasting and environment protecting, medical treatment, sanitation, machinery and pneumatic etc.\r\n\r\nThe company adheres to honest-based, human-oriented, science& technology-first and innovation-formost mission. Customers both at hove and abroad are welcome.", 
+    "twitterId": "", 
+    "industry": "Electrical & Electronic Manufacturing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0086-576-82749222", 
+        "phone1": "0086-576-82723703"
+       }, 
+       "address": {
+        "postalCode": "318057", 
+        "city": "Taizhou", 
+        "street1": "Pengjie Industrial Zone"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.tzbtl.com", 
+    "universalName": "taizhou-boteli-machinery-&-electrical-equipment-co-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Taizhou Boteli Machinery & Electrical Equipment Co.,ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Pixel Debris", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.pixeldebris.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Web Design", 
+      "Graphic Design", 
+      "Brand Consultancy", 
+      "Email Marketing Design", 
+      "E-commerce Design", 
+      "Social Media Profile Design", 
+      "Banner Design", 
+      "Photography", 
+      "Information Architecture", 
+      "Responsive Web Design", 
+      "Magento", 
+      "WordPress"
+     ]
+    }, 
+    "universalName": "pixel-debris", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Pixel Debris is the brainchild of Victoria Alexander, a freelance creative web and graphic designer based in the vibrant city of Brighton & Hove who has been working in the online industry for over 10 years on a diverse range of projects for small to medium-sized businesses, particularly in the e-commerce sector.\r\n\r\nPassionate about good design and typography, through effective planning and consultation I offer bespoke design solutions to help you engage with your customers and enhance your online presence. \r\n\r\nSo if your start-up business in need of a new brand strategy or an agency in need of an extra pair of hands please get in touch. Thank you."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "CoastalWestSussexJobs.com is the local online jobs board for Coastal West Sussex area, connecting Brighton through to Chichester. \r\n\r\nCoastalWestSussexJobs.com is transporting the formula that was so successful in creating BrightonandHoveJobs.com and GatwickDiamondJobs.com, into a new catchment area. Encompassing Brighton, Hove, Portslade, Shoreham-By-Sea, Lancing, Worthing, Goring-By-Sea, Littlehampton and Chichester. The new jobs board will be responsible for advertising and creating jobs, placements and development in West Sussex in particular the coastal West Sussex area. \r\n\r\nWorking together with BrightonandHoveJobs.com and GatwickDiamondJobs.com the jobs board family cover the south East of England to promote employers jobs opportunities, education & training as well as community initiatives, to local residents and businesses in the areas. \r\n\r\nCoastalWestSussexJobs.com offers an all-encompassing approach to employment solutions, training, development and CSR (corporate social responsibility) and, what's more, it will focus purely on Brighton through to Chichester to ensure an unbeatable local service for both local and regional businesses and job-seekers alike. \r\n\r\nVisit www.CoastalWestSussexJobs.com", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN33AN", 
+        "city": "Hove", 
+        "street1": "BrightonandHoveJobs.com County Ground"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.coastalwestsussexjobs.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "jobs", 
+      "recruitment", 
+      "marketing", 
+      "advertising"
+     ]
+    }, 
+    "universalName": "coastalwestsussexjobs-com", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "CoastalWestSussexJobs.com"
+   }
+  ]
+ }
+}

@@ -1,0 +1,884 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1140, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 293, 
+    "description": "Welcome to P H Warr plc.\r\n\r\nP H Warr plc is a leading provider of Property & Construction Surveying services delivered from our network of offices in London, Brighton, Southampton, Bournemouth, Exeter, Tripoli and Casablanca. We are a dynamic, diverse organisation and have grown strongly through repeat business, referrals and acquisitions since our inception in 1992.\r\n\r\nP H Warr plc's technical and professional capability along with our two decades of project experience and can-do attitude allow us to respond pro-actively to provide maximum value consultancy services.  Our client-focused and innovative ethos means that we tailor our services - Project Management, Quantity Surveying, Building Surveying, Construction Health and Safety, Environmental and Sustainability - to meet our clients' needs and objectives.\r\n\r\nWe actively establish and understand our clients' organisational and project objectives from the outset, and this proven formula has earned the respect of an extensive portfolio of blue-chip and international clients.\r\n\r\nWe are now recruiting worldwide.  Please visit us at http://www.phwarr.com for more details.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1202 479333"
+       }, 
+       "address": {
+        "postalCode": "BH23 6BB", 
+        "city": "Christchurch", 
+        "street1": "Parley Court Farm"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.phwarr.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Quantity Surveying", 
+      "Building Surveying", 
+      "Health & Safety / CDM co-ordination", 
+      "Project Management", 
+      "Environment & Sustainability"
+     ]
+    }, 
+    "universalName": "p-h-warr-plc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "P H Warr plc"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Based in sunny Brighton, Glue Media is a social media marketing company that provides custom solutions to a wide variety of local industries; including retail, events and music.\r\n\r\nHelping to give local businesses and brands the online presence they need to take on the big boys, Glue Media aims to make the bond between customer and proprietor stronger than ever.", 
+    "twitterId": "Glue_Media", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "gluemedia.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Social Media", 
+      "Social Media Marketing", 
+      "Web Development", 
+      "SEO"
+     ]
+    }, 
+    "universalName": "glue-media", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Glue Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We're Emberlane; a creative studio based out of Brighton in the United Kingdom.\r\n\r\nWHAT WE DO\r\nCreative direction, brand/identity development, graphic design, web design and web development.\r\n\r\nWhether the right solution involves developing your brand identity, designing a piece of literature for print or building your website, solutions are bespoke, project-specific and never off-the-shelf.\r\n\r\nWe build lasting relationships and we're proud to have a growing list of satisfied clients.", 
+    "twitterId": "emberlane", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.emberlane.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Branding", 
+      "Graphic Design"
+     ]
+    }, 
+    "universalName": "emberlane", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Emberlane"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Founded in 1984 by Robyn Bevan,  Holiday World Travel is one of Brighton's preeminent travel agencies.\r\n\r\nAn award winning affiliate member of the Jetset Travelworld Group, Holiday World Travel is a licenced travel agent and member of IATA and AFTA.\r\n\r\nHoliday World Travel are specialists in providing the holiday and business traveler with comprehensive and quality service. Their sales staff each have a minimum of 15 yeras experience and have travelled extensively.\r\n \r\nNo need to research flights, holidays or waste hours crawling through the Internet - just contact Holiday world Travel and their friendly staff will do the rest.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Airlines/Aviation", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "340 Bay Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "holidayworldtravel.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Holiday Leisure Travel", 
+      "Business Travel", 
+      "Groups", 
+      "Cruising"
+     ]
+    }, 
+    "universalName": "holiday-world-travel", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Holiday World Travel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "www.dowsettmayhew.com\r\n\r\nWe are an independent consultancy, providing comprehensive expert advice on all aspects of Town Planning. \r\n\r\nWe have a client focused ethos which underpins our bespoke service. Professional, dynamic and practical, we are committed to delivering the best outcome and to meeting our client\u2019s expectations. \r\n\r\nFrom our Brighton office we operate throughout the South and South-East of England.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 686953"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ET", 
+        "city": "Brighton", 
+        "street1": "Pelham House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.dowsettmayhew.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Town Planning", 
+      "Planning application submissions", 
+      "Site promotion", 
+      "Historic Environment"
+     ]
+    }, 
+    "universalName": "dowsettmayhew", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "dowsettmayhew"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "PR PC Support is a IT Support company that specialises in supporting small businesses , home office users and home users in the Brighton and Hove area ( We also have clients in Guildford, Reigate , Caterham and Maidenhead - so don't be put off by distance ). \r\nWe can help from the smallest problem , like a virus on a single PC to office moves, or server installs and builds.", 
+    "twitterId": "prpcsupport", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Hove", 
+        "street1": "Applesham Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.prpcs.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "WIndows XP/7/2003 Server/2008 Server", 
+      "Active Directory", 
+      "Exchange Server", 
+      "Home User Issues ( Viruses/Wireless/etc )"
+     ]
+    }, 
+    "universalName": "pr-pc-support", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "PR PC Support"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 109, 
+    "description": "Consultants and Recruitment specialists within the catering & hospitality industry.  Recruiting and supplying Chefs of all levels, managers, waiting and bar staff, housekeeping, kitchen porters/assistants and back office staff to hotels, restaurants, public houses, theme bars, contract caterers, nursing homes, schools, hospitals, clubs, events, holiday resorts, leisure industry, cruises ships, conference centres, private homes, food production, in-flight, food development and more...\r\n\r\nBranches offices located in Bath, Brighton, Bristol, Cardiff, Cheltenham, Coventry, Exeter, London, Southampton, Swindon.  All spearheaded by ex industry consultants who fully understand Client needs.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01225 480239"
+       }, 
+       "address": {
+        "postalCode": "BA1 5LS", 
+        "city": "Bath", 
+        "street1": "6 Bladud Buildings"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 774475"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "37 Ship Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0117 929 4777"
+       }, 
+       "address": {
+        "postalCode": "BS1 1QW", 
+        "city": "Bristol", 
+        "street1": "56 Baldwin Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02920 394777"
+       }, 
+       "address": {
+        "postalCode": "CF11 9RZ", 
+        "city": "Cardiff", 
+        "street1": "2 Cathedral Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.cateringinternational.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Catering & Hospitality", 
+      "Recruitment", 
+      "Temporary Staff Supply", 
+      "Events", 
+      "Chefs"
+     ]
+    }, 
+    "universalName": "catering-services-international", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Catering Services International"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "Bite Studio is an award winning user experience, design & development agency based in the heart of Brighton. We work with some great high profile brands, providing software development, mobile development, user experience, user testing and interactive installations. \r\n\r\nWe continuously strive to push the boundaries of technology, usability and user interaction. We are not satisfied with just building digital systems; every project for us is a portfolio piece. We strive to make the final product something of which everyone is proud. We get to work on some amazingly creative projects and have long term relationships with our clients. We are chosen for our creative thinking, complex problem solving, technical innovation and the vision we offer.\r\n\r\nOur core sectors are:\r\n\r\n- Publishing\r\n- High end luxury retail\r\n- Tech start-ups\r\n- Interactive", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.bitestudio.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "User Experience", 
+      "Design", 
+      "Software Development", 
+      "User testing", 
+      "Enterprise level systems", 
+      "Responsive design & mobile browsing", 
+      "Mobile/Tablet apps / Facebook apps", 
+      "E-commerce development", 
+      "Complex problem solving", 
+      "Complex problem solving"
+     ]
+    }, 
+    "universalName": "bite-studio-ltd.", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bite Studio Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "My name is Paul Burgess. I enjoy building well designed websites that look great and are easy to use.\r\n\r\nI run Delarge Design, a web design studio based in Brighton on the south coast of the UK. \r\n\r\nClients range from world famous musicians such as Royksopp, Moby and The Knife to small local businesses.\r\n\r\nI'm always looking for new projects, I'd love to hear about yours.", 
+    "twitterId": "http://portfolio.delargedesign.com/feed-rss.php?url=delargedesign", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 782736"
+       }, 
+       "address": {
+        "city": "Brighton", 
+        "street1": "Richmond Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://delargedesign.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web design", 
+      "Website development", 
+      "Ecommerce", 
+      "Wordpress"
+     ]
+    }, 
+    "universalName": "delarge-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Delarge Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 51, 
+    "description": "Trident is an experienced and trusted provider of IT solutions and professional services. We\u2019ve been delivering expertise and all types of technology and support to business across Sussex and further afield since 1991.\r\n\r\nOur solutions span everything from software and hardware provision, network assessment and virtualisation services to disaster recovery, backup and flexible IT support agreements, all delivered within close working partnerships with our clients and designed around their specific needs, strategic objectives and business operations.\r\n\r\nAt our headquarters in Brighton, our experienced teams of consultants, engineers and support staff offer a rich source of business expertise and solid technical know-how. And we support any scale of small or medium-size business, from companies with limited or no internal IT expertise to multi-site, multinational enterprises seeking first-class IT solutions on a larger scale.\r\n\r\nOur expertise and credibility are proven: we\u2019re proud of our high client retention rate and accredited partnerships with best-of-breed vendors, including Microsoft, VMware, Dell, HP and Cisco. All testify to the quality of our advice, the excellence of our consultation and service and our ability to deliver the best IT tools as they become available.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 670666", 
+        "phone1": "01273 662777"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ST", 
+        "city": "Brighton", 
+        "street1": "Shaftesbury Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.tridentgroup.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "IT Support", 
+      "Cloud Services", 
+      "Network Design and Solution Provision", 
+      "Virtulisation", 
+      "Microsoft Partner", 
+      "VMware Enterprise Partner"
+     ]
+    }, 
+    "universalName": "trident-professional-it-services", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Trident Professional IT Services"
+   }, 
+   {
+    "numFollowers": 6, 
+    "name": "DSA Designs", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.dsadesigns.co.uk", 
+    "universalName": "dsa-designs", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "DSA Designs provide affordable graphic design, digital and litho print solutions throughout the UK and beyond.\r\n\r\nMy name is Deborah Aldridge, I am a self employed Graphic Designer based in Brighton. I have 9 years experience designing for the print industry, and in 2007 won the BPIF / City and Guilds Young Apprentice of the Year award. \r\n\r\nFollowing this in 2008 I won a Scholarship with the BPIF.\r\n\r\nWhether you are a new business looking for a logo design and stationary to create a unique image for your business, or an established business needing to revamp yout identity, I will work hard to provide a design solution that is perfect for your needs.\r\n\r\nI offer a full design and print service, which includes the following:\r\n\r\nLogo and Branding, Re-branding, Business Stationery, Business Cards, Price Lists, Leaflets, Flyers, Posters, Brochures, Manuals, Menus, Appointment Cards, Invoice Pads, Modelling Z Cards, Photographic Restoration, Wedding Stationery, Promotional Clothing and much more."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Coachwerks is a community interest company based in the Hollingdean area of Brighton. Built and run by volunteers over three years, Coachwerks provides access to space, education and resources for our local neighbourhood and wider area, specialising in the provision of studio and workspace.", 
+    "twitterId": "Coachwerks", 
+    "blogRssUrl": "http://coachwerksnews.blogspot.com/feeds/posts/default?alt=rss", 
+    "industry": "Arts & Crafts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 275012"
+       }, 
+       "address": {
+        "postalCode": "BN17HB", 
+        "city": "Brighton", 
+        "street1": "19 Hollingdean Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.coachwerks.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Studios", 
+      "Venue", 
+      "Community Work"
+     ]
+    }, 
+    "universalName": "coachwerks", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Coachwerks"
+   }, 
+   {
+    "numFollowers": 11, 
+    "name": "Mi Bewick Photography", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN31PR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.mibewick.co.uk", 
+    "universalName": "mi-bewick-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Mi Bewick is a Scandinavian photographer, who's been living and working in London and Brighton&Hove for the last 12 years. She\u00b4s one of the official photographers for The Argus newspaper in Sussex.\r\nMi grew up in the Scandinavian countryside, where she got used to the vast open spaces with subdued colours and people with animals and nature close at heart. \r\nShe carried on to make a career in the cities of Stockholm, New York and London, and has finally set new roots in the beautiful, quaint, yet trendy city by the sea, Brighton&Hove.\r\nShe now makes use of her diverse experience from the countryside and the challenging environment of high-end commercial shoots for the international market.\r\nWith eyes for delicate details and a heart in interior decoration and the superior traditions of Scandinavian design, her aim is to help you find the way to an outstanding end-result of all jobs, big or small.\r\nMi was educated at the GFU Photography School in Stockholm, The University of Stockholm, Stockholm Film school, New York University and New York Film Academy. She\u00b4s proficient in Photoshop after attending intensive course at Brighton University 2007. She has also done an Interior Decoration Course at the well-renowned Inchbald School of Design in London in 2008. She\u00b4s been living in the UK since 1998."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 34, 
+    "description": "We are a family owned group of companies with head quarters in Trowbridge, Wiltshire's county town.\r\n\r\nEstablished in 1879 by Mr Henry John Knee, we have been involved in many aspects of local business from refitting boats in the Bristol docks to rebuilding piers, including the Brighton pier and Penarth pier. We now focus on 3 core businesses - retailing, property and engineering.", 
+    "twitterId": "hjknee", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01225 777422", 
+        "phone1": "01225 754161"
+       }, 
+       "address": {
+        "postalCode": "BA14 8EW", 
+        "city": "Trowbridge", 
+        "street1": "27 Fore Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01666 825334", 
+        "phone1": "01666 823120"
+       }, 
+       "address": {
+        "postalCode": "SN16 9AA", 
+        "city": "Malmesbury", 
+        "street1": "17 High Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01225753894"
+       }, 
+       "address": {
+        "postalCode": "BA14 7BB", 
+        "city": "Trowbridge", 
+        "street1": "Ashton Mill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01225 753894"
+       }, 
+       "address": {
+        "postalCode": "BA13 4JL", 
+        "city": "Westbury", 
+        "street1": "8 Victory Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1879, 
+    "websiteUrl": "www.hjknee.co.uk", 
+    "universalName": "h.j.knee-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "H.J.Knee Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "name": "D2D Sussex", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07984 714 795"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GA", 
+        "city": "Brighton", 
+        "street1": "3 St Georges Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.d2dsussex.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Competitive rates for solus,shared & insert distribution.", 
+      "Door to Door Campaigns to suit the needs of your business.", 
+      "Help & Advice regarding areas, quantities, the best timing and types of leaflets necessary for success.", 
+      "BN postcode door drop specialists."
+     ]
+    }, 
+    "universalName": "d2d-sussex", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Need to reach more local people?\r\nWe provide door to door leaflet distribution services in the Brighton and Sussex area. \r\n\r\nD2D Sussex specialise in the direct delivery of your advertising material. We target the households of your prospective clients, maximising its readership and impact. This successful and widely used medium reaches the public, increases customer awareness and leads to enquiries and sales."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Essence Design Ltd", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "049050297"
+       }, 
+       "address": {
+        "postalCode": "5032", 
+        "city": "Wellington", 
+        "street1": "PO Box 2027"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.essencedesign.co.nz", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Interior Design", 
+      "Architectural design", 
+      "renovations", 
+      "additions", 
+      "new houses"
+     ]
+    }, 
+    "universalName": "essence-design-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Robyn is the Design Director and sole practitioner of Essence Design Ltd.  After completing a 4 year full time Batchelor of Design in 1995 and three years working for architectural practices, she headed off overseas via Africa.  Robyn worked as an Interior and Architectural Designer in London, Edinburgh and Brighton. After travelling extensively, Robyn returned home and incorporated Essence Design Ltd in early 2004. \r\n\r\nRobyn is passionate about quality design and creating spaces that encompass all of her clients' needs, desires and wish lists. Robyn works closely with her clients and can offer full design service from conception to completion.\r\n\r\nPlease phone or email to discuss your next design project.\r\n\r\nInterior Design, Architectural Design, Renovations, New Homes, Commercial Interiors and Contract Administration"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "SnE Consulting", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn33wy"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.sneconsulting.co.uk", 
+    "universalName": "sne-consulting", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Technical services for IT & Entertainment\r\n\r\nSnE provides IT services to a number of small businesses across many business sectors and locations.  I support mainly Microsoft servers doing file and print and hosting databases and other applications.  Other work includes the support of VPNs to remote sites / home workers and VoIP solutions.  I also have other people I work with to develop comprehensive web sites and hosting solutions.\r\n\r\nIn entertainment we can provide both sound and lighting to any event.  Lighting is my main area of expertise having done things from TV comedy to rock n roll to fashion shows to corporate events.  Currently I am working on the lighting design for a play at the Cock Tavern Theater in Kilburn \u201cThe under room\u201d and lighting and sound design for a pantomime in Brighton called \u201cSinders is a gay\u201d"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Red Lotus Massage and Bodywork is a heart-centered, state-licensed therapeutic massage and bodywork practice located in the City of Boston's Brighton Center neighborhood. Red Lotus offers a variety of services, including massage therapy, CranioSacral Therapy, Reiki, and Zero Balancing sessions by appointment.", 
+    "twitterId": "RedLotusMassage", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-903-7363"
+       }, 
+       "address": {
+        "postalCode": "02135-2905", 
+        "city": "Brighton", 
+        "street1": "17 Henshaw Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.redlotusmassage.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "massage therapy", 
+      "bodywork", 
+      "Zero Balancing", 
+      "CranioSacral Therapy", 
+      "Reiki", 
+      "relaxation", 
+      "heatlh", 
+      "wellness"
+     ]
+    }, 
+    "universalName": "red-lotus-massage-and-bodywork", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Red Lotus Massage and Bodywork"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Marsh & Co Accountants was founded over 35 years ago, since then we have become a leading firm of accountants on the south coast. We consist of over 250 clients therefore acquiring a vast range of knowledge and experience to suit your needs. \r\n\r\nOver the years, we have developed an excellent reputation for a prompt, reliable and professional service for both local and national businesses giving you that peace of mind that your financial requirements are in good hands. \r\n\r\nWe pride ourselves on client relations and a partner is always available to take a phone call. Not to mention being ideally located directly between Brighton and Worthing so we are always happy to see clients whether it be for a meeting, bringing in records or just a word of advice.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 441227", 
+        "phone1": "01273 441228"
+       }, 
+       "address": {
+        "postalCode": "BN43 6BF", 
+        "city": "Shoreham by Sea", 
+        "street1": "254 Upper Shoreham Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.marsh-co.com", 
+    "universalName": "marsh-&-co-accountants", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Marsh & Co Accountants"
+   }, 
+   {
+    "numFollowers": 5, 
+    "name": "6 Degrees South Health and Fitness", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "03 9528 1024"
+       }, 
+       "address": {
+        "postalCode": "3185", 
+        "city": "Elsternwick", 
+        "street1": "2/207 Glen Huntly Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.6degreessouth.com.au", 
+    "universalName": "6-degrees-south-health-and-fitness", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "6 DEGREES SOUTH HEALTH & FITNESS is not a Franchised fitness club. It is owner managed, so you are not just another number to us. We are member focused, our goals are your goals. And we can tailor your program to fit you, rather than make you fit a program from head office.\r\n\r\nWe work hard everyday to give you the service you both want and need but also deserve. 6 Degrees South Health & Fitness was re-named and branded in November 2004 after having serviced members of the Elsternwick, Elwood, Brighton, Caulfield and St Kilda area for more than 25 years, to become what it is today, a boutique, un-crowded, all inclusive fitness service."
+   }
+  ]
+ }
+}

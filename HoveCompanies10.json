@@ -1,0 +1,797 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 200, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "description": "Cellular Solutions are a Hove based dedicated business to business communication and technology  provider.  Set up in 1999, we are proud to be partnered with the UKs leading telecoms companies at the highest level, giving you access to world class value, service and true thought leadership in how we work with you. Our partners comprise of Vodafone, O2, Telefonica, Gamma and BT Openreach.\r\n\r\nOur purpose at Cellular Solutions is to provide high value solutions to businesses to improve communication and effectiveness.  In essence, we\u2019re acutely focused on helping businesses work better to deliver efficiency, improve relationships with clients, employees and suppliers and build profitability. We want to help businesses develop and improve through excellence of communication.", 
+    "twitterId": "", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 424221", 
+        "phone1": "01273 424220"
+       }, 
+       "address": {
+        "postalCode": "BN3 7GS", 
+        "city": "Hove", 
+        "street1": "Knoll Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.cellularsol.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Mobile", 
+      "Mobile Data", 
+      "Fixed Line", 
+      "Fixed Line Data", 
+      "Broadband", 
+      "Converged Solutions", 
+      "Vodafone One Net", 
+      "Cost Reduction", 
+      "Telecommunications Estate Audits"
+     ]
+    }, 
+    "universalName": "cellular-solutions-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cellular Solutions Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "We are an experienced, proactive and trustworthy firm of criminal law defence solicitors\r\n\r\nMackrell Marsh & Co solicitors are based in Brighton & Hove and has presence throughout Sussex and the South East. We are a friendly and approachable team working for you, with straight talking and no empty promises. \r\n\r\nAs criminal solicitors we have experience of handling all types of cases from complex fraud, murder, to theft or public order offences. \r\n\r\nWe are also expert motoring solicitors dealing with cases ranging from causing death by dangerous driving, drink driving, careless driving. See motoring offences", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 729910", 
+        "phone1": "01273 823456"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FA", 
+        "city": "Brighton", 
+        "street1": "96 Western Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mackrellmarsh.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Criminal Law"
+     ]
+    }, 
+    "universalName": "mackrell-marsh-&-co-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mackrell Marsh & Co."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Architecture & Interior Design\r\n\r\nCDMS Partners Architects and Interiors is Camillin Denny Morton Scarr, located in the heart of Brighton and Hove.\r\n\r\nThe practice undertakes unique architectural projects both in the UK and internationally, combining innovation and progressive design skills with wide practical experience and detailed construction knowledge. Our work now includes public and private listed and conservation properties, hotels, museums and international masterplanning projects. \r\n\r\nOur aim is to produce beautiful, sustainable and healthy living, working and educational environments that demonstrate how good design is compatible with economic, social and environmental well being. We have won four Sussex Heritage Trust Awards in recognition of the creative integration of heritage properties with modern design and the sensitive use of local materials within our projects. Each project is assessed on an individual basis to determine the most appropriate sustainable design strategies. From inception to completion we will guide the client through the complex maze of alternative choices around sustainable design, to provide best value and lower running costs.\r\n\r\nWe are a Chartered Practice of the Royal Institute of British Architects (RIBA) and ensure our Clients receive the highest quality service through our Quality Management System certified to ISO 9001:2008.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 220407"
+       }, 
+       "address": {
+        "postalCode": "BN1 3BE", 
+        "city": "Brighton", 
+        "street1": "Montpelier House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.cdmspartners.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Architecture", 
+      "Interior Design", 
+      "Masterplanning"
+     ]
+    }, 
+    "universalName": "cdms-partners-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CDMS Partners Ltd - Architects + Interiors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "With many years experience in the security services industry, Dorcom Limited is a long established business, offering servicing and maintenance of door entry and entry phone systems, access control, IP CCTV and gate automation systems across the South East. Established in 1974, the business is also a specialist in the rental of door entry and entry phone systems. \r\n\r\nDorcom Ltd has a large customer base and equipment rental base, located throughout the UK, including the London area. The company is owned by Mr Derek Berman and managed by Mr Martin Fry who has been developing the property security business for Dorcom Limited since 2008, having previously worked in the building services industry for many years. The company has undergone a re-organisation and move to its new location at Shoreham by Sea where it now has a showroom and retail outlet. \r\n\r\nAreas covered for service, maintenance and repair of systems include:\r\n\r\nBrighton, Hove, Shoreham By Sea, Worthing, East Sussex, West Sussex, Surrey, Dorset, Hampshire, Kent and London", 
+    "twitterId": "dorcom_ltd", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Electronics", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 220108", 
+        "phone1": "0800 0685447"
+       }, 
+       "address": {
+        "postalCode": "BN43 5WA", 
+        "city": "Brighton", 
+        "street1": "25 Brunswick Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1974, 
+    "websiteUrl": "http://www.dorcom.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Door Entry Systems", 
+      "IP CCTV Surveillance Cameras", 
+      "Door and Gate Automation", 
+      "Intruder Alarms"
+     ]
+    }, 
+    "universalName": "dorcom-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dorcom Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Crescendo nv - Elite Reklaam", 
+    "twitterId": "EliteReklaam", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "033859645", 
+        "phone1": "033859338"
+       }, 
+       "address": {
+        "postalCode": "2970", 
+        "city": "Schilde", 
+        "street1": "Turnhoutsebaan 185"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.elitereklaam.be", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Uitgever van reclamemagazine \"Elite Reklaam\""
+     ]
+    }, 
+    "universalName": "crescendo-nv---elite-reklaam", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Reeds meer dan 50 jaar is Elite Reklaam het reclameblad van de Antwerpse Kempen. \r\nMet een oplage van meer dan 250.000 exemplaren verschijnen we in meer dan 60 gemeenten. \r\nAltijd bedeeld met De Post.\r\n\r\nVerschijnt in 7 regio's in de provincie Antwerpen. \r\nDit verspreid over meer dan 60 gemeenten.\r\n\r\nREGIO 1 : \r\nBeerse - Borsbeek - Brecht - Halle - Massenhoven - Oelegem - Oostmalle - Overbroek - Pulderbos - Pulle -Schilde - Schotenhof - 's-Gravenwezel - St-Antonius - St-Job in 't Goor - St-Lenaarts - Viersel - Vlimmeren- Westmalle - Wijnegem - Wommelgem - Zandhoven - Zoersel\r\n\r\nREGIO 2 : \r\nBerlaar - Boechout - Broechem - Emblem - Kessel - Koningshooikt - Lier - Nijlen - Ranst - Vremde\r\n\r\nREGIO 3 : \r\nBorgerhout - Deurne\r\n\r\nREGIO 4 : \r\nEdegem - Hove - Kontich - Mortsel - Waarloos\r\n\r\nREGIO 5 : \r\nBrasschaat - Merksem - Schoten\r\n\r\nREGIO 6 : \r\nEkeren - Kalmthout - Kapellen - Hoevenen - Stabroek - Putte\r\n\r\nREGIO 7 : \r\nWuustwezel - Loenhout - Wortel - Minderhout - Hoogstraten - Meerle - Meer"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "digi-training provides one-to-one or small group training in your own home or office in the following areas:\r\n\r\nAdobe Photoshop\r\nAdobe Illustrator\r\nAdobe InDesign\r\nWeb Design: Dreamweaver, HTML, JavaScript, PHP and MySQL\r\nPortfolio building and CV creation\r\n\r\nWe are fully qualified tutors with over 20 years' teaching and professional industry experience, covering the Brighton and Hove area.\r\n\r\nPrices start from \u00a330 per hour with a minimum booking of 2 hours.", 
+    "twitterId": "http://twitter.com/#!/", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07527 831 829"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.digi-training.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Adobe Photoshop", 
+      "Adobe Illustrator", 
+      "Adobe InDesign", 
+      "Web Design", 
+      "Portfolio building and CV creation"
+     ]
+    }, 
+    "universalName": "digi-training", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "digi-training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "name": "Cardens Accountants & Business Advisors", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.cardensaccountants.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Audit & accounts", 
+      "Saving tax", 
+      "Fixed fees, not fat fees - however long it takes", 
+      "Guaranteed turnaround times", 
+      "Accounting in plain english", 
+      "Interreg audits"
+     ]
+    }, 
+    "universalName": "cardens-accountants-&-business-advisers", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Cardens Accountants are a leading professional accounting firm based in Brighton & Hove, providing trusted accountant services, financial and tax advice to both business and private clients in the Sussex area.\r\n\r\nIf you're looking for help with your accounting and financial affairs and live in or around Brighton, your search for accountants you can trust is over. Cardens Accountants can help you with personal accounting and the management of your tax affairs, or give you the information and advice you need to succeed in your business, whether you are running a successful company or are just starting out.\r\n\r\nEvery accountant at Cardens' office in Brighton is friendly, helpful, and has a wealth of experience in accountancy, tax planning, and other financial matters. When you've got a Cardens accountant working for you, you can relax in the knowledge that your financial affairs will be taken care of professionally and efficiently - with no sudden nasty surprises!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Welcome to the Linked In Profile for Bungard & Sons Limited. Bungard & Sons Limited is a family business that was founded over 100 years ago in 1906.\r\n\r\nAims\r\nOur first duty is to offer professional and sympathetic guidance and to deal with all necessary formalities and arrangements that may be required. This essential service complements the aid provided by Doctors, Ministers and other professional advisors. Our further aim is to provide a complete Funeral Service and to ensure that all our clients have the choice of using any of our convenient facilities at any time.\r\n\r\nHours\r\nOur office and Chapels of Rest are at 90 Sackville Road, Hove, East Sussex, BN3 3HE. They are both open on weekdays from 8.30 a.m. to 5.00 p.m., and are closed on Saturdays, Sundays and Public Holidays. Our telephone, (01273) 820018, is manned 24 hours every day of the year.\r\n\r\nChapel of Rest\r\nChapels of Rest facilities are available to offer relatives and friends of the deceased the opportunity to pay their last respects in privacy and suitable surroundings. Jewellery and personal effects may remain with the deceased or be collected, as required. For your own peace of mind please confirm your wishes.\r\n\r\nFuneral fleet\r\nOur funerals are carried out in traditional style and we believe our hearse and limousine add great dignity to the funeral service we provide.\r\n\r\nPlease feel free to contact any of the admins as we will only be too happy to help and answer any questions you may have.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273820018"
+       }, 
+       "address": {
+        "postalCode": "BN3 3HE", 
+        "city": "Hove", 
+        "street1": "90 Sackville Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1906, 
+    "websiteUrl": "www.bungards.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Funerals,", 
+      "Golden Charter Pre-payment plans", 
+      "Chapel of Rest,", 
+      "Memorials"
+     ]
+    }, 
+    "universalName": "bungard-&-sons-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bungard & Sons Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "The Claremont is a family run eleven bedroomed guest accommodation property in Second Avenue, Hove.\r\n\r\nWe currently sport a Visit Britain 5 star rating with a silver accolade and a special credit for our breakfasts! \r\n\r\nOur public spaces lend themselves particularly to weddings and Civil Partnerships, for which we are fully licensed.\r\n\r\nOur beautiful drawing room and study are an ideal venue for meetings and small conferences, with high ceilings and natural light and our secluded garden is ideal for spilling out to on sunny days!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.theclaremont.eu", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Weddings and Civil Partnerships", 
+      "Wakes, Christenings, Birthdays, Anniversaries", 
+      "Meetings and Conferences", 
+      "Private Dining"
+     ]
+    }, 
+    "universalName": "the-claremont-claremont-house-hotel-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Claremont (Claremont House Hotel Ltd)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Property development company.\r\n\r\nSites are now sought for development, either with or without planning consents.  DG is currently involved in projects with a gross development value in excess of \u00a3100 million in Southampton, Maidstone and other centres in the South East.  Our preference is for Commercial or Mixed use schemes in urban or peri-urban areas, South of the M4 corridor.  We employ a small team of principal consultants with prize-winning architects, cost consultants and project managers providing the core disciplines for our operation. We work with several well-known engineering consultancies and other advisors, as required.\r\n\r\nOur recent projects range from a mixed use development comprising 20,000m2 of offices, subsequently let to Legal and General, and 65 apartments in Brighton and Hove, to the reworking of a residential planning consent and pre-construction work on a 10 hectare, ex-MoD site in the South West.  DG\u2019s principal shareholder\u2019s past projects include office and industrial development in Southern Africa and investment and development projects in the UK, France and Holland.", 
+    "twitterId": "", 
+    "industry": "Commercial Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.dunsfold-group.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Property developer"
+     ]
+    }, 
+    "universalName": "dunsfold-developments", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dunsfold Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "I am a fully qualified individual and couples counsellor, based at various clinics around Brighton and Hove. I currently work at The Rock Clinic and Anahata Health Clinic in Brighton.  I am a member of the BACP and I am working towards my accreditiation.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.julierodgers.co.uk", 
+    "universalName": "julie-rodgers", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Julie Rodgers"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 31, 
+    "description": "Kendrick Property Services offers free valuations, independent financial and mortgage advice as well as property sales and lettings, from its two branches in the vibrant city of Brighton and Hove. Our reputation is founded not only on excellent service but also on reliability, trust and good moral standing. \r\n\r\nEach of our offices has a separate designated team focussed on sales or lettings. Naturally we contact all potential home seekers though their preferred medium as soon as we have a property that will suit their requirements. Kendrick Property Services prides itself on its honest approach with clients. We have a friendly and experience team here and a good relationship with the people whom we serve. We are proud of our successes. Our aim for the future is simply to maintain and extend our good reputation. Please do contact us if you have property to sell or let, if you\u2019re interested in buying or renting, or simply if you need some advice.", 
+    "twitterId": "kendricksBTON", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 778333"
+       }, 
+       "address": {
+        "postalCode": "BN3 2AB", 
+        "city": "Hove", 
+        "street1": "197-201 Church Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273 699600"
+       }, 
+       "address": {
+        "postalCode": "BN2 3HP", 
+        "city": "Brighton", 
+        "street1": "10-12 Lewes Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.kendrickpropertyservices.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Sales & Lettings", 
+      "Financial Services", 
+      "Mortgage Advice"
+     ]
+    }, 
+    "universalName": "kendrick-property-services", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Kendrick Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "* We can provide Energy Performance Certificates (EPC) in the Brighton & Hove, East Sussex area and can ensure that your EPC will be carried out by us and not contracted out to anybody else. \r\n\r\n* All EPCs will be carried out by our fully qualified and accredited Domestic Energy Assessor who has over 19 years experience in all aspects of Property management. Information will be entered onto the Landmark Register and documents provided via email within 48 hours of the site visit (unregistered properties may take slightly longer). \r\n\r\n* We have extensive knowledge of the local area and can offer impartial advice, are current members of the Southern Landlords Association (SLA) and adhere to their code of practice. \r\n\r\n* We can undertake small building works (kitchen and bathroom refits), decorating, general maintenance, lock replacement, carpet cleaning, flat roofs and guttering. No obligation estimates provided upon request. Private and commercial.\r\n\r\n* We also offer property for rental, carry out building maintenance and management (www.Lewis-Property.com)\r\n\r\n* Our mission is to ensure a professional, personal and reliable service at all times.", 
+    "twitterId": "LewisProperty", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0775 9779651"
+       }, 
+       "address": {
+        "postalCode": "BN3 6LR", 
+        "city": "BRIGHTON", 
+        "street1": "Hove,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.lewisestatesltd.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Energy Performance Certificate EPC", 
+      "Domestic Energy Assessor DEA", 
+      "building management", 
+      "building maintenance", 
+      "property rental", 
+      "landlord services"
+     ]
+    }, 
+    "universalName": "lewis-estates-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Lewis Estates Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 116, 
+    "name": "Active Sussex", 
+    "twitterId": "activesussex", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 643869"
+       }, 
+       "address": {
+        "postalCode": "BN1 9PH", 
+        "city": "Brighton", 
+        "street1": "University of Brighton Sports Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.activesussex.org", 
+    "universalName": "active-sussex", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Welcome to the Linkedin company page for Active Sussex. As one of the 49 County Sports Partnerships in England, we aim to get more people taking part in sport more often. From lobbying for greater sporting investment across the region to hosting the annual Sussex Sports Awards, Active Sussex is the key partner for business and community sport in East Sussex, West Sussex and Brighton & Hove."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "The Martlets Hospice cares for people affected by advanced terminal illness living in and around Brighton & Hove.  \r\nPatients can stay on our 18 bed InPatient Unit, visit our Day Hospice or be cared for at home by our  Martlets at Home team.  Practical and emotional support is also offered to the families and carers of our patients including helping them through bereavement. \r\nWe believe that a good and dignified death is everyone\u2019s entitlement. Our main aim is to maximise the quality of life for our patients and we strive to support patient choice, dignity and independence in all we do. We are a registered charity and all our services are provided free of charge. We must raise over \u00a39,000 a day to care for our patients and their families, local community support is essential to our survival.", 
+    "twitterId": "martletshospice", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.themartletshospice.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "palliative care"
+     ]
+    }, 
+    "universalName": "the-martlets-hospice", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Martlets Hospice"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "The Brighton and Hove Child Contact Centre is a non-profit organisation based in the heart of the city. We provides a safe, friendly and neutral place where children of separated families can spend time with one or both parents and sometimes other family members.\r\nThe centre is fully accredited by the National Association of Child Contact Centre.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.salvationarmybch.org.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Children and families support", 
+      "community services", 
+      "Independant Charity", 
+      "NACCC"
+     ]
+    }, 
+    "universalName": "bhccc", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "BHCCC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Piglet's has had renowned success, securing contracts with Brighton & Hove Albion Football Club, Kensington Palace, Hampton Court and the Royal Attractions, Sussex County Cricket Club, to name a few.  \r\n\r\nOur pies have won 4 Gold Awards at The British Pie Awards 2012, Silver at the Football Hospitality Awards 2012 and Highly Commended at the Business Awards. We won Cake vs. Pies and received accolades from Paul Holywood, Chris Evans and Mary Berry  in 2011.\r\n\r\nWe are the proud winners of Bronze Silver and Gold Awards in the British Pie awards 2013 - and Gold at the Football Hospitality awards 2013. \r\n\r\nOur partnership approach is successful - we work with our clients to develop products that fit their brand and their customers likes and needs.", 
+    "twitterId": "pigletspantry1", 
+    "industry": "Food Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07747 112305"
+       }, 
+       "address": {
+        "postalCode": "BN14 8NA", 
+        "city": "Worthing", 
+        "street1": "Unit 15 Hambridge Trading Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.piglets-pantry.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Pies and Baked Goods for Wholesale & Retail", 
+      "Products for PR and Events", 
+      "Stadia & Festivals", 
+      "Corporate Events, Weddings and Outside Catering", 
+      "Product design"
+     ]
+    }, 
+    "universalName": "piglets-pantry", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Piglets Pantry"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 169, 
+    "description": "Internship in Brighton is a Sussex based British company which welcomes students studying vocationally from all European Union countries, & especially those from within the Leonardo da Vinci & Erasmus programmes. \r\nWe organise work placements for students in a wide range of vocational areas, along with related social/cultural events as part of our 'Classic package'. Our 'Business package 'offers specialist seminars and internships for  students currently studying at European Business colleges whilst our 'Cultural conections' package enables groups to experience a wide range of sporting and cultural activities & connections with a wide range of communities throughout Brighton & Hove.   \r\n\r\nWe are based in Brighton on the south coast of England just  50 minutes by train from London. The city benefits from a wide variety of  activities along with its beach and two universities, giving the city a vibrant working environment. and atmosphere. We provide for our partners the following services:\r\n\r\n\u2022 Organisation of quality work placements\r\n  Organisation of business seninars & related placements\r\n  Organisation of cultural & sports related programmes \r\n\u2022 In house & school based English language courses \r\n\u2022 Mentoring & follow-up with final report & certificates\r\n\u2022 Organisation of accommodation \r\n\u2022 Meet and greet transfers from and to the nearest rail/airport.\r\n\r\nWe also arrange individual internships for EU students with a full support programme of the above elements as well.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273 251271"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GQ", 
+        "city": "Brighton", 
+        "street1": "IIB @ Brighton Junction,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.internshipinbrighton.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Educational & cultural 'one stop shop' packages for groups"
+     ]
+    }, 
+    "universalName": "internship-in-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Internship in Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Lesion.dk is a portfolio website created by Lasse Hove Nielsen, to display his work in the creative sphere. The site has just been redesigned and launched in may 2011. The changes involve turning the site into a CMS and giving it a fresher look. \r\n\r\nThe website contains web- and graphic designs, video- and motion graphics, flash- apps and games and my own music.\r\n\r\nGo on, have a look...", 
+    "twitterId": "Lesion", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://lesion.dk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Graphic Design", 
+      "Digital Stories", 
+      "Motion Graphics"
+     ]
+    }, 
+    "universalName": "lesion.dk", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Lesion.dk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Hollywood Land provides development advice and land agency services to clients throughout the South East of England on single plots, larger development sites and refurbishment or conversion properties. Its sister company, Mishon Mackay Land, offers similar services and operates within East & West Sussex close to the vibrant city of Brighton & Hove.\r\n\r\nSpecialising in the sale of properties where the owner has secured planning themselves and simply wants to achieve the maximum value for the land; Hollywood Land also offers advice to owners who are looking to sell their property on a subject to planning basis where the obligation and risk of securing planning permission is placed on the buyer.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.hollywoodland.co.uk", 
+    "universalName": "hollywood-land-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Hollywood Land Ltd"
+   }
+  ]
+ }
+}

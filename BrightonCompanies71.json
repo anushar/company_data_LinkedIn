@@ -1,0 +1,798 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1420, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Left Logic Ltd", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 6PB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://leftlogic.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "javascript", 
+      "web development", 
+      "front-end development"
+     ]
+    }, 
+    "universalName": "left-logic-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Left Logic is a small web development studio located in Brighton, UK.\r\n\r\nLeft Logic focuses mainly on front end development with strong experience with JavaScript, jQuery and Ajax based applications, but equally has several clients that use Left Logic for backend development.\r\n\r\nThe company is also running the UK's only JavaScript conference: Full Frontal, in November."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Revolver World Co-operative produces FAIRTRADE Organic cotton and FAIRTRADE Coffee. Our products sell in Midcounties Co-operative, and other progressive co-operative societies such as Penrith Co-operative in Cumbria, FAIRTRADERS Co-operative in Holmesfirth and Infinity Co-operative in Brighton.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01902 345155", 
+        "phone1": "01902 345345"
+       }, 
+       "address": {
+        "postalCode": "WV2 3JA", 
+        "city": "Wolverhampton", 
+        "street1": "152 Goldthorn hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.RevolverWorld.com", 
+    "universalName": "revolver-world-ltd", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Revolver World Ltd"
+   }, 
+   {
+    "numFollowers": 5, 
+    "name": "Blueturtle Photography", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 4GJ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.blueturtlephotography.co.uk", 
+    "universalName": "blueturtle-photography", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Blueturtle Photography is based in Brighton and specialises in reportage style, contemporary wedding and portrait photography."
+   }, 
+   {
+    "numFollowers": 6, 
+    "name": "Denise Felkin", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9NB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://denisefelkin.com", 
+    "universalName": "denise-felkin", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Denise is a Brighton based freelance creative photographic artist with extensive experience in public visual art installations. Her work has been seen in arts and music festivals and events around the UK, Ireland and Spain. Her portfolio reflects this work and also her travels in Australia, Thailand, India, USA, Canada and Europe\r\n\r\n\"A good photographer requires the ability to capture the essence of its subject, isolate the subject from its moment, and project it. Communicating the meaning of an event, a relationship, a place, or a personality, is at the heart of what I do. \" DF\r\n\r\nAll enquiries please email denisefelkin@hotmail.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Business Law advice from initial company formation advice and initial trading terms, to ongoing commercial contracts, e-commerce advice, intellectual property advice, business restructuring, external investments, joint ventures, mergers and acquisitions. \r\n\r\nWorking primarily with owner managed businesses, small to medium enterprises in and around Brighton, Worthing, Lewes, Gatwick, the South East.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "03456 520013", 
+        "phone1": "03456 522201"
+       }, 
+       "address": {
+        "postalCode": "BN14", 
+        "city": "Worthing", 
+        "street1": "4 Longlands Spinney"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightlaw.biz", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "intellectual property law and agreements", 
+      "corporate transactions - mergers & acquisitions", 
+      "company and commercial law", 
+      "partnership law"
+     ]
+    }, 
+    "universalName": "brightlaw-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BrightLaw Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 38, 
+    "name": "Lewis & Knopf, CPAs, P.C.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810-238-5083", 
+        "phone1": "810-238-4617"
+       }, 
+       "address": {
+        "postalCode": "48507", 
+        "city": "Flint", 
+        "street1": "5206 Gateway Centre"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "810-225-1847", 
+        "phone1": "810-225-1808"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton Office", 
+        "street1": "5918 Meridian Blvd."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "810-629-4771", 
+        "phone1": "810-629-1500"
+       }, 
+       "address": {
+        "postalCode": "48430", 
+        "city": "Fenton", 
+        "street1": "1100 Torrey Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.lewis-knopf.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Assurance", 
+      "Consulting", 
+      "Estate and Trust Services", 
+      "Outsourced CFO Services", 
+      "QuickBooks", 
+      "Tax"
+     ]
+    }, 
+    "universalName": "lewis-&-knopf-cpas-p.c.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Lewis & Knopf, CPAs, P.C. is a local mid-market accounting firm based in Flint, Brighton and Fenton, Michigan. The firm maintains specialties in governmental and not-for-profit entities, professional service and retail organizations, auto dealerships, manufacturing and distribution enterprises, and construction companies. Lewis & Knopf currently employs 45 professionals."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "If your a Home Owner, Landlord, Solicitor or Estate Agent then we invite you to contact us for a no obligation quote \r\nWe are a well established Mid Sussex based company, totally focused on providing a quality service with a fast turnaround as a provider of HIP's and EPC's.  We can also save you money in your property sale. through our conveyancing offers.  \r\n\r\nWe service the following counties: East  Sussex,  West Sussex, West Kent, Surrey, which typically covers these locations and all surrounding areas: Haywards Heath, Burgess Hill, Brighton, Crawley, Uckfield,  East Grinstead, Eastbourne, Tunbridge Wells, all other areas of the UK can also be serviced due to our networked and partner providers that work with us.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "RH17 7NG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.dea-energysurveys.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Provision of detailed floor plans"
+     ]
+    }, 
+    "universalName": "hip-dea-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "HIP DEA Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "I am a young freelance website and media designer based in Brighton, England. I specialise in creating websites for small companies, charities, musicians, students and anybody else looking for a presence on the internet. I also create flyers, posters and logos for events and branding. I won't bombard you with technical knowledge and geek speak, unless you want me to!\r\n\r\nIf you would like an affordable, professional website that looks great in any browser, on Mac or PC, and is fully compliant to W3C (World Wide Web Consortium) standards, or a poster or flyer that is interesting and eye catching, then feel free to contact me.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 5GE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.mikestreetmedia.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "website design. media design"
+     ]
+    }, 
+    "universalName": "mike-street-media", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mike Street Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Sarah Monaghan: Travel Writer and Editor", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn43 5fe"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.sarahmonaghan.co.uk", 
+    "universalName": "sarah-monaghan-travel-writer-and-editor", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "is a multilingual magazine editor and travel journalist based in Brighton, near London. Her travel writing appears in many British newspapers and magazines as well as in international and online publications. She has broad experience of contract publishing and has wide expertise in the editorial direction of both consumer and specialist customer titles.\r\n\r\nwww.sarahmonaghan.co.uk\r\nEmail: sarahmonaghan@me.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Print Management Company.\r\n\r\nInky Solutions has been delivering a first class print management service to their clients since 2005.\r\nDesigned to take the pain out of print procurement, we insure our customers are supplied with the right job every time, ensuring quality and delivery is attained while always looking to make savings.\r\n\r\nBased in Brighton UK we serve customers locally, nationwide and world wide.\r\n\r\n\r\nOur clients are varied from small start ups to large corporate companies from a variety of sectors.\r\nWe have particular strengths in serving the Leisure, Events and Creative industries.\r\nWe understand the print industry inside out, allowing us to make the best choices when procuring your printed material for you. \r\n\r\nIf its printed we will supply it..", 
+    "twitterId": "inkysolutions", 
+    "blogRssUrl": "", 
+    "industry": "Printing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07792 041 026"
+       }, 
+       "address": {
+        "postalCode": "BN1 4HN", 
+        "city": "Brighton", 
+        "street1": "The Annex"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.inkysolutions.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Printing", 
+      "Leaflets", 
+      "Print Management", 
+      "Brochures"
+     ]
+    }, 
+    "universalName": "inky-solutions", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Inky Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Designers-i", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 8EL", 
+        "city": "Brighton", 
+        "street1": "Saltdean"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.designers-i.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Branding", 
+      "Corporate Identity", 
+      "Web Design", 
+      "Graphic Design", 
+      "Retail Strategy"
+     ]
+    }, 
+    "universalName": "designers-i", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Full service creative design agency based in Brighton on the South Coast. Our aim is simple - to increase our clients profile\r\nand profit using using design as a business communications tool.\r\n\r\nAt Designers-i we approach each project uniquely. So you can be assured that your business is in safe hands.\r\n\r\nThe result of our involvement with a business should be tangible and measurable so at Designers-i we strive to exceed the expectations of our clients."
+   }, 
+   {
+    "numFollowers": 14, 
+    "name": "Dendy Village Dental Pty Ltd", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.dendyvillagedental.com.au", 
+    "universalName": "dendy-village-dental-pty-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Dendy Village Dental is a general dental practice in Brighton, Victoria. We are very client oriented and our Team share a passion for both high level customer service and a very strong teamwork ethic. Everything we do comes from a place of integrity and respect."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "We are a UK registered company based in Northampton that provides a range of business services from business consultancy, African Safaris, Website & Graphics Design, Cargo Shipping, Project Management, Technology, Event Management and Zimbabwe Property. Crosby Abbott Ltd is run by three directors namely Godfrey Mushandu, Israel Mutanhaurwa and Brighton Muluswela, it employs 18 other people.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01604604170"
+       }, 
+       "address": {
+        "postalCode": "NN1 4BS", 
+        "city": "Northampton", 
+        "street1": "165 Kettering Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01293613028"
+       }, 
+       "address": {
+        "postalCode": "RH11 9NR", 
+        "city": "Crawley", 
+        "street1": "36 Finsbury Close"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.crosbyabbott.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Freight Forwarding", 
+      "Project Management & Procurement", 
+      "Distribution", 
+      "Publishing"
+     ]
+    }, 
+    "universalName": "crosby-abbott", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Crosby Abbott"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Let me introduce myself, my name is Will Donoghue and I am a graphic designer.\r\nI am a product design graduate from Brighton and have been working as a graphic designer since 2006 when I founded Albi Design. I work for a range of clients, some local and some not, I have  a range of design skills and resources ranging from designing websites to creating logos and brand indentities.\r\nI work on a freelance basis but often collaborate with other professionals such as copywriters, web developers, fashion designers, artists and so on. This gives me the flexibility to work on a variety of different types of design projects, enabling me to flex my creative skills in different environments, see my Blog for an  overview.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01223 920710"
+       }, 
+       "address": {
+        "postalCode": "CB4 1NQ", 
+        "city": "Cambridge", 
+        "street1": "4 The Maltings"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.albidesign.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Website design", 
+      "Graphic design", 
+      "Logo Design", 
+      "Brochure Design."
+     ]
+    }, 
+    "universalName": "albi-design", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Albi Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "PWS Design", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 3LL", 
+        "city": "Hove", 
+        "street1": "96a Ethel Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.pws-design.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "design", 
+      "branding", 
+      "corporate literature", 
+      "exhibitions", 
+      "advertising", 
+      "print"
+     ]
+    }, 
+    "universalName": "pws-design", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Feel at home with PWS Design Brighton. The multi-disciplined creative agency with a talent for effective communication and a passion for innovative design.\r\n\r\nWe specialise in design, branding, corporate literature, exhibitions, advertising and print.\r\n\r\nCall us on 0845 475 2001 or email studio@pws-design.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 69, 
+    "name": "Cavell Leitch", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1923, 
+    "websiteUrl": "www.cavell.co.nz", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Property", 
+      "Corporate Advisory", 
+      "Litigation", 
+      "Banking", 
+      "Trusts", 
+      "Estate Planning", 
+      "Resource Management", 
+      "Employment", 
+      "Family"
+     ]
+    }, 
+    "universalName": "cavell-leitch-law", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Cavell Leitch Law was founded in 1923 and is proud to be a Full Service Law Firm which provides  Property, Commerical, Business,  Resource Planning, Litigation, Family, Estates, Trust, Sports Law advice to clients throughout NZ.\r\n\r\nThere are 16 partners and 3 offices in Christchurch. The main office is in the central business district and the branch offices are in Riccarton and New Brighton."
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Plugindesigns", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.plugindesigns.net", 
+    "universalName": "plugindesigns", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I am a freelance web designer based in Brighton, England. I create websites, logos, banners and other brand development for small companies and artists in the south."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "WE ARE A GROWER DIRECT NURSERY.  WE ARE OPEN TO THE PUBLIC AND ALSO CATER TO THE WHOLESALE LANDSCAPE COMPANIES.  WE ARE LOCATED IN BRIGHTON AND FORT COLLINS.  CHECK OUT OUR WEBSITE FOR MORE INFORMATION REGARDING GREAT PRICES ON THE BEST SELECTION IN TOWN ON TREES, SHRUBS & PERENNIALS!  LOOK FOR OUR WEEKLY SPECIALS.", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "80603"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "HARMONYGARDENS.BIZ", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "NURSERY STOCK AVAILABILITY"
+     ]
+    }, 
+    "universalName": "harmony-gardens-inc.", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "HARMONY GARDENS, INC."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Lyrically Speaking", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.wearelyricallyspeaking.com", 
+    "universalName": "lyrically-speaking", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Lyrically Speaking is a revolutionary music company created to promote the poetic lyrical work of British songwriters. Current roster includes Brighton-based songstress Donna Fullman. www.donnafullman.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 85, 
+    "name": "Quinte Economic Development Commission", 
+    "twitterId": "", 
+    "industry": "International Trade & Development", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "613-961-7998", 
+        "phone1": "613-961-7990"
+       }, 
+       "address": {
+        "postalCode": "K8N 5B3", 
+        "city": "Belleville", 
+        "street1": "284 B Wallbridge-Loyalist Rd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.quintedevelopment.com", 
+    "universalName": "quinte-economic-development-commission", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Quinte Economic Development Commission (QEDC) provides regional marketing programs that attract new industry as well as strategic support that helps local industries grow more competitive and profitable. The QEDC embraces the communities of Belleville, Brighton and Quinte West (Trenton)."
+   }
+  ]
+ }
+}

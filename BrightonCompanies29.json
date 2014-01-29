@@ -1,0 +1,788 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 580, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Boutique Film Production Company based in the bohemian city of Brighton UK.\r\nProviding Multimedia services Film production and Photography for companies and individuals.\r\n\r\n........................................\r\n\r\nwww.fromthesky.co.uk\r\ninfo@fromthesky.co.uk\r\n\r\n........................................", 
+    "twitterId": "", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0) 7427 488787"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UT", 
+        "city": "Brighton", 
+        "street1": "11 Jew Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.fromthesky.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Film Production", 
+      "Photography", 
+      "multi media", 
+      "TV production"
+     ]
+    }, 
+    "universalName": "studio-from-the-sky", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Studio From The Sky"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "We are an Online Marketing Company located in Brighton.   We are a  business ourselves and so we easily relate to the challenges that small local business owners are faced with today trying to keep up with the vastly changing  competitive environment.\r\nWe specialise in internet marketing vs traditional marketing.  We strongly believe that if you are not on the internet, you are not competing on a level playing field.   Your competitors who are online are gaining market share while you are losing it.  We help you not only gain back business you may have lost but more importantly, we help you to change that by positioning you as an authority in your local market. \r\n\r\nWe pride our selves on creating win/win relationships with our clients because we recognize that your success and our success are closely aligned.  We find it very rewarding to assist other small business owners achieve greater success which leads to more profitability, a healthier bottom line, less stress and so much more.\r\nWe also know that venturing out into the world wide web on your own can be daunting, frightening and downright EXPENSIVE if you do not know what you are doing.\r\nHow can we help you? We like to start with a review of where your are now to identify the gaps and then propose a an effective online marketing solution to fill those gaps.\r\n\r\n Get started by aligning yourself and your business with a fired up Online Marketing Solutions today.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.goodmarketingsolutionsonline.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Online Marketing", 
+      "Reputation Marketing", 
+      "Mobile Marketing", 
+      "Addwords & PPC Managament", 
+      "SEM", 
+      "Marketing"
+     ]
+    }, 
+    "universalName": "good-marketing-solutions-online", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Good Marketing Solutions Online"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "International Data Management EU", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.idmi.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Full-Service Database Management", 
+      "List Rental Fulfillment", 
+      "Merge Purge Processing", 
+      "Data Hygiene"
+     ]
+    }, 
+    "universalName": "international-data-management-eu", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "IDMI-Europe has been providing international full service database management since 2010.\r\nLocated in  Amsterdam and Brighton, IDMI-Europe has worked with and supported the database management initiatives of some of the largest fundraising organizations in the country; helping them to pursue their mission and achieve their fundraising goals.\r\n\r\nIDMI-Europe's expertise in building powerful, yet cost-effective, data driven programs with an unrelenting passion for pro-active, personalized service has made us a valued partner to those organizations we have the privilege of serving."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Off The Fence Trust Limited", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.offthefence.org.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Tackling poverty, addiction, mental health issues", 
+      "advocacy, housing and health referrals, mentoring", 
+      "education and welfare for schools pupils", 
+      "Christian ministry, prayer and compassion"
+     ]
+    }, 
+    "universalName": "off-the-fence-trust-limited", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Off The Fence have been working since 1994 in the City of Brighton & Hove with three areas of the community to provide one to one care and help. \r\n   Our drop in centre for the homeless, Antifreeze offers a place where rough sleepers can chat, find a sleeping bag, wash, get clothes and food, have a haircut and receive health care treatments from specialists, such as the dentist. Antifreeze also refer clients to housing and hostels, and helps rough sleepers come off the streets. Nightly our outreach teams monitor the rough sleeper\u2019s welfare and any newcomers to the City, providing immediate information and sign posting that allows a quick exit from street life. \r\nThe Women's centre, Gateway was set up to provide a place where women facing difficult times due to abuse, mental health issues or just generally struggling could find friendship, advice and support that will enable them to change and have stability in their lives. Gateway\u2019s drop in centre offers a safe place where women can learn new skills, be listened to and referred to relevant agencies and support networks. \r\nThe Schools Team run a \u2018Building Healthy Relationships\u2019 course, helping students who have found interaction with others difficult. Lunch time clubs provide a \u2018safe space\u2019 where young people who find it hardest to deal with school life have found a place of safety. In conjunction with the head teachers we also offer one to one counselling, mentoring and a full range of professional secondary school activities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "PSG Financial Solutions Limited", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.psgfinancialsolutions.co.uk", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Independent Financial Advice", 
+      "Business Financial Planning", 
+      "SIPP's", 
+      "Director & Corporate Pension Schemes", 
+      "Keyperson & Director Share Purchase Protection", 
+      "Auto-enrolment", 
+      "Inheritance Tax Planning", 
+      "Investments", 
+      "Life Assurance", 
+      "Pensions", 
+      "Wealth Management"
+     ]
+    }, 
+    "universalName": "psg-financial-solutions-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "From our South Coast home of Brighton & Hove, across Sussex, the South East and up to the City of London, PSG Financial Solutions Limited offer comprehensive Independent Financial Advice for both individual and business clients.\r\n\r\nWe take a holistic approach to financial planning, gaining a complete understanding of an individual or business\u2019 current financial situation, and goals for the future, with an emphasis on creating and preserving wealth.\r\n\r\nWe aim to build strong, long standing relationships with our clients and work with their other professional advisers, such as accountants and solicitors, to ensure that by working as a team we achieve the best outcome for our mutual clients."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Click Clack is a production company that brings quality video productions at an affordable price to the online industry.\r\n\r\nWe are a real believer in the benefits in using Web video as a tool for business growth, through increase sales, better site visibility and more effective communication.  We have streamlined the production process to make the process of getting a bespoke video produced more affordable and at a price point that will fit within most marketing budgets.\r\n\r\nWe can provide promotional, corporate, instructional and viral videos to help you communicate your message more effectively and help you or your clients business grow.\r\n\r\nOriginally 'born' in Brighton, we now have offices in London and Auckland, New Zealand.", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+64 (0) 224 292 767"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Auckland", 
+        "street1": "Auckland City"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 6126721"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "London Office"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.clickclackvideo.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "web video", 
+      "animation", 
+      "product video", 
+      "demonstration video", 
+      "promotional video", 
+      "360 degree product photography"
+     ]
+    }, 
+    "universalName": "click-clack-digital-film-&-video", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Click Clack Digital Film & Video"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "The Research Base provides market intelligence, research and evaluations services. Based in Brighton and London, this boutique research consultancy serves a range of clients across the third, education and skills, and social enterprise sectors. Research and evaluation services include policy analysis, data analysis and reporting, surveys, interviews, focus groups, desk research and literature reviews. The Research Base provides a strong evidence base on which clients can base their advocacy strategies and organisational decisions. All reports are clearly written, can be tailored to suit a variety of audiences, such as Trustees and external stakeholders, and all research is fully sourced.", 
+    "twitterId": "", 
+    "industry": "Research", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07821 347 963"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EG", 
+        "city": "Brighton", 
+        "street1": "9 Castle Square"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "EC4R 9AN", 
+        "city": "London", 
+        "street1": "Regis House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.theresearchbase.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Research", 
+      "Market Intelligence", 
+      "Evaluations", 
+      "Education and Skills", 
+      "Social Enterprise", 
+      "Third Sector"
+     ]
+    }, 
+    "universalName": "the-research-base", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "The Research Base"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Welcome to the Shoreham Smile Studio, one of the latest and most advanced private dental clinics in Sussex, offering the best in private and cosmetic dentistry.\r\n\r\nOur state of the art equipment, first class dental service and our friendly and welcoming approach will ensure that you have an enjoyable and comfortable visit. If you are looking for a cosmetic dentist in Brighton or a dentist in Hove these areas are nearby and we serve patients from all the surrounding towns and villages.\r\n\r\nIf you have any questions regarding The Smile Studio or our Dental Practice in Shoreham-by-Sea, please give us a call on 01273 464454.", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 464 454"
+       }, 
+       "address": {
+        "postalCode": "BN43 5ZD", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "Church House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.shorehamsmilestudio.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Cosmetic Dentistry", 
+      "Implants", 
+      "Orthodontics", 
+      "Braces", 
+      "Facial Cosmetics", 
+      "Teeth Whitening", 
+      "Same Day Smile Makeover", 
+      "Endodontics"
+     ]
+    }, 
+    "universalName": "shoreham-smile-studio", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Shoreham Smile Studio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "MSS is a health and safety consultancy, specialising in machinery and workshop safety, risk assessments, machine inspections & audits (PUWER), remedial and electrical upgrades, dust & fume extraction (COSHH), machine training, project consultation, new equipment provision and fire risk assessments & evacuation planning (including marine & shipping).\r\n\r\nNational Coverage \u2013 from Brighton to Bristol, through the South East, up to London, East Anglia, the Midlands, Derbyshire and beyond, to Manchester and North Yorkshire.", 
+    "twitterId": "", 
+    "industry": "Machinery", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mssgroup.org.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Machine Safety", 
+      "Workshop Safety", 
+      "Dust Extraction", 
+      "LEV", 
+      "PUWER", 
+      "COSHH", 
+      "Machine guarding", 
+      "Machine Training", 
+      "Risk Assessment", 
+      "Fire Risk Assessment"
+     ]
+    }, 
+    "universalName": "mss", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MSS - experts in machine & workshop safety"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Brightoncolorprint.com", 
+    "twitterId": "", 
+    "industry": "Printing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "http://brightoncolorprint.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Affordable high quality online printing"
+     ]
+    }, 
+    "universalName": "brightoncolorprint-com", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Brighton Forms and Printing Inc. was started in 1988 offering Business Forms and Commercial Printing. The printing industry is moving to online ordering so we launched brightocolorprint.com recently. We offer affordable high quality online color printing. Fast turnaround times and outstanding customer service. The site is easy to use and has a huge selection of full color printing."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "NL Recruitment is a market leading specialist high volume recruitment service provider.\r\n\r\nWe have a diverse range of clients and we place candidates in central and greater London, Bedford, Newcastle, Manchester, Brighton, Bristol, Birmingham, and Nottingham.\r\n\r\nOur superior service ethic to candidates and clients ensures that NL Recruitment has established itself as the Number 1 recruitment service provider to our existing client base.\r\n\r\nEach client has a dedicated account team to service their staffing needs and make sure that each client\u2019s unique requirements are met in a time efficient manner.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "WC2R0LT", 
+        "city": "London", 
+        "street1": "NL Recruitment"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.nl-recruitment.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "High Volume Recruitment", 
+      "Sales, Business Development, Account Management and Customer Service", 
+      "NFP and Fundraising", 
+      "Contact Centre Recruitment"
+     ]
+    }, 
+    "universalName": "nl-recruitment", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "NL Recruitment"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "The Press & Argus began publishing September 7, 2000. The new daily merged two twice-weekly papers \u2013 the Livingston County Press and the Brighton Argus \u2013 that had each been publishing in various forms for more than 100 years. It now is Livingston County's only DAILY newspaper.", 
+    "twitterId": "", 
+    "industry": "Newspapers", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "48843", 
+        "city": "Howell", 
+        "street1": "323 E. Grand River Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1855, 
+    "websiteUrl": "http://www.livingstondaily.com", 
+    "universalName": "livingston-county-daily-press-&-argus", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Livingston County Daily Press & Argus"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Urban Quench", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://urbanquench.com/", 
+    "universalName": "urban-quench", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Urban Quench is the only smoothie wholesale company that has both business-to-business and business-to-consumer experience. We have nurtured our philosophy of freshness, high-quality and value by learning from this dual perspective. We have applied this experience to enable us to grow in two short years into a rapidly expanding brand which supplies our smoothies to businesses stretching from independent boutiques, to large hotel chains, and world-famous sites such as Brighton Pier.\r\n\r\nUrban Quench grew from a smoothie and juice bar in Reigate called Urban Kitchen. Having spent years experimenting with different fruity concoctions and dealing with the obstacles involved in ensuring our customers were guaranteed fantastic smoothies every time, we finally (after many years of trial, error, and practice) came up with the our quality and delicious recipes. Having perfected our smoothies, we felt that it was our duty to share our secrets and enable other businesses to serve the best smoothies too: Quench was born!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Edge And Wax, a trading name for Bliss Outdoor LTD, are an independent technically focussed winter sports business based in West Sussex between Gatwick and Brighton in the pleasant village of Partridge Green. Now in it\u2019s 4th year, we have developed our knowledge very quickly to all things winter sports, and most of the staff within the business have many years experience in winter sports.\r\n\r\nWe offer a full workshop service for servicing skis and snowboards, and our workshop is also used to run the Boot Camp Technician Training courses (www.bctt.co.uk) and thus is equipped to a very high level.\r\n\r\nWe have a boot fitting centre, with a wide range of boots to select from to fit all foot shapes and styles of skier. Our highly trained boot fitters will ensure that you get the best combination of fit and comfort for your time on the mountain, and we offer a comfort fit guarantee  with our boot fitting service. We are also able to make modifications to boots, create custom insoles, and foam injected liners for those after a precision fit.\r\n\r\nOur showroom displays the range of products you can see on our website, and we carry stock in depth during the winter sports season to satisfy our customers requirements.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01403 713 470"
+       }, 
+       "address": {
+        "postalCode": "RH13 8AU", 
+        "city": "Nr Horsham", 
+        "street1": "15-16 Huffwood Trading Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.edgeandwax.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Ski Retail", 
+      "Snowboard Retail", 
+      "Wintersports Training Programmes", 
+      "Ski Boot Fitting"
+     ]
+    }, 
+    "universalName": "edge-&-wax", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Edge & Wax"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "name": "Advanced Urgent Care", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.advurgent.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Injury Care of Coloardo -Occupational Medicine", 
+      "X-Ray & Lab"
+     ]
+    }, 
+    "universalName": "advanced-urgent-care", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Advanced Urgent Care is an independently owned Urgent Care facility located in Brighton, CO.  While caring for patients at his primary care clinic (Platte River Medical Clinic), Dr. Tony Euser, really saw a need for an Urgent Care clinic in town.  Advanced Urgent Care is a friendly walk- in clinic with affordable prices, shorter wait times vs the emergency room, X-ray & Lab onsite, and we accept all major insurances.    We are opened from 10am-10pm 7 Days a Week.\r\n\r\nStop in today to see us for any of your acute illness & injury such as flu shots, sports physicals, sinus infections, upper respiratory, urinary tract infections, sexually transmitted disease, animal/insect bites, burns, wounds, lacerations, sprains, strains, bone fractures, & allergic reactions.\r\n\r\nAt Advanced Urgent Care we are dedicated to provide accessible, high quality and compassionate urgent care to our community with integrity, dignity, respect and the involvement of community physicians.  \r\n\r\nIn addition, we are an Occupational Medicine Clinic (Injury Care of Colorado) as well.  Please contact us if you would like more information on all of the services we provide!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Stamp The Wax", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.stampthewax.com", 
+    "universalName": "stamp-the-wax", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Stamp The Wax is a student music webzine based out of London, Bristol and Brighton. We handpick the best underground sounds from those scenes and the wider world.\r\n\r\nWe film sessions with artists, run giveaway competitions, host a mix series with emerging producers and also feature gig and festival guides, previews and live reviews, indepth commentary and a whole lot of quality music."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Complete Property Services", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273566565"
+       }, 
+       "address": {
+        "postalCode": "BN1 5BD", 
+        "city": "Brighton", 
+        "street1": "77 Maldon Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.job-complete.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Property Maintenance", 
+      "Home Refurbishment", 
+      "Home Renovation", 
+      "Bathroom Design and Installation", 
+      "Wet Room Design and Installation"
+     ]
+    }, 
+    "universalName": "complete-property-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Complete Property Services provide a wide range of professional property repairs and maintenance services to commercial clients. For private clients we offer home refurbishment and renovation services, specialising in bathroom and wet room design and installation across London, Brighton and Sussex."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Radar One", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.radarone.co.uk", 
+    "universalName": "radar-one-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Welcome Radar One, the home of accurate business data, integrated marketing and inside sales services. \r\n\r\nBased in Brighton and formed in 2009, Radar One Ltd has successfully helped software companies reach their sales and marketing goals, through a combination of accurate business data, integrated marketing services and inside sales resources.\r\n\r\nHaving worked in the software industry since 2002 we can help you acquire new customers and grow revenues through identifying clients that have a need for your products and services."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Welcome to Brighton\r\n\r\nBrightonSales was incorporated in 2008 by three professionals with a vision of attaining the heights in IT, B2B sales and marketing by creating a niche in various verticals. The Company has proved its mettle over the passing years by being a comprehensive and satisfying partner with its client.\r\n\r\nUNIVERSAL FOOTPRINT\r\nThe company has a footprint in almost every developed and developing country across the globe with a client base scattered in more than 25 leading countries. \r\n\r\nETHOS\r\nPeople from diverse culture encompass and create a unique fortifying competitive edge. They are the prime mover of our future Endeavour who makes sustainable change for our global business. This unique potentiality enables us to win with flying colors. \r\n\r\nOUR PROFICIENCY\r\nWe at BrightonSales have earned a reputation of being a frontrunner in domains of Technology, B2B lead generation, Whitepapers. Moving with the time we have also integrated Digital Marketing services.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "AL109TF", 
+        "city": "Comet Way,Hatfield,", 
+        "street1": "11A, Harpsfield Broadway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "411001", 
+        "city": "Pune", 
+        "street1": "11, Gulmohar Society, Lane no.7"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.brightonsales.net", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Digital Marketing", 
+      "Tele marketing", 
+      "B2B Services", 
+      "Whitepapers", 
+      "Technology"
+     ]
+    }, 
+    "universalName": "brightonsales", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "BrightonSales"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "AJNeil { Digital Media Development }", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.ajneil.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Digital media development", 
+      "Website development", 
+      "Content management systems", 
+      "Search engine optimisation", 
+      "Responsive websites"
+     ]
+    }, 
+    "universalName": "ajneil-digital-media-development-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Digital Media Development agency located in Brighton & Hove.\r\n\r\nOur aim is to provide you, your company, marketing campaign or your project with a beast of a digital front.\r\n\r\nToday you need to connect with your clients through a forest of competitors.  We understand this.  We can provide you with a platform that allows you to do your job, without worrying about ours. \r\n \r\nAJNeil specialises in a wide range of digital media development.\r\nFrom Web and mobile development to 3D designs, we've got the best solution for your business."
+   }
+  ]
+ }
+}

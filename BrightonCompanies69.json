@@ -1,0 +1,811 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1380, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Highpass design are a small design agency currently based in Brighton and Hove, Sussex. We have worked on projects from graphic design for major TV companies to website creation for small local businesses and we love the world of design. We've been at this lark for over 10 years and watched the trends of design come and go.\r\n\r\nAt Highpass we employ our staff on a job-by-job basis, with a creative pool of great designers, developers and general boffins that can provide you with the solutions you need.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3RA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.highpass.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "web design", 
+      "web page design", 
+      "web solutions"
+     ]
+    }, 
+    "universalName": "highpass-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Highpass Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Damp Gnat Ltd", 
+    "twitterId": "dampgnat", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.dampgnat.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Animation", 
+      "Interactive Arts", 
+      "Games"
+     ]
+    }, 
+    "universalName": "damp-gnat-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Damp Gnat is Reece Millidge's games, interactive arts & animation studio in Brighton UK.\r\nOur current focus is on developing entertaining games for browser and mobile with a strong emphasis on narrative and design to tickle the brain and challenge expectations."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Pathfinder Powerboat Club based in Southampton, provides an atmosphere for people to expand their horizions in powerboating. Whether new or old to powerboating this club hads something for you. We welcome boats capable of cruising at 22knts, our cruising grounds are from Brighton to Scilly, Southampton to France and the Channel Isles.", 
+    "industry": "Maritime", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.ppc.org.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Powerboat training & boating events"
+     ]
+    }, 
+    "universalName": "pathfinder-powerboat-club", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Pathfinder Powerboat Club"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "In today\u2019s fast moving high-pressured environment, companies are rapidly realising the value of encouraging & promoting health & wellness within the workplace.  The benefits to both the employee & employer are healthier individuals that are more alert, motivated & with reduced stress & absenteeism.\r\n\r\nWorking with both large & small organisations, from The Cabinet Office & No10 Downing Street, to companies with less than 50 employees.  Providing tailored programmes of health & wellness enlightenment via creative workshops & seminars.  These can take place in the workplace & can vary from breakfast meetings, lunchtime workshops or longer seminars \u2013 all tailored to the individual client requirements.\r\n\r\nAble to identify health issues which can often be improved via nutritional intervention, utilising specific laboratory tests for example, food allergy testing, digestive disorders, blood profiling etc.\r\n\r\nOperating across London and the South East with facilities in Harley Street, Brighton and Mid Sussex.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 1WP", 
+        "city": "BRIGHTON", 
+        "street1": "."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.nutritionlifestyle.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Health and wellness workshhops and seminars", 
+      "Reduced stress & absenteeism", 
+      "Stress management", 
+      "Weight Loss", 
+      "Nutrition analysis", 
+      "Nutritional advice", 
+      "Technical nutritional communication and PR", 
+      "Regulatory advice on food supplements"
+     ]
+    }, 
+    "universalName": "vital-health-solutions-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nutrition Lifestyle"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Kansas City's Premier Restaurant, Sports Bar & Pool Hall. Casual dining menu, numerous HDTV's for all the sporting events, 20 pool tables, 8 dart boards, shuffleboard, digital jukebox, video games, free WiFi & more! Full bar with 18 draft beer taps, & long stocked bar with diverse selection. We have seating for large parties & events, reservations accepted! Join us to watch your favorite college or pro game, pool & dart tournaments, NFL Sunday Ticket, UFC & sporting event watch parties, motorcycle events, fundraisers & more! The Brass Rail is consistently Voted the Best Place to Play Pool in the KC Northland! \r\n\r\nBrass Rail - Restaurant, Sports Bar & Pool Hall was established in 2004 in the Northland of Kansas City and is locally owned and operated. We are located on the SE corner of the intersection of Hwy 152 & N. Brighton Rd between Liberty & Gladstone. Kansas City PROUD!\r\n\r\nLunch, Dinner, Catering, Reservations for Parties & Events up to 600+ persons! Call or Email us for your reservation!", 
+    "twitterId": "", 
+    "industry": "Restaurants", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "8164686100"
+       }, 
+       "address": {
+        "postalCode": "64119", 
+        "city": "Kansas City", 
+        "street1": "4940 NE 81st St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.BrassRailKC.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Restaurant", 
+      "Sports Bar", 
+      "Pool Billiards", 
+      "Darts", 
+      "Shuffleboard", 
+      "UFC Fight Night!!"
+     ]
+    }, 
+    "universalName": "brass-rail-billiard-hall", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brass Rail Sports Bar & Grill"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Scrutineer's", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4NH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.scrutineer.co.uk", 
+    "universalName": "scrutineer's", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Scrutineer's is a den in Brighton, where the inhabitants muck about with art stuff. They produce proper grown-up work > websites, books, animations, printed material etcetera, etcetera. They have their thumbs in many pies. Thankfully. They also waste vast amounts of time doing equally proper stuff for no financial gain whatsoever."
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Mick Hawksworth Video", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn7 2dx"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.mickhawksworth.com", 
+    "universalName": "mick-hawksworth-video", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Formerly an ITN senior designer for Channel 4 News and News at Ten, Mick has produced and directed arts-based documentaries for ITV Channel 4 and the BBC.\r\n\r\nHe is a lecturer at Brighton University School of Arts and Communication and has worked collaboratively with other artists and photographers on education, video and installation projects."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 45, 
+    "description": "Hold is the collaboration of Steve Hyland, Anthony Oram and Stuart Langridge. Three friends with a shared history who decided to pool their various talents and experience to form a very singular design agency.\r\n\r\nHold work within a variety of industry sectors throughout the UK and the South East emanating from Brighton, East Sussex. Hold has experience designing for; Animal Conservation, Arts, Charity, Construction, Entertainment, Events, Environmental Campaigns, Fashion, Healthcare, Music, Publishing and Retail. Our disciplines include branding and corporate identity, illustration, art and photography direction, packaging, typography, print management, colour management, magazine and catalogue design, corporate literature and website design and development. Among our clients are such companies as; ATC Management, BMG, Dogs Trust, E-Day, HarperCollins Publishers, Snow+Rock, Sony Music and Oxford University\u2019s WildCRU.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 20 78 78"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AW", 
+        "city": "Hove", 
+        "street1": "Rochester House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.wearehold.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "graphic design", 
+      "print design", 
+      "website design", 
+      "marketing"
+     ]
+    }, 
+    "universalName": "hold", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Hold"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Mortdecai Media is a newly established company with many years\u2019 experience of online marketing, web design, project management and ecommerce.\r\n\r\nThe basic and main aim of the company is the simplification of processes;wishing to deliver clarity online, to both site owners and site users.\r\n\r\nFollowing ethical long term strategies based upon intelligent methodologies to ensure that the work implemented is fully scalable and will achieve results which will be measurable and which can be built upon through agile processes.\r\n\r\nBased in Brighton, UK, by the sea.", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1AL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.mortdecai.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "SEO", 
+      "SEM", 
+      "online marketing", 
+      "optimisation", 
+      "web design", 
+      "ecommerce", 
+      "usability"
+     ]
+    }, 
+    "universalName": "mortdecai-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mortdecai Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "HiTechy is a web consultancy business located in Brighton, UK. This venture is a freelance project run by Alexander Dawson. I provide a wide range of design, development, consultancy and writing services with a specialised interest in web standards, accessibility, usability and user-experience design.", 
+    "twitterId": "AlexDawsonUK", 
+    "blogRssUrl": "http://www.hitechy.com/rss.xml", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "None", 
+        "city": "Brighton", 
+        "street1": "None"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.hitechy.com/", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Web Consultancy", 
+      "Web Writing", 
+      "Web Standards", 
+      "Accessibility", 
+      "Information Architecture", 
+      "UX Design", 
+      "Usability", 
+      "(x)HTML", 
+      "XML", 
+      "CSS", 
+      "VB.NET", 
+      "and more!"
+     ]
+    }, 
+    "universalName": "hitechy", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "HiTechy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Selling USA and Worldwide Postage Stamps, Stamp Collections and Accumulations,  Postal History, and supplies. Retail store located in Brighton, Michigan, USA with hours by appointment along with strong internet presence. In  business since 1992. Dealer member of the American Philatelic Society, Midwest Stamp Dealers Association", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-220-6000"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "455 E. Grand River"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.sterlingstamps.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Identifying", 
+      "evaluating", 
+      "postage stamp sales", 
+      "consignment service available."
+     ]
+    }, 
+    "universalName": "sterling-stamps-llc", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Sterling Stamps, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Website design, construction and associated services based in Brighton UK.\r\n\r\nSERVICES\r\nWeb design\r\nXHTML / CSS / Javascript / Flash\r\nDomain name registration,\r\nWeb Hosting\r\nSearch engine optimisation\r\nContent copywriting\r\nImage processing\r\nAudio production and processing\r\nVideo production and processing", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 3RH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://web.adrianwhelan.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "web design", 
+      "marketing"
+     ]
+    }, 
+    "universalName": "asw-web-&-media", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "ASW Web & Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Third rail Films", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thirdrail.co.uk", 
+    "universalName": "third-rail-films", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Small prod co writing and developing Feature films and co-pros. Also working on a few Brit Pics [currently Brighton Rock [with Kudos/Optimum] previously Young Victoria.\r\nIn advanced dev. on Dead on the Money and Flicker  [Romantic Drama and Rom Comm respectively] Happy to look at spec scripts, but contact us first. No horror."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Moss Gilday Group has been an integral design team member for highly successful projects within the New York Metropolitan area. Recent projects include SkyView Parc in Flushing, Oceana in Brighton Beach, Renaissance Plaza in Downtown Brooklyn, mid and high-rise developments for AvalonBay Communities in White Plains, New Rochelle, Brooklyn, and Manhattan, residence housing for the College of Staten Island and Wagner College as well as on-going site renovation and expansion projects for the corporate campuses of Bristol-Meyer Squibb Company throughout New Jersey.", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "07739"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.mossgilday.com", 
+    "universalName": "moss-gilday-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Moss Gilday Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Blipmedia", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.blipmedia.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Web design", 
+      "graphic design", 
+      "search engine optimisation"
+     ]
+    }, 
+    "universalName": "blipmedia", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "We are a  network of internet professionals, based in the beautiful seaside city of Brighton and Hove, offering agency level web design, development and search engine optimisation at freelance prices. We also specialise in low cost content management systems"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Bayside Psychotherapy", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "95306353"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "Suite 4/75 Bay St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http//www.baysidepsychotherapy.com.au", 
+    "universalName": "bayside-psychotherapy", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Counselling Services Melbourne, Professional Counsellor Melbourne, Brighton based Psychotherapist and Hypnotherapist uses a unique blend of Eastern and Western therapies to resolve numerous troubles and put balance into your life"
+   }, 
+   {
+    "numFollowers": 36, 
+    "name": "Small Business Centre, Belleville ON", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "K8N 5B3"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.smallbusinessctr.com", 
+    "universalName": "small-business-centre-belleville-on", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The Small Business Centre is your link to Ontario's small business support network. We are a leading source for business information in the Quinte area, which includes Belleville, Quinte West, Brighton, Prince Edward, Hastings and Lennox & Addington Counties. Whether you are just starting your own business or have been in business for less than five years, the Small Business Centre provides you with resources, tools and no-cost consultations to help you with your small business dream."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "At TheBartender we specialise in the professional entertaining side of\r\ncocktails and cocktail making.\r\n\r\nWe supply highly professional cocktail waiters and bartender hire for all occasions, such as garden & house parties, hen weekends, office parties, corporate events and wedding receptions.\r\n\r\nWe are based in Bristol but we do have bartenders in London & surrounding, Sheffield, Brighton, Reading, Plymouth, Chelmsford, Birmingham, Leeds, Manchester, Cardiff and Aberdeen.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01179415825"
+       }, 
+       "address": {
+        "postalCode": "BS5 0HE", 
+        "city": "Bristol", 
+        "street1": "Unit 55"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.thebartender.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Cocktail Bartender Event Hire", 
+      "Mobile Bar Hire", 
+      "Pop-up events", 
+      "Cocktail Workshops"
+     ]
+    }, 
+    "universalName": "thebartender", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Bartender Hire Company"
+   }, 
+   {
+    "numFollowers": 38, 
+    "name": "Andrea Dunne 'Textile DesignUK'", 
+    "industry": "Textiles", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3PA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.andreadunne.com", 
+    "universalName": "andrea-dunne-'textile-designuk'", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Textile Design UK is a company that designs and produces knitwear for fashion and the home. All materials are sourced within the British Isles, for example: Superfine Lamaine from Scotland, Merino from Yorkshire, Cotton from Lancashire, and each product is hand-made and hand-finished at a studio in Brighton & Hove. All designs are original taking inspiration only from nature through the eyes of Andrea Dunne herself."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Fibertec Environmental Services is a full service environmental analytical laboratory, specializing in subsurface investigations, industrial hygiene and natural gas analysis. Our corporate headquarters, analytical laboratory and industrial hygiene operations are located in Holt, Mich., our office in Brighton, Mich., specializes in subsurface investigations, such as Geoprobe and drilling operations, and our satellite laboratory is located in Cadillac, Mich., servicing northern Michigan. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n                                                    \r\n.", 
+    "twitterId": "", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "517-699-0345"
+       }, 
+       "address": {
+        "postalCode": "48842", 
+        "city": "Holt", 
+        "street1": "1914 Holloway Dr."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-220-3300"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "11766 East Grand River"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "231-775-8368"
+       }, 
+       "address": {
+        "postalCode": "49601", 
+        "city": "Cadillac", 
+        "street1": "8660 S. Mackinaw Trail"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.fibertec.us", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Subsurface Investigations", 
+      "Industrial Hygiene", 
+      "Natural Gas Analysis", 
+      "Analytical Laboratory"
+     ]
+    }, 
+    "universalName": "fibertec-environmental-services", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Fibertec Environmental Services"
+   }
+  ]
+ }
+}

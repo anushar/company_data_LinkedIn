@@ -1,0 +1,893 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 160, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "Supplying teachers and support staff to the schools of Sussex Sussex Teachers are the leading local independent supply teaching agency in Brighton & Hove, East Sussex and West Sussex. Since 2007, we have offered a reliable and cost effective local supply service specialising in the temporary and permanent recruitment of qualified teachers, teaching assistants and support staff. \r\n\r\nOur experienced consultants have a proven track record in their specialist sector having dealt with the Sussex schools and teachers for many years. We pride ourselves on our flexibility so whether you are looking for a year 5 teaching job in Lewes, a Science teaching job in Worthing, a teaching assistant job in Eastbourne, or a supply teaching job in Brighton, our experienced consultants will help find the right role for you.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 626 800"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "18 Queens Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.sussexteachers.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Supply Teaching", 
+      "Recruitment", 
+      "Education", 
+      "Secondary", 
+      "Primary", 
+      "Teaching Assistants"
+     ]
+    }, 
+    "universalName": "sussex-teachers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Sussex Teachers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Amigos is a multi-cultural preschool in the Brunswick neighbourhood of Hove which aims to enable children from different nationalities to interact and play together harmoniously.\r\n\r\nWe have been established for over 13 years and have a vast knowledge of the way young children learn in a friendly setting (and we know a few different languages too!) We encourage positive images of people from all ethnic and cultural groups and people with and without disabilities. We believe it is vital for young children to learn about different customs, religious and cultural beliefs and disabilities.\r\n\r\nBy encouraging understanding and respect of other people in our community, we hope to promote a more tolerant and harmonious society. We have recently welcomed Sudanese, Indian, Bengali, Saudi, Egyptian, Japanese, French, Bulgarian & Slovakian children as well as those of British origin.\r\n\r\nSongs, stories, food and shared festivals and customs have been explored and enjoyed by all. In such a richly diverse environment, the children experience new ideas, develop skills, gain confidence, improve communication skills, make friends and learn from each other. Most importantly, they have fun!", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07835635955"
+       }, 
+       "address": {
+        "postalCode": "BN3 2FL", 
+        "city": "Hove", 
+        "street1": "Cornerstone Community Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.amigospreschool.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Childcare", 
+      "Languages", 
+      "Reading", 
+      "Writing"
+     ]
+    }, 
+    "universalName": "amigos-preschool", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Amigos Preschool"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "We are a progressive law firm based in Brighton & Hove with an approachable team of lawyers who pride ourselves in developing and sustaining strong, long term client relationships. Our reputation is built on the provision of accessible but affordable and high quality legal services to both individuals and business clients.\r\n\u200b\r\nWe offer all our clients:-\r\n\ufeff\r\n\u2022 A thorough and clear approach to your matter - to help you understand all the relevant considerations and set your objectives;\r\n\ufeff\r\n\u2022 Our experience and expertise \u2013 committed to achieving the most favourable outcomes and goals for you;\r\n\ufeff\r\n\u2022 Our integrity and independence - which is devoted to  protecting your legal rights and best interests;\r\n\ufeff\r\n\u2022 A prompt, pragmatic and solutions driven service - as our clients testify;\r\n\ufeff\r\n\u2022 Direct access to an experienced solicitor - throughout your case.\r\n\u200b\r\n\u200b\ufeffContact us at any time, for a friendly, no-obligation enquiry about our services.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 773629", 
+        "phone1": "01273 956270"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "6 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.goodlawsolicitors.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Personal Injury", 
+      "Medical Negligence", 
+      "Family Law", 
+      "Residential Conveyancing", 
+      "Commercial Property", 
+      "Company & Commercial", 
+      "Coroner's Inquests", 
+      "Wills, Trusts & Probate"
+     ]
+    }, 
+    "universalName": "goodlaw-solicitors", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "GoodLaw Solicitors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 31, 
+    "name": "4A LAW LAWYERS", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.4alaw.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Business Immigration and UK Visas", 
+      "Advice", 
+      "Applications", 
+      "Appeals", 
+      "Advocacy"
+     ]
+    }, 
+    "universalName": "4a-law-lawyers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "4A LAW LAWYERS provide legal services in business, corporate immigration, private immigration, company commercial, insolvency, litigation, property and debt collection matters. \r\n\r\n4A LAW LAWYERS serve many varied clients, UK national and international clients from across the globe. From Mexico, to Canada, Australia, New Zealand to Saudi Arabia and the Middle East to Europe (western and eastern) from a base in the Gatwick diamond, Crawley West Sussex.\r\n\r\nStrategically founded as a virtual law firm to serve the Business Immigration Property and Litigation needs of international business as well as private clients. Many business clients are based in various parts of the world and 4A LAW LAWYERS are fast becoming the choice business lawyers of those based in London, Brighton and Hove and the surrounding areas.\r\n\r\nWhy do business with 4A LAW LAWYERS? Simple. 4A LAW LAWYERS operate fixed fees, without the usually high costs associated with premises. The lawyers are time served with international legal organisations and regional practices. Collectively the lawyers have over 30 years of experience and success built through client service, referrals and an enviable reputation.\r\n\r\nAs a unique and innovative leading law firm, 4A LAW provide fixed fee assistance with the 4A\u2019s of law: Advice, Applications, Advocacy and Appeals. If you would like more information contact 4A LAW litigation lawyers or email info@4alaw.com for personalised legal advice."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "JooJoo Creative is a boutique web design and development agency based in the heart of Brighton and Hove. Working with some of the most talented designers and developers, we create beautiful branding, engaging websites and e-commerce stores that convert traffic to sales. We Design. We Build. We Market (you).", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 326807"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FT", 
+        "city": "Hove", 
+        "street1": "47 Lansdowne Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.joojoocreative.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Project Management", 
+      "E-Commerce", 
+      "Email Marketing", 
+      "SEO", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "joojoo-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "JooJoo Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Added Bytes", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.addedbytes.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "PHP", 
+      "Magento", 
+      "MODX", 
+      "Drupal", 
+      "OpenCart", 
+      "Wordpress", 
+      "SEO", 
+      "Hosting", 
+      "Marketing"
+     ]
+    }, 
+    "universalName": "added-bytes", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Based in Brighton and Hove, UK, Added Bytes are specialists in web development, as happy planning and building you a system from the ground up as adding a module to one of the Open Source platforms we work with every day. \r\n\r\nWe take care of all parts of the website building process, including planning and wireframes, branding and design, development, marketing, testing, deployment, hosting and website management.\r\n\r\nWe have buckets of experience with the major open source e-commerce and CMS platforms, including Magento, MODX, Drupal, OpenCart, Prestashop and Wordpress, and including installation, themeing, custom module development, hosting and even platform upgrades.  \r\n\r\nGet in touch to find out more!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 136, 
+    "description": "Located 11 kilometres south-west of the Adelaide Central Business District, the City of Holdfast Bay is regarded as a progressive and lively seaside community, and its rich heritage, sandy beaches, and exciting attractions have earned it the reputation as Adelaide\u2019s favourite coastal destination.\r\n\r\nWith a footprint of just under 14 square kilometres, the City includes the suburbs of Brighton, North Brighton, South Brighton,Glenelg, Glenelg East, Glenelg North, Glenelg South, Hove,Kingston Park, Seacliff, Seacliff Park and Somerton Park.\r\n\r\nThe City is predominantly residential, with thriving retail precincts in Glenelg, Brighton and along Brighton Road\r\nand a light industrial base at Somerton Park. The 2011 Commonwealth Census data shows a residential population of 34,606, of which 21.6% were over the age of 65, and 36.9% are under the age of 34. Comparisons with the 2006\r\nCensus shows a slight decline in the number of older residents and an increase in the numbers of younger residents.", 
+    "twitterId": "", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08 82984561", 
+        "phone1": "08 8229 9999"
+       }, 
+       "address": {
+        "postalCode": "5048", 
+        "city": "Brighton", 
+        "street1": "24  Jetty Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.holdfastbay.sa.gov.au", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Local Government", 
+      "Glenelg, South Australia", 
+      "Council"
+     ]
+    }, 
+    "universalName": "city-of-holdfast-bay", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "City of Holdfast Bay"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Who are we? \r\n\r\nTalbot Fashions LLP was established in 1980 by twin brothers Anthony and Robert Talbot, and the company has grown to become one of the UK\u2019s leading suppliers of fashion accessories to the trade.\r\n\r\nWe operate from a modern warehousing facility which is based on the South Coast in the happening seaside city of Brighton and Hove, from where we despatch our products throughout the UK, Europe and the rest of the world. All orders are despatched from our large stocks and usually reach their destination within 1-2 working days of receiving the order. (UK)\r\n\r\nIf you would like to visit our warehouse, then please call us in advance to arrange on 01273 776415. Parking is available. \r\n  \r\nWhat do we do? \r\n\r\nWe specialise in the sourcing and wholesaling of fashion jewellery and accessories for all age groups and both sexes. We currently hold almost 1000 different product lines, which are customised, packaged and bar-coded.\r\n\r\nWe supply independent fashion retailers, gift shops, multiple chain stores, party planners, wholesalers, online sellers, market traders and others.\r\n\r\nOur team of nationwide sales representatives are able to present and give advice on our entire range, including any new additions that might otherwise not be viewed until the next catalogue.\r\n\r\nWe produce 2 colour catalogues a year, laid out in an easy to order format.\r\n\r\nAll orders are processed and despatched usually within 1 working day of receipt of your order.", 
+    "twitterId": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 776415"
+       }, 
+       "address": {
+        "postalCode": "BN1 3TR", 
+        "city": "Brighton", 
+        "street1": "7-8 Howard Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "http://www.talbotfashions.co.uk/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Costume Jewellery", 
+      "Giftware", 
+      "Teen Fashion", 
+      "Children's Accessories and Toys", 
+      "Men's and Boy's Accessories"
+     ]
+    }, 
+    "universalName": "talbot-fashions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Talbot Fashions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Since 2002, Quid has produced an array of books on popular culture, humour and reference, and we continue to grow our business across a range of international markets.\r\n\r\nWe also invest heavily in product development, with innovative projects in history, mathematics, science, natural history, the arts and philosophy. A broad range of our new presentations can be viewed on request and in our catalogue.\r\n\r\nBased in the cosmopolitan seaside city of Brighton and Hove, we are a small team with big ambitions. Although we are represented throughout North America, Europe, Asia and Australia, much of our creative input is sourced locally, employing the extraordinary talent available in our highly creative community.", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 716009"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DD", 
+        "city": "Hove", 
+        "street1": "Level 4 Sheridan House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.quidpublishing.com/", 
+    "universalName": "quid-publishing", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Quid Publishing"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "We offer Clinical Advanced Massage, Myofascial Release, Osteopathy, Acupuncture, Yoga and relaxing holistic treatments from our centre in Brighton & Hove.\r\nFrom booking to aftercare, our service is professional, relaxed and caring. All our therapists are trained in advanced techniques to get the best result for you. We are open late most evenings, up to 9pm, and offer an Online Booking system so you can check availability and make confirmed appointments 24 hours a day.", 
+    "twitterId": "", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 771441"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JD", 
+        "city": "Hove", 
+        "street1": "30 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.anaturalbalance.co.uk", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "massage", 
+      "osteopathy", 
+      "acupuncture", 
+      "sports massage", 
+      "yoga", 
+      "back wax", 
+      "deep tissue massage", 
+      "myofascial release", 
+      "pregnancy massage", 
+      "Thai massage", 
+      "Reflexology", 
+      "aromatherapy", 
+      "hot stone massage"
+     ]
+    }, 
+    "universalName": "natural-balance-therapies", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Natural Balance Therapies"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "LoveCard is the discount card that gives you exclusive discounts and deals at local independent shops, resteraunts, bars and more in Brighton & Hove, saving you money and supporting the local businesses in your area.\r\n\r\nWe help consumers save money when they shop at independent businesses, and help small businesses through our advertising, marketing and social platforms.\r\n\r\nContact us today to find out about becoming a partner.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08000119835"
+       }, 
+       "address": {
+        "postalCode": "BH508FY", 
+        "city": "Brighton", 
+        "street1": "PO BOX 5385"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.lovecard.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Marketing", 
+      "Social Media", 
+      "B2B", 
+      "Advertising", 
+      "Technology", 
+      "Mobile"
+     ]
+    }, 
+    "universalName": "lovecard-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LoveCard UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Silver Square Media is a Brighton-based web design and development company providing website and branding solutions to Brighton, Hove and surrounding areas of Sussex. We specialise in creating CMS-based websites and offering graphic design services to small businesses in the United Kingdom.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 929 444"
+       }, 
+       "address": {
+        "postalCode": "BN1 6SB", 
+        "city": "Brighton", 
+        "street1": "Stanford House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.silversquaremedia.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Graphic Design", 
+      "Branding", 
+      "Logo Design", 
+      "Illustration", 
+      "Artwork", 
+      "Wordpress", 
+      "Umbraco", 
+      "Sitefinity"
+     ]
+    }, 
+    "universalName": "silver-square-media-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Silver Square Media UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "name": "LATEST TV", 
+    "twitterId": "", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Latest TV"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thelatest.tv", 
+    "universalName": "latest-tv", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A new TV Channel launching in Brighton & Hove and surrounding areas. Available on Freeview Channel 8, Virgin & Sky in autumn 2013.\r\n\r\nMeanwhile you can enjoy Latest TV Brighton Lights on Facebook or online at www.thelatest.tv\r\n\r\n\r\n\r\nSee also: Latest Homes / Latest 7 magazine and Latest music bar"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "The Claimed Intermediate is an online Structure Searchable database which covers Process Patents for Named Marketed Pharmaceutical Drugs. The Database combines Current Awareness with Historical Records.\r\n\r\nThe Principal, Eddie Kehoe, has been searching, examining, abstracting and interpreting patent specifications for almost 40 years. Initially a Chemist, Eddie has covered most subject areas but has been mainly concerned with Pharmaceutical Patents over the last 20 years. \r\n\r\nTcipatent Ltd\r\n\r\ntcipatent.com\r\nOffice: +44 (0)1273 736080\r\n43 Farm Road, Hove, BN3 1FD, United Kingdom\r\n\r\nEddie Kehoe:\r\neddie.kehoe@tcipatent.com\r\nMobile - 07425629637\r\nSkype - eddieskihoe\r\n\r\nPat Kehoe:\r\npat.kehoe@tcipatent.com\r\nMobile - 07585295531\r\nSkype - patkehoe170348", 
+    "twitterId": "", 
+    "industry": "Pharmaceuticals", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273 736 080"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FD", 
+        "city": "Hove", 
+        "street1": "43 Farm Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.tcipatent.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Pharmaceutical Process Patent Information", 
+      "Identifying Claimed Intermediates", 
+      "Providing targeted information in a visual form", 
+      "Providing current information for drug development", 
+      "Analyse and visualise Process Patents", 
+      "Structure Searchable online database"
+     ]
+    }, 
+    "universalName": "tci-patent", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tcipatent Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Big Local App Surrey & Sussex", 
+    "twitterId": "", 
+    "industry": "Information Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.biglocalapp.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Promoting YOUR business"
+     ]
+    }, 
+    "universalName": "big-local-app-surrey-&-sussex", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "The Big Local App, The smartphone app packed full of local news, information, entertainment and business listings has now launched in Brighton & Hove! with many more for Surrey & Sussex coming soon.\r\n \r\nThe app is available from the App Store for iPhone and iPod touch, and from the Android Market for all Android phones, so a wealth of local information is right at your fingertips.\r\n\r\nThe Big Local App contains a business directory containing a wealth of businesses, many with their own mini-apps which allow you to access detailed information including products and services, opening times and location maps. There's also a direct link to local cinema times, local news from the BBC and all your local council information.\r\n \r\nTo start using the app today, use the download links to the left for your iPhone or Android smartphone or visit the App Store or Market directly from your device and search for BigLocalApp!\r\n\r\nOnce downloaded you can easily select other 'Big Local Apps' throughout the UK!\r\n\r\nContact us to get your company listed!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Make It So Production Realisation is a Theatre Arts and Events Company supplying Production Expertise in Live and Recorded Production, Events and Exhibitions.\r\n\r\nA selection of the British Arts Companies our team has been involved with include; The Anvil Arts Trust in Basingstoke, Theatreworks Company in Malvern, The Connaught Theatre in Worthing and The Bath Festival in Somerset. We have also worked alongside other companies such as MCCGLC Design and Exhibitions, Parexel Medical Marketing and Brighton & Hove Museums and Education.\r\n\r\nOur team has also worked overseas at Stage Door Manor in New York, Trafalgar Studios on Tour in New York and The Great Entertainment Company in Dubai. Most recently we have worked with global organisations such a Pfizer Inc., Bayer Healthcare and Baxter.\r\n\r\nWe can produce large scale Productions incorporating your own artists and staff or provide the entire artistic service.\r\n\r\nWe can provide your entire audience with Workshops, Master Classes and Tutorials.\r\n\r\nDescribe your dream show - let us \u2018Make It So!\u2019", 
+    "twitterId": "", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (7796) 407670"
+       }, 
+       "address": {
+        "postalCode": "BN2 1TS", 
+        "city": "Brighton", 
+        "street1": "Concorde House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "makeitso.gb.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Theatre Production", 
+      "Direction", 
+      "Lighting", 
+      "Wardrobe", 
+      "Drama Teaching", 
+      "Voice Coaching", 
+      "Singing Lessons", 
+      "Presentations"
+     ]
+    }, 
+    "universalName": "make-it-so", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Make It So"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Lenderise", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://lenderise.com", 
+    "universalName": "lenderise", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Lenderise lets you make money by lending things you have, or save money by borrowing the things you need, all in the Brighton and Hove area.\r\n\r\nIt can be anything from a spare lawnmower, a boat, or maybe some DJ decks. It could be skills at assembling furniture or cooking for someone\u2019s dinner party. You can list it all, or find it all, on Lenderise."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Football1x2 is the customer facing arm of F1x2Games, where all the games can be played in a live environment. \r\n\r\nF1x2Games are a UK based supplier of Virtual Football and general fixed odds gambling games to international gaming sites. \r\nOur main office is in the UK tech-hub of Brighton & Hove, known lovingly as Silicon Beach. \r\nWe are a proudly independent company and offer a different gaming perspective to the mainstream. \r\nThe company has been around since 2003 and is still developing innovative fixed odds gaming products for gaming sites of all sizes. \r\nWe have a team of developers and graphic artists who produce flash and HTML5 based games that interact with our server-side gaming engines.\r\nOur flagship offering is the suite of virtual football products that simulate the action of the world\u2019s most popular soccer leagues and tournaments.\r\nWe also develop a variety of other games that you can see on the products page of the website www.f1x2games.com\r\nWe have long term relationships with the biggest customer facing sites so deliver our products and we also regularly integrate with smaller and start-up sites. \r\nOur integration team is experienced at quickly delivering link-ups to a variety of player wallet solutions. \r\n\r\nWe are now moving to a new phase where we plan to have a full casino suite of all the games you know, plus some exciting new ones, by Q1 2013. We will then move straight on to deliver our first suite of HTML5 games by mid-2013.", 
+    "twitterId": "", 
+    "industry": "Gambling & Casinos", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 957727"
+       }, 
+       "address": {
+        "postalCode": "BN31FG", 
+        "city": "Hove", 
+        "street1": "56 Lansdowne Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.football1x2.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "gambling software", 
+      "Casino games", 
+      "Virtual Sports games", 
+      "Virtual football games"
+     ]
+    }, 
+    "universalName": "football1x2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Football1x2"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Personal & Group Training Company based in Brighton & Hove, UK - Health & fitness is a way of life.\r\n\r\nTrain with Jermayne offers personal training packages to those of all levels of fitness and strength. \r\n\r\nI will assist you in achieving your fitness and health goals in a friendly, focussed environment. \r\nTo find out more about what I can do for you, contact me now.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 4GJ", 
+        "city": "Hove", 
+        "street1": "The Studio, Kingsway Court, First Avenue, Hove, East Sussex BN3 2LR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.trainwithjermayne.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Personal Training", 
+      "Group Training", 
+      "Outdoor Training", 
+      "Studio Training", 
+      "Kettlebell Training", 
+      "Boxing Training", 
+      "Circuit Training", 
+      "Children's Fitness"
+     ]
+    }, 
+    "universalName": "fithop", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Train with Jermayne"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Road2Result was founded in 2004 by Bert van Hove. \r\nAfter 10 years of Microsoft Training and Consultancy experience, in the field as well as in management, it was time to take this experience to a next level and start an independent consultancy company.\r\n\r\nRoad2Result offers a wide range of ICT services, \r\nit does not only design networks, it also deploys and maintains them.\r\n\r\nNext to consultancy skills our engineers also have the skills to educate the people that have to maintain your network in your day to day operations.\r\n\r\nOur goal is to build a trust-relationship with the customers in such a way that Road2Result will take care of its entrusted tasks so that we can free up time for our customers and allow them to focus on their core business, while we worry about the network.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+32 15 460002"
+       }, 
+       "address": {
+        "postalCode": "2800", 
+        "city": "Mechelen", 
+        "street1": "Baron Eduard Empainlaan 68"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.road2result.be", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Microsoft consulting services"
+     ]
+    }, 
+    "universalName": "road2result", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Road2Result"
+   }
+  ]
+ }
+}

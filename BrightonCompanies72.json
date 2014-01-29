@@ -1,0 +1,883 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1440, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Down To Earth Nutrition", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07590 527665"
+       }, 
+       "address": {
+        "postalCode": "BN1 1XF", 
+        "city": "Brighton", 
+        "street1": "Sundial Clinic"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "07590 527665"
+       }, 
+       "address": {
+        "postalCode": "BN2 1RP", 
+        "city": "Brighton", 
+        "street1": "Brighton Women's Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.downtoearthnutrition.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "arthritis advice", 
+      "weight management advice", 
+      "diabetes advice", 
+      "osteoporosis advice", 
+      "digestive issues advice", 
+      "candida advice", 
+      "nutritional talks", 
+      "write nutritional articles"
+     ]
+    }, 
+    "universalName": "down-to-earth-nutrition", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Brighton based Nutritional Therapy Practice run by Shirley Ward, Nutritional Therapist C.H.Ed (Dip Nut Th) MBANT.  Provides diet and lifestyle advice to address health issues and improve overall health via individual nutritional consultations, nutritional workshops and presentations and nutritional articles written."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Writers Can't Draw is the online home of Vicki Heath - a Brighton-based freelance copywriter. \r\n\r\nI've been in the industry since 2004, working at various design and advertising agencies in Sussex and London. \r\n\r\nQuite simply: I love my job. I have extensive experience writing for print, web (inc. SEO), PR, journalism and radio, and my prices won't blow the budget.", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 3HN"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.writerscantdraw.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Long copy", 
+      "short copy", 
+      "branding", 
+      "SEO crafting", 
+      "editing", 
+      "proofing", 
+      "radio writing and directing", 
+      "feature and story writing..."
+     ]
+    }, 
+    "universalName": "writers-can't-draw", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Writers Can't Draw"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Western Liquors", 
+    "industry": "Wine & Spirits", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "80216"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.westernliquor.com", 
+    "universalName": "western-liquors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Denvers Newest and Superbly located at I-70 and Brighton Blvd.  We will be Offering Online Liquors Sales and Delivery."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "IBW Shops / Sunny Private Hire", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 (0) 1273 358134"
+       }, 
+       "address": {
+        "postalCode": "BN7 1PN", 
+        "city": "Lewes", 
+        "street1": "Clare House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.taxilewes.co.uk", 
+    "universalName": "ibw-shops-sunny-private-hire", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Sunny Private Hire:\r\nWe specialise in out of town taxi journeys from Lewes, Brighton and Sussex to anywhere. If you need to get a taxi to Gatwick Airport or Heathrow Airport or need to take a business trip, go on holiday or need a parcel delivered urgently look no further, Lewes Sunny Private Hire will get you there and back."
+   }, 
+   {
+    "numFollowers": 30, 
+    "name": "GreenSearch", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.greensearch.ie;www.greensearchuk.com", 
+    "universalName": "greensearch", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "GreenSearch is Ireland's first recruitment business specialising in the Green space.\r\n\r\nWith offices available in both Dublin and Brighton we offer a Pan European solution for companies within the GreenSector. \r\n\r\nContact any of our consultant's anytime for career advice worth listening to as well as the numerous positions and clients we have to offer candidates searching for their ideal job.\r\n\r\nWe have an extensive database of the most in demand and experienced candidates in the market offering an excellent portfolio of organisations to provide the best career opportunities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Lukas.Net Ltd has been formed in 2007 with intention to establish an independent professional IT company to support local businesses. Since inception, the company has consistently grown and developed, continually refining its product and service range to meet the specific demands of our customers. Lukas.Net is a company based in Brighton, England where we are offering our professional and affordable solutions for residential and business customers.", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07925636319"
+       }, 
+       "address": {
+        "postalCode": "BN1 3RE", 
+        "city": "Brighton", 
+        "street1": "2 Alexandra Villas"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.lukasnet.biz", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "web design", 
+      "hosting"
+     ]
+    }, 
+    "universalName": "lukas.net-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lukas.Net Ltd"
+   }, 
+   {
+    "numFollowers": 19, 
+    "description": "Zadel Realty is a full service real estate brokerage located in Firestone, Colorado at 8110 WCR 13 S-4 in the Firestone Safeway Marketplace.  It was established in 1980 and has served buyers and sellers with their real estate needs in Southern Weld County (including Firestone, Frederick, Dacono, Erie, Ft. Lupton, Hudson, Keenesburg, Platteville and Mead), as well as the north metro Denver area including Broomfield, Brighton and Longmont.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "303-833-3012"
+       }, 
+       "address": {
+        "postalCode": "80504", 
+        "city": "Firestone", 
+        "street1": "8110 WCR 13 Unit S-4"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.zadelrealty.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Full service real estate brokerage."
+     ]
+    }, 
+    "universalName": "zadel-realty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Zadel Realty"
+   }, 
+   {
+    "numFollowers": 18, 
+    "description": "Ever Creative are a Brighton based multi-disciplinary design agency. Our expertise lies in the entertainment, lifestyle and sports industries and we have extensive experience in these areas from working with such clients as O\u2019Neill, Swatch, MTV, Red Bull, EA Games, Sony, Nintendo and Diesel. We also work for multi-nationals such as Hewlett Packard and charities such as WSPA for global campaigns, so we still have a wealth of experience with corporate projects.\r\n\r\nServices we offer are; Branding, Web Design, Motion Graphics, Logos, Corporate I.D., Brochures, Packaging, Direct Mail, Illustration, Style Guides, Print Media and Multi Media.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 322256"
+       }, 
+       "address": {
+        "postalCode": "BN1 2RE", 
+        "city": "Brighton", 
+        "street1": "Bostel House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.ever-creative.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Graphic Design", 
+      "Web Design", 
+      "Branding and Motion Graphics for successful marketing campaigns"
+     ]
+    }, 
+    "universalName": "ever-creative", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Ever Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "The Escape Committee is a Brighton based digital agency that specialises in creating experiences that connect brands to audiences.\r\n\r\nWe get to the core of what you're about and help you share this through the web, film, copy and graphic design. We make things for other people and sometimes for ourselves, just for fun.\r\n\r\nEveryone has a story. Maybe we can help find yours.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 915416"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton", 
+        "street1": "Ground Floor Office"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.escapecommittee.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "web", 
+      "digital", 
+      "branding", 
+      "film", 
+      "graphic design", 
+      "copwriting"
+     ]
+    }, 
+    "universalName": "the-escape-committee", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Escape Committee"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 270, 
+    "description": "4Delivery (4D) is a well-established, fully integrated Joint Venture bringing together the skills and experience of three industry-leading partners, Veolia Water, Costain and MWH. \r\n\r\nFrom optioneering, design and construction through to optimisation, operation and maintenance, we offer global expertise to deliver integrated, local outcome based solutions to the water industry.  \r\n\r\nIncorporated in 2005 to deliver a part of Southern Waters AMP4 (2005-2010) programme of works, we have since successfully delivered over \u00a31bn of environmental improvements across AMP4 and AMP5, including a \u00a3240m scheme to build a new wastewater treatment works and associated infrastructure to serve the Brighton and Hove catchment. \r\n\r\nWe are now looking to bring our extensive range of services and capabilities to a wider market.", 
+    "twitterId": "", 
+    "industry": "Utilities", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 564 800"
+       }, 
+       "address": {
+        "postalCode": "RH11 9BP", 
+        "city": "Crawley", 
+        "street1": "Tilgate Forest Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "4delivery.co.uk", 
+    "universalName": "four-delivery-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "4Delivery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 540, 
+    "description": "Founded in 1839, Sussex County Cricket Club is the oldest professional sports club in the world. \r\n\r\nThe club played cricket at 3 locations in Brighton & Hove before finding it's current home on Eaton Road in 1871. Our first fixture at the County Ground was against Gloucestershire on 6th June 1872.\r\n\r\nThe Club won its first County Championship in 2003, which was the beginning of an era in which Sussex enjoyed prolonged success, named 'The Golden Decade'\r\n\r\nSussex had tasted one-day success in 1963, 1964, 1978 and 1986 but 'The Golden Decade' is regarded as the most successful period in the long history, with Sussex reclaiming the County Championship in both 2006 and 2007, as well as making 2006 a 'double' winning year, with the County also winning the C&G Trophy in a thrilling low-scoring final at Lord's against Lancashire.\r\n\r\nSussex also embarked on one-day success, winning the Pro40 League in both 2008 and 2009, the latter also inspiring the Club to a first Twenty20 title, beating Somerset on Finals Day at Edgbaston. \r\n\r\nWe now pride ourselves on not only delivering first class County cricket but following the 3 year redevelopment of the ground here in Hove, we now offer a wide range of first class facilities for local business and the community to utilise 12 months of the year.\r\n\r\nFor more information on Sussex CCC visit\r\nwww.sussexcricket.co.uk\r\nwww.facebook.com/sussexccc\r\nwww.twitter.com/sussexccc", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 264 0201"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AN", 
+        "city": "Hove", 
+        "street1": "Eaton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1839, 
+    "websiteUrl": "www.sussexcricket.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Match Day Hospitality", 
+      "Corporate & Private Events", 
+      "Cricket Development", 
+      "Coaching Courses", 
+      "Sponsorship", 
+      "Advertising", 
+      "Business Networking", 
+      "Media"
+     ]
+    }, 
+    "universalName": "sussex-county-cricket-club", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex County Cricket Club"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "name": "BRS Global", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.brsglobal.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Recruitment Research", 
+      "Competitive Intelligence", 
+      "Talent Pipelining"
+     ]
+    }, 
+    "universalName": "brs-global", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "BRS Global is a Recruitment Research Company located in Brighton, United Kingdom.  Established in 2000, BRS Global delivers highly cost-effective Recruitment Research Solutions to support the Internal Recruitment Function with their staffing requirements. The team at BRS come from a variety of industry backgrounds and have extensive research experience. We have worked with clients across wide ranging industries to deliver Talent Acquisition and HR Intelligence Solutions to Multiple Sectors, Geographies and Functional Disciplines around the globe. \r\n\r\nThe Recruitment Solutions provided by us, is specifically aimed at helping our clients access the passive candidate market while taking control of their recruitment requirements. \r\n\r\nWe provide all clients with a senior, single point of contact who oversees smooth and timely delivery of the project. Through effective communication and regular reporting, we are adept at supporting our clients even when business requirements change and always strive to ensure the right outcome is achieved."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 111, 
+    "name": "Ntrinsic", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+32 2 513 7562", 
+        "phone1": "+32 2 504 0100"
+       }, 
+       "address": {
+        "postalCode": "1150", 
+        "city": "Brussels", 
+        "street1": "Avenue de Tervuren 402"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 1273 776867", 
+        "phone1": "+44 1273 777333"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DD", 
+        "city": "Brighton", 
+        "street1": "2nd Floor, Sheridan House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "KT2 6NH", 
+        "city": "Kingston Upon Thames", 
+        "street1": "Vine House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.ntrinsic.net", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Oracle business solutions", 
+      "Oracle E-Business freelance recruitment", 
+      "Oracle E-Business freelance professionals"
+     ]
+    }, 
+    "universalName": "ntrinsic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Ntrinsic is your expert European business partner with more than 75 years of IT recruitment experience. From our offices in, Brussels, Brighton and London, Ntrinsic brings an unrivalled network of clients and consultants to your local market, in your local language.\r\n\r\nWe have an in-depth understanding of the Oracle Applications arena and the IT market in the Benelux and are skilled at providing the best freelancers to match the needs of your business. \r\n\r\nSimilarly, if you\u2019re a freelance professional working with Oracle E-Business in Europe, or are involved in IT consulting in Benelux get in touch today!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 185, 
+    "description": "The Friendly Home is a non-profit 24-hour skilled nursing facility. The Friendly Home provides nursing care, rehabilitation, memory care and hospice care. Our goal is to promote dignity, individuality and the highest possible level of independence. Our staff of experienced and dedicated professionals help maximize the quality of life for our residents (Members) in a respectful, caring and professional manner.\r\n\r\nThe Friendly Home is proud to be part of a continuum of care, Friendly Senior Living, which includes: Cloverwood, an indepdendent retirement community featuring patio homes and apartments in Pittsford, NY; Linden Knoll, an apartment community for seniors in Brighton, NY; Glenmere at Cloverwood, an assisted living/enhanced assisted living program as well as a memory care program; the Lovejoy Transitional Care Center, short-term rehabilitative care center located in a separate wing of The Friendly Home.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "585-381-1600"
+       }, 
+       "address": {
+        "postalCode": "14618", 
+        "city": "Rochester", 
+        "street1": "3156 East Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1849, 
+    "websiteUrl": "friendlyseniorliving.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "24-hour skilled nursing care", 
+      "Memory Care", 
+      "Short-term rehabilitative care", 
+      "Hospice care"
+     ]
+    }, 
+    "universalName": "the-friendly-home", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Friendly Home"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 588, 
+    "description": "Saint Anthony Hospital lives out the loving ministry of Jesus Christ, offering health, healing and hope to the families of our community.\r\n\r\nFounded in 1898, Saint Anthony Hospital is an independent community hospital located in Chicago's Southwest side. Serving nearly 402,000 residents in North Lawndale, Pilsen, Little Village, Back of the Yards, Brighton Park, McKinley Park, Cicero and Berwyn.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "60188", 
+        "city": "Chicago", 
+        "street1": "2875 W. 19th Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1898, 
+    "websiteUrl": "www.sahchicago.org", 
+    "universalName": "saint-anthony-hospital", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Saint Anthony Hospital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 122, 
+    "name": "E-470 Public Highway Authority", 
+    "twitterId": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303-537-3470"
+       }, 
+       "address": {
+        "postalCode": "80018", 
+        "city": "Aurora", 
+        "street1": "22470 East 6th Parkway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "https://www.expresstoll.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "All Electronic Tolling", 
+      "Open Road Tolling"
+     ]
+    }, 
+    "universalName": "e-470-public-highway-authority", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "E-470 is a toll highway that runs along the eastern perimeter of the Denver metropolitan area. The 47-mile beltway extends from State Highway C-470 at I-25 in Douglas County south of Denver, runs east and then north through Aurora, passes along the western edge of the Denver International Airport, and turns back towards the west, terminating at I-25 on the north end of the metropolitan area just south of 160th Avenue. \r\n\r\nThe E-470 Public Highway Authority is a political subdivision of the State of Colorado.  The Board of Directors consists of eight voting member jurisdictions:  Adams, Arapahoe, and Douglas counties and the municipalities of Aurora, Brighton, Commerce City, Thornton, and Parker.  Affiliate, non-voting members:  Cities of Arvada and Greeley, City and County of Broomfield, and Weld County.  Ex-officio members:  Colorado Department of Transportation (CDOT), Denver Regional Council of Governments (DRCOG) and the Regional Transportation District (RTD)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "description": "Blue Edge is a unique creative agency based in Brighton, UK. \r\n\r\nWe specialise in winning big projects for other companies. We find their competitive edge then develop their brands, bids, teams, consortiums, campaigns - whatever\u2019s needed - to help them close more deals. \r\n\r\nOver the last three years we\u2019ve helped our clients land \u00a330bn of business, so we\u2019re a sound investment for any Bid Director or Marketing Director.  We focus on infrastructure projects, construction, and FM in the UK, Europe and the US, and our win rate is over 80%. \r\n\r\nVisit www.blue-edge.co.uk", 
+    "twitterId": "@BlueEdgeLtd", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 328125"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UT", 
+        "city": "Brighton", 
+        "street1": "11 Jew Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 328125"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UT", 
+        "city": "Brighton", 
+        "street1": "11 Jew Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.blue-edge.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Creative communications and campaigns", 
+      "Strategy Workshops", 
+      "Bid Communications", 
+      "Brand development", 
+      "ipad app development", 
+      "Development & Software", 
+      "Property Marketing", 
+      "Bid Production"
+     ]
+    }, 
+    "universalName": "blue-edge", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Blue Edge"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2093, 
+    "description": "Gehl Architects is an urban research and design consultancy based in Copenhagen, Denmark, founded in 2000 by Architect Helle S\u00f8holt and Professor Jan Gehl.\r\n\r\nGehl Architects addresses global trends with a people-focused approach, utilizing empirical analysis to understand how the built environment can promote human flourishing. They apply this analysis to strategic planning and human-centered design to empower citizens, decision makers, company leaders, and organizations.\r\n\r\nThe work of Gehl Architects builds on Jan Gehl\u2019s 40 years of extensive research on life in public space. Along with new research this continues to provide the foundation for their work in small and large cities around the world. Gehl Architects offers expertise in the fields of architecture, urban design and city planning. Their work is based on the human dimension \u2013 the built environment\u2019s effect on activity patterns and interaction between people.\r\n\r\nGehl Architects\u2019 interdisciplinary team of 35 people include architects, urban designers, landscape architects, graphic designers, sociologists, anthropologists and cultural theorists. Additionally, they employ a network of internationally recognized urban experts. \r\n\r\nGehl Architects has worked with cities of all scales throughout the world. Clients include: Municipality of Copenhagen, Department of Transportation (DOT) in New York City, Melbourne City Council, The Energy Foundation in Beijing, China, Brighton & Hove City Council in the UK, City of Christchurch in New Zealand, Institute of Genplan in Moscow, among many others.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Copenhagen", 
+        "street1": "Gl. Kongevej 1, DK 1610 Copenhagen V, Denmark"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.gehlarchitects.com/", 
+    "universalName": "gehl-architects", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Gehl Architects"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 284, 
+    "description": "Total Solutions is a global SharePoint development and consulting firm as well as a reseller of a multitude of SharePoint tools.  We have developed multiple million dollar global systems built on SharePoint for international governmental agencies as well as provided consulting services and products for a variety of private American firms.  We place a large emphasis on establishing relationships with Midwest firms.  We are based out of Brighton, MI.  Please check out our website at www.totalsol.com\r\n \r\nWe offer a broad range of SharePoint services including:\r\n \r\n-          Custom Enterprise Applications\r\n-          SharePoint Administration Services\r\n-          Reporting and Dashboards\r\n-          Custom Branding\r\n-          Portals and Collaboration\r\n-          Business Process Management and Workflow Development\r\n-          System Migrations\r\n \r\nWe are partnered with the major product players in the SharePoint market:\r\n \r\nNintex (Workflow for SharePoint)\r\nDell Software (SharePoint administration tools)\r\nIdera Software (SharePoint administration tools)\r\nAxceler Software (SharePoint administration tools)\r\nK2 (Workflow for SharePoint)\r\nKodak (Document Capture to SharePoint)\r\nKofax (Document Capture to SharePoint)\r\nNewsGator (Social collaboration within SharePoint)\r\nBrightWork (SharePoint Project Management)\r\n\r\nTotal Solutions is a Certified Microsoft Reseller with Partner Network Competencies in Portals and Collaboration.", 
+    "twitterId": "Total_Solutions", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "1-888-682-5765"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "26 Summit Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.totalsol.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Custom SharePoint Application Development", 
+      "Business Process Management", 
+      "Workflow Development", 
+      "Document Processing Solutions", 
+      "General SharePoint Consulting", 
+      "Enterprise Content Management", 
+      "Social Collaboration", 
+      "SharePoint System Migrations", 
+      "SharePoint Deployment"
+     ]
+    }, 
+    "universalName": "total-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Total Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 203, 
+    "description": "Gene Codes Corporation is an international software firm specializing in bioinformatics software for DNA sequence analysis. Gene Codes' scientist-friendly software tools hold the dominant share in the DNA sequencing sector and are unrivaled in forensic DNA identification for mass fatalities.\r\n\r\nGene Codes' success is built on customer-driven product development, combining the latest programming techniques, rigorous quality control and an open dialogue with customers to produce products of the utmost usability and industry relevance.\r\n\r\nSince 1991, when Gene Codes first introduced its groundbreaking Sequencher software for sequence analysis, we have served the needs of industrial, academic and government-based biotechnology groups across the globe.\r\n\r\nAs the popularity of Sequencher has grown, so has the company. Gene Codes is a motivated, enthusiastic, high-energy organization based in Ann Arbor, with offices in New York City and in Brighton, England. Gene Codes' corporate culture values flexible collaboration, shared responsibility, and dynamic change.", 
+    "twitterId": "genecodes1", 
+    "industry": "Biotechnology", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+1 (734) 769-7074", 
+        "phone1": "+1 (734) 769-7249"
+       }, 
+       "address": {
+        "postalCode": "48108", 
+        "city": "Ann Arbor", 
+        "street1": "775 Technology Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "www.genecodes.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sequencing Software", 
+      "Bioinformatics software", 
+      "DNA Analysis", 
+      "Next Generation Sequencing"
+     ]
+    }, 
+    "universalName": "gene-codes-corporation", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Gene Codes Corporation"
+   }
+  ]
+ }
+}

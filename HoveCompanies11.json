@@ -1,0 +1,626 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 220, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "L'Image Fran\u00e7aise specialises in the teaching of general conversational French at all levels.\r\n\r\nIn addition to providing classes in business French, preparation for general and specialised examinations such as the officially recognised DELF (Dipl\u00f4me d\u2019\u00e9tudes en langue fran\u00e7aise) can also be provided.\r\n\r\nI started my business 17 years ago in London with a strong emphasis on \u201cin company\u201d tuition. Teaching individuals and groups at their workplace as part of an employer's inhouse training scheme. Some of my key accounts were Elf (now Total), Soci\u00e9t\u00e9 G\u00e9n\u00e9rale and Bausch & Lomb. I moved my business activities to Brighton and Hove where I have been living since 2005.\r\n\r\nI specialise in teaching professionals in connection with their work, training them to be able to read, write and converse in their specific business environments. I have particular expertise in the legal and financial services sectors\r\n\r\nL'Image Fran\u00e7aise also provide a support service to anyone requiring help with French in respect of correspondence, communication and translation of official and administrative documents\r\n \r\n\r\nSome of the areas covered are :\r\n\r\n      Responding to a letter\r\n    \r\n      Phone calls\r\n    \r\n      Emails\r\n    \r\n      Property Transactions\r\n    \r\n      Utilities (Gas, Electric, Water etc)\r\n    \r\n      Social Security\r\n    \r\n      Tax Authorities", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.frenchlessonsinbrighton", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "One-to-one French Tution", 
+      "In-house Corporate French Tution", 
+      "Correspondence, Communication and Translation services"
+     ]
+    }, 
+    "universalName": "l'image-francaise", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "L'Image Francaise"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Community Base is a charity providing a home for community and voluntary groups in Brighton and Hove and services to the local community.\r\n\r\nOur building on Queens Road Brighton offers affordable, serviced office space to local organisations as well a range of meeting spaces available to hire. We also deliver a range of online search services for local people covering volunteer opportunities; community job listings; community events & local services.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 234000"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XG", 
+        "city": "Brighton", 
+        "street1": "113 Queens Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.communitybase.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Charity Office Space", 
+      "Meeting Space", 
+      "Community Services"
+     ]
+    }, 
+    "universalName": "community-base", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Community Base"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Mac Made Easy was developed by Mufidah Kassalias to help people get more from their Mac experience with one-to-one tuition on the Mac basics and more. Based in Lewes, East Sussex, Mac Made Easy serves the surrounding area, including Brighton and Hove.\r\n\r\nMufidah is a Mac woman in a PC world.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.macmadeeasy.biz", 
+    "universalName": "mac-made-easy", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mac Made Easy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Freelance communications consultant, specialising in youth, community and stakeholder engagement and PR. Extensive experience designing, developing and implementing strategic and integrated campaigns that raise awareness, set agendas and change behaviour.\r\n\r\nServices:\r\n - Youth marketing and stakeholder engagement\r\n - Youth professional training \r\n - Community engagement\r\n - Social marketing, research and audience insight\r\n\r\nNational campaigns: \r\n - Talk to FRANK (drugs)\r\n - Want Respect? Use a condom (teenage pregnancy and sexual health) \r\n - It doesn\u2019t have to happen (knife crime)\r\n - Alcohol: Know Your Limits (binge drinking)\r\n\r\nPrevious clients:\r\n - Home Office \r\n - Department for Education Department of Health \r\n - Department for Communities and Local Government \r\n - The Stroke Association\r\n - British Heart Foundation\r\n - Burnley and Pendle Community Safety Partnerships\r\n - Thames Valley Constabulary\r\n - Rotherham Council\r\n - NHS Brighton and Hove, NHS Buckinghamshire and NHS Harrow  \r\n - Telford and Wrekin Children\u2019s Workforce Development Team", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Public Relations", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.it-is-currently-under-construction.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Youth campaigns", 
+      "Stakeholder engagement", 
+      "Community engagement", 
+      "Social marketing"
+     ]
+    }, 
+    "universalName": "credo-comms", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Credo Comms"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 291, 
+    "description": "Welcome to One Crown Office Row\r\n\r\nWe are one of England\u2019s largest barristers Chambers with 66 barristers, including 22 QCs, based in London and 43 based in our Annexe in Brighton.\r\n\r\nWe are regularly rated as one of the top 30 sets of Chambers in England with large numbers of our barristers listed in Legal Directories as leaders in their field of practice.\r\n\r\nTracing our history back to the 1930\u2019s, we have developed a strong reputation in particular for our advocacy skills. High standards are set to obtain a tenancy here. This strict \u201cquality control\u201d is reflected in the large numbers of Members who have become QCs and in the regularly high numbers of appointees (22 in 2011) to the Attorney General\u2019s A, B and C Panels. \r\n\r\nWe run the widely acclaimed UK Human Rights Blog (http://ukhumanrightsblog.com) and its older sister the UK Human Rights Update site (www.humanrights.org.uk).\r\n\r\nIn Brighton, we practise in Family, Civil and Criminal law from a centrally located Annexe established 40 years ago with clients drawn from Brighton & Hove and a wide swathe of the South Coast and areas South of London.\r\n\r\nWe provide mediation services in London and Brighton and several Brighton-based barristers also accept work in accordance with the Bar\u2019s public access scheme i.e. receiving instructions direct from members of the public.  \r\n\r\nVisit our website at www.1cor.com for further information.", 
+    "twitterId": "1CORBrighton", 
+    "blogRssUrl": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.1cor.com", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Clinical Negligence", 
+      "Personal Injury", 
+      "Professional Discipline", 
+      "Public Law and Public Inquiries", 
+      "Human Rights", 
+      "Family Law", 
+      "Employment and Equality Law", 
+      "Property Law", 
+      "Environmental Law", 
+      "Tax", 
+      "Criminal Law", 
+      "Inquests and Coroners", 
+      "Costs", 
+      "Professional Negliegence"
+     ]
+    }, 
+    "universalName": "crown-office-row", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Crown Office Row"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Stephanie Anjos Photography has been running for  two years now. I do events, weddings, promotional work, advertisment, club and band photography. I also sell landscape and art photography on my website, primarily images from across the world. I am based in Brighton & Hove but will travel.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.stephanieanjosphotography.com", 
+    "universalName": "stephanie-anjos-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Stephanie Anjos Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Logo Logo", 
+    "twitterId": "logologouk", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.logologo.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Infographics", 
+      "Brand Development", 
+      "Responsive Websites", 
+      "Web Design", 
+      "Illustration"
+     ]
+    }, 
+    "universalName": "logo-logo", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "A Digital Web Design Agency that specialises in web design, branding, illustration, infographics, and web development. We are based in the big city of Brighton & Hove with an office just off Palmeira Square that is one step away from the seaside. We have recently started an intern programme that has resulted in two post graduates being employed part time.\r\n\r\nWe cater for many clients around the world and enjoy a challenge. We have recently been over to Miami to help run a four day event for one of our biggest clients, so as well as designing all the websites and printed media we helped run the social media too.\r\n\r\nWe have two developers working for Logo Logo, Chris Leggett and John Dillion. One a PHP dev and the other a .Net specialist. We are able to handle responsive, e-commerce or javascript motion graphics. As well as all the normal web jobs you would expect."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Italian Deli and Cafe providing good things to eat to the good people of Brighton and Hove.\r\nCatering services for fine dining, weddings, private functions and corporate lunches and events throughout the South East.\r\nGorgeous italian food with local ingredients", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.albertoli.co.uk", 
+    "universalName": "albertoli-deli---kitchen", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Albertoli Deli + Kitchen"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "A calm, sensitive and friendly teacher, with over twenty years of personal Pilates experience, I strive to help clients achieve their physical potential through developing a healthy and happy body.\u00a0 I teach group matwork and one-to-one classes in and around the Brighton and Hove area, and have many ongoing clients, in East Sussex and London.", 
+    "twitterId": "TurningTide", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.turningtidepilates.com", 
+    "universalName": "turning-tide-pilates", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Turning Tide Pilates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1675, 
+    "name": "Festival Republic", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.festivalrepublic.com", 
+    "universalName": "festival-republic", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "More than half a million fans attend the festivals we own and co-produce each year. They do so because they share our passion for festivals. Festivals are in our blood and we are proud to provide the heartbeat of the summer.\r\n\r\nFormed in 1982, we largely created the modern music festival market in the UK. Under the name of Mean Fiddler, we took shared ownership of the Reading Festival in 1989 and took sole ownership in 1993. Since then we have built Reading into the most famous Rock show on the planet and in 1999 created a parallel event in Leeds. In 2002 we took over operational management of Glastonbury Festival and in 2007 increased the capacity of the festival to 177,500. In 2006 we launched Latitude, our fledgling music and arts festival, held in the beautiful Sunrise Coast, Suffolk Latitude is doing phenomenally well; in its second year it almost doubled capacity to 20,000 visitors and has since increased to 35,000. We also produced the annual London festivals for the GLA; Rise and St Patrick\u2019s Day until 2008. In 2009, we added Electric Picnic in Ireland and Hove Festival in Norway to our festival portfolio. In September 2009, we took majority ownership of The Big Chill Festival which took place in the grounds of Eastnor Castle in Herefordshire. In 2010 we founded Orlando Calling, our first festival in Florida."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Paul Fletcher Photography", 
+    "twitterId": "Fletchpix", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.paulfletcherphotography.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Reportage and Dynamic Wedding Photography", 
+      "Commercial Photography", 
+      "Prospectuses and brochures", 
+      "Event photography", 
+      "Product Photography"
+     ]
+    }, 
+    "universalName": "paul-fletcher-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "My corporate clients benefit from my diverse skills and a wealth of experience as a freelance photographer. I can complement your conference or event with exceptional vibrant and dynamic images, further enhance your business profile with a corporate portrait or an entire company portrait session, or simply work with you to create stunning images of your products and services that will give your clients a comprehensive understanding of your business.\r\n\r\nMy wedding clients benefit from my boundless energy, modern style and sense of fun, working together to create atmospheric and exciting images by combining my documentary and dynamic wedding photography style. I'd love to set the scene for you with a fun and enjoyable pre wedding or engagement shoot or maybe follow up the wedding with a family lifestyle or portrait session.\r\n\r\nWhy not give me a call or connect with me to find out how we can work together to ensure your business images and wedding images are exceptional!      \r\n\r\nA few of my recent projects include watch product photography for the Classic Watch Company in Brighton, images for marketing and website for London bespoke tailors Eveleigh and Read, corporate portraiture for Cardens Accountants in Hove and JRJ Group in London, plus events for IMLPO, Tourism South East and the Brighton Business Curry Club and food photography for the Coal Shed, the Sylvan Oak and Restaurants Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Luxury Garra Rufa Fish pedicure Spa\r\nProviding Pedicure and manicure utilising Garra Rufa fish\r\nBluewater . Guildford . Bromley . Brighton . Hove\r\nThe ultimate feet treat has now arrived\r\nCome and let our Garra Rufa Dr fish give you a pedicure to remember. Gently and painlessly removing the dead skin from your shopping weary soles, our little fish will give you an experience that you and your friends will love and never forget.\r\nOnly \u00a310 for 10 minutes\r\nNo appointment necessary\r\nGift vouchers and fabulous foot care accessories available for that perfect present", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.heavenlysolesspa.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Fish Pedicure", 
+      "Manicure"
+     ]
+    }, 
+    "universalName": "heavenly-soles-spa-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Heavenly Soles Spa LTD"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 81, 
+    "description": "Jean Van den Hove, Albert Verheyen's great-grand father, took over the portfolio of Lippman & Kracht, a Brussels-based insurance agency, in 1919. It was the beginning of a long and fruitful partnership between an insurance agency and its market. For four generations, the Verheyen family has presided over the success of the business. The formula has always been attractive. The association with AXA Group since 2008 is the eloquent proof.\r\n\r\nSmall and welded together by unbreakable bonds of friendship and solidarity. Jean Verheyen owes the quality of its performance to short reporting lines and the excellence of its staff. Amicable in the way they handle the business, they have an acute sense of responsibility, as well as an intimate knowledge of their colleagues' functions and a strong commercial sense. Client fidelity is the best demonstration of these facts.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Insurance", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+32-2-250.63.00", 
+        "phone1": "+32-2-250.63.11"
+       }, 
+       "address": {
+        "postalCode": "1210", 
+        "city": "Brussels", 
+        "street1": "Rue de la Limite 17"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+32-4-220.54.51", 
+        "phone1": "+32-4-220.54.50"
+       }, 
+       "address": {
+        "postalCode": "4000", 
+        "city": "Li\u00e8ge", 
+        "street1": "Boulevard d'Avroy 39"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1919, 
+    "websiteUrl": "http://www.verheyen.be", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Marine insurance", 
+      "Fine art and private insurance", 
+      "Jewellers block insurance", 
+      "Exhibitions and trade fairs insurance"
+     ]
+    }, 
+    "universalName": "s.a.-jean-verheyen---member-of-the-axa-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "S.A. Jean Verheyen - Member of the AXA Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Brrmedia is tot stand gekomen in 2010 door een samenwerking tussen Bram ten Hove, Roy Harink en Ronald te Brake allen Communicatie en Multimedia Design studenten. Als student zijn we constant bezig nieuwe technieken te onderzoeken om zo met innovatieve en duurzame oplossingen te kunnen komen.\r\n\r\nDe combinatie van het kwalitatief hoogwaardige aanbod dat wij u kunnen bieden en de vraag naar professionele websites heeft ons doen beslissen om een eigen bedrijf te starten.", 
+    "twitterId": "brrmedia", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.brrmedia.nl", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Webdesign", 
+      "Corporate identity", 
+      "Logo", 
+      "Development"
+     ]
+    }, 
+    "universalName": "brrmedia", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "brrmedia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Dragonfly Clinic specialises in repairing sports and occupational injuries, postural therapy, Pilates and nutrition. Many clients come to us with a wide range of conditions and injuries including: \r\n\r\nMuscular and skeletal problems - strains and sprains - ligament and tendon injuries - chronic pain conditions such as back pain and arthritis. \r\n\r\nOur highly experienced team work with amateur, professional and Olympic athletes across a wide age range. Our purpose is to ensure you overcome injuries any setbacks you encounter in training, returning you to peak performance as soon as we can. \r\n\r\nWe can then give you the tools to prevent further injury, improve your overall health with better strength, flexibility and increased stamina. We design programmes of sports massage, postural assessments, rehabilitation exercise, ultrasound, injury taping as well as other techniques to assist in your recovery.\r\n\r\nOur training sessions, Pilates and nutrition consultations, will give you a more thorough understanding of how your own body works and how to be as fit and healthy as you can.\r\n\r\nWe also have a training club for runners and cyclists, as well as a programme of mat and studio Pilates classes in Brighton and Hove. If you want to take part in any of these sessions contact us on 01273 784 917.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 784 917"
+       }, 
+       "address": {
+        "postalCode": "BN1 2PS", 
+        "city": "Brighton", 
+        "street1": "56 Sillwood Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.dragonflyclinic.com", 
+    "universalName": "dragonfly-clinic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dragonfly Clinic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Environmental planning consultancy based in Brighton and Hove, Sussex.  I have over 19 years experience in a range of planning and environmental management roles. Specialisms include:\r\n- Planning, including strategy, policy and applications\r\n- Waste and Minerals Planning\r\n- Climate Change\r\n- Renewable and decentralised energy\r\n- Biodiversity\r\n\r\nCurrent clients include the Mineral Products Association (MPA) and private developers (waste management facilities).  Recent clients include Hampshire climate change partnership, Buckinghamshire County Council, Surrey Climate Change Partnership, Anglia Ruskin University (training), and Kingston Transport Ltd.\r\n\r\nI am a competitvely priced alternative to large consultancies, and also work as an associate with wider project teams on collaborative projects.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Environmental Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.cissburyconsulting.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Town and country planning", 
+      "Waste and minerals planning", 
+      "Climate change adaptation", 
+      "Renewable energy"
+     ]
+    }, 
+    "universalName": "cissbury-consulting-sole-proprietorship-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Cissbury Consulting (sole proprietorship)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Scott Theobold RIBA founded Bold Architecture Design in 2007 offering an inclusive design service, creating an open dialogue between the architect, client, and consultant team, while delivering solutions that respond to site, exceed client aspirations and meet budget constraints. A rigorous enthusiastic approach is applied to all projects from extensions to mixed-use developments, along with a commitment to encouraging sustainable solutions.\r\n\r\nScott has over 14 years project running experience including the Journey Zone at The Millennium Dome for Imagination, various educational projects for Essex County Council, large housing schemes for Pollard Thomas Edwards Architects, and smaller scale residential and domestic projects with Turner Associates in Hove.\r\n\r\nWe are currently working on residential extensions/ refurbishment, new build homes, and commercial/ mixed-use projects mainly in Sussex and the surrounding areas.", 
+    "twitterId": "boldarchdesign", 
+    "blogRssUrl": "", 
+    "industry": "Architecture & Planning", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.bold.uk.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "New Build Developments", 
+      "Conversions", 
+      "Domestic Extensions and Alterations", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "bold-architecture-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Bold Architecture Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Based in Worthing, West Sussex.\r\n\r\nSugamamas delicious cakes are made from the finest ingredients and decorated by hand with a variety of sprinkles, frostings and handmade decorations. I only use free range eggs, real butter and the finest ingredients to ensure our cakes taste as good as they look.\r\n\r\nAll cakes are made to order to guarantee freshness.\r\n\r\nI will happily deliver free within 10 miles from Worthing after this a small charge per mile will be charged.\r\n\r\nI can deliver to Littlehampton, Worthing, Chichester, Arundel, Shoreham by Sea, Lancing & Brighton & Hove, and most of West Sussex / East Sussex.\r\n\r\nOur kitchen is registered with the Worthing Borough Council Environmental Health department.", 
+    "twitterId": "@sugamamascakes", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.sugamamascupcakes.co.uk", 
+    "universalName": "sugamamas-cupcakes", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Sugamamas Cupcakes"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Enivest AS er ein lokalt forankra kommunikasjonsleverand\u00f8r i Sogn og Fjordane. Selskapet vart skipa i oktober 2000 og kom i drift i april 2001. Hovudprodukta er breiband og telefoni, samt tenester knytt til desse omr\u00e5da.\r\n\r\nV\u00e5r st\u00f8rste f\u00f8remon er Enivest sitt solide og framtidsretta fibernett. I tillegg har vi kvalifiserte og dyktige medarbeidarar som alltid vil det beste for deg som kunde. Dette gjev oss eit unikt h\u00f8ve til \u00e5 utvikle viktige og framtidsretta kommunikasjonsl\u00f8ysingar som st\u00f8ttar dagens og morgondagens krav for \u00e5 oppretthalde eit tenestetilbod av h\u00f8g kvalitet.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.enivest.no", 
+    "universalName": "enivest-as", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Enivest AS"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Brighton Active", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightonactive.com", 
+    "universalName": "brighton-active", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "BRIGHTON ACTIVE is Brighton's number one FREE Health, Fitness & Sport magazine targeted at both men and women. Distributed across Brighton & Hove to local Leisure Centres and Health Clubs, Sports Clubs and Sports Stores, Swimming Pools, Health Food Stores, City Council Offices, Cafes, Restaurants and more. The magazine can also be viewed online. Each issue runs for 2 months providing maximum exposure and superb value for all our partners."
+   }
+  ]
+ }
+}

@@ -1,0 +1,703 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 520, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "St. John's School and College", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1886, 
+    "websiteUrl": "www.st-johns.co.uk", 
+    "universalName": "st-john's-school-and-college", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Welcome to St. John\u2019s, the home of innovative and inspirational learning. Situated in Brighton and Seaford in East Sussex, St. John\u2019s is a special educational needs (SEN) school and specialist college that provides education, residential care and medical therapy to young people aged 7 to 25.\r\n\r\nWe welcome young people who have a wide range of complex learning disabilities; including those with autism and related autistic spectrum conditions (ASC) and young people who have special needs resulting from behavioural, emotional and social difficulties (BESD)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "The best open air cafe in Brighton right in the heart of the cultural quarter.\r\nCurrently in our 73rd Anniversary serving our very many regulars with the highest standards of food and drink, quick and great customer service. The cafe has Wi-Fi for customers use.\r\n\r\n\r\n\r\nFind us on other social networks:\r\nFacebook: https://www.facebook.com/pages/Pavilion-Gardens-Cafe/322875725968\r\nTwitter: @PavGardensCafe\r\nPinterest: http://www.pinterest.com/pavgardenscafe/\r\nGoogle+: https://plus.google.com/u/0/108598499834103513985/posts\r\nYoutube: http://www.youtube.com/user/PavilionGardensCafe", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 730712"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UG", 
+        "city": "Brighton", 
+        "street1": "New Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1941, 
+    "websiteUrl": "http://www.paviliongardenscafe.co.uk/", 
+    "universalName": "pavilion-gardens-cafe", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Pavilion Gardens Cafe"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Lets Go specialises in residential lettings. Based in Rottingdean we cover the surrounding Deans areas and also cover the wider Brighton & Hove market. We manage a range of period and contemporary properties and provide a high quality service based on trust and personal recommendation. We offer sound advice on the ins-and-outs of successful renting based on our detailed knowledge and experience of the local market and of  the relevant legislation.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 236547"
+       }, 
+       "address": {
+        "postalCode": "BN2 7HE", 
+        "city": "Brighton", 
+        "street1": "59 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.letsgoproperty.co.uk/", 
+    "universalName": "lets-go-lettings-&-property-management-specialists", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lets Go Lettings & Property management specialists"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Simon Scott Landscaping is a Landscape Gardening Company. Our services include all aspects of garden construction, garden maintenance and garden design and we work in London, Brighton, Lewes, East and West Sussex. With over 13 years\u2019 experience of gardening and landscaping, we understand how to bring great ideas to life. Our clients include private individuals and garden designers. Projects range from small improvements to managing and building large scale designs.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.simonscottlandscaping.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Landscaping", 
+      "Garden Construction", 
+      "Garden Maintenance", 
+      "Garden Design"
+     ]
+    }, 
+    "universalName": "simon-scott-landscaping", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Simon Scott Landscaping"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Animated Data is a data visualisation consultancy and development house based in Brighton, UK.\r\n\r\nWe aim to bring your data to life whether for exploration, persuasion, explanation, information or pure amazement.\r\n\r\nAnimated Data is a small company formed by myself (Peter Cook) to provide data visualisation consultancy and development services to organisations. It's currently just myself and therefore you'll be guaranteed personal service and attention.\r\n\r\nSome of the services that we offer are:\r\n\r\n- data analysis and wrangling\r\n- visualisation design\r\n- visualisation prototyping\r\n- visualisation implementation", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "The Skiff"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "animateddata.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Data Visualisation"
+     ]
+    }, 
+    "universalName": "animated-data-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Animated Data"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "We are an Event/ Wedding venue decor & Chair cover hire company Covering Surrey, Sussex, Kent & London including; Horsham, Crawley, Brighton, Worthing, Tunbridge Wells, Horley, Redhill, Eastbourne, Hastings, Chichester, East Grinstead, Croydon, London, Bognor Regis, Guildford  etc. \r\n\r\nWe pride ourselves in creating stunning decor for your special events whether it be a wedding, party or corporate function.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Crawley", 
+        "street1": "0"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.happyeverafterdesigns.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Venue decoration", 
+      "Glassware hire", 
+      "Chair cover hire", 
+      "Tablecloth hire"
+     ]
+    }, 
+    "universalName": "happy-ever-after-designs", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Happy Ever After Designs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Nutrition Genie", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://emmaolliff.com/nutrition-genie-workshops/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Nutrition and Healthy Eating", 
+      "Education", 
+      "Managing Stress and Fatigue", 
+      "Anxiety and Depression", 
+      "Health Conditions"
+     ]
+    }, 
+    "universalName": "nutrition-genie", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "We are a team of Brighton based Nutritionists who provide bespoke, Nutrition and Healthy Eating workshops and courses.  \r\n\r\nThe courses run in businesses, schools and community groups.  \r\n\r\nOur workshops are fun, interactive and practical; we aim to demystify nutrition and provide practical tips for eating well and optimising health.\r\n\r\nAll workshops are tailored to meet the needs of your organisation or group."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "At The Window Store we offer a complete range of building supplies and materials including UPVC windows, doors, conservatories, guttering, fascias, soffits, cladding and much more. With a chain of conveniently located trade counters across the South of England and Wales you are never far from a Window Store. Our network of builders merchants continues to expand as does the range of plastic building products we supply.\r\n\r\nWe manufacture and supply the majority of our plastic building supplies so you are guaranteed to benefit from competitive prices and an outstanding service. With over three decades in business we know what our customers need... quality products at discounted prices, backed by a reliable and convenient service.\r\n\r\nAs part of the established Epwin Group we can offer stability and experience. Established in 1976 the Epwin Group consists of 30 companies covering various stages of the home improvement product lifestyle; from extrusion, to fabrication, trade supply and even recycling.\r\n\r\nOur network of 16 builders merchants are conveniently located across the South of the country; from Swansea to Eastbourne and everywhere in between. We cover Cheltenham, Cardiff, Bridgwater, Yeovil, Exeter, Paignton , Launceston, Truro, Plymouth, Southampton, Heston, Witney, Brighton and Aylesbury. Every branch is easily accessible via major roads, has plenty of parking, offers free local delivery... and there is always a friendly face to greet you and help you get the perfect building product for the job in hand.\r\n\r\nEach of our builders merchants provides an extensive range of plastic building supplies and materials to the trade and DIY. Everyone is welcome: builders, carpenters, roofers, window installers and even Mr Jones up the road who needs some screws to fix his guttering. Whoever you are, and whatever you need think The Window Store.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "http://www.windowstoreplastics.co.uk/", 
+    "universalName": "the-window-store", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Window Store"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 45, 
+    "description": "NCUB is working on a range of initiatives to strengthen collaboration between the UK\u2019s higher education and business sectors: from projects looking forward to 2030 and beyond, to schemes concerned with what is happening on the ground right now. \r\n\r\nOur work focuses on two broad themes. \r\n\r\nFirst, finding ways to improve the entrepreneurial and employability skills and opportunities of students in all stages of higher education in the UK. We are particularly concerned with understanding how collaboration can deliver high quality work placements that meet the needs of students and business. \r\n\r\nThrough our Talent 2030 programme we are encouraging more young women to consider careers in engineering and manufacturing. And we are exploring what the reality of a truly global jobs market means for students studying in the UK and for companies hiring graduates. \r\n\r\nA second key theme is maximising the value of the UK\u2019s strength in innovative research and development. \r\n\r\nThe Growing Value Project will continue to explore how to make the most of the nation\u2019s public research base while projects, such as London Creative and Digital Fusion and the Brighton Fuse, will pilot practical approaches to delivering productive relationships between university researchers and smaller creative, digital and IT companies.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0207 383 7667"
+       }, 
+       "address": {
+        "postalCode": "WC1H 9BY", 
+        "city": "London", 
+        "street1": "Studio 11 Tiger House,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.ncub.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Research", 
+      "Partnerships", 
+      "Strengthening collaboration between universities and businesses"
+     ]
+    }, 
+    "universalName": "the-national-centre-for-universities-and-business", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The National Centre for Universities and Business (NCUB)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Small building services consultancy consultancy based in Brighton, with a focus on low-energy and sustainable design for new build and refurbishment projects across a range of construction sectors.\r\n\r\nPast project experience ranges from high-end bespoke residential to affordable multi-resi accommodation, from award-nominated educational facilities to technical scientific laboratories, from local community centres to large residential developments and from small commercial refurbishments to large prestigious office accommodation.\r\n\r\n(b\u014d-d\u0101\u2019 sh\u04d9s) | Adj. | Impressive or remarkable; excellent.  A portmanteau of bold & audacious.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 761258"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HF", 
+        "city": "Brighton", 
+        "street1": "Top Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.bodaciousengineering.com", 
+    "specialties": {
+     "_total": 15, 
+     "values": [
+      "building services engineering", 
+      "sustainable construction consultancy", 
+      "mechanical", 
+      "electrical", 
+      "public health", 
+      "low energy design", 
+      "renewable technologies", 
+      "CHP", 
+      "Passivhaus", 
+      "BREEAM", 
+      "CAD drawing", 
+      "project management", 
+      "sustainability", 
+      "surveys", 
+      "monitoring & targeting"
+     ]
+    }, 
+    "universalName": "bodacious-engineering", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bodacious Engineering"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "BlueSky SharePoint Consulting Ltd", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.blueskysharepoint.co.uk", 
+    "universalName": "bluesky-sharepoint-consulting-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "BlueSky SharePoint has been set up to provide a 100% SharePoint focused support team. We not only provide SharePoint consultants, specialists, developers and administrators to our clients but we offer a fully backed up team with a mix of SharePoint Business Analysis, SharePoint Architecture, Configuration and Administrative support in our head office in Cambridge and support offices in Brighton, UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Brighter Futures Foster Care", 
+    "twitterId": "", 
+    "industry": "Individual & Family Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "brighterfuturesfostercare.co.uk", 
+    "universalName": "brighter-futures-foster-care", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighter Futures Foster Care Limited is an independent fostering agency. It was established in 2007 by the current  Directors, Justina Gay and Sali Walker. Our agency achieved a 'good' in our recent Ofsted inspection and operates across the South and East of England with children placed from 20 different local authorities. We currently have carers in Kent, East and West Sussex, Brighton and Hove, London, Essex, Hertfordshire, Bedfordshire, Cambridgeshire and Hampshire.\r\n The agency has low staff turnover rates, low placement breakdown rates and high satisfaction levels amongst carers and young people.\r\n\r\nOur vision is to make sure young people are happy, foster carers feel values, staff are motivated and stakeholders feel positive results have been achieved.\r\n\r\nOur mission is to provide caring and supportive placements for children and young people, which will enable them to achieve positive life outcomes."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Dentelle etc...", 
+    "twitterId": "", 
+    "industry": "Apparel & Fashion", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.dentelleetc.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Lingerie", 
+      "Loungewear"
+     ]
+    }, 
+    "universalName": "dentelle-etc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton based boutique brand of lingerie and loungewear. \r\n\r\nEvery one of our fashion led designs serves a wardrobe purpose and we take great care in combining the best quality fabrics with a perfect fit. We source our luxurious materials and trims from Europe and have everything produced in the UK.\r\n\r\nSS14 Collection - The Mystique collection fuses together all the best elements of sophistication and bohemian carefree style. While Eastern elements can be found, there is also a timeless elegance befitting the modern woman and her lingerie choices.\r\n\r\nClassics Collection - Our diverse Classics collection comprises three exquisite themes and a selection of interchangeable pieces sure to cater for every situation, outfit change and whim!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "teuscher chocolates of Beverly Hills", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "teubh.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Chocolate", 
+      "Food Service", 
+      "Gifts", 
+      "Coffee"
+     ]
+    }, 
+    "universalName": "teuscher-chocolates-of-beverly-hills", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Located at the corner of Brighton and Camden, teuscher chocolates and Caf\u00e9 has proudly been a part of the Beverly Hills community for 30 years. Our chocolates are hand-made in Zurich using family recipes, 100% all-natural ingredients and then flown directly to Los Angeles. Our popular Caf\u00e9 window offers a full selection of hand-crafted coffee drinks and locally baked goods."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "iCU Photography LLC is a professional photography studio servicing the Aurora, Brighton, and Denver areas. We offer a wide range of photographic images, from sports (TI) to in-studio portraits, product photography, weddings, senior portraits and on-location shots. Our professional and creative work reflects a long history behind the camera.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(303) 484-1462", 
+        "phone1": "(303) 284-2738"
+       }, 
+       "address": {
+        "postalCode": "80229", 
+        "city": "Denver", 
+        "street1": "7205 Gilpin Way, Suite 100"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.icu-photography.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Portrait Photography", 
+      "Weddings", 
+      "Sports Photography", 
+      "Product Photography", 
+      "Custom Products"
+     ]
+    }, 
+    "universalName": "icu-photography-llc", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "iCU Photography LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Many skin conditions that cause pain and embarrassment can be treated through innovative cosmetic procedures today. Some of the conditions addressed by Cosmetic Enhancement Center include acne and acne scarring, birthmarks and rosacea. We can also help you turn back the clock on your skin with treatments for wrinkles and age spots. Treatment options include skin resurfacing and chemical peels that breathe new life into your complexion. Other services include: laser tattoo removal, laser hair removal, body sculpting & skin tightening.\r\n\r\nMaria Atkins, D.O., co-owner and Medical Director of the Cosmetic Enhancement Center of New England, is a Board Certified Maine physician and experienced health care practitioner. Dr. Atkins holds a Bachelor of Science Degree in Biochemistry and graduated from the Chicago College of Osteopathic Medicine in 1993. After completing a Family Practice Residency at Brighton Medical Center in Portland, Maine, she turned her focus to Medical Aesthetics in 1996. She is a Fellow of the American Society of Laser Medicine and Surgery and holds numerous certifications in her field. By incorporating multi-wavelength laser technologies as well as a comprehensive range of non-invasive state of the art techniques, modalities and procedures, Dr. Atkins has made CEC the most successful and highly regarded medical aesthetic and laser practice in New England today. She is continually the leader in bringing latest technological advances in medical aesthetics to Maine. Dr. Atkins has a thoughtful and compassionate approach to caring for her patients. She always has their best interest in mind while working with them to achieve their overall goals and expectations making her the most trusted physician in Maine when it comes to medical aesthetics and why her patients remain loyal to her.", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://http://www.cecofne.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Cosmetic Enhancement", 
+      "Anti-aging Therapy", 
+      "Regenerative Medicine"
+     ]
+    }, 
+    "universalName": "cosmetic-enhancement-center-of-new-england", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Cosmetic Enhancement Center of New England"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Switch on Services", 
+    "twitterId": "", 
+    "industry": "Electrical & Electronic Manufacturing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://switch-on-services.co.uk/", 
+    "universalName": "switch-on-services", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Switch On Services provides electrical and security services to domestic, commercial and industrial clients throughout Brighton and the surrounding areas.\r\n\r\nWe undertake all aspects of electrical work including electrical design, installations and maintenance, taking into consideration your specific electrical requirements and providing a cost effective solution that is tailored to your specifications.\r\n\r\nOur electrical contractors are fully qualified, experienced and NICEIC registered."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "This is the business page for the Sarah Hurst Beauty Studio in Brighton, East Sussex. Here you can find out about the services we offer and how we can help you with your beauty needs. Whether you need an advanced skin analysis consultation for a skin condition or just need a bit of pampering, we can ensure we will find the perfect treatment tailored to your requirements.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 8GN", 
+        "city": "Brighton", 
+        "street1": "160 Carden Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "http://www.sarahhurst.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Pregnancy Massage", 
+      "Male and Female Waxing", 
+      "Electrolysis", 
+      "Environ Skincare and Facials"
+     ]
+    }, 
+    "universalName": "sarah-hurst-beauty-studio", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Sarah Hurst Beauty Studio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "CORE PHILOSOPHY\r\n\r\nWe align ourselves as a business partner with our clients, listen to and anticipate their needs, and use our technical expertise to accomplish their development and business goals.\r\n\r\nCORE RELATIONSHIPS\r\n\r\nOur relationships and reputation are built on trust, exceptional service and integrity. To our clients, we are more than professionals. We are trusted business partners. \r\n\r\nCORE VALUES\r\n\r\nPassions: Creating Exceptional Places and Communities, Exceptional Client Service, Integrity, Collaboration, Teamwork, Efficiency, Value, Sustainability.\r\n\r\nCORE CULTURE\r\n\r\nDefining the culture at CORE is simple:  Work hard, play hard, learn and challenge ourselves every day. Most of all have fun!\r\n\r\nCORE EXPERIENCE\r\n\r\nSignificant Clients:  Alpert Companies, Castle Rock Development Company, BMC Investments, Starwood Land, Realty Management Group (Sturm), Shea Properties, Taylor Morrison Homes, Richmond Homes, Ryland Homes, Tri Pointe Homes, Oakwood Homes, Imagine Infill\r\n\r\nTeam Experience:\r\n\r\nResidential/Master Planned Communities:\r\nThe Canyons, City of Castle Pines/Douglas County\r\nCanyons South, Douglas County\r\nCastle Pines Village, Douglas County\r\nCastle Pines North, Douglas County\r\nThe Meadows, Castle Rock, CO\r\nTerrain - (Castle Oaks), Castle Rock, CO\r\nHighlands Ranch, Douglas County\r\nGreen Valley Ranch, Denver, CO\r\nGranby Ranch, Granby, CO\r\nFounders Village, Castle Rock, CO\r\nMeridian Village, Douglas County\r\nThe Pinery, Douglas County\r\nThe Parklands, Aurora\r\nKings Point, Aurora\r\nSustainability Consulting Terrapin Bright Green\r\n\r\nMixed Use-Multifamily-Commercial-Retail:\r\nSteele Creek, Cherry Creek, Denver, CO\r\nFramework at Sloans Lake, Denver, CO\r\nLumina- Highlands, Denver\r\nCanyons Village Marketplace\r\nThe Meadows Town Center\r\nCastle Meadows\r\nVarious Kohls, Home Depot, Walgreens Locations\r\n\r\nPower and Energy:\r\nNextEra Limon I & II Limon, CO\r\nVestas Nacelles, Brighton, CO\r\nVestas Blades, Windsor, CO\r\nVestas Towers, Pueblo, CO", 
+    "twitterId": "", 
+    "industry": "Civil Engineering", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "80120", 
+        "city": "Littleton", 
+        "street1": "1950 W. Littleton Blvd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.coreconsultantsco.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Development Strategy", 
+      "Civil Engineering", 
+      "Land Surveying"
+     ]
+    }, 
+    "universalName": "core-consultants-inc-", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "CORE Consultants, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Assist-2-Sell Smart Choice Realty", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.wesellmetrodenver.com/", 
+    "universalName": "assist-2-sell-smart-choice-realty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Assist-2-Sell provides informed, professional, FULL SERVICE, DISCOUNT REAL ESTATE services, including short sales and bank owned (REO) properties, to buyers and sellers in the Denver Metro area, including Thornton, Denver, Lowry, Aurora, Northglenn, Brighton, Broomfield, Westminster, Arvada, Stapleton & Commerce City.\r\n\r\nWe represent BUYERS for FREE.\r\nNever buy a home without using a REALTOR"
+   }
+  ]
+ }
+}

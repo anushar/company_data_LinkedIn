@@ -1,0 +1,798 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1360, 
+  "values": [
+   {
+    "numFollowers": 12, 
+    "name": "Bright Property Solutions", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "RH11 7AF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightpropertysolutions.net", 
+    "universalName": "bright-property-solutions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Bright Property Solutions are specialist plasterers with many years experience in the industry. We provide a wide range of plastering services in Brighton, Crawley and the surrounding areas.\r\nBright Property Solutions professional and reliable team of plasterers pride themselves on high standards of workmanship and are very confident that we will be able to meet your requirements. All our work guaranteed and we are we are fully insured."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Hanover Digital specialises in website programming, production and consultancy.\r\n\r\nWebsite production - From a single page to large scale, fully content managed websites. Expert knowledge and experience of developing bespoke content management systems using Wordpress.\r\n\r\nSocial Media - HD will keep you up to date with all of the emerging and continually evolving trends.\r\n\r\nEmail marketing - Expertise and deep experience in this still crucial area of business.\r\n\r\nBased in Brighton (UK) with a broad range of clients across the south east of England.", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9ST"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.hanoverdigital.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Content Management", 
+      "Websites", 
+      "Web Apps"
+     ]
+    }, 
+    "universalName": "hanover-digital-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Hanover Digital Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 128, 
+    "description": "Number 8 Group is a Construction and Recruitment company that focuses on the supply of trades & labour as well as white collar contractors to the construction & property, civil engineering and infrastructure industries. \r\n\r\n\"We have a wealth of experience working within construction recruitment and indeed working in the sector itself. Together with our unique Number 8, core principles, we believe that service is everything\".\r\n\r\nZinzan Brooke, CEO - Number 8 Group.\r\n\r\nOur core divisions provide our clients with a one stop shop - Trades & Labour, demolition, freelance management/commercial staff, search & selection and package works. We have also recently opened in Brighton to cover the South Coast and also New Zealand to provide staff for the Christchurch earthquake rebuild.\r\n\r\nOur newest division, Number 8 Demolition, has been set up to deliver a much needed specialist service to the sector UK wide. We're aiming to become the market leader by the end of 2013, providing temporary labour that's as good as your directly employed operatives. \r\n\r\nIf you are looking for work, either contact us at the email address below or register your CV on: http://www.number8group.co.uk \r\n\r\nTrevor Mills - Managing Director\r\ntrevor.mills@number8group.co.uk", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0208 747 2166", 
+        "phone1": "0208 747 2161"
+       }, 
+       "address": {
+        "postalCode": "W4 5PY", 
+        "city": "London", 
+        "street1": "2nd floor, 107 Power Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Christchurch", 
+        "street1": "2nd Floor, 306 Port Hills Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.number8group.co.uk", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "Recruitment", 
+      "Trades & Labour", 
+      "Construction", 
+      "White Collar", 
+      "Engineering", 
+      "Infrastructure", 
+      "Rail", 
+      "Housing", 
+      "Package Works", 
+      "Overseas", 
+      "New Zealand", 
+      "Freelance", 
+      "Search & Selection", 
+      "rebuild", 
+      "Christchurch", 
+      "construction jobs"
+     ]
+    }, 
+    "universalName": "number8group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Number 8 Group"
+   }, 
+   {
+    "numFollowers": 13, 
+    "name": "Holistic Treats", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.holistic-treats.com", 
+    "universalName": "holistic-treats", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Holistic Treats provides holistic, massage and beauty services in Brighton.\r\n\r\nTreatments are; reflexology, reiki, Swedish massage, aromatherapy massage, hot stone massage, Indian head m assage, natural lift facial massage, Eve Taylor facials, Spa Ritual manicures and pedicures and waxing."
+   }, 
+   {
+    "numFollowers": 8, 
+    "name": "Jane Henderson, Visual Artist", 
+    "industry": "Fine Art", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN7 2RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.janehenderson.org.uk", 
+    "universalName": "jane-henderson-visual-artist", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I make contemporary sculpture and installation. I work extensively with gallery education projects, particularly at Towner,Eastbourne. I am also visiting lecturer in Fine Art at South Coast College, Hastings. I am currently involved in an artist residency at an Infant and Nursery school in Brighton. I am consultant artist on and Arts Council funded project with Lucid Incident theatre group, for whom I am designing a series of sets for 'The Box Project', which is at research and development stage. During 2010 I am developing a curatorial project 'Honey Fisher Presents' in collaboration with a number of other artists"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "name": "The Sussex Beacon", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273694222"
+       }, 
+       "address": {
+        "postalCode": "BN2 4DE", 
+        "city": "Brighton", 
+        "street1": "Bevendean Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.sussexbeacon.org.uk", 
+    "universalName": "sussex-beacon", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The Sussex Beacon is a specialist care centre for men, women and families affected by HIV. We are based in Brighton, Sussex and have a ten bed Inpatient Unit as well as Health Management Services including, Anxiety Management, Sleep Service, Day Service and Women & Families Service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Sussex Sport Photography is a leading UK race and event photography company taking pictures of competitors for competitors. \r\n\r\nDelivering a fast and efficient service for competitors and event organisers, race galleries are hosted online quickly after the competiton for easy browsing and ordering using event numbers to find their photos. \r\n\r\nEvent organisers can choose to sponsor coverage and enable all competitors to benefit from free downloads of them taking part in the action. With added event branding and logos these can serve to improve and deliver even better value for competitors and lasting memories of the event and ongoing promotion long after the race has finished.\r\n\r\nSussex Sport Photography is a brandname of UK Sport Photo Ltd\r\nRegistered Office: 100 Church St., Brighton, East Sussex, England, BN1 1UJ\r\nRegistered in England Company No. 07940115\r\n \r\nVAT No. GB 129 6322 11", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "bn6", 
+        "city": "Hurstpierpoint", 
+        "street1": "Pine Tree Close"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.sussexsportphotography.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "sport photography", 
+      "marketing", 
+      "promotion", 
+      "consulting"
+     ]
+    }, 
+    "universalName": "sussex-sport-photography", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Sussex Sport Photography"
+   }, 
+   {
+    "numFollowers": 14, 
+    "name": "iPlumb.it", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN44 3HS"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.iplumb.it", 
+    "universalName": "iplumb.it", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "iPlumb.it is a small independently owned and operated plumbing and heating company. We pride ourselves on our professional standards, quality of workmanship and exceptional levels of customer service. Covering all of the major towns and cities across Sussex including  Brighton, Worthing and Haywards Heath.\r\niPlumb.it offers professional plumbing and heating solutions from design to completion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "We are a small and friendly school based in the centre of Brighton, England. We currently run English language courses including general English, Cambridge exam preparation and some English for specific purposes courses such as medical English. If you are an Education agent looking for a school to send students to, get in touch.", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 1ej"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.kingsburysoe.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "General English", 
+      "Business English", 
+      "IELTS", 
+      "ESP courses", 
+      "medical English"
+     ]
+    }, 
+    "universalName": "kingsbury-school-of-english", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Kingsbury School of English"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "I am a freelance Web Developer based near Brighton and Lewes in East Sussex, England.\r\n\r\nI am a highly-skilled Front-end developer with seven years' professional experience of client-side and server-side coding, interface design and emarketing, working in both agency and internal web teams.", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN10"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://barrybloye.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "web development"
+     ]
+    }, 
+    "universalName": "barry-bloye", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Barry Bloye"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Shenanigen Films is a post production company based in London and Brighton specialising in film trailers and promotions. What separates us from the rest is we can create high quality trailers to support any budget with our three tier trailer system. Each Trailer is broken into three different tiers based on the complex elements used in trailer based on price, music, and text.", 
+    "twitterId": "", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 2PH", 
+        "city": "Brighton", 
+        "street1": "Fourth Ave"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 2PH", 
+        "city": "Brighton", 
+        "street1": "Fourth Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.shenanigenfilms.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Film Trailers", 
+      "Final Cut Pro", 
+      "Avid Media Composer", 
+      "Adobe Premiere Pro"
+     ]
+    }, 
+    "universalName": "shenanigen-films-and-multimedia", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Shenanigen Films and Multimedia"
+   }, 
+   {
+    "numFollowers": 39, 
+    "name": "ANDREW JONES ASSOCIATES", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "SM5 3LL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.andrewjonesassociates.com", 
+    "universalName": "andrew-jones-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Private Architect Practice specialising in stylish residential and commercial office & restaurant refurbishment for developers and domestic clients ranging from Grade Listed properties to extensively fire damapaged properties. New one off new build designer houses are also on portfolio. The practice is based in the London Borough of Sutton and covers Central, West and South London and as far a field as Oxford, Cotswolds,Guildford, Chichester and Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Specialists in the treatment of RSI Repetitive Strain Injuries, WRULD and carpal tunnel syndrome.  We train established practitioners in clinical massage to treat the causes of repetitive strain injuries.\r\n\r\nClinics in London, Edinburgh, Brighton and Oxford.", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "OX1", 
+        "city": "Oxford"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "EH12", 
+        "city": "Edinburgh"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3", 
+        "city": "Brighton"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "W1", 
+        "city": "London"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.rsiclinics.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Treatment of RSI", 
+      "WRULD", 
+      "carpal tunnel syndrome"
+     ]
+    }, 
+    "universalName": "rsi-clinics-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "RSI Clinics Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Marco Betti gained a BA honours in Photography and Film from the University of Westminster in 1994. He lives and works as a freelance photographer in Brighton England, and has traveled the developing world on photographic assignments for corporate clients, development agencies and charities. His work has been published in The Sunday Times, The Daily Telegraph, The Guardian, The British Journal of Photography and House and Garden among other publications nationally and internationally.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 6EP", 
+        "city": "Brighton", 
+        "street1": "3 Semley Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.marcobettiphotography.co.uk", 
+    "universalName": "marco-betti-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Marco Betti Photography"
+   }, 
+   {
+    "numFollowers": 21, 
+    "name": "Direct Employment", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN6 9GB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.direct-employment.co.uk", 
+    "universalName": "direct-employment", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Recruitment Specialists with comprehensive job listings available in Brighton and Hove, and surrounding areas to include Mid Sussex, Ditchling, Hassocks, Hurstpierpoint, Henfield, Burgess Hill and Haywards Heath. Candidate and Employer registration."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "We have the best apartments that Boston has to offer. If you are looking for an apartment in Boston or in the surrounding Boston area, we have the highest quality selection of apartment rentals available in all of Boston's historic neighborhoods. We feature apartments in Back Bay, Beacon Hill, the North End, the South End, Brighton, Allston, Brookline, Cambridge, South Boston, Somerville, and more!\r\n\r\nWe specialize in Boston apartment rentals, and we the best that Boston has to offer. We are centrally located on Newbury Street, in the heart of Back Bay, and we are open seven days a week for your convenience.\r\n\r\nHere at Newman & Company, we understand that everybody has different objectives when searching for an apartment in Boston. We feature all kinds of apartments from a cozy studio to a classic brownstone, and our professional staff aims to achieve optimal results for each client. You can turn to us for your Boston real estate needs!", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "http://www.newmanandcompany.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "apartment rentals", 
+      "property management"
+     ]
+    }, 
+    "universalName": "newman-and-company", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Newman and Company"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Geeks 2 Go - Mobile Computer Services", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3165"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.geeks2go.com.au", 
+    "universalName": "geeks-2-go---mobile-computer-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Geeks 2 Go offers quality onsite computer repairs and services throughout all areas of Melbourne. Our local suburbs include Bentleigh, Bentleigh East, Moorabbin, Oakleigh, Brighton, Ormond, Caulfield, Caulfield South, Caulfield East, St. Kilda and Malvern\r\n\r\nThe advantage is that we provide our services in your own Home or Office - instead of having to disconnect your system and delivering it to a computer repair store - We come to you!\r\nYou can ask questions and see exactly what we are doing, no need to unplug and move your computer system which could cause additional problems and finally the ability to thoroughly test your system and other devices before we leave your home."
+   }, 
+   {
+    "numFollowers": 13, 
+    "name": "The Green Man & Van", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "N1 3DJ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.greenmanandvan.co.uk", 
+    "universalName": "the-green-man-&-van", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "The Green Man & Van is an environmentally aware and socially responsible removal and logistics company based in London and Brighton. Our aim is to offer friendly and reliable services that have minimal impact on the environment.\r\n\r\nOur vehicles are modern, clean, and fully insured. They are fuelled with locally sourced biodiesel, made from recycled waste cooking oil. This means that the amount of additional CO2 and other harmful pollutants pumped into the atmosphere is greatly reduced. Our carbon neutral service is available for both residential customers and commercial or charitable/community organisations.\r\n\r\nWe have simple and very competitive rates, so doing your bit for the environment won't cost the earth. We are also proud to offer reduced tariff to any organisations that also help the environment and the wider community such as charities, Not-For-Profit organisations and eco-businesses."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Arthur Guy is a freelance website developer based in Brighton in the South East of England; he designs and builds accessible, content driven websites which are search engine friendly.\r\n\r\nArthur Guy primarily works on content management systems and other behind the scenes elements, but he also enjoy developing interfaces and other user interaction elements.", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1", 
+        "city": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://ArthurGuy.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Development", 
+      "Websites", 
+      "Code", 
+      "Programming"
+     ]
+    }, 
+    "universalName": "arthurguy.co.uk", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "ArthurGuy.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "name": "Lindsay Exhibit Group, Inc.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "248.446.0600", 
+        "phone1": "877.885.7117"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "7060 Kensington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.lindsayexhibits.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Graphics", 
+      "Marketing", 
+      "Trade Show Logisitcs", 
+      "Event Marketing", 
+      "Design", 
+      "Customer Service", 
+      "Creative Collaboration"
+     ]
+    }, 
+    "universalName": "lindsay-exhibit-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Lindsay Exhibit Group, Inc. is a creative exhibit house. We design and fabricate beautiful exhibits, help clients achieve their marketing objectives, and manage all of the logistics along the way. With our approachable and intimate staff, we'll walk you through every step to ensure a smooth and successful show!\r\n\r\nTo see our latest work, visit our site- www.lindsayexhibits.com or stop in and visit our showroom. Our door is always open!\r\n\r\nLocated in Brighton, MI - 7060 Kensington Rd.\r\nPhone: 248.446.0600\r\nToll Free: 877.885.7117\r\nFax: 248.446.0606"
+   }
+  ]
+ }
+}

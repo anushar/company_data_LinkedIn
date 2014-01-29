@@ -1,0 +1,834 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1120, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Based in Burton-upon-Trent, but also working with clients in London, Brighton, Dundee and the Isle of Man.\r\n\r\nI specialise in producing accessible websites using the latest industry standards. This means they are usable by the maximum number of visitors as well as highly visible to search engines.\r\n\r\nI also build the website infrastructure which often includes my own purpose-built content management system or 'off the shelf' system such as Wordpress.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://feeds.feedburner.com/wrendevelopmentblog", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 906016"
+       }, 
+       "address": {
+        "postalCode": "DE14 3LJ", 
+        "city": "Burton-on-Trent", 
+        "street1": "10 Thrift Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://wrendevelopment.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "PHP", 
+      "MySQL", 
+      "Wordpress", 
+      "HTML"
+     ]
+    }, 
+    "universalName": "wren-development", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Wren Development"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Based in Worthing, West Sussex.\r\n\r\nSugamamas delicious cakes are made from the finest ingredients and decorated by hand with a variety of sprinkles, frostings and handmade decorations. I only use free range eggs, real butter and the finest ingredients to ensure our cakes taste as good as they look.\r\n\r\nAll cakes are made to order to guarantee freshness.\r\n\r\nI will happily deliver free within 10 miles from Worthing after this a small charge per mile will be charged.\r\n\r\nI can deliver to Littlehampton, Worthing, Chichester, Arundel, Shoreham by Sea, Lancing & Brighton & Hove, and most of West Sussex / East Sussex.\r\n\r\nOur kitchen is registered with the Worthing Borough Council Environmental Health department.", 
+    "twitterId": "@sugamamascakes", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.sugamamascupcakes.co.uk", 
+    "universalName": "sugamamas-cupcakes", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Sugamamas Cupcakes"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "We are Chartered Civil and Structural Engineers in Steyning, Nr Brighton, Sussex, with a satellite office in Chichester, Guernsey and Istanbul working on commercial, residential, light industrial, educational and healthcare projects nationwide from Scotland to the Channel Islands, but predominantly in London and the south of England. A modern company, fresh ideas, a professional client focused approach to Civil and Structural Engineering.", 
+    "twitterId": "mccareysimmonds", 
+    "blogRssUrl": "http://www.mccareysimmonds.co.uk/index.php/feed/", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 808820"
+       }, 
+       "address": {
+        "postalCode": "BN44 3RD", 
+        "city": "Steyning", 
+        "street1": "Design Studio"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01243 888189"
+       }, 
+       "address": {
+        "postalCode": "PO20 3TF", 
+        "city": "Aldingbourne", 
+        "street1": "Keyston"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01481 258244"
+       }, 
+       "address": {
+        "postalCode": "GY5 7FJ", 
+        "city": "Castel", 
+        "street1": "2 Les Courtillet Cottages"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "+90 (0)541 906 0219"
+       }, 
+       "address": {
+        "city": "Istanbul", 
+        "street1": "6 Ayaspa\u015fa Cami Sokak"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mccareysimmonds.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Structural Engineering", 
+      "Civil Engineering", 
+      "Surveying", 
+      "Architectural Design"
+     ]
+    }, 
+    "universalName": "mccarey-simmonds", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "McCarey Simmonds"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "MAKEchocolates provide hands on truffle-making experiences for hen dos, corporate events and gift experiences. We operate in four major cities across the UK: London, Brighton, Birmingham and Manchester.\r\n\r\n'The most chocolatey expereience you'll ever have' -Vogue", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.make-chocolates.co.uk", 
+    "universalName": "makechocolates", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "MAKEchocolates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Sloth\r\n\r\nFounded in January 2010 in Brighton, UK this is a brand currently in its infancy. Primarily a graphic led casual brand with the ability and desire to create unique bespoke printed products. Living up to its name, the Sloth brand lives in its own world, ignoring trends and seasons. The decision not to push the brand with big bucks is allowing Sloth to grow organically and to find its own feet. With experienced designers behind the scenes you can expect this little lazy brand to hang around whilst the world passes on by.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 806947"
+       }, 
+       "address": {
+        "postalCode": "BN3 7GA", 
+        "city": "Brighton and Hove", 
+        "street1": "89a Boundary Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.slothclothing.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Bespoke Printing Services", 
+      "Printed T-Shirts", 
+      "Printed Hoodys", 
+      "Unique Designs"
+     ]
+    }, 
+    "universalName": "sloth", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Sloth"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Manoho is an integrated independent production and sales company of high quality feature film, television, and multi-media properties.\r\n\r\nWe have two departments; Film and Software, each with its own dedicated team who work from our head office based in Brighton, UK.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Motion Pictures & Film", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.manoho.com", 
+    "universalName": "manoho-productions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Manoho Productions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Award winning freelance and commissioned photography for PR, event, social, documentary and editorial.\r\nFine Art prints. \r\nPublished and commissioned work includes that for The Observer, The Photographer, The Photographic Journal, The British Journal of Photography, Womens Art Magazine, Wiley books, Brighton Visitor Magazine.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.ijulesfineart.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "PR photography", 
+      "Social photography", 
+      "Event Photography", 
+      "Editorial Photography"
+     ]
+    }, 
+    "universalName": "julia-claxton-photography", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Julia Claxton Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "We are a full service landscape materials supply company serving Colorado's Front Range.  We offer a complete line of rock, soils, mulches, flagstone, building stone, pavers, wallblock, boulders, moss rock and other landscape materials both to homeoeners and commercial clients.  No job is too big or too small!  \r\n\r\nOur yard in Brighton, just North of the Denver Metro area, is competely paved and allows us the opportunity to provide the cleanest possible materials to our clients.  You will find no dirt or trash in our materials which seperates us form our competition.  You will also find the highest and friendliest levels of customer service in the industry!\r\n\r\nWe have a high tech, high speed delivery system as well that allows us to place your materials upon delivery at a convenient and low-cost to you.  The process uses a series of conveyor belts\r\n\r\nWe invite you to \"Experience the Difference\" when shopping for your landscape material supplier.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Building Materials", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.hsabedrock.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Landscaping Materials Supply", 
+      "Pavestone Pavers & Wallblock", 
+      "Aggregate Sales & Delivery", 
+      "Allan Block Pavers & Wallblock"
+     ]
+    }, 
+    "universalName": "hsa-bedrock-llc", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "HSA Bedrock LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 208, 
+    "description": "The Tour Company is a leading entertainment and media industry travel agency.\r\n\r\nWe have over thirty years experience in booking hotels and flights etc. for live touring productions.\r\n\r\nOur head office is in Glasgow, with agents also operating out of Brighton and Bournemouth.\r\n\r\nOur skilled team work daily with artist, tour, and production managers.\r\n\r\nThe Tour Company prides itself on the quality of service and the attention that is given to all our clients no matter what the level of business. The company has employed the same \u2018core\u2019 staff for several years meaning that we are all familiar with each others clients and are able to help if \u201cinstant gratification\u201d is needed and your agent isn\u2019t available.", 
+    "twitterId": "theTourCompany", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+ 44 (0) 141 353 8800"
+       }, 
+       "address": {
+        "postalCode": "G4 9XA", 
+        "city": "Glasgow", 
+        "street1": "5 Eagle Street, 1st floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.thetourcompany.co.uk", 
+    "universalName": "the-tour-company", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Tour Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 156, 
+    "description": "zero G media is a London & Brighton digital media agency delivering stunning visual design, fresh online branding, inspiring copywriting, accessible open source content management, engaging social media, email marketing and intelligent SEO. We also offer 100% wind powered hosting, only ever travel by bicycle or public transport and recycle all our waste. \r\n\r\nWe enjoy the challenge of creating community driven websites and helping businesses make the best use of web and social media. We like to think outside the box and are not afraid to turn things upside down to get a new perspective, while maintaining attention to detail. \r\n\r\nClients include: Force 1 Management, East Sussex County Council, The Institute of Development Studies at the University of Sussex, Grovelands Resourcing, DFGdocs. \r\n\r\nGuy Anderson, Creative Director, has a background in advertising and has been designing websites since 1997. He is a yoga practitioner with interests in illustration and photography who enjoys working with people who value good design and want to make a difference.", 
+    "twitterId": "zerogmedia", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07971 558 067"
+       }, 
+       "address": {
+        "postalCode": "EC2M 5UX", 
+        "city": "City of London", 
+        "street1": "2 London Wall"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651 571"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YR", 
+        "city": "Brighton", 
+        "street1": "Towerpoint, 5th Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.zerogmedia.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "digital marketing strategy", 
+      "social media marketing", 
+      "branding", 
+      "web design", 
+      "email marketing", 
+      "SEO", 
+      "content strategy", 
+      "digital media workshops"
+     ]
+    }, 
+    "universalName": "zero-g-media-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "zero G media Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Antlab are a web development company based in Brighton, UK. We create websites for businesses and organisations of all sizes. No job is too big or small. We pride ourselves on our excellence in all areas of web technologies.\r\n\r\nWe understand that getting a website that does what you need and fits inside your budget is never easy. This is why we aim to make your experience as simple and affordable as possible. We\u2019ll make everything easy to understand and explain all your options simply.", 
+    "twitterId": "antlab_uk", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.antlab.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "PHP Development", 
+      "Web Development", 
+      "Social Media", 
+      "Web Hosting"
+     ]
+    }, 
+    "universalName": "antlab", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Antlab"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "description": "We are a Building Controls Specialist Company, We deal with the on going Planned Preventative Maintenance (PPM) of approximatley 100 buildings from Birmingham to Brighton with the majority of our portfolio residing within London and the Greater London area.\r\n\r\nWe also carry out Building Controls Projects, both within our portfolio of buildings and for new clients. These projects can range from a half a days labour all the way to a complete design and build with the same attention to detail and high level of paper work and support deliverd for all sizes of project.\r\n\r\nWe pride ourselves on a reactive, friendly and effective approach to all of the calls we receive, treating our customers with the respect and responses that they need and deserve.", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01268 777475"
+       }, 
+       "address": {
+        "postalCode": "SS6 7HH", 
+        "city": "Rayleigh", 
+        "street1": "Suit 40, Philpot House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0208 407 2599"
+       }, 
+       "address": {
+        "postalCode": "CR0 1AE", 
+        "city": "Croydon", 
+        "street1": "Tanfield House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.s5controls.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Trend Control Systems", 
+      "Centraline Control Systems", 
+      "Honeywell Control Systems", 
+      "Tridium Control Systems"
+     ]
+    }, 
+    "universalName": "system-five-trident-service-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "System Five (Trident) Service Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "WELCOME to Chilson Hills Church--where real human beings live by the example of Christ. Located in southeast Michigan, near the towns of Brighton and Howell, we're open, honest with who we are and who we hope to be, and we live by four core values: \r\n\r\n\u2022 Living Meaningfully \r\n\u2022 Learning Continually \r\n\u2022 Loving Unconditionally and \r\n\u2022 Leaving a Legacy of Hope.\r\n\r\nWe're fully alive, fully forgiven, and fully responsible to know and love God! \r\nWhen you visit Chilson Hills:\r\n\r\n\u2022 Wear old jeans or Sunday best\r\n\u2022 Sing an old hymn or hear something new\r\n\u2022 Trust tradition or question everything\r\n\u2022 Clap and stand tall or sit silently in your seat!\r\n\r\nEmpowered at the local level, we connect with American Baptist Churches, headquartered in Valley Forge, PA. We simply want to learn from Christ and we're happy you're visiting online today!", 
+    "twitterId": "", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "48843", 
+        "city": "Howell", 
+        "street1": "4440 Brighton Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(810) 227-9614", 
+        "phone1": "(810) 227-9596"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "PO Box 431"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1975, 
+    "websiteUrl": "www.chilsonhills.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Emotional and intellectual healing", 
+      "seeing the Bible as a historical narrative in its entirety", 
+      "promoting peace", 
+      "team building"
+     ]
+    }, 
+    "universalName": "chilson-hills-church", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Chilson Hills Church"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Bionic Media is a digital design and build agency specialising in feature rich websites and interactive applications.\r\n\r\nWe\u2019ve been down in Brighton creating and building award winning pieces of work since 2000. We work on interactive solutions for the television industry, from production to distribution companies and we are also active in many other sectors across Blue Chip, Financial and the Media.", 
+    "twitterId": "@BionicMedia", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 699866"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EU", 
+        "city": "Brighton", 
+        "street1": "Old Chapel of Rest"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.bionicmedia.co.uk", 
+    "universalName": "bionic-media", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bionic Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Overninethousand is a Web Design agency based in Brighton, UK, owned and run by Chris Finch, Web Developer and Entrepreneur.\r\n\r\nWe specialise in bespoke development of web sites and web application UI solutions and use an array of cutting edge techniques.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07807006645"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Central Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.overninethousand.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Frontend Web Development", 
+      "User Interface Engineering", 
+      "HTML, CSS, Javascript", 
+      "Rails, Wordpress, Ruby, PHP, Backbone.js, node.js, CMS."
+     ]
+    }, 
+    "universalName": "overninethousand", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Overninethousand"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "For close on 20 years I have been buying, renovating, renting and managing property in what is now the city of Brighton & Hove. From the first flat purchased in 1991 for \u00a325,000 the portfolio has grown over the years as and when suitable investments/projects presented themselves. What started out as a single long term capital growth investment and well before \u201cbuy to let\u201d came to be fashionable, there is now a complete 01 Property Group which encompasses its own dedicated 01 Property Letting, 01 Property Maintenance and now an 01 Property Investment business. \r\n\r\n01 Property Investment Ltd was established in 2009 as a way of allowing others to share the capital growth and/or monthly income opportunities from bricks and mortar investment but without the hassle and worry. \r\n\r\nGetting a healthy return on your hard earned cash is not without its risks and generally the higher the return the higher the risk. Each and every one of us has to make our choices and decisions, but if you believe (as I do) that over the long run that sensible investment in property will provide that healthy return \u2013 come and join us.\r\n\r\nTwo products are currently available depending on your investment appetite:\r\n\r\nInvestment Loan - a guaranteed monthly paid high return on your money.  \r\n\r\nManaged Buy-to-Let \u2013 a full managed service with monthly income from day one and medium term capital growth (not guaranteed).", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.01propertyinvestment.co.uk", 
+    "universalName": "01-property-investment-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "01 Property Investment Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Scramboo is a pioneering mobile agency specialising in using technology to create engaging context and & location relevant experiences at the point where real and digital worlds collide \u2013 the mobile device. We work for brands, agencies, visitor attractions and events companies. We were founded in 2010 by three creative technologists, who have decades of experience working in mobile. We are located in the creative & digital hubs of East London & Brighton.\r\n\r\n\r\n\"Scramboo\"  is the trading name of Maha Ventures Ltd.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 6AH", 
+        "city": "Brighton & Hove", 
+        "street1": "The Dock"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.scramboo.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Location-based mobile experiences & games", 
+      "Mobile-centric user engagement", 
+      "Augmented Reality interactions"
+     ]
+    }, 
+    "universalName": "maha-ventures-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Scramboo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "NetInitiative is an agency of talented designers, web developers, social media addicts, internet marketing and SEO experts in Brighton, Reading and Manchester, with the skills to make your business succeed on the web.\r\n\r\nNetInitiative is a full service web agency providing services for all aspects of the Internet and business beyond. The team has wide ranging experience in design, marketing, technical development, SEO, social media and business management.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.bigbluesea.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "web design", 
+      "web development", 
+      "seo", 
+      "search marketing"
+     ]
+    }, 
+    "universalName": "netinitiative", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "NetInitiative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Tech Eccentric is a technical services & hardware/software delivery company focusing on the small to medium size businesses in the greater Melbourne area.\r\nSince our inception our customer base has grown rapidly with such companies like Nutrient Water, Health Scope, McDonald Murholme Barristers and Solicitors, Brighton Bay Apartments & Lipari Fruit using our services just to name a few.  Regardless of what industry your business may be in, if you rely on technology to successfully run your business day to day then TechEccentric has services & solutions that may meet your needs.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.techEccentric.com.au", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Netowrk Support/consulting", 
+      "Software Developement", 
+      "Web Developement"
+     ]
+    }, 
+    "universalName": "tech-eccentric-australia-pty-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tech Eccentric Australia Pty Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "For over a decade, Pure Solutions has been creating and managing refreshing events that inspire, engage and acheive our client's objectives. From festivals to fashion shows, conferences to concerts, we make events work.\r\n\r\nWorking from our offices in the North Laines in Brighton and next to Borough Market in London, we specialise in making your event idea a reality. Operating throughout the UK and Europe, we work with a wide range of different organisations.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 329000", 
+        "phone1": "01273 823333"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "33 Bond Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SE1 9DG", 
+        "city": "London", 
+        "street1": "Clink Street Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.pure-solutions.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Event Management", 
+      "Technical Production", 
+      "Project Management", 
+      "Site Management", 
+      "Conference Management"
+     ]
+    }, 
+    "universalName": "pure-solutions-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Pure Solutions Ltd"
+   }
+  ]
+ }
+}

@@ -1,0 +1,882 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 760, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Make It So Production Realisation is a Theatre Arts and Events Company supplying Production Expertise in Live and Recorded Production, Events and Exhibitions.\r\n\r\nA selection of the British Arts Companies our team has been involved with include; The Anvil Arts Trust in Basingstoke, Theatreworks Company in Malvern, The Connaught Theatre in Worthing and The Bath Festival in Somerset. We have also worked alongside other companies such as MCCGLC Design and Exhibitions, Parexel Medical Marketing and Brighton & Hove Museums and Education.\r\n\r\nOur team has also worked overseas at Stage Door Manor in New York, Trafalgar Studios on Tour in New York and The Great Entertainment Company in Dubai. Most recently we have worked with global organisations such a Pfizer Inc., Bayer Healthcare and Baxter.\r\n\r\nWe can produce large scale Productions incorporating your own artists and staff or provide the entire artistic service.\r\n\r\nWe can provide your entire audience with Workshops, Master Classes and Tutorials.\r\n\r\nDescribe your dream show - let us \u2018Make It So!\u2019", 
+    "twitterId": "", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (7796) 407670"
+       }, 
+       "address": {
+        "postalCode": "BN2 1TS", 
+        "city": "Brighton", 
+        "street1": "Concorde House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "makeitso.gb.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Theatre Production", 
+      "Direction", 
+      "Lighting", 
+      "Wardrobe", 
+      "Drama Teaching", 
+      "Voice Coaching", 
+      "Singing Lessons", 
+      "Presentations"
+     ]
+    }, 
+    "universalName": "make-it-so", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Make It So"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Really Nice Gardens", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.reallynicegardens.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Design Consultation", 
+      "Planting Service", 
+      "Garden Styling", 
+      "On-going advice and maintenance"
+     ]
+    }, 
+    "universalName": "really-nice-gardens", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We are Really Nice Gardens; a collaboration between two garden designers Sam and Cathy.  We met while studying at the world renowned English Gardening School at the Chelsea Physic Garden, where we both graduated with distinctions. \r\n\r\nWe share a client focused approach to creative development and customer service. Beyond that we are very different  \u2013 which we think is a good thing in a creative business. What we both have though, is a love of really nice gardens and a belief that if you are lucky enough to have an outdoor space to enjoy, you should really make the most of it.\r\n\r\nBased in London and Brighton, we work across the South East on anything from border design to full landscape design and everything in between."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "The Mac Man offers technical support for all things Apple. Maybe you're having trouble with your Mac, or setting up a wireless network, or need to transfer information from your old machine to your new machine, or have a broken iPhone? Call 08000 337 347 for free advice and support.\r\n\r\nThe company, which has retail stores in both Brighton and Tunbridge Wells, was established in 2005 and has many years combined experience providing technical support to clients throughout Sussex & Kent.\r\n\r\nWith personal and friendly staff, the company also provides a professional Apple Mac training local people and businesses in Sussex & Kent. Our training services are tailored to your personal needs, allowing clients to get training on the subjects that interest them, saving them money and time.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01892 300999"
+       }, 
+       "address": {
+        "postalCode": "TN2 5TE", 
+        "city": "Tunbridge Wells", 
+        "street1": "The Corn Exchange"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 9UZ", 
+        "city": "Brighton", 
+        "street1": "46 Quebec Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.themac-man.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Apple Mac Repairs & Upgrades", 
+      "Apple Mac Sales", 
+      "Apple iPhone Repairs & Upgrades", 
+      "Apple iPad Repairs & Upgrades", 
+      "Server Colocation", 
+      "Web Hosting", 
+      "Push Mail", 
+      "Apple Mac Training in Kent & Sussex", 
+      "Data Recovery"
+     ]
+    }, 
+    "universalName": "the-mac-man-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Mac Man Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "TH Performance Ltd", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.thperformance.co.uk", 
+    "universalName": "th-performance-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "TH Performance was established is 2012.  \r\n\r\nOriginally from the air-cooled scene and with a history of VW ownership TH Performance was formed to offer custom tuning services on the South Coast.  \r\n\r\nWe cover Brighton to Bournemouth and up as far as London but are willing to travel almost anywhere. \r\n\r\nWe offer a mobile service as well as full garage facilities, please contact me direct as this depends on the work you need doing as we operate out of a number of excellent garages all of which have different things they offer.\r\n\r\nFull custom tuning on most diesel engines post 2000, suppliers and fitting of custom stainless steel exhaust systems, supplier of performance vehicle parts."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Lenderise", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://lenderise.com", 
+    "universalName": "lenderise", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Lenderise lets you make money by lending things you have, or save money by borrowing the things you need, all in the Brighton and Hove area.\r\n\r\nIt can be anything from a spare lawnmower, a boat, or maybe some DJ decks. It could be skills at assembling furniture or cooking for someone\u2019s dinner party. You can list it all, or find it all, on Lenderise."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "The Heeler Centre is a private health clinic, based in Hassocks, West Sussex, and has been providing alternative therapies to the local area and beyond for just over 15 years.\r\n\r\nFounded in 1997 by Osteopathy specialist Paul Heeler, it started with a mission to be totally dedicated to caring for patients and to helping them maintain a healthy life in a calm and relaxing environment. With a new clinic manager having taken over in June 2012, The Heeler Centre now also carries the aim to ensure patients \"Feel better, Move better, Live better.\", part of the recent rebranding of the clinic. This recognition of outstanding patient care, with emphasis on the unique needs of individuals, is as important today as it was then.\r\n\r\nSome of the therapies we provide include, but are not limited to, Osteopathy, Chiropractic, Acupuncture, Physiotherapy, Sports Massage, Nutrition, Homeopathy, Chirpody, Podiatry, Hypnotherapy, Counselling, and Massage: Aromatherapy, Reflexology, Thai, Swedish, Deep Tissue, Indian Head Massage, Hot Stone and Pregnancy Massage.\r\n\r\nOur bright and modern state-of\u2013the-art facilities are located right next to the Hassocks mainline railway station, which has regular trains between Brighton, Haywards Heath, East Croydon, Clapham Junction and London Victoria. We also have ample parking space in our car park behind the building and full access for disabled patients.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 843780"
+       }, 
+       "address": {
+        "postalCode": "BN6 8HN", 
+        "city": "Hassocks", 
+        "street1": "Bridge House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.theheelercentre.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Chiropractic", 
+      "Physiotherapy", 
+      "Osteopathy", 
+      "Massage", 
+      "Chiropody", 
+      "Acupuncture", 
+      "Nutrition", 
+      "Homeopathy", 
+      "Sports Therapy"
+     ]
+    }, 
+    "universalName": "the-heeler-centre", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Heeler Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "WhiTek Computers Ltd was founded by Thomas White whilst at the Peter Jones Enterprise Academy in September 2012. WhiTek Computers is an IT consultancy company helping businesses see the full potential of their IT system. The business operates in Horsham and Brighton and will expand to London in late 2013.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Horsham", 
+        "street1": "WhiTek Computers Ltd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.whitek.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "IT consultancy"
+     ]
+    }, 
+    "universalName": "whitek-computers-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "WhiTek Computers Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Football1x2 is the customer facing arm of F1x2Games, where all the games can be played in a live environment. \r\n\r\nF1x2Games are a UK based supplier of Virtual Football and general fixed odds gambling games to international gaming sites. \r\nOur main office is in the UK tech-hub of Brighton & Hove, known lovingly as Silicon Beach. \r\nWe are a proudly independent company and offer a different gaming perspective to the mainstream. \r\nThe company has been around since 2003 and is still developing innovative fixed odds gaming products for gaming sites of all sizes. \r\nWe have a team of developers and graphic artists who produce flash and HTML5 based games that interact with our server-side gaming engines.\r\nOur flagship offering is the suite of virtual football products that simulate the action of the world\u2019s most popular soccer leagues and tournaments.\r\nWe also develop a variety of other games that you can see on the products page of the website www.f1x2games.com\r\nWe have long term relationships with the biggest customer facing sites so deliver our products and we also regularly integrate with smaller and start-up sites. \r\nOur integration team is experienced at quickly delivering link-ups to a variety of player wallet solutions. \r\n\r\nWe are now moving to a new phase where we plan to have a full casino suite of all the games you know, plus some exciting new ones, by Q1 2013. We will then move straight on to deliver our first suite of HTML5 games by mid-2013.", 
+    "twitterId": "", 
+    "industry": "Gambling & Casinos", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 957727"
+       }, 
+       "address": {
+        "postalCode": "BN31FG", 
+        "city": "Hove", 
+        "street1": "56 Lansdowne Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.football1x2.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "gambling software", 
+      "Casino games", 
+      "Virtual Sports games", 
+      "Virtual football games"
+     ]
+    }, 
+    "universalName": "football1x2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Football1x2"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Heath Properties was formed in 1980 as a real estate rental office. Over the past 15 years the Company has expanded and currently offers property management, marketing, leasing and sales. Heath services most downtown neighborhoods including Back Bay, Beacon Hill, South End, Bay Village, Fenway, Mission Hill, Jamaica Plain, Allston, Brighton, Dorchester, Roxbury, Somerville, Chelsea and East Boston. Heath has been instrumental in improving leasing standards and processes in the local real estate community. Our team has vast experience managing diverse portfolios including luxury residences, corporate housing, student housing, project and voucher based subsidized apartments and efficiencies, making us a leader in the industry.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617-266-2948", 
+        "phone1": "617-266-1168"
+       }, 
+       "address": {
+        "postalCode": "02116", 
+        "city": "Boston", 
+        "street1": "74 Clarendon Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.heathproperties.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Real Estate", 
+      "Property Management", 
+      "Real Estate Development", 
+      "Rentals"
+     ]
+    }, 
+    "universalName": "heath-properties", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Heath Properties"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Personal & Group Training Company based in Brighton & Hove, UK - Health & fitness is a way of life.\r\n\r\nTrain with Jermayne offers personal training packages to those of all levels of fitness and strength. \r\n\r\nI will assist you in achieving your fitness and health goals in a friendly, focussed environment. \r\nTo find out more about what I can do for you, contact me now.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 4GJ", 
+        "city": "Hove", 
+        "street1": "The Studio, Kingsway Court, First Avenue, Hove, East Sussex BN3 2LR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.trainwithjermayne.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Personal Training", 
+      "Group Training", 
+      "Outdoor Training", 
+      "Studio Training", 
+      "Kettlebell Training", 
+      "Boxing Training", 
+      "Circuit Training", 
+      "Children's Fitness"
+     ]
+    }, 
+    "universalName": "fithop", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Train with Jermayne"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 56, 
+    "description": "Small Batch Coffee Company is a boutique coffee roastery based in Hove, supplying speciality grade coffee across the UK.  We also have four coffee shops and two mobile carts in Brighton & Hove supplying fantastic espresso and filter coffees along with freshly baked pastries and other locally sourced goods.", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 220246"
+       }, 
+       "address": {
+        "postalCode": "BN3 3RU", 
+        "city": "Hove", 
+        "street1": "68 Goldstone Villas"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 697597"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "17 Jubilee Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 710 627"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BD", 
+        "city": "Hove", 
+        "street1": "67C Church Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3TE", 
+        "city": "Brighton", 
+        "street1": "108a Dyke Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.smallbatchcoffee.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wholesale Coffee", 
+      "Coffee Roasting", 
+      "Single Origin Coffees", 
+      "Exceptional Customer Service"
+     ]
+    }, 
+    "universalName": "small-batch-coffee-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Small Batch Coffee Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Coworking, desks, meeting rooms, events and workshop spaces for a community of freelancers, mobile workers and small companies in the middle of Brighton.\r\n\r\nWorking at home alone sucks. Join our coworking community of over 100 freelancers, mobile workers and small businesses. Escape the cabin fever and start getting more done\r\n\r\nCoffee shops are noisy, traditional offices are boring. Have a meeting in our light, airy, comfortable spaces and keep your projects energised.\r\n\r\nWork's no fun unless we're learning new things and meeting new people. There are events and meetups most nights at The Skiff. Come and check one out.", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "6 Gloucester Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://theskiff.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Desks", 
+      "Meeting Rooms", 
+      "Community Events"
+     ]
+    }, 
+    "universalName": "the-skiff", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Skiff"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "name": "Profile Fashion", 
+    "twitterId": "", 
+    "industry": "Apparel & Fashion", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.profilefashion.com", 
+    "universalName": "profile-fashion", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Profile have six boutique stores nestled amongst the wonderful boutiques in Dukes Lane and Ship Street, Brighton in addition to our website ProfileFashion.com.\r\n\r\nWe're home to all the big names - Gucci, Dolce & Gabbana, Hugo Boss, Armani Jeans, Paul Smith, Ralph Lauren and many more."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "HeartCo", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.heartco.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Websites", 
+      "Content Management System Websites (Wordpress etc)", 
+      "Design", 
+      "Logos", 
+      "Video Editing", 
+      "Printing", 
+      "Hosting", 
+      "Social Media", 
+      "SEO"
+     ]
+    }, 
+    "universalName": "heartco", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "HeartCo Design are a professional, affordable media solutions business based in Shoreham, Sussex.\r\n\r\nWe offer Websites, Designs, Logos, Videos and much more at prices that are extremely competitive.\r\nOur most popular product is our affordable website design and development.\r\n\r\nHere on HeartCo Design\u2019s website, we will showcase all the best websites, logos, designs and projects that HeartCo Design have contributed towards all across the region of East Sussex and West Sussex. Ranging from areas like Brighton, London, Hove, Eastbourne, Worthing and of course Web Design in Shoreham (to name a few)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Dirty Little Pixels is a Brighton based Web and Design consultancy dedicated to delivering strategic and creative solutions that stand out from the crowd\r\n\r\nWe\u2019re a specialist team of intelligent creatives with bags of experience, a natural inquisitiveness and a passion for finding the best possible solutions to the most challenging questions.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton & Hove", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.dirtylittlepixels.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Web design", 
+      "Online Marketing", 
+      "Sales strategy"
+     ]
+    }, 
+    "universalName": "dirty-little-pixels", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dirty Little Pixels"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 148, 
+    "description": "Core Atlantic Recruitment are suppliers of comprehensive recruitment solutions; we have an extensive range of candidates registered on our unique database who can deliver the skill sets to match our clients' recruitment needs.\r\n\r\nOperating across a variety of industries, we supply to the demands of Construction, Engineering, Management, Building Services, Automotive, Rail & Aviation industries - fulfilling their staffing requirements. Our wide spectrum of specialist areas enables us to provide our customers with a vast, knowledgeable and experienced service.\r\n\r\nUtilising our growing network of strategically placed offices, we operate on a national basis recruiting personnel at all levels. Our consultants based in Watford, London, Brighton, Birmingham and Cardiff are committed to offering expertise on their specialist sectors. Our consultants offer industry knowledge and experience enabling them to source high calibre candidates who can meet with all elements of clients recruitment needs.\r\n\r\nCore Atlantic Recruitment team not only have a wealth of industry knowledge, we also have the facilities in place to supply to a limitless range of industries. Our committed Compliance & Quality Department ensures that the correct procedures and processes are in place to ensure we operate legally and in accordance with industry guidelines. Having such procedures in place allows us to work promptly & supply on demand.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0118 909 9620"
+       }, 
+       "address": {
+        "postalCode": "RG31 5TY", 
+        "city": "Reading", 
+        "street1": "47 Little Heath Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01628 560466"
+       }, 
+       "address": {
+        "postalCode": "SL1 7JT", 
+        "city": "Slough", 
+        "street1": "96 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.coreatlanticrecruitment.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Construction Recruitment", 
+      "Railway Recruitment", 
+      "Trades & Labour Recruitment", 
+      "Engineering Recruitment", 
+      "Building Services Management Recruitment", 
+      "Temporary Staffing Recruitment", 
+      "Contract Staffing Recruitment", 
+      "Permanent Staffing Recruitment"
+     ]
+    }, 
+    "universalName": "core-atlantic-recruitment", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Core Atlantic Recruitment"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 51, 
+    "description": "We set up as the Woodspeen group in 2007 with the clear aim of creating a UK vocational training business to address the skills challenge within the UK.  We provide a wide range of skills and vocational programmes, both Government sponsored and privately funded. We have grown organically and through a number of successful, long established businesses, all of which share in the group\u2019s ethos. Our local brands include Futures Training Centres, A&R Training Services, S&S Training Services, BDTS and Christopher Paul. In fact, many of our brands have been established for well over 20 years. We have an increasing number of permanent training centres across the United Kingdom. Our centres include Huddersfield, Brighton, Bradford, Bournemouth, Halifax and Wakefield and we are well established in Bristol, Poole and Worthing.  We also operate at a national level to respond to client needs.\r\n\r\nOur range of Apprenticeships is extensive and includes Health & Social Care, Business and Administration, Customer Service, Team Leading, Retail, IT, Childcare, Hairdressing & Barbering, Manufacturing, Warehousing & Storage, Call centre Operations and Accounting. We have delivered most of these programmes over many years giving us an unrivalled depth and breadth of expertise. We also have expertise in classroom based accredited training in Entry Level 3, Level 1 and Level 2 Certificate in Employability Skills, Level1 and Level 2 Functional Skills, and Skills for Life qualifications.", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01484 429359", 
+        "phone1": "01484 429359"
+       }, 
+       "address": {
+        "postalCode": "HD1 1ES", 
+        "city": "Huddersfield", 
+        "street1": "13-15 Lion Chambers"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01274 391994"
+       }, 
+       "address": {
+        "postalCode": "BD1 1EE", 
+        "city": "Bradford", 
+        "street1": "3rd Floor, Howard House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01924 298535"
+       }, 
+       "address": {
+        "postalCode": "WF1 1QB", 
+        "city": "Wakefield", 
+        "street1": "First Floor, Custom House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01422 323812"
+       }, 
+       "address": {
+        "postalCode": "HX1 2HX", 
+        "city": "Halifax", 
+        "street1": "Westgrove House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.woodspeentraining.co.uk", 
+    "universalName": "woodspeen-training", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Woodspeen Training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "name": "Indian Art Guru", 
+    "twitterId": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.indianartguru.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Oil Paintings", 
+      "Indian Art", 
+      "Acrylic, Charcoal and mix media paintings"
+     ]
+    }, 
+    "universalName": "indian-art-guru", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Indian Art Guru represents a group of emerging talented artists from India. We are committed to promoting and bringing out the hidden talent of India with the promise of high quality paintings for art lovers. This website helps all those skilled artists who find it difficult to make their art available worldwide due to geographical hurdles and significantly to give justice to their artwork.\r\n\r\nVisualise, entreat and feel the rhythm of Indian colours, culture and heritage. The rural architecture and tradition has a remarkable influence on such credential works. Their artworks include a mode of creative expression, naturalistic, realism, abstract and sketches. On our platform, we display a wide range of both contemporary and traditional art. Customers would have an array of images to choose from depending on their taste and appreciation. We aim to provide the highest standards of services, ethics and diversity across the board as well as developing opportunities for artists at global scale.\r\n\r\nEach art piece is unique and our original artworks are delivered straight from our Brighton hub complete with a Certificate of Authenticity signed by the artist. To ensure that all our customers are completely happy with their purchases, we offer a fourteen day returns policy. We will work hard to maintain these high standards. Our purpose is to provide the best in original art online, and we hope that you are inspired by, and enjoy, your visit to our gallery."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "name": "S&B STEEL", 
+    "twitterId": "", 
+    "industry": "Mining & Metals", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "sandbsteel.com", 
+    "universalName": "s&b-steel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "distributing, and selling coiled steel products for the automotive, appliance, construction, and agriculture industries in the United States and Canada. The company offers cold and hot rolled, galvanized, carbon flat rolled, and coated steel products. It also provides pickling, processing, slitting, leveling, and shearing services. The company serves automobile parts suppliers, steel tube manufacturers, structural steel users, rack and furniture manufacturers, metal stamping operations, steel door manufacturers, metal building producers, and steel warehousing and processing operations. The company's headquarters is in Brighton, Michigan."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Rock-IT Enterprise is a Community Interest Company, Limited by Guarantee, whose partners are Albion in the Community, the registered charity of Brighton and Hove Albion FC.  Abcom a successful Sussex IT company and RML Community Partners, a Sussex based social enterprise business consultancy.", 
+    "twitterId": "", 
+    "industry": "Computer Hardware", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.rockitrecycling.org.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Refurbisher of second user IT equipment", 
+      "Provision of training in IT hardware and software for 16-24 year olds not in training, education or employment."
+     ]
+    }, 
+    "universalName": "rock-it-enterprise-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Rock-IT Enterprise cic"
+   }
+  ]
+ }
+}

@@ -1,0 +1,840 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 680, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "Think360 Sports Ltd trading as Active360", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.active360.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Stand Up Paddleboarding", 
+      "Paddlboarding Events", 
+      "SUP Racing", 
+      "Team Building Events", 
+      "SUP Ball", 
+      "SUP", 
+      "ASI Paddleboarding Lessons", 
+      "SUP Yoga"
+     ]
+    }, 
+    "universalName": "active360", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Active360 - Developing Stand Up Paddleboarding across the UK \r\nASI Accredited SUP schools in; London, Brighton and Mersea Island, Essex\r\n\r\nWe run races, events team building days, lessons for groups and individuals, parties\r\n\r\nevents for 2013 include the first SUP Marathon on the Thames on June 22nd, Racing at Twickenham on june 8th, Greenland SUP expedition to the Helheim Glacier at the north of the Sermilik Fjord in August www.polarbearsandpaddleboards.com\r\n\r\nSUP Shop located in Chiswick London selling a wide range of paddleboards and accessories from leading brands including: Coreban, QuickBlade, Naish and Liquid Shredder."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Ben Alex Keen Design", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.benalexkeen.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Web Design"
+     ]
+    }, 
+    "universalName": "ben-alex-keen-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Ben Alex Keen is a Web and Graphic Designer based in Brighton and London. We cater for small to medium sized businesses on a range of budgets for Website and Graphic production. We specialise in websites that are desktop and mobile friendly; visit our website to view our portfolio of websites."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Craigard Investments LLP is an energetic and fast-moving property partnership with a strong pedigree. \r\n\r\nAlready a significant player in the South of England, our primary, though not exclusive, geographic focus is the \u2018box\u2019 between Weymouth and Brighton and northwards to the M4/M25. Targeting all forms of property assets between \u00a3500,000 and \u00a320m through trading, investment, development, joint ventures and asset management, a flexible and analytical approach is applied to each situation. With over \u00a390m of transactions completed in our first six years, we have demonstrated our ability to deliver. We are well-positioned and funded to make well-considered acquisitions through the coming months as the property market stabilises and recovers.\r\n\r\nLeading Craigard is Founding Partner, Paul Foster. Paul built an impressive track record with IM Properties over 15 years, handling and securing many major deals and playing a significant role in the strategic direction of the company. With a desire to be back by the sea and his sailing, Paul returned to the South to use his experience, contacts and local knowledge to put Craigard on the map.\r\n\r\nFor information on our current schemes, please click onto the Products Page. We only acquire buildings that tenants want \u2013 all the right fundamentals offered at the right market price. We then work hard present to buildings well \u2013 ready to go. So space doesn\u2019t hang around ....", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01489 886605", 
+        "phone1": "01489 880100"
+       }, 
+       "address": {
+        "postalCode": "PO15 7FJ", 
+        "city": "Fareham", 
+        "street1": "4400 Parkway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.craigard.biz", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Commercial Property Investment", 
+      "Syndication"
+     ]
+    }, 
+    "universalName": "craigard-investments", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Craigard Investments"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Property Moves", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 884888", 
+        "phone1": "01273 321333"
+       }, 
+       "address": {
+        "postalCode": "BN3 2AF", 
+        "city": "Hove", 
+        "street1": "109 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.propertymoves.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Lettings", 
+      "Property Management"
+     ]
+    }, 
+    "universalName": "property-moves", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "you'll be perfectly matched at Property Moves... after 20 years of successful trading Property Moves has gained significant respect in the market and a reputation as one of the leading lettings, sales and property management specialists in Brighton, Hove and the surrounding areas. We have utilised our years of experience to design our website (www.propertymoves.co.uk) and make it a user friendly and helpful tool to assist you through the letting process; whether you are a tenant or a landlord."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Brighton & Hove based accountants serving Sussex and beyond. \r\n\r\n\u2022 We simplify accounting and bookkeeping procedures for business, contractors and the self employed. \r\n\u2022 We will help you consider the most appropriate business structure for your business \u2013 sole trader, partnership or limited company. \r\n\u2022 We can recommend online accounts software that is fast reliable and easy to use. You manage it but we keep an eye on it! \r\n\r\nARE YOU JUST STARTING UP IN BUSINESS? Need to manage your money as you get going? \r\n\r\nCoastal Tax and Accountancy specialises in new start up businesses and offers comprehensive, straight forward advice and an all inclusive service for your accountancy and bookkeeping needs. \r\n\r\nContact us today for a free consultation on 01273 420127 to see how we can help you.\r\n\r\nWebsite: www.coastaltax.co.uk\r\n\r\nFor up to date accounting news and more...\r\n\r\nFollow Coastal Tax & Accountancy on Twitter @coastalaccounts\r\n\r\nor Like us on Facebook www.facebook.com/CoastalTax", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273420127"
+       }, 
+       "address": {
+        "postalCode": "BN3 4EB", 
+        "city": "Hove", 
+        "street1": "244 New Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.coastaltax.co.uk/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Self Assessment for Self Employed", 
+      "Limited Companies", 
+      "Tax Returns & Accounts", 
+      "Start Ups", 
+      "Small Business Specialist"
+     ]
+    }, 
+    "universalName": "coastal-tax-&-accountancy", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Coastal Tax & Accountancy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Macfixer", 
+    "twitterId": "", 
+    "industry": "Computer Hardware", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://mymacfixer.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Apple Mac Computer Repairs", 
+      "Apple Mac Computer upgrades", 
+      "Apple Mac Computer Support", 
+      "Apple Mac Computer sales"
+     ]
+    }, 
+    "universalName": "macfixer", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "At Macfixer we understand the needs of the Apple mac user. With 15 years experience with mac systems we can get you back up and running quickly without drama\r\n\r\nRepairs carried out on all Apple Mac models from Macbook and imac to ibook and ipad. We offer full support help and assistance \r\n\r\nWe offer an affordable and friendly service from emergency data rescue to solving that annoying little niggle that spoils your Apple Macintosh experience\r\n\r\nYour place or ours, just give Clive a call on  07812 990026 \r\nor mail us if you are reading this!  \r\n\r\nMacfixer are located in Southwick just outside the centre of Brighton and Hove with free Parking and good access by bus bike or train"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Newton Technologies has been serving the Brighton area since 2007, providing technical support, computer services, and consulting to small and medium-sized businesses.  It's always been our goal to provide enterprise-level IT practices and solutions to the small business sector, with small business prices.  Our experience has allowed us to build and develop the infrastructure needed to keep our prices affordable and our clients up and running.\r\n\r\nWe partner with many types of businesses in the area, and strive to eliminate IT issues before they cause expensive downtime, so you can continue to drive your business forward.  Our dedicated staff loves seeing our clients succeed.  Your success is our success, and as you grow, we grow.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "8108524998", 
+        "phone1": "8103552555"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "711 E. Grand River Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.newtontechnologies.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Cloud computing", 
+      "business networking", 
+      "managed services", 
+      "network security", 
+      "it support", 
+      "electronic document management", 
+      "business computing"
+     ]
+    }, 
+    "universalName": "newton-technologies-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Newton Technologies LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "CHOOSING THOMAS C ADAMS AS YOUR ESTATE AGENT\r\nThomas C Adams are part of one the UKs largest independent estate agency network which means whether a buyer is looking to relocate from Brighton to Penzance or Glasgow to London, all the offices work together to maximise coverage which means sellers get the best price and buyers get plenty of choice.\r\n\r\nWhen selling the key for us in achieving our clients the best price in the current market is by combining our marketing efforts, with a proactive sales team that are experienced, qualified, and know how to generate plenty of viewings, create multiple offers and negotiate with potential buyers.\r\n\r\nAs we are available until 8pm weekdays, it means we are available not just to you longer, but to buyers also. With over one third of enquiries coming to us after core office hours, can you afford to choose an agent that is not available to take your call?\r\n\r\nWe are the only estate agent that advertises in Move Magazine, a lifestyle magazine with property advertisements that is distributed to 20,000 homes across Chester, Wirral and North Wales.\r\n\r\nWe offer a range of services to save you time. So whether you want to sell, buy, let or rent a city pad, home, country property, new home, development, land, arrange a mortgage, find a surveyor, organise a conveyancer, it can all be done under one roof!\r\n\r\nFor more information visit us online at www.tcaresidential.com or follow us on Twitter @tcaresidential", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01244 340 340"
+       }, 
+       "address": {
+        "postalCode": "CH1 1RS", 
+        "city": "Chester", 
+        "street1": "44 Lower Bridge Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01244 520 000"
+       }, 
+       "address": {
+        "postalCode": "CH5 3DH", 
+        "city": "Hawarden", 
+        "street1": "62 The Highway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01352 752 222"
+       }, 
+       "address": {
+        "postalCode": "CH7 1EG", 
+        "city": "Mold", 
+        "street1": "8 Chester Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0151 339 1791"
+       }, 
+       "address": {
+        "postalCode": "CH66 3RA", 
+        "city": "Little Sutton", 
+        "street1": "388 Chester Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1886, 
+    "websiteUrl": "http://www.tcaresidential.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Real Estate", 
+      "Property Investment", 
+      "Mortgage and Finance", 
+      "Property Sales", 
+      "Rentals", 
+      "Conveyancing"
+     ]
+    }, 
+    "universalName": "thomas-c-adams", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Thomas C Adams"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Executive Chef Steve Case has created his own company; Pure and Simple Catering to better serve the Livingston County area. With a focus on fresh, healthy and creative ingredients, our menu will suffice any craving. Along with gluten and soy free menu options. We can cater to any need.\r\n \r\nThere are numerous catering companies in Michigan, but Pure & Simple Catering distinguishes themselves from the others with their custom menu offerings and exceptional service.  Located in the Howell, MI and Brighton, MI area inside the Johnson Center at Cleary University, Pure & Simple provides service for banquets, weddings, and company or executive events. Our ability to cater both indoor and outdoor events, allows us to offer our services for weddings, banquets, corporate and social events at the location of your choice. \r\n\r\nWith food come friendships, though we are a professional business we take pride in creating lasting connections and relationships with our customers.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.pure-simpleservices.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "catering", 
+      "venue", 
+      "weddings", 
+      "community events", 
+      "fresh food", 
+      "excellent guest service"
+     ]
+    }, 
+    "universalName": "pure-and-simple-catering", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Pure and Simple Catering"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Studio Am was established in 2005 in sunny Brighton and has grown into a small, dedicated team working with clients all over the world. We approach projects with enthusiasm and open minds \u2013 each client and each project is different and we love that challenge. Creative and experienced, we manage projects from initial concepts right through to delivery and offer a full range of services from brochures and promotional literature to integrated advertising campaigns, strategic marketing, branding and website design and animation.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 819 018"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YE", 
+        "city": "Brighton", 
+        "street1": "100 North Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.studioam.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Graphic Design", 
+      "Brochure Production", 
+      "Advertising", 
+      "Branding", 
+      "Website Design"
+     ]
+    }, 
+    "universalName": "studio-am-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Studio Am Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Crosby and Woods is a firm of Solicitors and Notaries based in Brighton and Hove, \r\nEast Sussex, that offers a full and comprehensive range of specialised legal services.  \r\n\r\nWe aim to deliver a results driven, jargon-free service to all our clients.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 773674", 
+        "phone1": "01273 734600"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BB", 
+        "city": "Hove", 
+        "street1": "Sussex House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.crosbywoods.co.uk", 
+    "universalName": "crosby-&-woods", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Crosby & Woods"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Aston Bourne is part of C & H Weston Ltd, who have been established in Brighton since 1819. \r\n\r\nWe have been the main authorised dealer / retail stockists for Barbour Clothing and Hunter Boots throughout East Sussex for the past 25 years. Our stores provide a comfortable and relaxing environment where customers are encouraged to 'try before they buy'.\r\n\r\nAston Bourne also stock clothing from Dubarry of Ireland and boots from Ilse Jacobsen.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 227775"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HP", 
+        "city": "Brighton", 
+        "street1": "11 East Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 732460"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HP", 
+        "city": "Brighton", 
+        "street1": "9 East Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 326338"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HP", 
+        "city": "Brighton", 
+        "street1": "12 East Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.astonbourne.co.uk", 
+    "universalName": "c-&-h-weston-ltd-aston-bourne", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Aston Bourne"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "Lighthouse Learning is a digital start-up based in Brighton. We\u2019re currently working on a children\u2019s app aimed at the home consumer market.\r\n\r\nFounders\r\nWe are two ed tech geeks on a mission to create an amazing new mobile product for children. Both founders have backgrounds in creating web-based e-learning for schools. When we saw the power of touch devices to engage children with new ways to learn, we changed our focus to mobile apps for families. We\u2019re in the process of designing our first version product.\r\n\r\n\r\nVision\r\nOur aim is to create beautiful, easy to use products that deliver real learning based on solid pedagogical research. For us, real learning is characterised by the type of \u2018lost in the moment\u2019 discovery that\u2019s naturally absorbing and fun. As mobile devices become more popular amongst parents and children, we hope to provide tools and content that support learning, play and creativity.\r\n\r\nWork With Us\r\nWe\u2019re an ambitious start-up setting out to create an innovative product and outstanding company culture. We\u2019re currently looking for Developers and Graphic Artists. If you\u2019re interested in working with us (either as an employee, freelance or agency) get in touch for a chat.\r\n\r\nE-mail: hello@lighthouselearning.com\r\n\r\nTwitter: @EduLighthouse, @AlexaMcGregor, @DChBarney", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.lighthouselearning.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Children's apps", 
+      "Educational technology", 
+      "Software development", 
+      "Instructional design"
+     ]
+    }, 
+    "universalName": "lighthouse-learning", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Lighthouse Learning"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Absolute Measurements", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.absolutemeasurementscalibration.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Calibration Services", 
+      "Test and Measurement Equipment Sales", 
+      "Customer Asset Management"
+     ]
+    }, 
+    "universalName": "absolute-measurements", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Absolute Measurements is your source for expert calibration services and precision test equipment. Our factory trained technicians have been exceeding industry standards for quality and service for over 10 years. We are a certified Woman-Veteran owned Small Business that is locally owned and operated in the heart of Brighton, Colorado. Our qualifications include ISO 9001:2008 certification, ANSI Z540 compliance, NIST traceability and Colorado State Weigh & Measures certification.\r\n\r\nWe are also preferred distributors for many precision test equipment manufacturers such as: Ohaus, Sartorius, \r\nA & D Weighing, Rice Lake and the torque specialists at Mountz. We offer calibration services at both our laboratory and your site. Onsite calibration is available by appointment 7 days week.\r\n\r\nWe provide our expert services to numerous companies throughout Colorado and the surrounding states. We are highly experienced in:\r\n\r\n        * Industrial Manufacturing\r\n        * Pharmaceutical / Life Sciences\r\n        * Medical Technology\r\n        * Precision Machining\r\n        * Government Contracting\r\n        * And many more\u2026\r\n\r\nCalibrations are performed to both OEM specifications and your process requirements. We recognize that every customer\u2019s process is unique and we will work with you to ensure that our services are the right fit for your processes. Our services are a universal solution for quality control."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Fruitful Digital", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.fruitfuldigital.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Graphic Design", 
+      "Web Development", 
+      "Digital Marketing"
+     ]
+    }, 
+    "universalName": "fruitful-digital", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We are a Brighton based digital agency that use a combination of strategy, insight and creative thinking in order to help emerging brands establish themselves, building meaningful relationships with their customers.\r\n\r\nWe specialise in graphic design, website development and digital marketing. We pride ourselves on hard work, good client relationships and the delivery of outstanding performance. Our clients success is our success and we make sure that we deliver exceptional results every time."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Hell Yeah Mastering", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.hellyeahmastering.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Mastering", 
+      "Vinyl", 
+      "Archiving", 
+      "Restoration"
+     ]
+    }, 
+    "universalName": "hell-yeah-mastering", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We provide high quality CD mastering and vinyl pre-mastering and cutting services. Based in Brighton & Hove, we service labels and artists in the UK and EU. We are known not only for the sonic superiority of our masters but also our highly efficient service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "The first Squires Loft was opened in 1992 in Church Street Brighton. With a reputation for consistently delivering great steaks and unique flavours led them to a larger store in South Yarra where we are still located today. \r\n\r\nThe success of the Squires Loft formula and demand for Squires Loft branded products developed substantial interest from staff and customers who wanted to duplicate the business. This has resulted in 13 steakhouse restaurants operating, Seven under the Squires Loft banner.\r\n\r\nThese steakhouses are located around Melbourne, Country Victoria, Brisbane, Gold Coast and Western Australia. Further steakhouses are in the pipeline and there is significant interest, which has lead to the most recent restaurant, located on Whitehorse Road in Nunawading", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "3131", 
+        "city": "Nunawading", 
+        "street1": "Shop 54"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "https://www.facebook.com/SquiresNunawading", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Angus Steaks", 
+      "Pork and Beef ribs", 
+      "Basted cooking Style", 
+      "Great Wines"
+     ]
+    }, 
+    "universalName": "squires-nunawading-ptyltd", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Squires Nunawading PtyLtd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "iSKILLu", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.iskillu.co.uk", 
+    "universalName": "iskillu", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "iSKILLu enables people to share skills knowledge and ideas, face-to-face or over the internet, without the need for money.\r\n\r\nIt enables you to teach what you know and learn what you want.\r\n\r\nVisit the website to join in, currently only for Brighton & Hove users."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Four Over Five", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://fouroverfive.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Digital Strategy", 
+      "Content Strategy", 
+      "Web Design and Development", 
+      "User Experience", 
+      "Information Architecture", 
+      "Web Content", 
+      "User Interface Design", 
+      "Digital Marketing", 
+      "Corporate Identity"
+     ]
+    }, 
+    "universalName": "four-over-five", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Four Over Five is a new creative digital agency with offices in Brighton and West Yorkshire. We like to inform and entertain people online by mixing creative thinking with thorough planning, by having big ideas and paying attention to the smallest details.\r\n\r\nOur team has worked together in digital communications for the past 14 years, including stints at two award-winning digital agencies. In that time we\u2019ve planned, designed and contributed to hundreds of websites, online campaigns and digital projects for clients like PayPal UK, the Guardian, the NHS and Visit Scotland.\r\n\r\nWe use research, conversation and lots of creative thinking to design seamless online experiences that work on any device, whatever the size. Services include: strategy, research, audits, content planning, digital design, writing, illustration, photography, audio visual content, social media, training, hosting, analytics and SEO.\r\n\r\nWe're always happy to hear from new people. If you have an idea for a digital project or a problem you'd like us to solve, why not get in touch."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "A Small Pair (asmallpair.com) is based in East Sussex on the Coast in the vibrant city of Brighton.  Our aim is to bring new and exciting underwear ranges to guys who like to dress well underneath.   \r\n\r\nWe were established in 2012 and are owned and operated by Raspberry Panda Ltd.   With a presence across the major social media platforms and a website on the way, our website will be launching in May 2013.\r\n\r\nA Small Pair - \"Renewing your confidence with a lift, a splash of colour and a bit of style\"", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 412 7493"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GJ", 
+        "city": "Brighton", 
+        "street1": "19 New Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.asmallpair.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Mens Underwear", 
+      "Retail", 
+      "Online Retail", 
+      "Mens Underwear Survey"
+     ]
+    }, 
+    "universalName": "a-small-pair", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "A Small Pair"
+   }
+  ]
+ }
+}

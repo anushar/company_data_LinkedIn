@@ -1,0 +1,716 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 280, 
+  "values": [
+   {
+    "numFollowers": 38, 
+    "name": "Andrea Dunne 'Textile DesignUK'", 
+    "industry": "Textiles", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3PA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.andreadunne.com", 
+    "universalName": "andrea-dunne-'textile-designuk'", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Textile Design UK is a company that designs and produces knitwear for fashion and the home. All materials are sourced within the British Isles, for example: Superfine Lamaine from Scotland, Merino from Yorkshire, Cotton from Lancashire, and each product is hand-made and hand-finished at a studio in Brighton & Hove. All designs are original taking inspiration only from nature through the eyes of Andrea Dunne herself."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Carlos Garde-Martin is a freelance illustrator living in the city of Brighton and Hove. His macabre and surreal drawing style is the result of years of dedication to perfecting his craft. Carlos loves drawing in his sketch book and making fantastical images for people. If you would like to discuss a commission you have for Carlos, please get in touch. *~*", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 6WS"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.carlosgardemartin.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Illustration for publishing", 
+      "editorial", 
+      "design", 
+      "advertising & new media"
+     ]
+    }, 
+    "universalName": "carlos-garde-martin", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Carlos Garde-Martin"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "Independent Financial Advisers based in Hove , East Sussex. Established 1993. Areas of expertise include pre- and post Retirement planning ; Investments for Income and Growth ; Mortgages ; Health and Life Insurance ; ISAs ; Inheritance Tax planning ; Income Protection .", 
+    "twitterId": "", 
+    "blogRssUrl": "http://pembrokefinancialservices.wordpress.com/feed/", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 774855"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JE", 
+        "city": "Hove", 
+        "street1": "5 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.pembrokefinancial.co.uk", 
+    "universalName": "pembroke-financial-services-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pembroke Financial Services Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 31, 
+    "description": "Sussex Community Foundation raises funds from Sussex people and businesses for local charities and community groups across East Sussex, West Sussex and Brighton & Hove.\r\nWe support people and companies to make the maximum impact with their local charitable giving. We started work in 2006 and  we have given out over \u00a36 million to 1,500 charities and community groups since then.\r\nWe are also building an endowment fund to provide sustainable funding for the voluntary sector in Sussex into the future. That endowment is currently worth over \u00a36 million.", 
+    "twitterId": "", 
+    "industry": "Philanthropy", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 409440"
+       }, 
+       "address": {
+        "postalCode": "BN7 2AQ", 
+        "city": "LEWES", 
+        "street1": "Suite B, Falcon Wharf"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.sussexgiving.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Advice on philanthropy and local giving", 
+      "Charitable giving", 
+      "Local community needs"
+     ]
+    }, 
+    "universalName": "sussex-community-foundation", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex Community Foundation"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "The Preston Partnership Ltd", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 4DB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.preston-partnership.com", 
+    "universalName": "the-preston-partnership-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A training, coaching and HR consultancy company based in Hove East Sussex. We specialise in the growth of management and leadership talent. We were formed in 1999 and now service companies throughout the UK and our client list includes many world -wide brands, pulblic and private sectors and most industries."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 69, 
+    "description": "www.stamco.co.uk\r\nTimber and Building materials suppier to London, Hertfordshire, Sussex, Hampshire, Kent, Surrey, Dorset and the Isle of Wight.\r\n\r\nSoftwood importer and manufacturer.\r\nBased in Hastings with Branches in Eastbourne, Shoreham and Hove.", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "tn38 9tg"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1958, 
+    "websiteUrl": "www.stamco.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Softwood Importers"
+     ]
+    }, 
+    "universalName": "stamco-timber-ltd_2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Stamco Timber Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Bleijko is een toonaangevende producent van betonmaterialen voor de weg en waterbouw - Betonbestrating, rioleringssystemen,...\r\n\r\n\r\nBleijko heeft productievestigingen in Walsoorden (NL) en Roeselare (BE). Daarnaast staan er nog twee verkoopkantoren in Marcq-en-Baroeul (FR) en Hove (UK)", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+31(0)114 684000"
+       }, 
+       "address": {
+        "postalCode": "4588 KJ", 
+        "city": "Walsoorden", 
+        "street1": "Mariadijk 6a"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+32(0)51268320"
+       }, 
+       "address": {
+        "postalCode": "8800", 
+        "city": "Roeselare", 
+        "street1": "Beurtkaai 4"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1930, 
+    "websiteUrl": "www.bleijko.com", 
+    "universalName": "bleijko", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bleijko"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 271, 
+    "description": "4Delivery (4D) is a well-established, fully integrated Joint Venture bringing together the skills and experience of three industry-leading partners, Veolia Water, Costain and MWH. \r\n\r\nFrom optioneering, design and construction through to optimisation, operation and maintenance, we offer global expertise to deliver integrated, local outcome based solutions to the water industry.  \r\n\r\nIncorporated in 2005 to deliver a part of Southern Waters AMP4 (2005-2010) programme of works, we have since successfully delivered over \u00a31bn of environmental improvements across AMP4 and AMP5, including a \u00a3240m scheme to build a new wastewater treatment works and associated infrastructure to serve the Brighton and Hove catchment. \r\n\r\nWe are now looking to bring our extensive range of services and capabilities to a wider market.", 
+    "twitterId": "", 
+    "industry": "Utilities", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 564 800"
+       }, 
+       "address": {
+        "postalCode": "RH11 9BP", 
+        "city": "Crawley", 
+        "street1": "Tilgate Forest Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "4delivery.co.uk", 
+    "universalName": "four-delivery-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "4Delivery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2103, 
+    "description": "Gehl Architects is an urban research and design consultancy based in Copenhagen, Denmark, founded in 2000 by Architect Helle S\u00f8holt and Professor Jan Gehl.\r\n\r\nGehl Architects addresses global trends with a people-focused approach, utilizing empirical analysis to understand how the built environment can promote human flourishing. They apply this analysis to strategic planning and human-centered design to empower citizens, decision makers, company leaders, and organizations.\r\n\r\nThe work of Gehl Architects builds on Jan Gehl\u2019s 40 years of extensive research on life in public space. Along with new research this continues to provide the foundation for their work in small and large cities around the world. Gehl Architects offers expertise in the fields of architecture, urban design and city planning. Their work is based on the human dimension \u2013 the built environment\u2019s effect on activity patterns and interaction between people.\r\n\r\nGehl Architects\u2019 interdisciplinary team of 35 people include architects, urban designers, landscape architects, graphic designers, sociologists, anthropologists and cultural theorists. Additionally, they employ a network of internationally recognized urban experts. \r\n\r\nGehl Architects has worked with cities of all scales throughout the world. Clients include: Municipality of Copenhagen, Department of Transportation (DOT) in New York City, Melbourne City Council, The Energy Foundation in Beijing, China, Brighton & Hove City Council in the UK, City of Christchurch in New Zealand, Institute of Genplan in Moscow, among many others.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Copenhagen", 
+        "street1": "Gl. Kongevej 1, DK 1610 Copenhagen V, Denmark"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.gehlarchitects.com/", 
+    "universalName": "gehl-architects", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Gehl Architects"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 105, 
+    "description": "Inspire Entertainment is a unique music promotions firm responding to an evolving music market.  It distinctively combines the disciplines of a record label, branding firm and music agency.\r\n\r\nInspire Entertainment emotionally fortifies brands and creates new meaningful revenue streams for retail franchises, corporations and charities.\r\n\r\nWe bring together recording artists and retail franchises -- leveraging their brands to create extraordinary opportunities for artists and businesses.\r\n\r\nWith many of our clients, we distribute hit CDs to non-traditional music markets -- and create custom compilation CDs.\r\n\r\nAnd we do it better than anyone in the country.\r\n\r\nOur secret sauce is in the combustion of our peerless credentials and relationships in both the branding and music worlds.\r\n\r\nOur principals have spearheaded many of the most celebrated branding/promotion campaigns for companies including JCPenney, Whole Foods, CB Richard Ellis, Coffee Bean & Tea Leaf, Legg Mason, Visa, UPS, Buca di Beppo Restaurants, Amgen, Mothers Work, Kimberly-Clark, Bell Telephone, The Grove, St. Joseph's Aspirin, along with many, many more.\r\n\r\nThrough strong, trusted relationships with all the major music labels, leading independent labels and global publishing companies, Inspire has the ability to engage most leading artists, and license and distribute almost all CDs and songs in the world.\r\n\r\nOne core competency is our unparalleled packaging of and expertise in custom CDs; showcasing our passionate team of nationally award-winning graphic designers and business writers.\r\n\r\nOur campaigns hove proudly substantially contributed to numerous charities around the world, including: the City of Hope, National Alliance of Breast Cancer Organization, JCPenney Afterschool, Children's Hospital Los Angeles, and House Ear Institute, along with many, many more.\r\n\r\nEmotionally branding companies, artists and charities.\r\n\r\nThat's Inspire Entertainment.", 
+    "twitterId": "Inspire_Tweets", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "310-459-7600"
+       }, 
+       "address": {
+        "postalCode": "90212", 
+        "city": "Beverly Hills", 
+        "street1": "9766 Wilshire Blvd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.inspireentertainment.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "music", 
+      "entertainment", 
+      "marketing", 
+      "publishing", 
+      "advertising", 
+      "download", 
+      "distribution"
+     ]
+    }, 
+    "universalName": "inspire_4", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Inspire"
+   }, 
+   {
+    "numFollowers": 25, 
+    "name": "Invitation Media Ltd", 
+    "industry": "Fundraising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BS3 3NU"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.invitationbook", 
+    "universalName": "invitation-media-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The Invitation Book is a discount voucher and savings directory that can help you save hundreds of pounds on going out in your area. It is published annually in 9 regional editions. Each book is packed with a multitude of significant discounts (2 for 1, 25% off, etc) for the best local leisure, entertainment and dining establishments.\r\n\r\nThe Invitation Book and all associated products are produced by Invitation Media Ltd., with head offices based in Bristol.\r\n\r\nThe company was set up in 2003 by publishers Scott Davidson, Sam Oliphant, Dougal Templeton and Jo Kennedy, with the aim of raising over \u00a31 million for good causes in every region that has an Invitation book. A secondary target was to have a book established in every major city and region throughout the UK and in 2008 there were books in the following areas:\r\n\r\nBristol, Bath & West \r\nCoventry & Warwickshire \r\nBirmingham, Solihull & West Midlands \r\nCardiff, Newport & South Wales \r\nNottingham & Derby \r\nThe Black Country \r\nIn 2009, the following editions are available:\r\n\r\nSouthampton & Portsmouth \r\nBrighton, Hove & West Sussex \r\nReading, Oxford & The Thames Valley \r\nAs with anything new, it does take time for people to get used to the idea that you really can buy \u00a31,000's worth of fantastic offers and savings for less than \u00a330\u2026 but believe us, there are no catches, no hidden costs or prohibitive terms and conditions.\r\n\r\nWe would love to claim this as an original concept. But like all great ideas, it's inspired by others. There are many similar books around the world but it's 'Entertainment' founded in Detroit, USA by Hughes and Sheila Potiker in 1962, which is the most successful. It's now published in more than 200 markets across Canada, USA, Australia, New Zealand and Asia with more than 8 million books sold in 2004. As well as each book delivering $1,000's in voucher and dining savings, it also works as a community fundraiser - $90 million was raised last year for local good causes from the sale of USA 'Entertainment' books alone.\r\n\r\nHaving recently moved to larger offices in Bristol and with a dedicated and hardworking team, Invitation Media Ltd. continues to expand its client database of members, discount promotion partners and fundraisers, always with the clear aim of helping make a difference in the local community.\r\n\r\nIf you are interested in the book, or ways in which we can help you, why don't you make an appointment and come have a coffee and chat, we would be more than happy to see you."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 78, 
+    "description": "De Nederrijn Groep bestaat uit verschillende facilitaire bedrijven: Nederrijn Schoonmaak, Personel Services en Hove Groenvoorziening. Allemaal bedrijven die uw facilitaire zorgen professioneel uit handen nemen, zodat u er geen omkijken naar heeft.\r\n\r\nDe Nederrijn Groep werkt vanuit een regionale gedachte. Door korte communicatielijnen zijn we flexibel en intensief betrokken bij onze opdrachtgevers. Dit wordt nog eens versterkt door de verantwoordelijkheden zo laag mogelijk in de organisatie te leggen. De verschillende bedrijven functioneren volledig autonoom onder leiding van gespecialiseerd management.\r\n\r\nNaast de gespecialiseerde bedrijven op facilitair gebied biedt Nederrijn haar opdrachtgevers ook een loket voor alle overige facilitaire diensten. Dit Total Facility Concept betreft zowel de operationele uitvoering, als de begeleiding en het organiseren van een uitbesteding. De Nederrijn Groep adviseert en koopt in daar waar het voordelig is voor de opdrachtgever. Niet alleen financieel maar ook organisatorisch passend bij uw organisatie.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "026-3195830"
+       }, 
+       "address": {
+        "postalCode": "6921 RZ", 
+        "city": "Duiven", 
+        "street1": "Impact 50"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.nederrijn.nl", 
+    "universalName": "nederrijn-groep", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nederrijn Groep"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Frisbee LTD", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn11ut"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.frisbeeuk.com", 
+    "universalName": "frisbee-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Frisbee LTD is Web Development and Web Design company based in Brighton & Hove, Sussex."
+   }, 
+   {
+    "numFollowers": 21, 
+    "name": "Crosby & Moore", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.crosbymooresolicitors.co.uk", 
+    "universalName": "crosby-&-moore", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Solicitors in Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Business IT Support, IP Telephony & Systems Management in Sussex.\r\n\r\nViper IT is a customer-focused IT Solutions Provider combined with a full service Web Design & online service agency based in Shoreham, West Sussex.\r\n\r\nWe provide a full range of IT services including Business IT Support, Systems Management and Network installation to small and medium businesses in Brighton and Hove.\r\n\r\nWith the growth of our online services we also servicing an increasing number of foreign clients in America and parts of Europe.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08445000444", 
+        "phone1": "08445000333"
+       }, 
+       "address": {
+        "postalCode": "BN43 6NZ", 
+        "city": "Shoreham", 
+        "street1": "Unit 4A Dolphin Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.viperit.co.uk", 
+    "universalName": "viper-it-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Viper IT Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Hannah Forward - illustrator and printmaker", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07928673999"
+       }, 
+       "address": {
+        "postalCode": "BR3 5HN", 
+        "city": "Hove", 
+        "street1": "12 Scott Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.hannahforward.com", 
+    "universalName": "hannah-forward-illustration", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Illustrator and printmaker based in Hove (East Sussex, UK).\r\n\r\nStudied Graphic Design at The University of Brighton, graduating in 2006.\r\n\r\nI now work as a freelance illustrator and artist printmaker, specializing in linocut and woodcut.\r\n\r\nMy work is very influenced by people and everyday surreal moments."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "CanElectric", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.canelectric.co.uk", 
+    "universalName": "canelectric", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton and Hove's best electrical contractor"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "DoubleD Photography", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.photoboxgallery.com/sussexfootball", 
+    "universalName": "doubled-photography", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "A one stop shop for professional action photographs from the Brighton and Hove football league.\r\nView and buy your pictures here."
+   }, 
+   {
+    "numFollowers": 22, 
+    "name": "Absolute Brighton", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.absolutebrighton.tv", 
+    "universalName": "absolute-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "ABSOLUTE brighton TV, internet TV / video channel and online magazine. A guide to Brighton and Hove, East Sussex, UK with listings of bars, hotels, clubs, shops, restaurants and videos of exclusive events."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Chambers Wade HR Services is a Human Resources consultancy covering London, East and West Sussex and Brighton and Hove. We work with senior HR leaders to deliver HR projects and consultancy services.\r\n\r\nExamples of assignments include HR Process Mapping, Staff and Manager's Handbooks, Employee Development Programmes and the implementation of an online performance management system.\r\n\r\nWe work either onsite or offsite depending on the client's needs.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SW4", 
+        "city": "London", 
+        "street1": "102"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.chamberswade.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Human Resources Consultancy"
+     ]
+    }, 
+    "universalName": "chambers-wade", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Chambers Wade"
+   }
+  ]
+ }
+}

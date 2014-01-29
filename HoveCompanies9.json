@@ -1,0 +1,903 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 180, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "HeartCo", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.heartco.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Websites", 
+      "Content Management System Websites (Wordpress etc)", 
+      "Design", 
+      "Logos", 
+      "Video Editing", 
+      "Printing", 
+      "Hosting", 
+      "Social Media", 
+      "SEO"
+     ]
+    }, 
+    "universalName": "heartco", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "HeartCo Design are a professional, affordable media solutions business based in Shoreham, Sussex.\r\n\r\nWe offer Websites, Designs, Logos, Videos and much more at prices that are extremely competitive.\r\nOur most popular product is our affordable website design and development.\r\n\r\nHere on HeartCo Design\u2019s website, we will showcase all the best websites, logos, designs and projects that HeartCo Design have contributed towards all across the region of East Sussex and West Sussex. Ranging from areas like Brighton, London, Hove, Eastbourne, Worthing and of course Web Design in Shoreham (to name a few)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Rock-IT Enterprise is a Community Interest Company, Limited by Guarantee, whose partners are Albion in the Community, the registered charity of Brighton and Hove Albion FC.  Abcom a successful Sussex IT company and RML Community Partners, a Sussex based social enterprise business consultancy.", 
+    "twitterId": "", 
+    "industry": "Computer Hardware", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.rockitrecycling.org.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Refurbisher of second user IT equipment", 
+      "Provision of training in IT hardware and software for 16-24 year olds not in training, education or employment."
+     ]
+    }, 
+    "universalName": "rock-it-enterprise-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Rock-IT Enterprise cic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "MTM Property is a market leader for Sales & Lettings in Brighton & Hove. With the largest rental portfolio and an ever expanding sales department, you can be confident in instructing us to sell or let your property.  \r\n\r\nWe work hard to match tenants and buyers to properties with a degree of tenacity that is hard to match. We are very experienced and have gained thorough knowledge through years of buying, selling and letting our own property. Our range of services is comprehensive, can be tailored to meet your needs and our rates are competitive so call us to find out why 100% of respondents in a recent survey would recommend MTM to friends and family.\r\n\r\nOver the last couple of years our sales department has developed and expanded to accommodate a diverse range of properties, buyers and sellers. Our growth is underpinned and driven by our sheer determination to provide you, the customer, with an unrivalled personal and detailed service. We take the time to listen to you, understand your requirements and then tailor our package to meet your specific needs.\r\n\r\nIn many cases we have succeeded in agreeing sales on properties marketed by other larger agents in the area. Even in what is undeniably a challenging market, our focus on matching serious buyers to the right property has paid off, with many sellers pleasantly surprised at our ability to source a buyer for their property where others failed.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 559567", 
+        "phone1": "01273 645797"
+       }, 
+       "address": {
+        "postalCode": "BN24AE", 
+        "city": "Brighton", 
+        "street1": "Ursa Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.mtmproperty.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Lettings", 
+      "Sales", 
+      "Buy to let investments", 
+      "Student accommodation", 
+      "Valuations"
+     ]
+    }, 
+    "universalName": "mtm-property-services-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MTM Property Services Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Safety Net\u2019s vision is to create communities across Brighton, Hove and Sussex that work together to keep children safe. We aim to ensure all children and young people are aware that they have the right to feel and be safe, and that they can get help when they need it.  We work with families,  in schools and in local communities.\r\n\r\nOur Vision is to build safer communities for children and young people, where all children, young people and families know that they have the right to feel safe, the responsibility to keep others safe and the support to reach their full potential.\r\n\r\nOur Mission: To work with communities to improve the safety and well-being of children, young people and families, at home, school and in their neighbourhoods.", 
+    "twitterId": "", 
+    "industry": "Primary/Secondary", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 411613"
+       }, 
+       "address": {
+        "postalCode": "BN41 2PA", 
+        "city": "Brighton", 
+        "street1": "Drove Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.safety-net.org.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Safeguarding and Child Protection", 
+      "Training and development", 
+      "Parenting support and Family Link", 
+      "Children and young people", 
+      "Youth Participation", 
+      "CRB checking Service", 
+      "Home safety Equipment"
+     ]
+    }, 
+    "universalName": "safety-net-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Safety-Net Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 98, 
+    "description": "BHT is a charity that provides accommodation, support and advice to homeless, insecurely housed and vulnerable people in Brighton and Hove, Eastbourne and Hastings. Our mission is to empower  disadvantaged people to make positive changes in their lives and their community.", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 645402", 
+        "phone1": "01273 645400"
+       }, 
+       "address": {
+        "postalCode": "BN1 4PH", 
+        "city": "Brighton", 
+        "street1": "144 London Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1968, 
+    "websiteUrl": "http://www.bht.org.uk/", 
+    "universalName": "brighton-housing-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton Housing Trust"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A state-of-the-art dental practice in central Hove offering stunning cosmetic dental treatments including teeth whitening, porcelain veneers, white fillings, gum contouring and teeth reshaping as well as clear orthodontics using \"invisible\" braces to create the perfect smile makeover. \r\n\r\nTo restore your smile by replacing missing, decayed or broken teeth, we use crowns, bridges, dentures and dental implants. With the latest technology in dentistry, we're able to offer the highest quality of care with a wide option of treatments. \r\n\r\nOur preventive dental treatments include scale and polish, bad breath, gum disease, decay detection and mouth cancer screening services. \r\n\r\nWe also have expertise and special interests in oral surgery for extractions, root canal therapy for infections and sedation is available for nervous patients.\r\n\r\nOur facial rejuvation experts remove wrinkles, frowns and lines on the face to make you look and feel younger.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Medical Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonsmiles.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Cosmetic dentistry", 
+      "Facial rejuvenation", 
+      "Botox and Restylane treatments"
+     ]
+    }, 
+    "universalName": "bright-on-smiles", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Bright On Smiles"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "The Russell Education Trust (RET) is a not-for-profit charitable trust.  It is sponsored by Education London (EL), an educational consultancy that works in partnership with a number of outstanding schools and academies, senior inspectors, academics and education leaders to support the implementation of best practice in schools nationally. \r\n\r\nEL were the DfE's school improvement provider for the London Challenge and supported 22 of the 23 most improved London Schools. Through the London Challenge, and the support from EL, schools in London now lead the outcomes across England.\r\n\r\nRET uses the experience of EL, and all their trustees and partners, to work with parents, communities, and diocesan authorities to establish and run new Free Schools.  RET Free Schools are inclusive comprehensives with the highest possible academic standards, serving their locality and working as part of their local family of schools. Both RET, and the founding groups with whom they work, are firmly resolved that RET Free Schools will all be judged to be good or outstanding by Ofsted and their communities within two years of opening. \r\n\r\nRET currently sponsors the following Free Schools:\r\n\r\n   - Bristol Free School (Established Sept 2011)\r\n   - Becket Keys Church of England School (Established Sept 2012)\r\n   - St Andrew the Apostle Greek Orthodox School (Due to open Sept 2013)\r\n   - King's School Hove (Due to open Sept 2013)\r\n   - Turing House School (Due to open Sept 2014)", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.russelleducationtrust.org.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Free Schools"
+     ]
+    }, 
+    "universalName": "russell-education-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Russell Education Trust"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "From our offices in the city of Brighton & Hove our experienced and friendly team advise clients worldwide on tax and financial issues. \r\n\r\nOur business revolves around relationships as much as numbers. We take time to understand the requirements of our clients and their businesses to ensure we deliver effective advice.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 202645", 
+        "phone1": "01273 206445"
+       }, 
+       "address": {
+        "postalCode": "BN1 6AF", 
+        "city": "Brighton", 
+        "street1": "Telecom House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.mcpwh.com", 
+    "universalName": "mcphersons-walpole-harding", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "McPhersons Walpole Harding"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 147, 
+    "description": "Pageturner provides creative photographic solutions for:\r\n\r\nPortraits, Weddings, Commercial, Events or Business Photos for Google,\r\n\r\nMake it a Pageturner!\r\n\r\nPageturner Photography based in Hove, East Sussex, is run by Business owner, Photographer and\r\nDigital artist Mike Page who will shoot and edit your photography from start to finish.\r\n\r\n\" I aim to ensure all my clients needs are met.\r\nI'm passionate about photography, and whatever the subject is my goal is to capture\r\nthe right photography for you, professionally and with amazing results.\"\r\n\r\nOwner and Photographer\r\nMike Page", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)7761675468"
+       }, 
+       "address": {
+        "postalCode": "BN3 1PB", 
+        "city": "Hove", 
+        "street1": "32, Furze Croft"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.pageturnerphotography.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "360 Photography", 
+      "Commercial Photography", 
+      "Wedding Photography", 
+      "Food Photography", 
+      "Portraits Photography", 
+      "Product Photography", 
+      "Portfolios", 
+      "Event Photography", 
+      "Location & Property Photography", 
+      "Google Business Photos"
+     ]
+    }, 
+    "universalName": "pageturner-photography", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Pageturner Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "GIRAFFE Magazine is a new monthly mini-mag based and distributed in Brighton.\r\nOur magazine is written by local comedians and features interviews, artwork and articles.\r\nWe also provide comedy listings for Brighton & Hove.\r\n\r\nGIRAFFE promotes Brighton comedians and local businesses. \r\nAd space is available at great rates. \r\nHere are some reasons to advertise with us:\r\n\r\nGIRAFFE is Brighton\u2019s only FREE Stand-up comedy magazine\r\nGIRAFFE is distributed throughout the whole of Brighton \r\nGIRAFFE has an estimated readership of 40,000 every month!\r\nGIRAFFE is written and produced by local comedians and supports local comedy\r\nGIRAFFE offers a discount for multiple month advertising space\r\nGIRAFFE offers free inclusion in the online version of our magazine\r\nGIRAFFE can provide a Design Service for your advertisement\r\nGIRAFFE has a broad and diverse readership with an age range of 18-59\r\nGIRAFFE is a reliable source of full monthly comedy listings\r\nGIRAFFE is currently offering a special introductory price\r\n\r\nA press pack is available on request.\r\nContact us for more details:\r\nadvertising@giraffemag.co.uk", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.giraffemag.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Comedy", 
+      "Stand-up", 
+      "Advertising"
+     ]
+    }, 
+    "universalName": "giraffe-magazine", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "GIRAFFE Magazine"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Trendco are the UK's number 1 wig and hairpiece specialists. With over 45 years experience in the industry, we have hundreds of styles and colours to suit something for everyone. We have five salons nationwide, Birmingham, Hove, London, Manchester and Nottingham as well as having a mail order service and also have stockists nationwide. \r\n\r\nTrendco are part of the global Aderans Company. We are continually on the look out for new innovations in the world of hair loss and wigs and have a fantastic techinal team constantally testing new products which come to the market.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 720116", 
+        "phone1": "01273 774977"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DD", 
+        "city": "Hove", 
+        "street1": "Sheridan House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1965, 
+    "websiteUrl": "www.trendco.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Wigs", 
+      "Over 45 years experience", 
+      "Hair Extensions", 
+      "Bespoke Piece Specialists", 
+      "5 Salons nationwide", 
+      "UK's NO1 wig and hairpiece suppliers", 
+      "Friendly customer service team", 
+      "NHS Prescriptions accepted in Salons"
+     ]
+    }, 
+    "universalName": "trend-hair-supplies", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Trend Hair Supplies"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Enliven Massage Therapy provides a complete fully mobile massage treatment service in the Brighton & Hove and Worthing areas.\r\n\r\nEnliven is committed to enhancing your health and wellbeing through our holistic form of massage. Based in Brighton, we are a mobile company able to bring our massage couch or massage chair to any event, convention, place of work or in the comfort of your own home.\r\n\r\nAt Enliven we are fully qualified, insured and CRB checked massage practioners, who are dedicated to delivering a highly effective, timely and affordable massage experience that fits into your busy schedule.\r\n\r\nMany people regard massage as an indulgent treat, but denying yourself the pleasure of a good rubdown means you`ll be missing out on a hugely beneficial and scientifically proven health tonic. Researchers have discovered that massage helps repair muscle and reduce inflammation after exercise, they also concluded the pain relieving benefit of massage may be comparable to the anaesthetic effects of anti-inflammatory medicine. Other health benefits include fast stress relief, lower back pain beater and boosted immunity to name but a few.\r\n\r\nEnliven can provide either specific sports / remedial massage required for a particular problem, or a relaxing and rejuvenating holistic / swedish full body massage to stimulate and calm the body.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07545 099494"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AD", 
+        "city": "Brighton", 
+        "street1": "Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.enlivenmassagetherapy.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sports & Remedial Massage", 
+      "Holistic / Swedish Massage", 
+      "Reduce spasms / cramps / back pain", 
+      "Improve flexibility & Sleep quality"
+     ]
+    }, 
+    "universalName": "enliven-massage-therapy", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Enliven Massage Therapy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Enliven Personal Training provides one to one or group personal fitness training in Brighton & Hove and Worthing areas.\r\n\r\nEnliven provides the very latest exercises and training techniques the industry has to offer, and we also give nutritional advice and guidance throughout the course of personal training, to further improve your overall health which will aid in your success towards achieving your fitness goals.\r\n\r\nWhatever your age and whatever your current level of fitness, we can provide the personal training you need either at a local gym, at your home or outside, perhaps in a nearby park, whatever suits you best, which can make your unique sessions fun, enjoyable, effective and challenging.\r\n\r\nAt Enliven, we understand most people consider exercise a `chore` and consequently find it boring and give up, however, we are very experienced at dealing with these very common problems and this reflects in our training practices, by encouraging clients rather than intimidating them, by offering an unique and individual approach which is a different and fresh approach to improving your health and fitness, no two clients have the same training programme.\r\n\r\nWhether you need a few sessions to get you going or you need long and continued support,  using Enliven is a fantastic investment for your long term health and fitness.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07545 099494"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AD", 
+        "city": "Brighton", 
+        "street1": "Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.enlivenpersonaltraining.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Weight / Fat Loss", 
+      "Boxing / Core / Conditioning Training", 
+      "Cardiovascular / Strength Training", 
+      "Sports / Remedial Massage"
+     ]
+    }, 
+    "universalName": "enliven-personal-training", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Enliven Personal Training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "name": "Atkinsons Accountants", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 771122"
+       }, 
+       "address": {
+        "postalCode": "BN3 2FA", 
+        "city": "Hove", 
+        "street1": "Palmeira Avenue Mansions"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0208 949 2202"
+       }, 
+       "address": {
+        "postalCode": "KT3 4NT", 
+        "city": "New Malden", 
+        "street1": "86 Burlington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.atkinsonsca.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Accounting", 
+      "Auditing", 
+      "Taxation", 
+      "VAT consultancy", 
+      "Remuneration structuring"
+     ]
+    }, 
+    "universalName": "atkinsons-accountants", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Atkinsons provide trusted accounting services in Brighton & Hove, London and throughout the south east. We have done so since 1962. \r\n\r\nWe specialise in tax solutions both for individuals and companies; business growth (providing outsourced business support); sourcing finance; and remuneration structures. We also maintain traditional accounting and auditing services.\r\n\r\nOur clients come from a wide cross-section of business sectors, but require similar solutions; we recognise your need for professional, independent advice from your accountant, adding value to your businesses, and we recognise the benefits to you of a trusted long-term relationship with your accountant."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "IT First Limited", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.itfirst.co.uk", 
+    "universalName": "it-first-limited", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Formerly known as Technical Response Team, we launched in 1996 with the aim of delivering IT services concentrating mainly on the small to medium size business community. Since the launch Technical Response rapidly became a market leader in their field, focusing on high levels of service backed by a Management team having over many years combined experience.From July 2008 we became known as IT First in order to reflect our expanding portfolio of services as we entered into a sponsorship agreement with Brighton & Hove Albion FC \u2013 to become the clubs shirt sponsor.Our success has grown through developing relationships with clients, by listening to their needs and developing a strategic partnership providing ongoing support either onsite or by our help desk. Our aim is to become the source for all our clients needs whether it is a piece of hardware or a fully managed global network.Looking to the future, IT First's goal is for continued growth, maintaining our unrivaled quality of service whilst embracing and presenting new technology to our clients."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "We are a visual design & communication studio, based in Hove, East Sussex, providing elegant & ethical solutions for your creative needs.  At Oxide we pride ourselves on our passion for design and our strong commitment to working ethically and sustainably with our clients.  We strive to use ecological, environmentally friendly materials and processes; source from ethical suppliers who think like we do; and hope to stimulate change and support your drive to more sustainable work practices.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 324876"
+       }, 
+       "address": {
+        "postalCode": "BN3 3ED", 
+        "city": "Hove", 
+        "street1": "The Studio"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.oxidecreativesupport.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Presentation Template Design", 
+      "InforGraphics", 
+      "Brand Design", 
+      "Wordpress Design", 
+      "InterNETworking"
+     ]
+    }, 
+    "universalName": "oxide-creative-support", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Oxide Creative Support"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "He-Van are a fun team hence the He-Man Pun! However as a company, we are firm believers that removals, collection and delivery services should be carried out in a professional way with high standards and respect to property and people, hence that\u2019s why were good at what we do. I believe that our can-do attitude and hard working approach truly sets us apart from most of our competitors.\r\n \r\nHe Van is more than the average man and van service and more than a Brighton removals firm. We are a professional team with commitment to the customer experience at an affordable price within everyone\u2019s reach. We also take pride in supporting community events in Brighton such as the Brighton and Hove food and drink festival. More collaborations are set for 2013.  \r\n\r\nHe-Van, Movers of the Universe now offer cheap storage facilities in the heart of Brighton and can provide a complete packing and unpacking service. Furthermore we can now offer a removals service for bedsits and flats to large houses and offices. He-Van has teamed up with one of the UK's largest removal firms based in Brighton and have access to rigid 12 meter lorries. See the website for full details and services that are offered at www.he-vanandman.co.uk\r\n \r\nMy team and I hope that you feel confident with our service and welcome your feedback at any time. If you require a visit to your property to ascertain your moving needs, drop us a line and we\u2019ll arrange a convenient time for your free quote.", 
+    "twitterId": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07795 678200"
+       }, 
+       "address": {
+        "postalCode": "BN12FF", 
+        "city": "Brighton", 
+        "street1": "63 Regency Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.he-vanandman.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Removals", 
+      "Storage", 
+      "Packing / Unpacking Service", 
+      "Man and Van", 
+      "Business Deliveries / Collections"
+     ]
+    }, 
+    "universalName": "hevanremovals", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "HeVanRemovals"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Centurion Group is an active property firm encompassing all areas of the real estate industry, serving it's own portfolio holdings, whilst also providing services and ongoing advice to retained UK and international clients.\r\n\r\nThe group is Brighton based and owns The Brighton Square Portfolio, in addition to various other property assets within the city of Brighton & Hove and the South-East of England. The team is engaged in strategic advice and consultancy for clients, particularly in regard to Asset Management, Project Management, Acquisition & Disposal and Development & Investment matters. Centurion also operates in North America, with offices in Vancouver (BC), Canada.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 434111", 
+        "phone1": "+44 (0)1273 434100"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HE", 
+        "city": "Brighton", 
+        "street1": "Centurion House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "V7T 1B8", 
+        "city": "West Vancouver", 
+        "street1": "Centurion Pacific"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "http://www.centuriongroupuk.com/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Acquisition & Disposals", 
+      "Proactive Asset Management", 
+      "Consultancy & Strategic Advice", 
+      "Development", 
+      "Investment", 
+      "Private Equity", 
+      "Holiday Homes", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "centurion-group-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Centurion Group."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "We are an experienced & friendly team of Chartered Surveyors and Energy Assessors with excellent knowledge of property & market conditions in the City of Brighton & Hove, throughout East & West Sussex and beyond.\r\n\r\nOur Services include Building Surveys; HomeBuyer Reports; Defect diagnosis; Valuations for Mortgage, Right To Buy Purchase, Probate, Tax, Matrimonial, Sale/Purchase and Development Appraisals as well as Leasehold Enfranchisement valuations and advice.\r\n\r\nWe can also be involved in Lease renewal & rent review, Schedules of Dilapidations and Schedules of Condition for commercial properties (Highly recommended if your business is taking a new lease on premises).\r\n\r\nFinally we also provide Energy Performance Certificates on commercial properties as well as Party Wall advice.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 727 883", 
+        "phone1": "01273 821 969"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "10A The Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01444 458 062"
+       }, 
+       "address": {
+        "postalCode": "RH16 4LY", 
+        "city": "Haywards Heath", 
+        "street1": "141-143 South Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.sussexsurveyors.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Valuations", 
+      "Building Surveys", 
+      "HomeBuyer Reports", 
+      "Energy Performance Certificates", 
+      "Lease extension valuations", 
+      "Leasehold Enfranchisement", 
+      "Building Defect Diagnosis", 
+      "Specifications of Works", 
+      "Schedules of Dilapidations and Condition.", 
+      "Party Wall Advice and Notices"
+     ]
+    }, 
+    "universalName": "sussex-surveyors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Sussex Surveyors LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Producers of Hand Crafted Traditional Oak Flooring.\r\n\r\nWe Produce Hand Finished, aged, scraped and distressed authentic Wide Plank Oak Floorboards, tailor made in our workshop and finished with a unique range of colours and wood floor oils.\r\n\r\nWe deliver wood flooring throughout Brighton & Hove, Sussex, Surrey, Kent, London, Uk, Ireland and Continental Europe.\r\n\r\nNaked Floors works closely with the wood flooring trade, builders, developers, architects, interior designers and the general public.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273 457 705"
+       }, 
+       "address": {
+        "postalCode": "BN2 1TS", 
+        "city": "Brighton", 
+        "street1": "14 Margaret Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.nakedfloors.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wide Plank Oak Flooring", 
+      "Handscraped, Aged and Didtressed Oak Flooring", 
+      "Wholesale and Retail Hardwood Flooring", 
+      "Hardwood Flooring Installation and Consultancy Services"
+     ]
+    }, 
+    "universalName": "naked-floors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Naked Floors"
+   }
+  ]
+ }
+}

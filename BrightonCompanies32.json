@@ -1,0 +1,780 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 640, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "brightspace, based in Brighton & Hove, specialises in extensions, loft conversions, garden rooms, kitchens, bathrooms, home remodelling and interior renovations. brightspace provides a \u2018turn-key\u2019 service across Sussex giving you a one-stop-shop for design through to completion on your building project. Please browse our online portfolio of past works at www.brightspace.info. You can also call us now on 07961 363784 or 01273 252881 to discuss your project and arrange a no-obligation quote.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07961363784"
+       }, 
+       "address": {
+        "postalCode": "BN11RD", 
+        "city": "Brighton", 
+        "street1": "39/40 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.brightspace.info", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Property design", 
+      "Project Management", 
+      "Construction"
+     ]
+    }, 
+    "universalName": "brightspace-design&build-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "brightspace (Design&Build)"
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 3, 
+    "name": "Studio Weekend", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "studio-weekend.co.uk", 
+    "universalName": "studio-weekend", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Creative collective based in the centre of Cheltenham, UK, founded by graduates from University College Falmouth and Brighton University in Design and Ilustration. Specialising in branding and digital. Skills including illustration, screen printing and bespoke typography."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "MAS Motoring is an independent Sussex driving school formed of British School of Motoring (BSM) trained, male and female Approved Driving Instructors (ADIs). We offer professional one to one training in manual vehicles. Both theory and practical elements of the driving test are covered for all levels of drivers, whether it's your first time or you are returning to lessons after a break.\r\n\r\nAll our instructors offer a structured learning process with various teaching aids including a student record of achievements files and mock practical tests with a different instructor to provide positive feedback and a realistic test scenario.\r\n\r\nOur fleet of vehicles consist of the latest Vauxhall, Ford and Citroen range, presented to the highest standards and all instructors are committed to providing an exceptional level of service at all times.\r\n\r\nIf it\u2019s a career change you\u2019re looking for, we also now offer Driving Instructor Training.\r\n\r\nWe offer very competitive rates with discounts available for block bookings or tailor made packages to meet your requirements. So, if you're looking for male or female driving instructors in Brighton or most areas of Kent and Sussex, you're in the right place!\r\n\r\nMas-Motoring offers a competitive franchise plan giving you the freedom of being your own boss, with the sales, marketing and training support of an established and respected company, plus working within a great team!", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mas-motoring.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Driving tuition", 
+      "Driving lessons", 
+      "Driving instructor", 
+      "Driving instruction"
+     ]
+    }, 
+    "universalName": "mas-motoring", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MAS Motoring"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "North Colorado Data Storage", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.ncdatastorage.com", 
+    "universalName": "north-colorado-data-storage", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "North Colorado Data Storage is a full service backup media storage company.  By providing scheduled and emergency media pickup and media delivery along the Colorado Front Range, we can provide excellent service 24 hours a day to your location, in your town; Denver Metro Area, Boulder, Longmont, Fort Collins, Greeley, Cheyenne Wyoming, Brighton, Loveland, and all other towns in-between.\r\n\r\nVAULT360 at North Colorado Data Storage, is a state of the art FIRELOCK vault that will store your private information, and ensure redundant security and disaster protection. Because we specialize in offsite media storage, we understand the exact conditions that are necessary to protect and prolong the life of your media. \r\n\r\nNCDS sells all types of backup media and storage cases. We can provide competitive pricing and volume discounts.\r\n\r\nNCDS is an expert on disaster recovery plans and business continuity. Let us help you create a plan specialized for you and your organization. We can also provide a detailed framework for you to get started on your own, creating a comprehensive disaster recover / business continuity plan.\r\n\r\nNCDS is committed to providing the best storage solution for our clients. NCDS knows that every client is different, and has different offsite storage needs. We offer flexible and customizable services to facilitate our customer's individual needs."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "The HGA Group is a sales and marketing company representing the leading manufactures of food service equipment.\r\n\r\nWe aim to cultivate customer loyalty by listening to, caring about and providing our customers and clients with top level service; to enhance a high level of ethics, excellence, innovation and integrity; to attract, develop and retain a superior team; to be focused, sensitive and responsive to our employees; and to enhance long-term relationships with our manufacturers and their people through professional execution of their policies and programs.\r\n\r\nThe HGA Group has a history of representing the leading manufacturers of food service equipment that spans 70 years. This continuity and experience provide the foundation of a tightly focused group of people that are dedicated to the support of the products our companies produce. HGA has offices in Brighton and Grand Rapids, Michigan, as well as Fishers and Ft. Wayne, Indiana.\r\n\r\nThe aim of our sales and marketing group is to develop and retain market share for the manufacturers we represent by working with the leading food service equipment dealers, specifiers and operators before, during and after the products are sold. Our credo is, \u201cTo stay a step ahead, we must lead the way.\u201d", 
+    "twitterId": "", 
+    "industry": "Business Supplies & Equipment", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.hgagroup.com", 
+    "universalName": "the-hga-group", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The HGA Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "ecoBrighton.com", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.ecobrighton.com", 
+    "universalName": "ecobrighton-com", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We're your local distributers for the Wikaniko company that's helping families to become greener, benefitting themselves, their health and the environment, without it costing the earth. Making a diference one step at a time\r\n\r\nBased in Brighton and Hove but serving the whole of the UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Divorce Workshops", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.divorceworkshops.com.au", 
+    "universalName": "divorce-workshops-australia", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "World first weekend Divorce Workshops - affordable, stress-free, weekend retreat workshops.\r\n\r\n\r\nDivorce Workshops Australia is led by professionals who'll give you tailored legal documents and the confidence you need to finalise your separation. Move on with your life, reduce stress and heartache and protect your children, home, wealth and well-being.\r\n\r\nBrighton Legal P/L operates \"Divorce Workshops\" \r\nA.C.N - 081 354 378  ABN - 77 591 405 449\r\nLiability limited by a scheme approved under Professional Standards legislation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 61, 
+    "description": "International booking agency based in Brighton. \r\n\r\nMANAGING AGENTS FOR: (DJ\u2019S) Affie Yusuf // Ambivalent // AnD // Applescal // Asadinho // Barber // Bleaching Agent // Brett Johnson // Chris Coco // Derrick Carter // Dimitri Veimar // Disciples // DJ Pierre // Eagles For Hands // Footprintz // Forward Strategy Group // Freemasons // Harvard Bass // Harvey McKay // He/aT // Inland Knights // Josh Wink // Lifelike // Mark Farina // Martin Roth // Max Cooper // Mondkopf // Mr C // Nathan Coles // Perc // Riva Starr // Terry Francis // Tevo Howard // The Young Punx // Vanilla Ace // Yolanda Be Cool\r\n\r\nLABEL NIGHTS/COLLECTIVES:\r\nFamily And The Friends // Ovum // Perc Trax // Snatch! // Superfreq // Wiggle", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1273 56 61 23", 
+        "phone1": "+44 (0) 1273 55 40 22"
+       }, 
+       "address": {
+        "postalCode": "BN2 4WA", 
+        "city": "Brighton", 
+        "street1": "PO Box 3261"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.elitemm.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Booking Agency", 
+      "Music", 
+      "DJs", 
+      "Live Music"
+     ]
+    }, 
+    "universalName": "elite-music-management", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Elite Music Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Residential Sales & Lettings in Brighton, Hove and the surrounding towns. We have combined experience of 45 years, we are diligent, honest and hard working. We make it our business to communicate with as many parties as possible in the whole chain - giving you answers.\r\n\r\n* We talk to our clients as often as possible, even if there\u2019s no news\r\n\r\n* Provide feedback on every single viewing without fail\r\n\r\n* Return all calls the same day\r\n\r\n* We don't rely on gimmicks and we can be bothered to do anything\r\n\r\n* We are on email on Sundays too\r\n\r\n* We give outstandingly great service - all the time", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 727000"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Hove", 
+        "street1": "1b Montefiore Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.jasondeans.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sales", 
+      "Lettings", 
+      "Mortgages", 
+      "Solicitors"
+     ]
+    }, 
+    "universalName": "jason-dean-estate-agency", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Jason Dean Estate Agency"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Cerame's Italian Villa has been proudly serving Brighton, Rochester and the surrounding areas for over 40 years.  Family owned and operated since 1970, Cerame's serves a full Italian menu in a warm, casual setting. You'll find Pasta, Pizza, Calzones, Steaks, Seafood and much more. Specialty dishes include Eggplant and Veal Parmigiana, Homemade Gnocchi and Manicotti, Chicken French and Fettuccine Alfredo. Open for lunch Monday through Friday, Dinner Tuesday through Saturday. Private room available for parties and business meetings up to 70 guests.  Catering and take-out are also available.", 
+    "twitterId": "", 
+    "industry": "Restaurants", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "585-427-7538", 
+        "phone1": "585-427-7350"
+       }, 
+       "address": {
+        "postalCode": "14623", 
+        "city": "Rochester", 
+        "street1": "3450 Winton Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.cerames.com", 
+    "universalName": "cerame's-italian-villa", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cerame's Italian Villa"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Goldstone Homes Limited", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.goldstonehomes.co.uk", 
+    "universalName": "goldstone-homes-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Goldstone Homes Limited provides all your building trades under one roof for Brighton & Hove as well as the surrounding areas. We offer a range of services for Homeowners, Landlords and Letting agents as well as Commercial Customers. \r\n\r\nWe can provide a reactive same day service and also provide planned property maintenance. Some projects will require a multiple of trades but we project manage the whole process as part of the service. With this it gives you, the customer, the peace of mind that all trades work is overseen, completed on time and to a high standard.\r\n\r\nWe are able to offer fixed price tradesmen to cater for your needs in the following areas:\r\n\r\nHandyman\r\nElectrical\r\nPlumbing & Heating\r\nKitchen & Bathrooms\r\nRoofing & Glazing\r\nDecorating & Tiling\r\nPlastering & Rendering\r\nLandscaping\r\nCleaning\r\n\r\nGoldstone Homes is devoted to producing a high quality product for its end user. We are very much customer focused and look at each project individually, taking into consideration the clients requirements and needs and what you are looking for from us. We are committed to the project from inception through to completion, delivering on time and within your budget; something that so many Contractors fail to achieve. We feel confident in making this promise due to our vast experience and knowledge of the industry.\r\n\r\nFor more examples of our work just log on to www.goldstonehomes.co.uk or give us a call today on 01273 455934"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "My name is Lois and I'm a designer living by the seaside in Brighton. I love great coffee, beautiful design and riding my bike.\r\n\r\nWeb design (for desktop, tablet and mobile), illustration (for digital and print use) and graphic design are what I spend my time doing. \r\n\r\nYou can have a look at some of my recent projects on my website.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07595 048292"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "18 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.loisdesigns.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Responsive web design", 
+      "Illustration for web"
+     ]
+    }, 
+    "universalName": "loisdesigns", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "LoisDesigns"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Bolney Wine Estate, the vision of Janet and Rodney Pratt, is situated on a hill which was part of the Butting Hill One Hundred, listed in the Doomsday Book.\r\n\r\nVillage tradition has it that the Prince Regent was a frequent visitor to Bolney when travelling to Brighton, staying at Bolney Lodge of which Bolney Wine Estate formed a part in the 18th Century.\r\n\r\nWe started back in 1972 as Bookers Vineyard, with three acres of vines. We have, since those early days, grown to 39 acres and have become specialist red\r\n \r\nwine producers. It has been an interesting journey, with a few changes of winemaker along the way, until Samantha Linter took over in the 1990s.\r\n\r\nMany national and international awards have been won and we are very proud of our achievements to date but we are continually aiming to improve the quality of our wines and in 2005 we invested in a state-of-the-art winery, with help from a DEFRA grant, which really and truly takes us towards our goal of making top quality red, white and traditional method sparkling wines.", 
+    "twitterId": "", 
+    "industry": "Wine & Spirits", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01444 881575"
+       }, 
+       "address": {
+        "postalCode": "RH17 5NB", 
+        "city": "Bolney", 
+        "street1": "Foxhole Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "www.bolneywineestate.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Award Winning English Still Wines", 
+      "Award Winning Sparkling Wines", 
+      "Wine & Vineyard Tours", 
+      "Vineyard Cafe & Tasting Room", 
+      "Local Sussex Food and Drinks"
+     ]
+    }, 
+    "universalName": "bolney-wine-estate", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bolney Wine Estate"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Chantrey Vellacott DFK Business Recovery Division", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7509 9000"
+       }, 
+       "address": {
+        "postalCode": "WC1B 5LF", 
+        "city": "London", 
+        "street1": "Russell Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.cvdfk.com/services/businessrecovery/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Business Rescue", 
+      "Insolvency", 
+      "Business Recovery", 
+      "Formal and Informal Arrangements with Creditors", 
+      "Bankruptcy", 
+      "MVL", 
+      "Pension and Employer Covenant reviews", 
+      "Fraud and Forensic"
+     ]
+    }, 
+    "universalName": "chantrey-vellacott-dfk-business-recovery-division", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Striving to offer positive solutions to financially distressed businesses through our comprehensive range of forward-thinking services.\r\n\r\nWe have 8 Partners working across 7 locations offering insolvency and restructuring advice to both companies and individuals in need to our help.\r\n\r\nOur offices locations are:\r\n\r\nBirmingham\r\nBrighton & Hove\r\nColchester\r\nLondon\r\nNorthampton\r\nSouthampton\r\nThames Valley"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "name": "Clara Rose Consultancy", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 3286 7884"
+       }, 
+       "address": {
+        "postalCode": "IP12 2GA", 
+        "city": "Woodbridge", 
+        "street1": "Rendlesham"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.clararoseconsultancy.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Legal Headhunting", 
+      "Legal Recruitment", 
+      "Legal Search"
+     ]
+    }, 
+    "universalName": "clara-rose-consultancy", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Whether you are a firm of solicitors, a legal department or an individual solicitor or legal professional I can help you develop your practice or career.  I match aspirations and provide long term recruitment solutions.\r\n\r\nMy focus is largely on private practice firms and qualified solicitors. Working with firms to identify individuals to help push their businesses forward. Whilst helping solicitors develop their careers according to their personal needs and goals.\r\n\r\nBased in Suffolk my immediate focus in on East Anglia and the North Home Counties, however I have helped firms and solicitors from Brighton to Newcastle-upon-Tyne. I regularly help solicitors relocate their working lives away from London either closer to their homes or just for a better work/life balance."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Honouring and Celebrating Life\r\n\r\nThe Southern Metropolitan Cemeteries Trust (SMCT) is a community based, not-for-profit organisation, committed to serving the needs of our communities.\r\n\r\nFormed in March 2010 under the Cemeteries and Crematoria Act 2003, SMCT is accountable to the Department of Health and administers Bunurong and Cheltenham Memorial Parks, Brighton General, Cheltenham Pioneer, Dandenong Community, Melbourne General, Springvale Botanical and St Kilda cemeteries.\r\n \r\nAs a not-for-profit organisation, the Trust is responsible for the care and long term maintenance of these eight distinctive cemetery locations. To ensure that the locations will be maintained for future generations, a percentage of revenue is allocated to a Preservation Fund. This fund ensures that resources will be available to maintain all eight cemeteries in perpetuity (for all time).\r\n \r\nOver and above the funeral services we provide, we are committed to guiding families through the most important, long term decisions they will need to make when someone dies.\r\n \r\nWe also recognise our responsibilities as custodians of history.\r\n \r\nHistoric and iconic, the cemeteries and memorial parks within our care are beautiful, tranquil and distinctive destinations to honour and celebrate life.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(03) 9546 8628", 
+        "phone1": "(03) 9546 9377"
+       }, 
+       "address": {
+        "postalCode": "3171", 
+        "city": "Springvale", 
+        "street1": "(located within Springvale Botanical Cemetery)"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(03) 9788 9400", 
+        "phone1": "(03) 9788 9488"
+       }, 
+       "address": {
+        "postalCode": "3175", 
+        "city": "Dandenong South", 
+        "street1": "790 Frankston-Dandenong Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(03) 9585 1761", 
+        "phone1": "(03) 9583 5814"
+       }, 
+       "address": {
+        "postalCode": "3192", 
+        "city": "Cheltenham", 
+        "street1": "Wangara Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(03) 9349 2340", 
+        "phone1": "(03) 9349 3014"
+       }, 
+       "address": {
+        "postalCode": "3052", 
+        "city": "Parkville", 
+        "street1": "College Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.smct.org.au", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Cemetery", 
+      "Cremation", 
+      "Burial", 
+      "Memorialisation", 
+      "Community Events", 
+      "Historic information and education"
+     ]
+    }, 
+    "universalName": "southern-metropolitan-cemeteries-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Southern Metropolitan Cemeteries Trust"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 707, 
+    "description": "Beyond Retro offers the leading selection of handpicked vintage clothing to style conscious shoppers.\r\n\r\nThe large-scale, show-stopping stores are a dazzling celebration of style through the decades. The first Beyond Retro opened in a disused dairy in East London, where they quickly built up a reputation for being an innovative retailer with a rock 'n' roll heart.  Beyond Retro is  a trailblazer, selling 20th-century fashion in all its outrageous and exotic glory. Led by instinctive fashion forecasting and staffed by creative individuals, the company continues to source original wares and kick-start trends.\r\n\r\nThe vibrant spirit of the original East London scene is an integral part of the shopping experience in every Beyond Retro store. It forged humble beginnings in Brick Lane; it now has stores in Stockholm, Gothenburg, Soho, Brighton and Dalston! As the vintage vision is brought to more people across the world with its internationally available online store, Beyond Retro retains its original cultural essence with the nostalgia that\u2019s intrinsic to the Beyond Retro world.\r\n\r\nBeyond Retro go to great lengths to find fashion forward originals and never fail to filter a spectacular collection of vintage designs. Beyond Retro\u2019s vintage heart continues to celebrate the sartorial secrets of bygone eras. From corsets to couture, pencil skirts to punk and everything in between, chronicling a century of magnificent style; Beyond Retro welcomes you to their world!", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+442077299001"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "23-28 Penn Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.beyondretro.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Retail", 
+      "Vintage Clothing"
+     ]
+    }, 
+    "universalName": "beyond-retro", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Beyond Retro"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Proud Robinson", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.proud-robinson.com", 
+    "universalName": "proud-robinson", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Proud Robinson is a small but perfectly formed communications agency, based by the sea in Brighton but working all over the world, helping to realise the ambitions of clients like Nissan, Deutsche Telekom, T-Mobile, Flash Entertainment & Ministry of Sound.\r\n\r\nThinkers & Doers, Dreamers & Believers, Proud yet Humble, Captains & sometimes Pirates, Diplomats & occasionally Scapegoats, we\u2019ve been called many a thing, but if pushed to describe what we really do, we would simply say \u201ccool sh*t that makes people think differently\u201d. \r\n\r\n'Cool sh*t' isn\u2019t a line you\u2019ll find in most budgets, so whilst a lot of what we do would often be called PR or Experiential (we don\u2019t buy audiences, we create interest), we\u2019d rather be thought of as Brand Engineers. \r\n\r\nNot Brand Architects or Communications Consultants, who will sell you a dream without having stood in your shoes & understanding if it is achievable (or will actually work), but people who (thanks to decades of experience) are able to understand how every single aspect of what a brand does influences consumer behaviour. \r\n\r\nFrom product design through to packaging, pricing, distribution strategy & of course marketing, we understand that everything you do has an impact on what people think of you. \r\n\r\nHaving worked above, below & more often than not, right up to the line, we understand where all these things fit in & how the sorts of real world brand experiences we create can make a difference.\r\n\r\nBrand Engineering : just the sh*t that works\u2026"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Fortune Financial Services, Inc. is a premier independent broker dealer located in the historic town of New Brighton, Pennsylvania. For nearly two decades we have been providing financial solutions for our advisors and their clients offering a full compliment of mutual funds, annuities, and other insurance products.\r\n\r\nOur goal is to treat our representatives and their clients in a way that is mutually respectful, honest, and friendly. Through the years this commitment has allowed Fortune to build strong relationships with our financial representatives.  Our representatives know they can count on us to provide them the tools necessary to help them build their business.\r\n\r\nWe also understand that just about every broker dealer offers many of the same products. But what makes Fortune Financial Services stand out is that we still do business the \u2018Old Fashion Way.\u201d That is, we have to earn the trust of our representatives every day.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "724.846.0170", 
+        "phone1": "724.846.2488"
+       }, 
+       "address": {
+        "postalCode": "15066", 
+        "city": "New Brighton", 
+        "street1": "1010 3rd Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "http://www.fortunefinancialservices.com/", 
+    "universalName": "fortune-financial-services-inc-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Fortune Financial Services, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Plumbing & Heating Company based in Brighton, Hove, and Horsham - We cover all aspects of plumbing & heating. Call now for a free no obligation quote - 07732 420088 or 01273 737459. The company was founded in 1997 by Arthur Huntley - The current company director. We have won awards for our customer service level and commitment to the plumbing & heating industry. We strive to make sure that we are working to the best of our abilities using the most advanced energy consumables at the current time.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07732 420088"
+       }, 
+       "address": {
+        "postalCode": "BN36GD", 
+        "city": "Hove", 
+        "street1": "22 Wilbury Villas"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07732 420088"
+       }, 
+       "address": {
+        "postalCode": "RH12 1SJ", 
+        "city": "Horsham", 
+        "street1": "26 Arunside"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.midsussexplumbing.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Plumbing & Heating", 
+      "Oil & Gas", 
+      "Renewables"
+     ]
+    }, 
+    "universalName": "mid-sussex-plumbing-&-heating-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Mid Sussex Plumbing & Heating Ltd"
+   }
+  ]
+ }
+}

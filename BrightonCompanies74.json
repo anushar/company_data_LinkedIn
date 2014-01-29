@@ -1,0 +1,730 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1480, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Business IT Support, IP Telephony & Systems Management in Sussex.\r\n\r\nViper IT is a customer-focused IT Solutions Provider combined with a full service Web Design & online service agency based in Shoreham, West Sussex.\r\n\r\nWe provide a full range of IT services including Business IT Support, Systems Management and Network installation to small and medium businesses in Brighton and Hove.\r\n\r\nWith the growth of our online services we also servicing an increasing number of foreign clients in America and parts of Europe.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08445000444", 
+        "phone1": "08445000333"
+       }, 
+       "address": {
+        "postalCode": "BN43 6NZ", 
+        "city": "Shoreham", 
+        "street1": "Unit 4A Dolphin Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.viperit.co.uk", 
+    "universalName": "viper-it-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Viper IT Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Sophie Grillet", 
+    "twitterId": "", 
+    "industry": "Arts & Crafts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "734 757 3717"
+       }, 
+       "address": {
+        "postalCode": "48103", 
+        "city": "Ann Arbor", 
+        "street1": "Dancing Dog Gallery"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://sophiegrillet.wix.com/sophieartist", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Art", 
+      "Painting", 
+      "Cartoons", 
+      "Sculpture"
+     ]
+    }, 
+    "universalName": "sophie-grillet", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Art and Cartoons by Sophie Grillet.\r\nSophie is an English artist who for the past 17 years has been living in Ann Arbor, Michigan.  She mostly paints in oils and acrylics, also working in 3D including stone and clay sculpture, and photography.\r\n\r\nOccasionally Sophie takes on cartoon commissions, having been a successful cartoonist for books, magazines and national newspapers in the U.K., where she was a regular contributor to The Guardian newspaper.  Sophie attended Central School of Art (now University of the Arts, London) and is an arts graduate of the University of Brighton.\r\n\r\nSophie is a currently docent at the UoM Museum of Art (UMMA) where she provides tours for children and for adults, from university student groups with faculty to older adults suffering memory loss.\r\n\r\nBeing insatiably curious, Sophie is working on a grand attempt to integrate her interests in art, social justice, emotion, ecology, science, and math, but the journey has just begun. She likes to be mindful that what science seeks to describe, is Nature.  Her work reflects on the tragedy of our love of natural beauty and our haste to destroy it."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Onslow-Sheffield, Inc. is a commercial carpentry & interior finish contractor specializing in retail, medical, and tenant build-outs in the Southeast Michigan region.  We are members of the Associated Builders & Contractors of Southeast Michigan and the Greater Brighton Area Chamber of Commerce.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1981, 
+    "websiteUrl": "www.onslowsheffield.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Retail Stores", 
+      "Restaurants", 
+      "Medical Facilities", 
+      "Churches/Schools"
+     ]
+    }, 
+    "universalName": "onslow-sheffield-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Onslow-Sheffield, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Hannah Forward - illustrator and printmaker", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07928673999"
+       }, 
+       "address": {
+        "postalCode": "BR3 5HN", 
+        "city": "Hove", 
+        "street1": "12 Scott Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.hannahforward.com", 
+    "universalName": "hannah-forward-illustration", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Illustrator and printmaker based in Hove (East Sussex, UK).\r\n\r\nStudied Graphic Design at The University of Brighton, graduating in 2006.\r\n\r\nI now work as a freelance illustrator and artist printmaker, specializing in linocut and woodcut.\r\n\r\nMy work is very influenced by people and everyday surreal moments."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "JWA Communications", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3PB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.jwacommunications.co.uk", 
+    "universalName": "jwa-communications", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "JWA Communications is a Brighton based PR and Markeitng Consultancy."
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Deepwater Distribution Company, Inc", 
+    "industry": "Utilities", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "84060"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.empirepassrealestate.net/PDF/web_map.pdf", 
+    "universalName": "deepwater-distribution-company-inc", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Mutual water company in Brighton Estates, Wasatch County, Utah"
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "Doofer Designs", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN42 4XY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.dooferdesigns.co.uk", 
+    "universalName": "doofer-designs", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Product Design company based in Brighton, West Sussex."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "CanElectric", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.canelectric.co.uk", 
+    "universalName": "canelectric", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton and Hove's best electrical contractor"
+   }, 
+   {
+    "numFollowers": 5, 
+    "name": "Mid Sussex Electrical Ltd", 
+    "industry": "Electrical & Electronic Manufacturing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 5TD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.midsussexelectrical.com", 
+    "universalName": "mid-sussex-electrical-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton based Electrical Contractors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Web design and development company based on the South Coast of England near Brighton. Webination specialises RedDot OpenText Content Management CMS development, Magento ecommerce, modX CMS, PHP/MySQL and bespoke CMS solutions. We design websites as well as develop the backend code. We also create occasional video clips for our clients.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.webination.co.uk/blog/feed", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 782079"
+       }, 
+       "address": {
+        "postalCode": "BN13", 
+        "city": "Worthing", 
+        "street1": "Durrington"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.webination.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "RedDot OpenText Content Management CMS", 
+      "Magento", 
+      "MODx", 
+      "PHP & MySQL"
+     ]
+    }, 
+    "universalName": "webination", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "webination"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Eko UK Limited - Effective technology for business growth.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 455706"
+       }, 
+       "address": {
+        "postalCode": "BN43 5DD", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "35-37 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.ekouk.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Software Development", 
+      "Bespoke Reporting Systems", 
+      "Online Business Consultancy"
+     ]
+    }, 
+    "universalName": "eko-uk-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Eko UK Ltd is a Brighton-based consultancy and software business. They understand and develop \r\nbusiness processes before developing and deploying custom-fit technical solutions. This includes business / data analysis, creating business-centric software, mobile applications, bespoke administration systems, dynamic creative content, and even online stores. Eko\u2019s clients include the United Nations, Endemol \u2013 the world\u2019s largest independent television company, and the Citizens Advice Bureau. \r\n\r\nLike our Facebook page for updates: https://www.facebook.com/EkoUKLtd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "High-End Interactive 3D for the Web and mobile.\r\n\r\nWe are an interactive studio based in Brighton, UK. We make 3D games and creative applications for the Web and mobile.\r\n\r\nWe believe in bringing the magic of interactive 3D to a broader audience, taking advantage of the latest technologies to build experiences that allow anyone to play, learn and create.\r\n\r\nThe studio partners with advertising agencies around the world to create engaging 3D content for the following cutting edge platforms:\r\n\r\niPhone, iPad and Android using the Unity game engine.\r\nUnity Web Player for the best 3D experience inside a browser.\r\nWebGL for native 3D graphics in the next generation of browsers.\r\nHelloEnjoy was founded in 2007 by Carlos Ulloa and Libertad Aguilera and proudly remains a team of two, drawing upon a network of talented professionals as each project requires.", 
+    "twitterId": "HelloEnjoy", 
+    "blogRssUrl": "", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 (0) 7522 596686"
+       }, 
+       "address": {
+        "postalCode": "BN3 2JH", 
+        "city": "Hove", 
+        "street1": "3, 25 Adelaide Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.helloenjoy.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Interactive 3D", 
+      "Interactive", 
+      "3D"
+     ]
+    }, 
+    "universalName": "helloenjoy", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "HelloEnjoy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 593, 
+    "name": "Mounds View Public Schools", 
+    "twitterId": "", 
+    "industry": "Primary/Secondary", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "651-621-6000"
+       }, 
+       "address": {
+        "postalCode": "55126", 
+        "city": "Shoreview", 
+        "street1": "350 Hwy 96 W"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "http://www.moundsviewschools.org/", 
+    "universalName": "mounds-view-public-schools", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Active learners. Diverse programs. Superior results.\r\n\r\nLocated approximately nine miles north of the downtown areas of Minneapolis and St. Paul, Mounds View Public Schools  (District 621) provides instructional services for children and  adult learners who live in the cities of Arden Hills, Mounds  View, New Brighton, North Oaks, Roseville, Shoreview,  Vadnais Heights and portions of Spring Lake Park and White  Bear Township."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Perfect Layout is a small user-focused digital design consultancy based in Brighton, UK and owned by me, Enor Anidi. I provide quality products and services for a variety of clientele.\r\n\r\nAt Perfect Layout, I provide the following services for my clients: \r\n- User Experience\r\n- Visual Design\r\n- HTML & CSS\r\n- Graphics & Icons", 
+    "twitterId": "perfectlayout", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 1HA", 
+        "city": "Brighton", 
+        "street1": "42 Brunswick Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.perfect-layout.com", 
+    "universalName": "perfect-layout", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Perfect Layout"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Wild Dog Design is an award winning Brighton based design agency, with expertise in delivering integrated campaigns across branding, brochures, annual reports, DM & eDM, web and social media integration. \r\n\r\nOur clients include travel & tourism, NGOs, education, local authorities, charities, the arts and environmental agencies", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 278766"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "http://www.wilddogdesign.co.uk", 
+    "universalName": "wild-dog-design", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wild Dog Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "I'm a freelance producer and project manager working with SME's, startups, social enterprise and charities on web projects and consultancy. Specialising in Project Management, User Experience and online communities. Based in Brighton, UK and available to work in London and across the South East.", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 7GD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.matwalker.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Project Management", 
+      "User Experience", 
+      "Online Communitites"
+     ]
+    }, 
+    "universalName": "mat-walker", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Mat Walker"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "description": "We optimise websites across different devices to convert more visitors into customers\r\n\r\nWe're a small team made up of some of the best senior Conversion Rate Optimisation and Usability practitioners in the country. We're based in Manchester and have clients in Edinburgh, Brighton, Manchester, London and even Switzerland. \r\n\r\nWe work with some of the UK\u2019s most well respected brands including AllSaints, Schuh, Lakeland, The North Face, Vans, British Cycling, Molton Brown and Speedo to name a few.\r\n\r\nWe work with all of our clients in a collaborative and transparent way which means we share everything from key learning\u2019s that can help shape future decisions for the business, to how we run our Conversion Rate Optimisation programme so your internal teams can learn from us.\r\n\r\n\r\nFor more information get in touch with us \u2013 optimisation@prwd.co.uk", 
+    "twitterId": "PRWD", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0161 228 0585"
+       }, 
+       "address": {
+        "postalCode": "M1 1EA", 
+        "city": "Manchester", 
+        "street1": "22 Lever Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.prwd.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "E-commerce", 
+      "Usability", 
+      "User Experience", 
+      "Conversion Optimisation", 
+      "Web Analytics", 
+      "Customer Experience", 
+      "Multivariate Testing"
+     ]
+    }, 
+    "universalName": "prwd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "PRWD"
+   }, 
+   {
+    "numFollowers": 126, 
+    "name": "Draper City", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "84020"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.draper.ut.us", 
+    "universalName": "draper-city", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Draper City is ideally situated halfway between Salt Lake City and Provo, just 20 miles from the Salt Lake International Airport.   The city is located in the southeast section of the Salt Lake Valley, resting against the base of the Wasatch Mountains. \r\n\r\nDraper City is one of the top hang gliding areas in the nation.  There are many city trails and nearby mountain trails for mountain biking and hiking.  \r\n\r\nUtah is famous for its light, powder snow, and a stay in Draper provides access to nearby ski resorts:  Alta, Snowbird, Brighton and Solitude (just 15 miles east of Draper.)   \r\n\r\nDraper is now becoming a retail shopping locale.  A new IKEA store will be opening in the spring of 2007.  Draper Peaks shopping center has numerous shops and restaurants."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 110, 
+    "description": "A provider of comprehensive, high quality, affordable primary health care to the residents of Allston/Brighton, Waltham and surrounding communities regardless of their ability to pay. A leader in the fight against health disparities in our communities", 
+    "twitterId": "http://twitter.com/JMSCHC", 
+    "blogRssUrl": "", 
+    "industry": "Hospital & Health Care", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.jmschc.org", 
+    "universalName": "joseph-m.-smith-community-health-center", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Joseph M. Smith Community Health Center"
+   }, 
+   {
+    "numFollowers": 53, 
+    "name": "City Realty Group", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(617) 566-4351", 
+        "phone1": "(617) 739-7000"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "370 Chestnut Hill Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.cityrealtyboston.com", 
+    "universalName": "city-realty-group", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "City Realty Group LLC is a premier full service real estate company based in Boston. \r\nThe company is lead by several veteran real estate professionals focused on most disciplines of real estate.\r\n\r\nCity Realty Group can assist customers buying selling, managing & leasing both commercial & residential property in the greater Boston area. \r\n\r\nOur company goal is to provide value added service and tireless pursuit of our customers best interest whether buying, selling, leasing or managing real estate.\r\n\r\nCity Realty Group is also a proud member of the Greater Boston Association of Realtors (GBAR).\r\n\r\nWe have 4 offices and counting (Brighton, Allston, Jamaica Plain, Lynn and Fenway is opening in Jan 2009). Currently we are hiring Real Estate Agents for all locations. Not licensed as a real estate agent in MA? City Realty is a branch of AAA Statewide Real Estate School and can certify you for the state exam."
+   }
+  ]
+ }
+}

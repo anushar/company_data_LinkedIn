@@ -1,0 +1,727 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 940, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Born London, England, 1978 \r\nLives & works in London\r\n\r\n\r\nStatement\r\n\r\nJamie Lau\u2019s practice uses photography, video and sculpture, to explore ideas around anxiety, in the form of inertia, impermanence and disorientation. His work often involves re-contextualising landscapes and objects, through intervention or subverting their original meaning, purpose or function. He is interested in the \u2018decisive moment\u2019 within narratives, and the drama and uncertainty that belongs to that specific space and time. It\u2019s this uncertainty, and anticipation of what is to come that is inherent within his exploration of anxiety.\r\n\r\nIn his videos Respire and Tunnel, Lau explores anxieties over drowning and falling asleep whilst driving, a theme echoed in his photographic series Car Crash Flowers which documented wilting and decomposing roadside tributes. For the series The Dark Ages he presents fast food restaurants isolated in black limbo spaces, glowing like beacons in the night. Set adrift like ships on a black sea they become pockets of recognition within an uncertain terrain. He is currently working on a new body of sculptural work that questions cultural meaning inherent within architecture.\r\n\r\n\r\nEducation\r\n\r\nMA Fine Art Sculpture\r\nThe Slade School of Fine Art\r\n2009 \u2013 2012\r\n\r\nBA (Hons) Critical Fine Art Practice\r\nUniversity of Brighton\r\n(First Class)\r\n1998 \u2013 2001", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Fine Art", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1978, 
+    "websiteUrl": "www.jamielau.co.uk", 
+    "universalName": "jamie-lau", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Jamie Lau"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "martha and hepsie ltd", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.marthaandhepsie.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "illustration", 
+      "textile design", 
+      "gift cards", 
+      "tea towels", 
+      "childrens t-shirts"
+     ]
+    }, 
+    "universalName": "martha-and-hepsie-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "We're sisters! Both made redundant from our \u2018proper\u2019 jobs and with degrees in design, we've put our sibling rivalry behind us (by Martha living in Sheffield and Hepsie in Devon) to create martha and hepsie ltd. Our designs are inspired by life, who we are and a little bit of laughter; and our aim is to create affordable gift and homeware that you'll love!\r\n\r\nMartha \r\nAfter graduating with a BA (Hons) in Textile Design from Nottingham Trent, Martha moved to London to develop her career in design and production. During her time in the Big Smoke she gained an abundance of transferable skills within the design industry, working for gift and homeware designers including Lisa Stickley and Gisela Graham. At the end of 2012 she made the bold move to return to her northern roots and relocate back to the steel city of Sheffield to focus on martha and hepsie ltd and develop her freelance design career; Made by Martha. \r\n\r\nHepsie \r\nHepsie gained experience from work placements at Matthew Williamson, Copperwheat Blundell and trends agency The Bureaux during her ,Fashion and Business Studies degree at Brighton and progressed a marketing career with one of the UK\u2019s leading sterling silver jewellery brands Kit Heath. Working with many key high street names and independent retailers Hepsie has honed many marketing skills including art direction, off and online brand strategy, PR and copy writing all of which are now being ploughed into martha and hepsie ltd and her marketing consultancy career."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "My name is Hayley, and I'm an ofsted registered childminder based in Peacehaven, just outside of Brighton. I run my business from my brand new, spacious house. We are 5 minutes from the sea and a short walk to a well equipped park, local library and toddlers groups.\r\n\r\n \r\n\r\nI offer a flexible, friendly service including term time only and part-timers welcome. My house has been inspected by ofsted and is suitable and safe for children. I am fully insured and up to date with my crb and first aid certificate. **spaces available**\r\n\r\n \r\n\r\n why choose an ofsted registered childminder? \r\n\r\n \r\n\r\nMore and more parents are choosing childminders to look after their children as the service is flexible and the care is one on one. Children often settle in quickly as their home routines are respected and implemented. A warm, friendly home. environment also benefits children greatly", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://littlesausageschildminding.webs.com/", 
+    "universalName": "little-sausages-childminding-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Little sausages childminding services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 161, 
+    "description": "Talent Hub is an independent company specialising in the recruitment of marketing jobs in Brighton and the South East.\r\n\r\nWe work with people experienced in all disciplines of marketing, including:\r\n\u2022\tDigital\r\n\u2022\tDM\r\n\u2022\tEvents\r\n\u2022\tPR\r\n\u2022\tBrand\r\n\u2022\teCommerce\r\n\u2022\tIntegrated Marketing\r\n\r\nAgency side:\r\n\u2022\tClient services \r\n\u2022\tSEO / PPC\r\n\u2022\tCreatives\r\n\u2022\tStrategy and Planners\r\n\r\nWe work with all levels of marketing people from Marketing and Account Executives, to Marketing Directors.\r\nAt Talent Hub we pride ourselves in taking the time to get to know our clients and their business, and also the marketers we work with who are looking for their next challenge, and that\u2019s how we successfully match people and jobs with companies.\r\n\r\nUnderstanding that culture fit, attitude and aspirations are as important as skills set and experience.\r\nAll of our team come from marketing, media and marketing recruitment backgrounds and love what we do - and like to think we know what we\u2019re talking about.\r\n\r\nSo if you\u2019re looking for your next opportunity, or for a talented marketer to join your team. Get in touch, lets have a chat about what we can do to help.", 
+    "twitterId": "@TalentHubSussex", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 68 68 08"
+       }, 
+       "address": {
+        "postalCode": "BN1 4FB", 
+        "city": "Brighton", 
+        "street1": "1Trafalgar Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.talenthubresourcing.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Marketing recruitment", 
+      "Digital Recruitment", 
+      "Agency jobs", 
+      "Integrated marketing jobs", 
+      "SEO and PPC", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "talent-hub-resourcing-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Talent Hub (Talent Hub Resourcing Solutions Ltd)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "5280PrintShop.com was established in 2011. It has since become the premier printing company in Denver, Colorado. Only printing top quality full color products for a fraction of the cost elsewhere. Businesses that are big, small, local, or nationwide have utilized 5280PrintShop.com to achieve top notch printing for their promotional needs.\r\n\r\nWith presses in 5 states, we can insure our customers get the best product at the best price delivered on time. Your Denver Printer of choice !\r\n\r\nYour source for Denver Printing serving all of the Denver, CO area including Downtown Denver, Aurora, Littleton, Parker, Lakewood, Westminster, Boulder, Fort Collins, Centennial, Highlands Ranch, Broomfield, Longmont, Thorton, Brighton, Fort Lupton, Berkley, Castle Rock, Evergreen, Arvada, Loveland.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Printing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "5280PrintShop.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Quality Print Products", 
+      "Business Promotional Products", 
+      "Large Run Jobs", 
+      "Speciality Ink Printing"
+     ]
+    }, 
+    "universalName": "5280printshop-com", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "5280PrintShop.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Riverside Recording Studio is a professional recording facility located in Shoreham-By-Sea, Brighton. UK.\r\n\r\nRecording solo artists to full bands - live or multi-tracked, demos to fully produced albums.\r\n\r\nFor more information \r\n\r\nhttp://www.riversiderecording.co.uk", 
+    "twitterId": "RiversideRRS", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "0800 756 9411"
+       }, 
+       "address": {
+        "postalCode": "BN43 6RE", 
+        "city": "Shoreham-by-sea", 
+        "street1": "Unit 10, Riverside Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.riversiderecording.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Recording", 
+      "Mixing", 
+      "Music", 
+      "Production", 
+      "Mastering", 
+      "Sound Engineering"
+     ]
+    }, 
+    "universalName": "riverside-recording-studio", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Riverside Recording Studio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Property development company.\r\n\r\nSites are now sought for development, either with or without planning consents.  DG is currently involved in projects with a gross development value in excess of \u00a3100 million in Southampton, Maidstone and other centres in the South East.  Our preference is for Commercial or Mixed use schemes in urban or peri-urban areas, South of the M4 corridor.  We employ a small team of principal consultants with prize-winning architects, cost consultants and project managers providing the core disciplines for our operation. We work with several well-known engineering consultancies and other advisors, as required.\r\n\r\nOur recent projects range from a mixed use development comprising 20,000m2 of offices, subsequently let to Legal and General, and 65 apartments in Brighton and Hove, to the reworking of a residential planning consent and pre-construction work on a 10 hectare, ex-MoD site in the South West.  DG\u2019s principal shareholder\u2019s past projects include office and industrial development in Southern Africa and investment and development projects in the UK, France and Holland.", 
+    "twitterId": "", 
+    "industry": "Commercial Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.dunsfold-group.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Property developer"
+     ]
+    }, 
+    "universalName": "dunsfold-developments", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dunsfold Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "CYN PHOTO artistically documents weddings and events in an unobtrusive photojournalistic style; Cynthia captures emotional moments in a way that is Genuine. Artistic. and Playful. In addition to visually re-telling the story of your day, Cynthia creates artistic and natural portraits of the couple, casual group shots of the bridal party and family, and highlights beautiful decor' details. CYN PHOTO is based in Brighton, MA; servicing throughout Boston, Massachusetts, New England, Colorado, and is available for international destination weddings.", 
+    "twitterId": "cynphoto", 
+    "blogRssUrl": "http://www.cynphotoblog.com/", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "719-360-4965"
+       }, 
+       "address": {
+        "postalCode": "02446", 
+        "city": "Brookline", 
+        "street1": "PO Box 1072"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.cynphoto.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wedding Photography", 
+      "Event Photography", 
+      "Destination Photography", 
+      "Portrait Photography"
+     ]
+    }, 
+    "universalName": "cyn-photo", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "CYN PHOTO"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 30, 
+    "description": "Kendrick Property Services offers free valuations, independent financial and mortgage advice as well as property sales and lettings, from its two branches in the vibrant city of Brighton and Hove. Our reputation is founded not only on excellent service but also on reliability, trust and good moral standing. \r\n\r\nEach of our offices has a separate designated team focussed on sales or lettings. Naturally we contact all potential home seekers though their preferred medium as soon as we have a property that will suit their requirements. Kendrick Property Services prides itself on its honest approach with clients. We have a friendly and experience team here and a good relationship with the people whom we serve. We are proud of our successes. Our aim for the future is simply to maintain and extend our good reputation. Please do contact us if you have property to sell or let, if you\u2019re interested in buying or renting, or simply if you need some advice.", 
+    "twitterId": "kendricksBTON", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 778333"
+       }, 
+       "address": {
+        "postalCode": "BN3 2AB", 
+        "city": "Hove", 
+        "street1": "197-201 Church Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273 699600"
+       }, 
+       "address": {
+        "postalCode": "BN2 3HP", 
+        "city": "Brighton", 
+        "street1": "10-12 Lewes Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.kendrickpropertyservices.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Sales & Lettings", 
+      "Financial Services", 
+      "Mortgage Advice"
+     ]
+    }, 
+    "universalName": "kendrick-property-services", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Kendrick Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Operating since 2006, poloDesign is a full-service graphic and website design company offering a range of services to small businesses. Located between Brighton and Quinte West in Eastern Ontario, poloDesign has a large roster of local clients. We also work with with companies based in the GTA and the Golden Horseshoe. Our client base includes retail businesses, software producers, arts, educational and business organizations .", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "613-392-2011"
+       }, 
+       "address": {
+        "postalCode": "K0K 1H0", 
+        "city": "Brighton", 
+        "street1": "Adams Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.polodesign.ca", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Website Design", 
+      "Graphic Design", 
+      "Advertising", 
+      "Creative Strategy", 
+      "Social Media Consulting", 
+      "Social Media Coaching", 
+      "Social Media Seminars", 
+      "Email Marketing"
+     ]
+    }, 
+    "universalName": "polodesign", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "poloDesign"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Hunger is something the families all over Monroe County live with on a daily basis. The Pittsford Food Cupboard was established in 1998 to serve the needs in Pittsford, Brighton, East Rochester and two zip codes in the city of Rochester. These are: 14534, 14445, 14610, 14618, 14620, 14607\r\n\r\nWho Qualifies:\r\n\r\nEveryone is welcome at the Food Cupboard. Once it has been established that people have a qualifying need, they are eligible to choose groceries from the shelves twice a month. Recipients have many reasons for needing assistance:\r\n\r\n- inadequate fixed incomes,\r\n- single parenthood,\r\n- a disability,\r\n- an increase on household size,\r\n- unexpected unemployment,\r\n- an end to unemployment benefits,\r\n- uninsured medical bills.\r\n\r\nHours of Operation:\r\n\r\nTuesdays: 9:30 am - 1:30 pm\r\nFriday: 9:30 am - 1:30 pm\r\nEvery 3rd Saturday, 9:30 am - 11:30 am\r\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \r\nWant to help? Volunteer, donate, or please consider Adopting a Shelf Individually or through your Business! For more information, contact PFC: 585-264-9860 or by email at: pittsfordfoodcupboard@gmail.com\r\n\r\n(Our United Way Donor Number is: 2387)\r\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~", 
+    "twitterId": "PittsfdCupboard", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "14534", 
+        "city": "Pittsford", 
+        "street1": "1 Grove Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.pittsfordfoodcupboard.org", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Feeding Hope One Family at a Time"
+     ]
+    }, 
+    "universalName": "pittsford-food-cupboard", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Pittsford Food Cupboard"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Urban Inc. is a brand new Urban Music Agency based in the UK.\r\n\r\nOperating from London, Brighton and Liverpool. We have a dedicated team of industry professionals who all share a passion for the UK  urban music scene.\r\n\r\nWe understand what the music industry has become, where it is heading and what it takes for artists to get out there and become successful in their chosen arena and that\u2019s EXPOSURE!\r\n\r\nHere at Urban Inc. we offer everything artist needs to achieve their goals and dreams. Whether it is a chance to hit the big stage and get their music heard across the world, to become a successful session musician or even a paid music producer, we are the company that can make it happen.\r\n\r\nLooking at the industry we have put together a multitude of services with the music industry in mind focusing hard on the artists needs. Take a look at our services page we handle marketing, music video production, representation, distribution, and management.\r\n\r\nPlus we have also created a brand new community. Great for all people! Not just musicians. A place to stay connected within the industry, make new contacts and find other likeminded singers, songwriters, producers to collaborate with on your next big project. Our community easily integrates with your Facebook profile for ease of use. Share video\u2019s, pictures and music with other community users.\r\n\r\nUrban Inc. is a total one-stop solution to any artists needs.", 
+    "twitterId": "www.twitter.com/urban_inc_uk", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.urbanincmedia.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Music Marketing", 
+      "Music Representation", 
+      "Music Management", 
+      "Video Production"
+     ]
+    }, 
+    "universalName": "urban-inc-ltd.", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Urban Inc Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 111, 
+    "description": "SINTILLATE was founded in May 1999 by Gary Sewell and Kevin O'Shea (deceased).\r\n\r\nWe quickly built up a loyal following by providing an environment where the fashion, music and film industries can mix in a relaxed, friendly atmosphere fuelled by cutting edge music.\r\n\r\nSINTILLATE is about 'accessible exclusivity'.\r\n\r\nSINTILLATE were the first to provide Photos from every party onto a website for guests to see, a practice which has since become commonplace.\r\n\r\nSINTILLATE were pioneers for the new generation of 'cyber-promoter' and www.sintillate.co.uk became a social networking site long before the advent of myspace and facebook. We believe in providing more than just a good night out. Our website aims to provide a service for the community that has built up around the Sintillate nights. \r\n\r\nSINTILLATE - Nightclub Promoters followed up their success in London by launching in MARBELLA in 2003, MANCHESTER in 2004, LIVERPOOL, LEEDS and SHARM EL SHEIKH in 2005, BRIGHTON and BIRMINGHAM in 2007, IBIZA and DUBAI in 2008, BRISTOL, SHEFFIELD, LEAMINGTON SPA and DERBY in 2009 and in TENERIFE and NOTTINGHAM in 2010.\r\n\r\nIn 2004 SINTILLATE won 'Best Promoter' at the London Club and Bar Awards, then again in 2008 Sintillate took the top award, this time for the 'UK's Best Promoter' at the London Club and Bar Awards.", 
+    "twitterId": "SINTILLATE", 
+    "blogRssUrl": "http://sintillate.wordpress.com/", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 20 7731 0170", 
+        "phone1": "+44 20 7731 0000"
+       }, 
+       "address": {
+        "postalCode": "SW6 2AD", 
+        "city": "LONDON", 
+        "street1": "E9 ENGINEERING OFFICES"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.sintillate.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "NIGHT CLUB PROMOTION", 
+      "EVENT MANAGEMENT", 
+      "PARTY ORGANISATION", 
+      "DJ AGENCY"
+     ]
+    }, 
+    "universalName": "sintillate", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "SINTILLATE"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "SolarClubs is a social enterprise whose purpose is to bring more affordable solar power to local communities through group buying. We work with carefully selected local installers to negotiate great prices on domestic solar photovoltaic installations in different areas. At the minute we manage solar clubs which cover East Sussex, Brighton & Lewes, and Tunbridge Wells. Although we're based on the club/group buying concept, in fact you can register as an individual and take advantage of the same prices on solar installations without having to wait for others in your community or town to join. We also act as a free, independent portal for other solar buying groups around the country who would like to attract more members.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Renewables & Environment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.solarclubs.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "group buying; solar panels; solar installations;", 
+      "solar photovoltaics; group buying; great prices!", 
+      "community buying; social enterprise; renewable energy", 
+      "solar pv; domestic installations; group buying"
+     ]
+    }, 
+    "universalName": "www.solarclubs.com", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "www.SolarClubs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "About Us \r\n\r\nLees-Images: photographer Lee Towsey has been taking photographs for over ten years With a passion for taking photographs We are available throughout Brighton, South Coast and nationally, our photography is dedicated in capturing beautiful and unique images.We combine our unique photography style with top quality industry standard image As first impressions count. I consistently deliver great creative PR, commercial and product photos on time and budget. I\u2019m renowned for always going the extra mile to delight of my customers. If you want a great publicity shots, look no further. Lees Images shoot a 'serious football action' or an approachable style \u2014 'friendly business working for you'. These can be outdoor or gym shoots or more formal, less lifestyle looking, headshots or group shots. With my experience of working with a number of personal trainers for editorial projects in mens magazines and Iphone apps. So if you need your event shot, we work evenings and weekends too and available at short notice. Lees Images can be commissioned for assignments throughout South Coast, London, and the UK. We also now create websites for football clubs. am always open to new ideas and always looking to approach subjects and lighting in different ways when shooting. I also specialize in enhanced photography post production retouching and enhancements.", 
+    "twitterId": "http://twitter.com/#!/LeesImages", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.leesimages.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Personal Trainers", 
+      "Models/Actors", 
+      "Event", 
+      "Commercial"
+     ]
+    }, 
+    "universalName": "lees-images", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Lees-Images"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Oh My Lolli! is a hand-made hard candy store located in downtown Brighton, MI. \r\n\r\nSpecializing in creating something sweet for your next event, party, shower, graduation, wedding, or business promotion, or just because! Also offering centerpieces, and arrangements customized to your price-range. The packaging can be personalized with label designs, using business card size or round labels for the bags, jars and lollipops. \r\n\r\nWe offer field-trip packages for schools, church's, mom's groups, scouts, birthday parties, etc. that is a \"truly sweet experience\" for all ages.\r\n\r\nCustom orders have worked well for a unique fund-raising option too!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.ohmylolli.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Hand-Made Hard Candy", 
+      "client thank you gifts", 
+      "Creating a sweet experience", 
+      "wedding favors", 
+      "A Nut, soy, dairy, gluten-free facility", 
+      "allergen-free candy", 
+      "arrangements and custom label design"
+     ]
+    }, 
+    "universalName": "oh-my-lolli-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Oh My Lolli!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "'The Entente\u2019 is a Brighton, UK based design and art direction studio formed by Anthony Sheret & Edd Harrington in late 2008.The studio is named after the relationship between both parties: \u2018The Friendly Understanding\u2019.\r\n\r\nAlongside the The Entente studio practice, an independent type foundry, Colophon Foundry is also run.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.the-entente.org", 
+    "universalName": "the-entente", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "The Entente"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "DMD is a Brighton based company that offers a wide range of services nationwide including CD Duplication, DVD Duplication and Audio Mastering.\r\n\r\nWith 10 years experience in the industry you can be sure that when choosing us your work will be in the hands of professionals.\r\n\r\n- Most of our clients come from recommendations\r\n- We only use the highest quality Grade A media and commercial grade printing\r\n- Expert advice and comprehensive support given\r\n- Quick turnaround to meet your tightest deadlines\r\n- All discs are 100% guaranteed", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.digitalmediaduplication.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "CD Duplication / Replication", 
+      "DVD Duplication / Replication", 
+      "Audio Mastering"
+     ]
+    }, 
+    "universalName": "digital-media-duplication", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Digital Media Duplication"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Hovr makes websites; as a web development agency based in central Brighton, UK, Hovr develops and maintains a large variety of bespoke web applications, sites and user interfaces.\r\n\r\nWith a large and varied portfolio of projects including high traffic ecommerce platforms, fully functional job boards, social media platforms and video sharing applications Hovr is ideally suited for any small, medium or large scale web deployment or project.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://hovr.co", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Bespoke Website Creation", 
+      "Facebook Pages & Apps", 
+      "PHP Application Development", 
+      "Amazon AWS", 
+      "Cloud Computing"
+     ]
+    }, 
+    "universalName": "hovr-web-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Hovr Web Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Real Estate Association in Livingston County-Brighton, MI. Local-Knowledgeable-Involved\r\nThis association supports the needs of it's REALTOR members, Affiliate members and is an advocate of protecting personal property rights. The Board of Directors and Committees are made up of volunteer member companies working together to build a strong real estate market in Livingston County.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1954, 
+    "websiteUrl": "lar-michigan.com", 
+    "universalName": "livingston-county-association-of-realtors", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Livingston County Association of Realtors"
+   }
+  ]
+ }
+}

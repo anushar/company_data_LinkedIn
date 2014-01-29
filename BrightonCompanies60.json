@@ -1,0 +1,819 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1200, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "description": "The Gatwick Diamond Initiative is an economic partnership free to businesses.   Business leaders work with the local authorities and government agencies to address the economic needs of the area to ensure it is a world class place to do business.   \r\n\r\nIn 2003, the Gatwick Diamond Initiative started when businesses got together to recognise the economic strengths of the area by creating an identity, calling it the Gatwick Diamond. The \u2018Gatwick Diamond\u2019 is not trademarked and can be used by any business in the area. The Gatwick Diamond encompasses the council areas of Epsom & Ewell, Mole Valley, Reigate & Banstead, Crawley, Horsham, Mid Sussex and Tandridge.\r\n\r\nThe Gatwick Diamond Initiative lobbies government and the public sector on issues that prevent businesses in the area from growing; we encourage international trade; we promote, attract and help UK and foreign inward investors looking to locate in the area; we campaign on issues ; we encourage the three FE colleges at Redhill, Crawley and Epsom to work together with the University of Brighton and University of the Creative Arts to provide a greater Higher and Further Education offer that meets business needs; and we send out press releases and strong messages about how great an area the Gatwick Diamond is to live and work in.   The Gatwick Diamond Initiative is also a part of the government sponsored Coast to Capital Local Enterprise Partnership.", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 813950"
+       }, 
+       "address": {
+        "postalCode": "RH11 7XX", 
+        "city": "Crawley", 
+        "street1": "Basepoint"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.gatwickdiamond.co.uk", 
+    "universalName": "the-gatwick-diamond-initiative", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Gatwick Diamond Initiative Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Emma Gutteridge Photography", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 2LQ", 
+        "city": "Brighton", 
+        "street1": "Central"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.emmagutteridge.com", 
+    "universalName": "emma-gutteridge-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Creative photographer based in Brighton but regularly working in London. Primarily a documentary and live music photographer but also specialising in food. One to ones available. \r\n\r\nPast clients include: You Got Papped, Edible Magazine, PYMCA and Resident Advisor. Sister site is Emma Lucy Photography, focusing on alternative weddings and female portraiture."
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "BSCENE", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 1ae"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bscene.ning.com", 
+    "universalName": "bscene", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "A place for social and creative entrepreneurs in Brighton and Hove to meet, get inspired, skilled up and get started."
+   }, 
+   {
+    "numFollowers": 8, 
+    "name": "City Central Realty, LLC", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "617-566-3700"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Allston", 
+        "street1": "211-A Harvard Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "617-738-7700"
+       }, 
+       "address": {
+        "postalCode": "02446", 
+        "city": "Brookline", 
+        "street1": "344 Harvard Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-236-2040", 
+        "phone1": "617-236-2020"
+       }, 
+       "address": {
+        "postalCode": "02215", 
+        "city": "Boston", 
+        "street1": "842B Beacon Street"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02215", 
+        "city": "Boston", 
+        "street1": "1077 Boylston Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.citycentralre.com", 
+    "universalName": "city-central-realty-llc", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "From Back Bay to Brighton, the South End to Allston, City Central Realty, LLC has the keys to move you where you'd like to be. Whether you're a student new to the city or a professional looking for an upgrade, our experienced staff can guide you through the rental or buying process with ease."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 96, 
+    "description": "At ThirdWay Interiors, our customers are at the heart of our business. It\u2019s the reason why all our business to date has come to us through recommendation. We know we are only as good as our last job and that\u2019s why we are committed to making every client our next glowing reference.\r\nFrom our office on St John\u2019s Lane, EC1, we pride ourselves on only working with the right people. For us it\u2019s not about the size or value of the project, but in choosing the right projects that allow us to deliver the best office environment possible.\r\nOur specialities lie in projects ranging from 500 sq ft upwards and contract values between \u00a315,000 and \u00a33,000,000. We deliver design led fixed price contracts, a unique top down project management approach and a commitment to providing quality, style and creativity.\r\nMost of our customers tend to be based in London and the South East, but we\u2019re happy to go wherever our customers want us to! We\u2019ve been as far north as Aberdeen and as far south as Brighton.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.thirdwayinteriors.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Design & Build", 
+      "Fit Out", 
+      "Refurbishment", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "thirdway-interiors-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ThirdWay Interiors Ltd"
+   }, 
+   {
+    "numFollowers": 154, 
+    "name": "The Heights, Inc.", 
+    "industry": "Newspapers", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "6175520169"
+       }, 
+       "address": {
+        "postalCode": "02467", 
+        "city": "Chestnut Hill", 
+        "street1": "113 McElroy Commons"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.bcheights.com", 
+    "universalName": "the-heights-inc.", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The Heights, Boston College\u2019s independent student newspaper, is both editorially and financially independent from Boston College. The Heights serves the students, faculty, and staff of the Boston College community as well as our neighbors in Allston-Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "The Oceana Ballroom is one of the most elegant and professional private events venues in Brooklyn. A multi-purpose 20,000 s.f. hall, right near Brighton Beach, the Oceana Ballroom is the most updated Landmark Hospitality venue in Brooklyn. When planning life\u2019s most memorable events, we invite you to share your special day with your guests at Brooklyn\u2019s best-kept secret.\r\n\r\nUpon arrival your guests are swept up our red carpet and guided through our enchanting lobby. Followed by our glass entryway, The Oceana Ballroom\u2019s grand ballroom boasts 30\u2019 hand-painted ceilings, expandable interiors, gilded gold columns and crystal chandeliers, offering your guests a feeling of grandeur and opulence.\r\nWith numerous menu choices expertly crafted by our Executive Chef, we have endless options to cater to every budget.\r\n\r\nOur professional Event Specialists understand exactly what is needed to flawlessly execute your event, and are fully equipped to provide a full range of event planning services. From choosing the d\u00e9cor, planning the menu, detailing logistics, equipment rental and vendor coordination, our results will be beyond your expectations.", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "347-462-2810"
+       }, 
+       "address": {
+        "postalCode": "11235", 
+        "city": "Brooklyn", 
+        "street1": "1029 Brighton Beach Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://oceanaballroom.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Concert Hall", 
+      "Catering", 
+      "Restaurant", 
+      "Venue", 
+      "Catering Hall", 
+      "Private Party", 
+      "Private Event", 
+      "Corporate Function"
+     ]
+    }, 
+    "universalName": "oceana-ballroom", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Oceana Ballroom"
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "TMC Design", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN14NQ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.tmcdesign.biz", 
+    "universalName": "tmc-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Professional web design solutions for small to medium businesses in Brighton & Sussex.\r\n\r\nSpecializing in the following: \r\n\r\nE-commerce, Blogs, Forums & Classifieds sites. \r\n\r\nContact me for a quote on your project."
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Sarah Arnett Bride", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.saraharnett.co.uk/Bridal.aspx", 
+    "universalName": "sarah-arnett-bride", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "'Originally a Brighton University Fashion Graduate, Sarah Arnett has been described as a rising star in bridal design. Sarah\u2019s designs are influenced by playing with light and texture \u2013 combining matt and satin fabrics with minimal embellishment. Her use of sunray pleating, fine silks and tulles creates a sophisticated, modern yet classic collection. '"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "description": "RE/MAX Platinum has locations in Ann Arbor, Brighton, Fenton and Hartland Areas. We serve Southeast Michigan and Online resources and support. \r\n Our offices are staffed with 150 Realtor's who specialize in Buyers, Sellers, Short Sales, Distressed properties and many other areas of Real Estate that you may need.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "800-254-4663"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "6870 Grand River"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "1-800-254-4663"
+       }, 
+       "address": {
+        "postalCode": "48430", 
+        "city": "Fenton", 
+        "street1": "1100 Torrey Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "1-800-254-4663"
+       }, 
+       "address": {
+        "postalCode": "48104", 
+        "city": "Ann Arbor", 
+        "street1": "2750 State Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "1-800-254-4663"
+       }, 
+       "address": {
+        "postalCode": "48353", 
+        "city": "Hartland", 
+        "street1": "11200 Highland Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "www.remaxplatinumonline.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Real Esate", 
+      "Marketing Homes for Sale", 
+      "Helping Buyers find dream homes for life", 
+      "Foreclosures", 
+      "Short Sales", 
+      "REO", 
+      "Investment properties"
+     ]
+    }, 
+    "universalName": "re-max-platinum-online", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "RE/MAX Platinum Online"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Jigsaw Designs", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.jigsawdesigns.co.uk", 
+    "universalName": "jigsaw-designs", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Jigsaw Designs is a website design company based in London and Brighton.  We offer a range of affordable, bespoke website solutions to suit all businesses and budgets."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Transforming businesses since 1995. Our user experience design skills combined with our powerful e-commerce platform Mothership has enabled Rapha.cc to achieve massive growth, from start-up to turnover in the tens of millions per year. Other clients benefitting from our UX and platform include Uniform Wares, Oi Polloi, Darkroom, The Mountain Factor, Iffley Road and more.\r\n\r\nWe create great looking, usable, accessible, findable websites and e-commerce systems that are designed to meet your business objectives.\r\n\r\nWe're probably Brighton's longest-running web design company, and the 18 years experience (at time of writing) are an enormous asset to our clients, who include some of the most influential e-commerce companies on the web.", 
+    "twitterId": "messagedigital", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "441273772247"
+       }, 
+       "address": {
+        "postalCode": "BN1 2RE", 
+        "city": "Brighton", 
+        "street1": "Atlas Chambers"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.message.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "E-commerce", 
+      "Web development", 
+      "User Experience"
+     ]
+    }, 
+    "universalName": "message-digital", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Message Digital Design Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Rotary District 9800", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0412 388 823"
+       }, 
+       "address": {
+        "postalCode": "3023", 
+        "city": "Burnside", 
+        "street1": "Rotary District 9800"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.rotarydistrict9800.org.au", 
+    "universalName": "rotary-district-9800", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Rotary is a worldwide organization of more than 1.2 million business, professional, and community leaders from more than 200 countries & geographical areas. Rotarians dedicate their time, energy & passion as well as provide humanitarian service, encourage high ethical standards in all vocations, and help build goodwill and peace in the world. \r\n\r\nRotary Clubs are nonpolitical, nonreligious, and open to all cultures, races, and creeds. As signified by the motto Service Above Self, Rotary\u2019s main objective is service by uniting leaders from all continents, cultures, and occupations to exchange ideas and take action in communities around the world.\r\n\r\nBy turning conversations into actions, connecting like minded people & partnering both business & community organisations, Rotarians for over a 100 years have accepted the challenges of tackling the worlds most pressing humanitarian needs. Important projects are undertaken in peace & conflict resolution, disease prevention & treatment, water & sanitation, maternal & child health, basic education & literacy & economic & community development.\r\n\r\nRotary District 9800 is in Victoria & a small part of New South Wales, Australia. It covers part of the Melbourne Metropolitan area, stretching into the north-west to include Bendigo, and reaching as far north as Echuca on the Murray. It is approximately 250km north to south and approximately 120km west to east at its widest point. Currently there are 70 Clubs, each meeting weekly with memberships ranging from 12 to over 200. \r\n\r\nIt is the area in Victoria surrounded by and including the shires of and cities of Rochester, Huntly, Marong, Maldon, Newstead, Daylesford and Glenlyon, Kyneton, Bacchus Marsh, Werribee, Altona, Williamstown, Port Melbourne, South Melbourne, St. Kilda, Brighton, Caulfield, Malvern, Gisborne, Newham and Woodend, McIvor and Waranga plus that part of the Shire of Deakin, New South Wales, within a twenty-kilometre radius of the Echuca post office."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "DV Promotions LLC is a web design company located in Brighton, Michigan. We take pride in providing our clients with the tools they need to show the world they mean business. From custom designed, eye catching websites to business cards that will end up in your wallet and not in the trash, we do it all! We know the web and we know it can be intimidating. That's why we're with you from day one to design, create and educate you on the tools that will help grow your business and attract new customers. You don't run a cookie cutter business, so why settle for a cookie cutter marketing approach and website? Well, you don't have to anymore.", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "734-363-8776"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.dvpromotions.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Graphic Design", 
+      "SEO", 
+      "CMS solutions", 
+      "E- Commerce", 
+      "Social Media Marketing and more..."
+     ]
+    }, 
+    "universalName": "dv-promotions-llc", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "DV Promotions LLC"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Voodoo Vaudeville", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.voodoovaudeville.com", 
+    "universalName": "voodoo-vaudeville", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "The UK's leading contemporary cabaret theatre company, based at Komedia in Brighton. We have been presenting unique and spectacular cabaret theatre since 1999."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Cazcade is the company behind http://pinstamatic.com and http://snapito.com - visit http://cazcade.com to find out more. \r\n\r\nWe're based in Brighton, UK.\r\n\r\n\"What lies behind us and what lies before us are tiny matters compared to what lies within us.\"\r\n- HENRY STANLEY HASKINS", 
+    "twitterId": "hashbo", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+442070001918", 
+        "phone1": "+442070001918"
+       }, 
+       "address": {
+        "postalCode": "BN1 6JJ", 
+        "city": "Brighton", 
+        "street1": "343 Ditchling Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.cazcade.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Image Generation", 
+      "Website Capture", 
+      "SaaS"
+     ]
+    }, 
+    "universalName": "cazcade", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cazcade"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "lomokev PLC", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN11AB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://lomokev.com", 
+    "universalName": "lomokev-plc", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I am not what most people would consider to be an average photographer. Armed with a selection of compact film cameras, I never leave home without one and I am always ready to capture anything that happens around me.\r\n\r\nIn October 2008 my first solo book Hot Shots was released in the UK, it sold out its UK and US print runs in under a year.  It is an instructional book for everyday people and is intended to help them sex up their photography, without being too bogged down in technical jargon.\r\n\r\nI now teach a Photography course based around the book, I run the course from Brighton but it has also taken place in beautiful sea side towns of San Francisco and Hastings. Read more about the course here.\r\n\r\nI have also had work published in two Lomo photographic books, one called \u201cSpirit\u201d and the other, \u201cDon\u2019t Think Just Shoot.\u201d My work has also featured in a range of publications including Photo Pro Magazine, DSLR user magazine, Olympus User Magazine, Russian Esquire, Sonntagszeitung, and the BBC news website. I was a regular contributor to JPG magazine from when it first launched in 2005. In 2006 I was on the panel of judges in New York for flickr.com\u2019s \u201cBlink of the Eye\u201d photo competition and judged again in 2008 for pixish.com\u2019s \u201cThe SXSW Gallery Show\u201d competition. I work commercially as a photographer for a range of different clients which have included Phillips, The Times, The Commonwealth Games 2002, Dr Martens, Stomp and Imogen Heap."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Links Creative is a full service web agency helping ambitious organisations plan, design and develop high performance websites and online workflow systems to maximise growth and profitability. We are a team of designers, developers, marketeers and digital consultants based in Brighton , UK.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 803011"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "18 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.linkscreative.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Productivity oriented web applications", 
+      "Systems usability", 
+      "Responsive website design", 
+      "Django web application development"
+     ]
+    }, 
+    "universalName": "links-creative-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Links Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 99, 
+    "description": "tilt is a multi-disciplined digital agency based in the heart of Brighton. We have a closely integrated team of highly talented individuals whose experience spans many disciplines as well as many sectors. We believe the old style agency model doesn\u2019t work as well as it should, so to stay ahead of the curve, we need to be relatively small and flexible; ensuring that we can best meet your needs.\r\n\r\nOur Philosophy\r\nHere\u2019s one simple rule about Tilt: if you can\u2019t make good stuff, you can\u2019t work here. We simply do not employ people who do not have a creative background. We believe that every aspect of an agency\u2019s work MUST be creative in some way (well, perhaps with the exception of the accounting). We need project managers. But we need Project Managers who are sensitive to the creative process. We need Account Directors \u2013 but not just Account Directors who care about the bottom line. \r\n\r\nMaybe we\u2019re na\u00efve but this is what we believe: If you put creativity first, all the time, every time, it pays off. \r\n\r\nOur Capabilities\r\nHere\u2019s the tricky thing about digital \u2013 you need to be truly multi-disciplined to make it work. This is where we believe Tilt excels. We create integrated experiences and open channels for conversations that keep humans connected to brands. We develop holistic platforms and ecosystems that help brands become a lovable part of their audience\u2019s everyday lives and we believe these solutions are great value for money.", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 720683"
+       }, 
+       "address": {
+        "postalCode": "BN12HD", 
+        "city": "Brighton", 
+        "street1": "29a/2o Castle Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.wearetilt.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Website & Digital Design", 
+      "Film, motion & 3D", 
+      "Social Media Strategy, Design & Development", 
+      "Mobile Application Development"
+     ]
+    }, 
+    "universalName": "tilt_2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "tilt"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Heath's Window Cleaning", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "1300 011 971"
+       }, 
+       "address": {
+        "postalCode": "3188", 
+        "city": "Hampton", 
+        "street1": "Earlsfield road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.HeathsWindowCleaning.com.au", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "window cleaning", 
+      "home window cleaning", 
+      "office window cleaning", 
+      "window cleaning Melbourne", 
+      "Toorak", 
+      "Brighton"
+     ]
+    }, 
+    "universalName": "heath's-window-cleaning", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "\u2018We Arrive On Time, Every Time! Dont waste another minute searching for a window cleaner who doesn't care about your time. Does your current window cleaner; arrive on time? Provide a No Hassle, Money Back Guarantee? Provide an obligation FREE Quote? Provide an up-front price before starting work? Allow you to book on line?"
+   }
+  ]
+ }
+}

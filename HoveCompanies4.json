@@ -1,0 +1,844 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 80, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 61, 
+    "description": "Taxis, Buses, mercedes, Bentleys all for hire,\r\nairports seaports,sporting events, theatres trips,weddings,golf trips,cricket trips, football matches\r\nClients include Goverment,local goverment,Police, NHS,RBS,Clydesdale,The Grand Hotel,Seattle Hotel,My Hotel,Jurys Inn,Air port Transfers speciality.Preferred Supplier to University of Sussex and University of Brighton, Brighton's Only Taxi and Small Bus firm to be ISO 9000/9001.", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3xd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "www.205205.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Taxis", 
+      "Buses", 
+      "Executive Hire.Airports"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-city-cabs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton & hove city cabs"
+   }, 
+   {
+    "numFollowers": 24, 
+    "name": "Brighton and Hove Property Events", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn16nl"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonandhovepropertyevents.co.uk", 
+    "universalName": "brighton-and-hove-property-events", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "An opportunity to meet experts in attendance from the following fields:\r\nFinance \u2022 Mentorship \u2022 Refurbishment\r\nPortfolio Building \u2022 Landlords Insurance\r\nSourcing \u2022 Estate Agency \u2022 Letting \u2022 BMV Deals\r\nWe have networking breaks and great speakers sharing information and real life experiences"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 121, 
+    "description": "The firm of choice in Brighton & Hove - delivering a truly professional service, with a personal touch.\r\n\r\nWe are a leading law firm in Brighton and Hove with a reputation for delivering excellence and innovation in legal services. We have been a cornerstone of the Sussex business community for over a century and successfully blend modern practices with traditional values:\r\n\r\n\u2022we are fair and ethical at all times\r\n\u2022we employ the best people\r\n\u2022we aim to get the best outcomes for our clients\r\n\u2022we believe it is both courteous and professional to keep you fully informed\r\n \r\nOur core areas are property, services for businesses, wills, probate and trusts, family law and litigation & dispute resolution.\r\n\r\nOur approach to fees is to ensure that there are no surprises, agreeing costs or budgets at the outset wherever possible.  We are authorised by the Legal Aid Agency to undertake publicly-funded work in the file of Child Care.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 820350", 
+        "phone1": "+44 1273 323231"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HY", 
+        "city": "Brighton", 
+        "street1": "Lanes End House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 1273 326347", 
+        "phone1": "+44 1273 722532"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BB", 
+        "city": "Hove", 
+        "street1": "79, Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1880, 
+    "websiteUrl": "www.woolleybevis.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Property", 
+      "Services for Business", 
+      "Wills", 
+      "Probate and Trusts", 
+      "Litigation", 
+      "Dispute Resolution", 
+      "Family"
+     ]
+    }, 
+    "universalName": "woolley-bevis-diplock-llp", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Woolley Bevis Diplock LLP incorporating Tennant & Knight"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Welcome to Brighton Body Massage. Here you can be assured to find the right massage for you. With specialist training Jeanna can treat you for pain and injury, pregnancy issues or just for the sheer joy of taking time out. Choosing the right treatment can be confusing, so please read the treatment on  the website or call Jeanna for more information. 07971552687\r\n\r\n\r\nI am based at Natural Balance Therapies in Hove and also work from home near Lewes. To book an appointment in Hove, at 30 The Drive, with Jeanna on Monday, Wednesday or Friday please call 07971552687 or book online via my website. to read reviews about me see my website.", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3JD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.brightonbodymassage.co.uk", 
+    "universalName": "brighton-body-massage", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Body Massage"
+   }, 
+   {
+    "numFollowers": 12, 
+    "name": "BHWRP", 
+    "industry": "Renewables & Environment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9QF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.woodrecycling.org.uk", 
+    "universalName": "bhwrp", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Every day a huge amount of waste timber is generated by industries working in construction, demolition and manufacture, wooden packaging waste and non-returnable pallets. \r\n\r\nBrighton & Hove Wood Recycling Project aims to rescue, re-use and recycle some of the tonnes of wood going to landfill locally by collecting waste wood from local businesses. The reusable timber we collect is offered for sale in our shop, The Wood Store.\r\n\r\nThe Wood Store @ The Brighton & Hove Wood Recycling Project\r\nCircus Street, Brighton, East Sussex BN2 9QF\r\nTel: 01273 570500  Fax. 01273 570600"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Health & Vitality Individual Training Ltd", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn3 4HJ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.fitness-havit.co.uk", 
+    "universalName": "health-&-vitality-individual-training-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "HAVIT's mission is to provide tailored, enjoyable, affordable personal training and sports massage in Brighton and Hove.\r\n\r\nI ensure every personal training session is fun, varied and helps you reach your fitness goals. Through 2 free consultations (initial and a follow up a week later) I create a training and nutritional plan that is based on lifestyle analysis. I also offer continued, motivation, advice and support to get you to where you want to be. I will visit you at home, in a local gym or outside in a local park.\r\n\r\nMy qualifications are: member of the Register Exercise Professionals, Boxercise Instructor, X-biking Instructor and Advanced Core Stability (YMCA). I teach Boxercise at  Wickwoods and offer individual Boxercise sessions.\r\n\r\nI perform deep tissue and sports massage at Revitalise in Hove and also home visits for those of you short of time. There are many benefits to sports massage including better circulation, reduced muscular tension."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 541, 
+    "description": "Founded in 1839, Sussex County Cricket Club is the oldest professional sports club in the world. \r\n\r\nThe club played cricket at 3 locations in Brighton & Hove before finding it's current home on Eaton Road in 1871. Our first fixture at the County Ground was against Gloucestershire on 6th June 1872.\r\n\r\nThe Club won its first County Championship in 2003, which was the beginning of an era in which Sussex enjoyed prolonged success, named 'The Golden Decade'\r\n\r\nSussex had tasted one-day success in 1963, 1964, 1978 and 1986 but 'The Golden Decade' is regarded as the most successful period in the long history, with Sussex reclaiming the County Championship in both 2006 and 2007, as well as making 2006 a 'double' winning year, with the County also winning the C&G Trophy in a thrilling low-scoring final at Lord's against Lancashire.\r\n\r\nSussex also embarked on one-day success, winning the Pro40 League in both 2008 and 2009, the latter also inspiring the Club to a first Twenty20 title, beating Somerset on Finals Day at Edgbaston. \r\n\r\nWe now pride ourselves on not only delivering first class County cricket but following the 3 year redevelopment of the ground here in Hove, we now offer a wide range of first class facilities for local business and the community to utilise 12 months of the year.\r\n\r\nFor more information on Sussex CCC visit\r\nwww.sussexcricket.co.uk\r\nwww.facebook.com/sussexccc\r\nwww.twitter.com/sussexccc", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 264 0201"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AN", 
+        "city": "Hove", 
+        "street1": "Eaton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1839, 
+    "websiteUrl": "www.sussexcricket.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Match Day Hospitality", 
+      "Corporate & Private Events", 
+      "Cricket Development", 
+      "Coaching Courses", 
+      "Sponsorship", 
+      "Advertising", 
+      "Business Networking", 
+      "Media"
+     ]
+    }, 
+    "universalName": "sussex-county-cricket-club", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex County Cricket Club"
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "Bon and Hove Adult Learning Festival", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.janineboyer.com", 
+    "universalName": "bon-and-hove-adult-learning-festival", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Self employed on this project commissioned by BHCC, BECA and BWC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "Onyx Facilities Services provides Cleaning and Facilities Services to the public & private sectors, with offices based in London, Brighton and Crawley we are ideally situated to cover London and the South East.\r\n\r\nThe company\u2019s values are:\r\n\r\n\u2022\tTo provide the highest standard of service\r\n\u2022\tTo build long-term relationships with our customers\r\n\u2022\tTo maintain integrity and initiative by taking a fresh approach to our industry\r\n\u2022\tTo maintain professionalism and pride in becoming a market leader\r\n\u2022\tTo achieve long-term stability for our highly trained and motivated staff\r\n\r\nSample Contracts:\r\n\r\n\u2022\tJubilee Library, Brighton\r\n\u2022\tAmex Community Stadium, Brighton & Hove FC\r\n\u2022\tLewes Grammar School\r\n\u2022\tBarclays Bank HQ, Canary Wharf\r\n\u2022\tBOXPARK Shopping Centre, Shoreditch, London\r\n\u2022\tRSPCA Headquarters, Horsham\r\n\u2022\tLingfield Racecourse \r\n\u2022\tHoliday Inn\r\n\u2022\tMarriott Hotel Group\r\n\u2022\tKier Group\r\n\u2022\tMears Group\r\n\u2022\tPrimark\r\n\u2022\tBest Western Hotels\r\n\u2022\tBrighton & Hove Council\r\n\u2022\tPDR Construction", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 092 2989"
+       }, 
+       "address": {
+        "postalCode": "BN1 4JF", 
+        "city": "Brighton", 
+        "street1": "Office Suite 2"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0207 205 2126"
+       }, 
+       "address": {
+        "postalCode": "EC2M 4NS", 
+        "city": "London", 
+        "street1": "Longcroft House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 769 952"
+       }, 
+       "address": {
+        "postalCode": "RH11", 
+        "city": "Crawley", 
+        "street1": "Office Suite 1"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 092 2989"
+       }, 
+       "address": {
+        "postalCode": "SW16 1BN", 
+        "city": "London", 
+        "street1": "Lower Ground, 136 Streatham High Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.onyxservices.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fire & Flood Restoration", 
+      "Cleaning & Hygiene Services", 
+      "Rope Access & Working at Heights", 
+      "Air Conditioning &Ventilation Systems Cleaning & Maintenance"
+     ]
+    }, 
+    "universalName": "mr-gleam-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Onyx Facilities Services Ltd (we have re-branded from Mr Gleam Ltd)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 603, 
+    "description": "Mattilsynet er eit statleg, landsdekkjande forvaltingsorgan som er med p\u00e5 \u00e5 sikre forbrukarane trygg mat og trygt drikkevatn. Vi skal fremje folke-, plante- , fiske- og dyrehelse, milj\u00f8vennleg produksjon og etisk forsvarleg hald av fisk og dyr. Mattilsynet har ogs\u00e5 oppg\u00e5ver i h\u00f8ve til kosmetikk og legemiddel og f\u00f8rer tilsyn med dyrehelsepersonell.\r\n\r\nMattilsynet sine roller er \u00e5 utarbeide framlegg til, forvalte og rettleie om regelverk, f\u00f8re eit risikobasert tilsyn, formidle informasjon og kunnskap og ha beredskap. Mattilsynet skal gi faglege r\u00e5d til Landbruks- og matdepartementet, Fiskeri- og kystdepartementet og Helse- og omsorgsdepartementet..", 
+    "twitterId": "", 
+    "industry": "Government Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "2381", 
+        "city": "Brumunddal", 
+        "street1": "Mattilsynet (+ navn p\u00e5 kontor/sted)"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.mattilsynet.no", 
+    "universalName": "mattilsynet-norwegian-food-safety-authority", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Mattilsynet"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 49, 
+    "description": "Brighton and Hove's only unique one-stop shop of wedding services, a collaboration of the City's independent wedding service specialists from photography, florists, bespoke wedding dresses, cakes, jewellery, and much more.\r\n\r\nEach of the services are experienced with weddings and we know just how important it is that the day is perfect for all fianc\u00e9's and bride's to be.  The directory of services has been handpicked by the Wedding Boutique to bring the very best that the City of Brighton and Hove has to offer.\r\n\r\nThe exciting bit is that in addition to the exclusive directory of services, the Wedding Boutique will be hosting regular Wedding Events and show casing these services allowing couples and their families to indulge in a unique wedding style experience at each event that we hold.", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN41 1UY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.weddings-brighton-hove.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Unique Wedding Service Providers"
+     ]
+    }, 
+    "universalName": "wedding-boutique", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Wedding Boutique"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "We offer a bespoke design, print, distribution and display service for your\r\nposters, leaflets, flyers, brochures, magazines and other promotional material. \r\n\r\nOur experienced in-house design team can produce high quality material to your specification or design from scratch, all at very competitive prices.\r\n\r\nWe can display A4, A3, A2 and Double Crown size posters throughout Brighton & Hove and across the wider Sussex region. We have over 1,500 exclusive poster sites in Brighton alone, of which 95% are A3 with the remainder A4 size. \r\nOur custom-built display racks give excellent coverage throughout Brighton & Hove, ensuring your print is highly visible at all times. These are located in cafes, bars, tourist attractions, retail outlets.", 
+    "twitterId": "swatbrighton", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273690573", 
+        "phone1": "01273 690573"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GE", 
+        "city": "Bnrighton", 
+        "street1": "50 Providence Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.swatmarketing.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Design", 
+      "Printing", 
+      "Leaflet Distribution and display", 
+      "Poster display"
+     ]
+    }, 
+    "universalName": "swat-marketing-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "SWAT Marketing Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1066, 
+    "description": "Dotsquares are an International creative digital design and development company based in Albourne (near Brighton & Hove) , United Kingdom, Australia & Texas, U.S.A with two development centres in Jaipur, India. We provide online solutions for companies of all sizes. DotSquares Video Presentation http://www.youtube.com/watch?v=RQypVDfhcrs\r\n\r\nDotsquares have a worldwide reputation for delivering innovative websites and mobile applications on time and on budget. \r\n\r\nOur aim is to combine quality web design and development with offshore benefits, in order to provide online solutions & taking the current economic downturn problems away from customers. Whether you are a small start up company looking to establish yourself in the market, or a large multinational looking for expansion, we can put in place a number of solutions to help you achieve your targets. Remember, we were once a start up company, and are now going through rapid expansion.\r\n\r\nHaving completed in excess of 5000 projects, including content managed systems, e-commerce stores and social networking apps, the Dotsquares team continues to grow. A unique business model allows Dotsquares to treat its clients as individuals; whether working with multi-nationals, public sector organisations, the small business sector or fellow digital companies.\r\n\r\nThe company continues to grow and can now boast over 400 experienced technical staff, from designers and developers to SEO gurus and project managers.", 
+    "twitterId": "dotsquares", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0844 811 3503", 
+        "phone1": "01273 575190"
+       }, 
+       "address": {
+        "postalCode": "BN6 9DB", 
+        "city": "Albourne", 
+        "street1": "Unit 2,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.dotsquares.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Websites", 
+      "E-Commerce", 
+      "Mobile Apps", 
+      "Content Manages Systems", 
+      "Bespoke Development", 
+      "Games Development", 
+      "iPhone Applications", 
+      "Facebook Applications", 
+      "BlackBerry Applications", 
+      "Project Management", 
+      "Search Engine Optimisation", 
+      "Managed Hosting"
+     ]
+    }, 
+    "universalName": "dotsquares", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dotsquares"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "name": "Politiezone Hekla", 
+    "twitterId": "", 
+    "industry": "Public Safety", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "034440005"
+       }, 
+       "address": {
+        "postalCode": "2650", 
+        "city": "Edegem", 
+        "street1": "Prins Boudewijnlaan 43a"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.hekla.be", 
+    "universalName": "politiezone-hekla", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Lokale politie voor de gemeenten Hove, Edegem, Kontich, Lint en Aartselaar\r\n\r\nPolitiezone HEKLA (letterwoord dat staat voor Hove, Edegem, Kontich-Waarloos, Lint en Aartselaar) is opgericht op 01-01-2002, bij KB 14-04-2002, verschenen in het Belgisch Staatsblad van 11-05-2002. Aldus is HEKLA \u00e9\u00e9n van de 196 lokale politiezones.\r\n\r\n Zoals bepaald in onze missie willen wij niet enkel kwaliteitsvol politiewerk leveren, maar ook constructief samenwerken met overheden, partners, maatschappelijke instanties en de bevolking, uitgaande van een open communicatie."
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "Ten Hove ICT", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "universalName": "ten-hove-ict", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 267, 
+    "name": "ARC IT Recruitment", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 781 800"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BD", 
+        "city": "Brighton", 
+        "street1": "LinkLink House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.arcitrecruitment.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Permanent IT Recruitment", 
+      "Contract IT Recruitment"
+     ]
+    }, 
+    "universalName": "arc-it-recruitment", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "ARC IT Recruitment provides recruitment solutions for both contract and permanent positions across a broad range of IT and business skill sets, from graduate entry level to heads of global business. Our solutions support from client server networks to midrange and more commonly through to cutting edge technologies.\r\n\r\nAt ARC we have enjoyed and continue to enjoy working closely with clients and candidates alike, forming lasting relationships with our honest and no-nonsense approach to recruitment.\r\n\r\nOur business has grown steadily over the last eight years, our client base spans the length and breadth of the UK and we also have significant presence in Europe and the US. It is a result of this continued growth that has seen us open our head office in Hove.\r\n\r\nPlease visit our website for a full list of our current vacancies."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 294, 
+    "description": "We founded Gobo with the aim to manage a small, boutique developer with the premise to GO Beyond Ordinary. The studio has the strongest culture of any studio that we have ever worked at and is situated in one of the most enviable working environments in the city of Brighton & Hove. But most important of all we have a bright, cohesive, talented team.\r\n\r\nSo far we have been lucky enough to work with some amazing development teams and help augment their teams with our hugely talented people here at Gobo. We've been trusted with responsibility for full development of headline features by our partners - we're proud that our partners can see and trust our total devotion to quality and excellence.\r\n\r\n2013 - Gobo are supporting Avalanche Software on Disney Infinity - a major new toys-and-video-games platform from Disney Interactive launching in June 2013. We are responsible for the Pirates of the Caribbean playset which is one of the three launch playsets for the platform - a major, headline, front-of-box feature.\r\n\r\n2012 - Gobo augmented Codemasters development capacity and successfully released F1 2012 on PC, PS3 and Xbox360 (84% metacritic). We were responsible for headline, front-of-box features.\r\n\r\n2012 - Gobo worked with Microsoft Studios, Soho Productions on an unannounced new production.\r\n\r\n2011 - Gobo had the pleasure to work with Ruffian Games in Dundee, Scotland on unannounced productions for Microsoft Studios.", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 6HA", 
+        "city": "Brighton", 
+        "street1": "Unit 8, Hove Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.studiogobo.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "AAA Game Development", 
+      "Unity", 
+      "iOS", 
+      "Xbox360/PS3", 
+      "PC", 
+      "Lean project management"
+     ]
+    }, 
+    "universalName": "studio-gobo", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "STUDIO GOBO"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 110, 
+    "description": "Here at CSnotepad we offer telephone call answering services across the UK and beyond from our offices based in Brighton & Hove, Sussex. We are experts in call handling and professional virtual receptionist solutions. Our virtual receptionist solutions offer businesses, regardless of their size, an alternative way of handling their telephone calls and unlike the majority of our competitors we charge per call not per minute so you are not caught out with large unexpected bills.\r\n\r\nWe demonstrate the difference a team of enthusiastic and motivated staff can make to customer satisfaction and ultimately retention. We are not a call centre and so our customers are not simply numbers. We instead are a series of small teams each dedicated to a limited number of customers. As a result, each of our customers and their callers receive an outstanding personal service. Our customers also have their own account manager who is on hand to discuss and address their virtual receptionist needs whenever they want.\r\n\r\nOur staff (who we call virtual receptionists) are professional and skilled call handling agents who answer inbound telephone calls in your business name as an overflow or outsourced service. Our virtual receptionists can offer far more than just a message taking service. Other services include (but are not limited to): call patching, appointment booking, order taking, outbound calling, etc...", 
+    "twitterId": "csnotepad", 
+    "industry": "Outsourcing/Offshoring", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 7BD", 
+        "city": "Brighton", 
+        "street1": "Gemini House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.csnotepad.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Telephone Answering", 
+      "Virtual Receptionist", 
+      "Call Handling", 
+      "Call Patching", 
+      "Order Taking", 
+      "Virtual Address", 
+      "Prestigous Address", 
+      "Fax to Email", 
+      "Voicemail Box", 
+      "Teleconferencing", 
+      "Outbound Calling", 
+      "Virtual Phone Numbers", 
+      "Virtual Office Solutions", 
+      "Inbound Call Handling"
+     ]
+    }, 
+    "universalName": "csnotepad", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CSnotepad"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Coast to capital is the LEP for Brighton and Hove, Croydon, Gatwick Diamond (including four Surrey areas), Lewes and West Sussex. Local Enterprise Partnerships were founded in 2011 designed to determine local economic priories and stimulate job creation within its local area, working closely with local businesses and strategic partners. The overall aim; to achieve strong sustainable economic growth. \r\n\r\nOur vision Is to create an outward facing, high performing international business economy, with a reputationfor being a good place to do business. Business and economic performance will be transformed so our area can compete in any global market place.\r\nIf we achieve our vision the Coast to Capital economy will be one where:\r\n\r\n\u2022\tA high proportion of businesses are internationalised\r\n\u2022\tThere is a strong, competitive dynamic with high rates of business formation.\r\n\u2022\tThere are high levels of innovation and business growth.\r\n\u2022\tThere is a highly skilled workforce with high levels of economic activity.\r\n\u2022\tYoung people can learn and follow rewarding careers, without having to move away.\r\n\u2022\tPrivate sector employment growth is strong and public sector employment forms one fifth, or less, of the total.\r\n\r\nOur Goal\r\nTo create net private sector employment growth of 100,000 jobs over the next 25 years to 2035", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Horsham", 
+        "street1": "Horsham"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.coast2capital.org.uk", 
+    "universalName": "coast-to-capital", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Coast to Capital LEP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "We provide a variety of services for LGBT young people and we are staffed by a part-time Project Director, a team leader, two part-time Youth Support Workers, a Youth Volunteering Development Worker, three peer support workers, a part-time administrator and a team of 25 volunteers. A Teen to Adult Personal Advisor has been seconded to the project full-time from CAMHS.\r\n\r\nAn average of thirty young people attend our services and an average of eight young people currently receive one-to-one support each week either face-to-face, by phone or email.\r\n\r\nOur Purpose\r\n\r\nAllsorts works to raise awareness, promote good practice and facilitate the creation of safer and more supportive environments for LGBT young people in the wider community by:\r\n\r\n\u2022 Supporting vulnerable, alienated or marginalized young people in Brighton and Hove and the surrounding area who are LGBT or unsure of their sexuality and/or gender identity\r\n\r\n\u2022 Delivering peer led homophobia, biphobia and transphobia awareness and anti-bullying workshops in schools, colleges and youth organisations\r\n\r\n\u2022 Providing training for adults and agencies working with young people\r\n\r\n\u2022 Providing promotional and educational materials (booklets, toolkits, stickers, posters etc)", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 721211"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AE", 
+        "city": "Brighton", 
+        "street1": "69 Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://allsortsyouth.org.uk/", 
+    "universalName": "allsorts-youth-project", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Allsorts Youth Project"
+   }
+  ]
+ }
+}

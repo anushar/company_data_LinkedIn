@@ -1,0 +1,912 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 820, 
+  "values": [
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 46, 
+    "description": "PSG is a national network of property search experts with over 60 branches throughout the UK. PSG Southern, which provides services to solicitors on the south coast from offices in Lancing in West Sussex, has been open since 1998 and during this time has grown to be a major force in the local property market. Our area of operation extends from Brighton in the East to Bournemouth and Poole in the West and includes the Isle of Wight. We offer a comprehensive range of services including conveyancing searches and reports for every kind of property and property transaction. Unlike some search providers offering a centralised service, we provide real local knowledge and an understanding of the area\u2019s property market. PSG Connect, our multi-functional online ordering and tracking system has been described as the most simple and efficient ordering platform available and our dedicated team are also on hand to give you all the support you might need.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+441903 854728"
+       }, 
+       "address": {
+        "postalCode": "BN18 9PJ", 
+        "city": "Lancing", 
+        "street1": "82-84 Crabtree Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.psgconnect.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Legal Services", 
+      "Conveyancing Searches", 
+      "Energy Performance Certificates"
+     ]
+    }, 
+    "universalName": "the-property-search-group---psg-southern", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Property Search Group - PSG Southern"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Access Tuition offers exceptional services in private tuition and private learning. Based in Brighton and operating throughout the south-east, we insure that only the highest service is provided to our customers. Evening classes are also offered for people who are interested in learning fascinating topics such as Astrophysics, Essential French, Financial Mathematics and more.\r\n \r\nIt is a known fact that students who take sessions in private tutoring progress at an exponential rate relative to their peers. We believe that private tuition can aid and support comprehensive education and as a result, offer revision and master classes for schools in the south-east of England.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://accesstuition.blogspot.co.uk/2012/03/looking-for-private-tuition-in-any.html#comment-form", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.accesstuition.co.uk", 
+    "universalName": "access-tuition-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Access Tuition Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Enliven Personal Training provides one to one or group personal fitness training in Brighton & Hove and Worthing areas.\r\n\r\nEnliven provides the very latest exercises and training techniques the industry has to offer, and we also give nutritional advice and guidance throughout the course of personal training, to further improve your overall health which will aid in your success towards achieving your fitness goals.\r\n\r\nWhatever your age and whatever your current level of fitness, we can provide the personal training you need either at a local gym, at your home or outside, perhaps in a nearby park, whatever suits you best, which can make your unique sessions fun, enjoyable, effective and challenging.\r\n\r\nAt Enliven, we understand most people consider exercise a `chore` and consequently find it boring and give up, however, we are very experienced at dealing with these very common problems and this reflects in our training practices, by encouraging clients rather than intimidating them, by offering an unique and individual approach which is a different and fresh approach to improving your health and fitness, no two clients have the same training programme.\r\n\r\nWhether you need a few sessions to get you going or you need long and continued support,  using Enliven is a fantastic investment for your long term health and fitness.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07545 099494"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AD", 
+        "city": "Brighton", 
+        "street1": "Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.enlivenpersonaltraining.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Weight / Fat Loss", 
+      "Boxing / Core / Conditioning Training", 
+      "Cardiovascular / Strength Training", 
+      "Sports / Remedial Massage"
+     ]
+    }, 
+    "universalName": "enliven-personal-training", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Enliven Personal Training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "name": "Atkinsons Accountants", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 771122"
+       }, 
+       "address": {
+        "postalCode": "BN3 2FA", 
+        "city": "Hove", 
+        "street1": "Palmeira Avenue Mansions"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0208 949 2202"
+       }, 
+       "address": {
+        "postalCode": "KT3 4NT", 
+        "city": "New Malden", 
+        "street1": "86 Burlington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.atkinsonsca.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Accounting", 
+      "Auditing", 
+      "Taxation", 
+      "VAT consultancy", 
+      "Remuneration structuring"
+     ]
+    }, 
+    "universalName": "atkinsons-accountants", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Atkinsons provide trusted accounting services in Brighton & Hove, London and throughout the south east. We have done so since 1962. \r\n\r\nWe specialise in tax solutions both for individuals and companies; business growth (providing outsourced business support); sourcing finance; and remuneration structures. We also maintain traditional accounting and auditing services.\r\n\r\nOur clients come from a wide cross-section of business sectors, but require similar solutions; we recognise your need for professional, independent advice from your accountant, adding value to your businesses, and we recognise the benefits to you of a trusted long-term relationship with your accountant."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "WORDfest is a voluntary organisation set up in 2011 as a pilot project between Waterstone\u2019s County Mall staff and Crawley Library to see if a literary festival in Crawley was a viable undertaking.  The week-long programme of events came about in partnership with local businesses & creative communities as well as publishing houses (most notably the Ginger Moo Gallery, Crawley Library, Waterstone\u2019s County Mall, Crawley Borough Council and The Hawth as well as Headline and Pan MacMillan). \r\n\r\nWe challenge the notion that Crawley is not a place where one would find a literary festival and for the residents of the town to have access to something that is more often associated with cities such as Brighton or Chichester. Our aims are for the festival to be to be inclusive, vibrant and varied. The programme includes talks, panel discussions, workshops, competitions, art exhibitions and live music. We chose to name the programme WORDfest so as to be expansive in the events we can offer and so engage and interest as much of the local community as possible.\r\n\r\nWe also aim to support local creatives and bring in talent from elsewhere so that experiences and expertise could be shared amongst the participants as well as those attending from the public.\r\n\r\nWORDfest 2012 runs from Saturday 24th of March until Thursday 5th of April.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.wordfestcrawley.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Community Events", 
+      "Community Partnerships", 
+      "Creative Projects", 
+      "Workshops & Exhibitions"
+     ]
+    }, 
+    "universalName": "wordfest-crawley-festival-of-words", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "WORDfest: Crawley Festival of Words"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Rock Hill Residential Group, founded in January of 2012, is a boutique real estate company specializing in sales, rentals and property management in the Greater Boston area.\r\n\r\nThe company was founded by Peter Racheotes, a native of Brighton, MA and local resident for over 35 years. Peter is the Broker/Owner and has been  a full time real estate professional since 2004. He has specialized in residential sales and rentals in the Greater Boston and Metro West areas. His experience includes a wide variety of clients including first time home buyers & sellers, seasoned real estate investors, developers, tenants and landlords. Prior to his real estate career, Peter worked for over 7 years for an Engineering/Design firm specializing in the engineering design, fabrication and installation of industrial steel smoke stacks throughout North America. He is a graduate of Boston Latin School and holds a Bachelor of Science degree in Mechanical Engineering and minor in Business Administration from the University of New Hampshire, Durham.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617.787.8819", 
+        "phone1": "617.688.7850"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Boston", 
+        "street1": "300 Market Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.rockhillrg.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Residential Sales", 
+      "Leasing", 
+      "Tenant, Landlord Representation", 
+      "Property Managment", 
+      "Multi-Family Investments"
+     ]
+    }, 
+    "universalName": "rock-hill-residential-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Rock Hill Residential Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "Inyaear Promotions", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.inyaearpromotions.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Events", 
+      "Promotions", 
+      "V.I.P Service"
+     ]
+    }, 
+    "universalName": "inyaear-promotions-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Events & Promotions\r\n\r\nInYaEar Promotions was founded early August 2010 and is based in Brighton\r\n\r\n\r\nInYaEar Festival 2nd & 3rd June (Whitehawk Football Club)\r\n\r\n\r\nShmooze @ Madame Geisha Every Thursday -\r\n\r\n\r\nLast Stop @ The Tube Every Saturday -\r\n\r\n\r\nBACK2BACK @ Coalition Every Tuesday -\r\n\r\n\r\nO>Y>B @ Coalition once a month Saturday -\r\n\r\n\r\nFlava In Ya Ear @ The Haunt - Once A Month -\r\n\r\n\r\nFor any questions, queries or simply for guestlist, queue jump or VIP booths please don't hesitate to get in contact with the InYaEar Team:\r\n\r\nJustin Pawsey 07827510518 \u2706 26CB52B8\r\nEmile Ryan 07786567679 \u2706 21B7E0E5\r\nRyan Frith 07530092475 \u2706 20FB1B4B\r\nAbe Day Garman 07717365673 \u2706 2778207F\r\nGeorge Leighton 07852756305 \u2706\r\nMatt Spark 07590420899 \u2706 \r\n\r\ninfo@inyaearpromotions.com\r\n\r\nSee you on the floor..\r\n\r\nInYaEar x"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "CPS specializes in designing and maintaining computer systems in Livingston County. We offer consulting services in Brighton, Howell, Hartland, Hamburg, South Lyon, Whitmore Lake, Pinckney, and bordering cities. We help with Internet connections, networks, computer systems, data storage and safety, third party software, custom software, data entry, and offer many more services.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.cpsmi.com/blog/feed/", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "413-723-5252", 
+        "phone1": "810-224-5252"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "322 W. Grand River Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.cpsmi.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Development", 
+      "Search Engine Placement", 
+      "IT Consulting", 
+      "Computer Repair"
+     ]
+    }, 
+    "universalName": "computers-plus-service", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Computers Plus Service"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "IT First Limited", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.itfirst.co.uk", 
+    "universalName": "it-first-limited", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Formerly known as Technical Response Team, we launched in 1996 with the aim of delivering IT services concentrating mainly on the small to medium size business community. Since the launch Technical Response rapidly became a market leader in their field, focusing on high levels of service backed by a Management team having over many years combined experience.From July 2008 we became known as IT First in order to reflect our expanding portfolio of services as we entered into a sponsorship agreement with Brighton & Hove Albion FC \u2013 to become the clubs shirt sponsor.Our success has grown through developing relationships with clients, by listening to their needs and developing a strategic partnership providing ongoing support either onsite or by our help desk. Our aim is to become the source for all our clients needs whether it is a piece of hardware or a fully managed global network.Looking to the future, IT First's goal is for continued growth, maintaining our unrivaled quality of service whilst embracing and presenting new technology to our clients."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Over 5000 people have dodgeballed with Dodgeball UK since its inception one afternoon, probably a Tuesday, back in 2009. Since then the company has gone from strength to strength, dodging the obstacles (and wrenches!) that inevitably occur with any new venture. Today, Dodgeball UK run a variety of social leagues, tournaments, company sessions, parties, singles events and much more, all around the UK.\r\n\r\nDodgeball UK\u2019s main office is in London\u2019s Canary Wharf, but events are by no means restricted to the capital. Dodgeball UK have organised tourneys and private sessions all over the country as far and wide as Leeds, Cardiff, Bristol, Manchester, Liverpool, Stafford, Brighton, Sheffield and other marvellous cities. \r\n\r\nThe premise behind Dodgeball UK is that people have the opportunity to do something different that is very sociable and that anyone can play. Everyone starts on a level playing field (all beginners!) and everyone can enjoy the game. Even those of you with terrible hair are allowed to play. Aren\u2019t we nice!\r\n\r\nDodgeball UK has also seen some of the most artistic, silly and inventive team \u2018kits\u2019, as well as some ludicrous team names. It\u2019s all part of the fun, and of course an integral aspect of the now legendary Apres-Dodgeball! We\u2019ve even had a few couples meet at Dodgeball UK but we hope they don\u2019t hold that against us!\r\n\r\nAnd finally, the balls aren\u2019t hard like on the film so what are you waiting for? See you at an event soon!\r\n\r\nDodge, Duck, Dip, Dive and\u2026DRINK!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07557 80 80 69"
+       }, 
+       "address": {
+        "postalCode": "Es14 9sb", 
+        "city": "London", 
+        "street1": "100 Prestons Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.dodgeballuk.com", 
+    "universalName": "dodgeballuk", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "DodgeballUK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "name": "Corcoran French", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "03 3794 617", 
+        "phone1": "03 3794 660"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Christchurch", 
+        "street1": "Level 1"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "03 327 5061", 
+        "phone1": "03 327 8159"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Kaiapoi", 
+        "street1": "The Crossing"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Christchurch", 
+        "street1": "The Barn"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.corcoran.co.nz/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Court", 
+      "Employment", 
+      "RMA", 
+      "Family", 
+      "Property", 
+      "Business", 
+      "Trusts and Wills", 
+      "Notary Public"
+     ]
+    }, 
+    "universalName": "corcoran-french", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Corcoran French is a full-service general practice law firm.\r\n\r\nThe team at Corcoran French has seven partners and more than 35 legal and support staff who are committed to providing high quality, cost-effective legal services that meet your needs.\r\n\r\nWith a history in the region dating back to 1892, and offices in Christchurch, Kaiapoi, Belfast and New Brighton, Corcoran French has a well established and successful association with the communities and people of North Canterbury and Christchurch."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 58, 
+    "description": "Williams and Co was founded in 1972, as a specialist Plumbing and Heating merchant, trading out of a corner shop in Ernest Road, Portsmouth. We became a Private Limited Company in 1984 and the Portsmouth premises have been relocated twice, first to New Road, Portsmouth and more recently to Claybank Road, Portsmouth where we are still trading today.\r\n\r\nDuring the late 1980's and early 1990's, four more branches were added in Fareham (which is also home to our Head Office), Petersfield, Southampton and Gosport. Further expansion saw us open branches in Littlehampton, Bognor, Chichester and Winchester. In 2007 we opened branches in Worthing, Guildford and Aldershot and in February 2008 Andover became the thirteenth branch. Branch number fourteen opened in Brighton in May 2008 and our fifteenth branch opened in Basingstoke in December 2009. In October 2010 we opened our 16th branch in Crawley which was promptly followed by our 17th branch in Reading in November that year. Slough and Croydon quickly followed in early 2011 and our 20th branch\r\nin Maidstone opened on 1st August 2011.\r\n\r\nThe founder, Mick Williams is Executive Chairman and majority shareholder, with Ray Stafford as Managing Director and Rachel Hannaford as Financial Director. Ann Williams was made a non-executive Director in May 2011.", 
+    "twitterId": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01329231305", 
+        "phone1": "01329 226500"
+       }, 
+       "address": {
+        "postalCode": "PO16 8XB", 
+        "city": "Fareham", 
+        "street1": "7-8 Standard Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "http://www.williams.uk.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Supply of Plumbing & Heating Materials", 
+      "Distribution of Plumbing & Heating Materials"
+     ]
+    }, 
+    "universalName": "williams-trade-supplies-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Williams Trade Supplies Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Falcon Compounding is your nationally known compounding pharmacy, located in New Brighton, Minnesota. We offer quality compounded medications at competitive prices with courteous and efficient customer service. Our trained compounding staff can tailor medications in dosage form and strength to meet the unique needs of our patients", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Pharmaceuticals", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "1-800-603-8196"
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "1801 Old Highway 8 Suite 121"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.falconcompounding.com", 
+    "universalName": "falcon-compounding", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Falcon Compounding"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "GO Telecom is a limited company and was founded back in 2008. Since then, GO Telecom has developed in to a fast moving telecommunications company offering a number of branded premium content services and number reselling products to both the consumer and businesses. Based in central Brighton and a stone throw away from London, GO Telecom works with a number of creative and innovative partners in both the telecommunication and media fields.\r\n\r\nGO Telecom is registered as a service provider with PhonepayPlus and is an active member of the Association for Interactive Media and Entertainment (AIME).\r\n\r\nAt GO we believe in developing quickly and being flexible in our approach to the services and products that we offer in this fast paced industry that we work in.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Telecommunications", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.go-telecom.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Business numbers and call handling", 
+      "Premium rate services"
+     ]
+    }, 
+    "universalName": "go-telecom-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "GO Telecom Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 87, 
+    "description": "The team at WPL Interiors have a passion for providing an exceptional Interior fit-out service for the dining and leisure markets. WPL have formed a strong network of industry specialists over time that has enabled continual growth and project success. \r\n\r\nThe business is driven by an experienced team who possess a wealth of knowledge in the design and build arena. The business has experienced strong growth since 2009 and the high standards and expectations of each project, remain paramount to WPL's success. \r\n\r\nEach project is nurtured from project conception to completion by a dedicated member of our experienced management team. Projects are always priced realistically, honestly and moulded around your budgetary requirements. We realise each project is different and overcome this by constantly evolving and adapting the way in which we work to ensure that we deliver the high standard you that expect. \r\n\r\nOur team of Quantity Surveyors ensure projects are costed with clarity to avoid any surprises on the final account. With our latest software, project cost control can be monitored on a daily basis. \r\n\r\nWPL is located 10 miles North of Brighton providing us with excellent access to the South East of England. Accompanying our modern office, we also boast workshop, joinery and storage facilities that are a great advantage to ensuring a more efficient project.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01444 250 120", 
+        "phone1": "01444 250 100"
+       }, 
+       "address": {
+        "postalCode": "BN6 8SE", 
+        "city": "Ditchling Common", 
+        "street1": "Unit 4"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.wplinteriors.co.uk/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Interior Fit-out", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "wpl-interiors-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "WPL Interiors UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "description": "Loos For Do's Ltd is the multi-award winning portable loo hire company providing mobile toilet hire for events and long-term rentals across London and Southern England.\r\n\r\nEstablished in 2002 and run by husband and wife team, Ed and Nicky Warner, we are passionate about providing our customers with the best possible facilities (we have just won \"National Loo of the Year 2012\" as well as a 5 star gold award in 2011) at competitive prices.\r\n\r\nWhen contacting us for a free quote, we will offer impartial expert advice on how best to configure and get value for money from the toilets you require for your events. \r\n\r\nA selection of our current clients include: Sky TV, ITV, John Lewis, Unilever, Ben & Jerry's, RFU, Farnborough Air Show, Brighton Marathon and The Great South Run.\r\n\r\nWe have 500 units available to hire ranging from single event loos, disabled wc's, urinals (4 man, 6 bay and 18 bay trailers), luxury trailers (various sizes), attendants on site and on-event servicing to long-term rentals for building sites and golf courses.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01420 588 411", 
+        "phone1": "01420 588 355"
+       }, 
+       "address": {
+        "postalCode": "GU34 3DZ", 
+        "city": "Alton", 
+        "street1": "Lower Farringdon"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.loos.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Portable toilet hire across London and South East", 
+      "Luxury Toilet Trailers", 
+      "Urinals, Disabled WCs and Baby Changing Units", 
+      "Free impartial advice and quotes"
+     ]
+    }, 
+    "universalName": "loos-for-do's-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Loos For Do's Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Only a pebble's throw from Brighton City centre, our beautiful parkland setting is nestled between country and coast and easily accessible by road or rail.\r\n\r\nThe self contained Conference Centre has a selection of flexible meeting rooms, all benefiting from natural daylight. The decked terraces offer additional outdoor spaces, with scenic views of the surrounding area. Our dedicated events team are there for you, before, during and after your event.\r\n\r\nOur range of over 90 seminar rooms, a variety of tiered lecture theatres and break out spaces provides you with unlimited combinations. Complimentary access to our wi-fi network is available to all delegates.\r\n\r\nWe have 850 bedroom, including 500 en-suite, which accommodate all budgets; so staying at the University offers a refreshing change to a city centre hotel. After a peaceful night's sleep, you can enjoy a variety of breakfast choices giving you the best start to your day.\r\n\r\nOur experienced team of chefs are fully committed to creating well balanced and appetising meals, using locally sourced and fair-trade produce. With nine eateries on campus, you have ample opportunities for those little indulgences!\r\n\r\nOur appealing emus, designed by our accomplished chefs are expertly served and cater for all tastes. \r\n\r\nThe large campus offers all the conveniences of staying in a town centre with bars, restaurants, banks, sports facilities and free on site parking. You don't have to venture far to find everything you need!", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.sussex.ac.uk/conferences", 
+    "specialties": {
+     "_total": 20, 
+     "values": [
+      "Meetings", 
+      "Conferences", 
+      "Team Building Events", 
+      "Exhibitions", 
+      "Lecture Theatres", 
+      "Restaurants", 
+      "Catering Services", 
+      "Accommodation", 
+      "Events", 
+      "Banqueting", 
+      "Seminars", 
+      "Celebrations", 
+      "Functions", 
+      "Parties", 
+      "Bars", 
+      "Unique Venues", 
+      "Music Events", 
+      "Sports", 
+      "Outdoor Events", 
+      "Business Retreats"
+     ]
+    }, 
+    "universalName": "conferences-&-events---university-of-sussex", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Conferences & Events - University of Sussex"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Island Lake Shooting Range in Brighton, Michigan is located on E. Grand River just one mile off I-96 between Kensington and Kent Lake. Facilities include a 15 station sporting clays course, 5-stand, 4 skeet fields, 4 trap fields, and a rifle/pistol range with positions at 100, 50, and 25 yards. \r\n\r\nBald Mountain Shooting Range in Lake Orion, Michigan offers a 14 station sporting clays course, covered 5-stand, executive course, a rifle and pistol range with positions at 25, 50 and 100 yards as well as an archery range with both stationary as well as 3D targets.\r\n\r\nAll facilities are overseen by certified safety officers to ensure your safety at all times.\r\n\r\n-----\r\n\r\nPat Lieske's School of Shooting (SOS) is owned and operated by professional shooter and chief instructor, Pat Lieske. Lieske SOS employees have instructed shooters from complete novices to Team USA competitors. Lieske's School of Shooting has five NSCA certified level one shotgun instructors as well as two NRA certified rifle and pistol instructors on staff to serve you at both locations.\r\n\r\n-----\r\n\r\nMemberships available!\r\n\r\nPunch cards are available for clays shooting members, further reducing the costs. Members can also enjoy reduced rates at some events, pro shop discounts, and special \"member's day\" specials. Members are also eligible for discounts at Great Lakes Sporting Arms.\r\n\r\nMembership rates:\r\nClay Target ($150.00)\r\nClay Target Couple ($225.00)\r\nRifle ($175.00)\r\nRifle Add-On to Clay ($125.00)\r\n\r\n*Pricing subject to change.", 
+    "twitterId": "", 
+    "industry": "Recreational Facilities & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(248) 437-2784"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "13600 East Grand River Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(248) 639-0567"
+       }, 
+       "address": {
+        "postalCode": "48360", 
+        "city": "Lake Orion", 
+        "street1": "2500 Kern Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.mishoot.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Sporting Clay Courses", 
+      "Rifle & Pistol Ranges", 
+      "Skeet and Trap Fields", 
+      "Archery", 
+      "Shooting Instruction", 
+      "Tournament Shooting"
+     ]
+    }, 
+    "universalName": "michigan-shooting-centers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Michigan Shooting Centers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 208, 
+    "description": "The Pilsen Wellness Center, Inc. actively seeks to provide holistic human services to individuals and families through culturally sensitive education, prevention, treatment, and recovery interventions.  These services are geared toward supporting family relationships, facilitating community empowerment, and stimulating economic development.\r\n\r\nThe organization has historically served the predominantly Latino-origin communities of Pilsen (Lower West Side) and Little Village (South Lawndale) in Chicago, and has since expanded the original service areas to include Archer Heights, New City, Brighton Park, Gage Park, McKinley Park, and South Chicago as well as the suburban communities of Cicero, Berwyn, Stone Park, and Melrose Park, Illinois.  The agency provides culturally sensitive services to a multicultural population with limited financial resources.  The organization\u2019s mission has remained providing quality behavioral health care, prevention and educational services to economically disadvantaged children and families.", 
+    "twitterId": "", 
+    "industry": "Mental Health Care", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "7735790762", 
+        "phone1": "7735790832"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "2319 South Damen Ave"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "7739277685", 
+        "phone1": "7739276987"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "2015 West Cermak Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "7083437895", 
+        "phone1": "7083437860"
+       }, 
+       "address": {
+        "postalCode": "60160", 
+        "city": "Chicago", 
+        "street1": "1633 North 37th Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "7736482098", 
+        "phone1": "7736482130"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "2001 South California  Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "7738237740", 
+        "phone1": "7738237743"
+       }, 
+       "address": {
+        "postalCode": "60632", 
+        "city": "Chicago", 
+        "street1": "2456 West 38th Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1967, 
+    "websiteUrl": "http://www.pilsenwellnesscenter.org", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Mental Health", 
+      "Substance Abuse", 
+      "Youth Services", 
+      "Prevention Services", 
+      "DUI Program", 
+      "Methadone Program"
+     ]
+    }, 
+    "universalName": "pilsen-wellness-center-inc-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Pilsen Wellness Center, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Our main works encompass all aspects of refurbishment and building construction including all external and internal building works. Typically schemes range up to a value of \u00a33.5m. \r\nWe are supported by electrical, civil engineering and groundworks divisions from within our group of companies.\r\nAlthough located in central England we do provide national coverage having completed projects in Aberdeen, Ipswich, Ashford and Brighton.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.lji-mpg.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Retail warehouse's", 
+      "retail car show rooms", 
+      "building refurbishment", 
+      "gound works", 
+      "civil engineering"
+     ]
+    }, 
+    "universalName": "lji-construction", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LJI Construction"
+   }
+  ]
+ }
+}

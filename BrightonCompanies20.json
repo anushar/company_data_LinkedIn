@@ -1,0 +1,694 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 400, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Seven Ways provides supported accommodation in Brighton and Hove for young people who have been in the care of the Local Authority and who need to develop practical and emotional skills prior to managing their own tenancies. \r\n\r\nSeven Ways offers a unique combination of services, providing support to care leavers and their social workers where it is needed most. We provide a safe platform from which young people can test and develop their independence: \r\n\r\n\u2022 a service exclusively for care leavers with best practice assured \r\n\u2022 direct support from support workers 365 days a year \r\n\u2022 great one bedroom flats with furnishings \r\n\u2022 a strategic approach helping young people to achieve their personal targets \r\n\u2022 commitment from resilient, versatile and effective workers \r\n\u2022 flexibility \r\n\r\nOur care packages are specially designed for each individual, created in partnership with social workers, and rigorously reviewed to ensure effectiveness. \r\n\r\n\r\n\r\nSeven Ways is run by Jon Mackie who has over thirteen years post-qualifying social work experience in East Sussex and the Brighton & Hove areas.", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.sevenwayssussex.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Supporting Young People"
+     ]
+    }, 
+    "universalName": "seven-ways-support-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Seven Ways (Support) Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "We are experts in strategy acceleration which enables organizations to more rapidly meet and exceed their goals. \r\n\r\nOrganizational leaders are better off when we've worked with them because:\r\n\r\n\u2022 They are achieving their goals more rapidly and more effectively\r\n\u2022 They create workplaces that attract and retain top talent\r\n\u2022 They are taking advantage of market opportunities for greater competitive success\r\n\u2022 They clearly understand who their customer is and meet their needs for accelerated growth\r\n\u2022 They achieve the maximum ROI from their strategic investments  \r\n\u2022 They've create business growth and bottom line results in a constantly changing world", 
+    "twitterId": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+1-847-686-3500"
+       }, 
+       "address": {
+        "postalCode": "60601", 
+        "city": "Chicago", 
+        "street1": "180 N Stetson"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.brightonleadership.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Strategy Acceleration", 
+      "Change Ready Leadership"
+     ]
+    }, 
+    "universalName": "brighton-leadership-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Leadership Group"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Caromacare of Brighton", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 0EP"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.caromacare.com", 
+    "universalName": "caromacare-of-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Professional therapeutic body treatments, educational workshops and a range of hand-crafted skin remedies for natural health and healing."
+   }, 
+   {
+    "numFollowers": 11, 
+    "name": "Brighton Alexander Technique College", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 6HA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.alexander-technique-college.com", 
+    "universalName": "brighton-alexander-technique-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "We offer a professional 3 yr teacher training course to become an Alexander Teacher. We also offer short courses for those interested in applying the AT to their musicianship, or horse riding or who wish to explore the delights of human balance and good use. We have something for everyone. We are approved by STAT and accredited by the OCN. We run regular CPD events."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "I offer bespoke French language courses and lessons held at home and at work  \r\n\r\nLevels from beginners to advanced are taught, including children and mother-toddler lessons. \r\n\r\nThese are either on a one-to-one basis or small groups with two or more students.", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3TB"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3TB", 
+        "city": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonfrenchlessons.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "French Tuition", 
+      "French English Translation"
+     ]
+    }, 
+    "universalName": "brighton-french-lessons", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton French Lessons"
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Central London Brighton & International", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "Http://www.gregmadison.net", 
+    "universalName": "central-london-brighton-&-international", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Psychological therapy for any presenting issues. Specialising in work stress and meaningfulness, anxiety, depression, professional & life balance, relationship issues, transitions, issues of home & belonging, etc"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Brighton Industries, Inc.", 
+    "industry": "Chemicals", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "60608"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonind.com", 
+    "universalName": "brighton-industries-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We specialize in environmentally compatible biological products odor control, cleaning, and waste water treatment"
+   }, 
+   {
+    "numFollowers": 24, 
+    "name": "Brighton and Hove Property Events", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn16nl"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonandhovepropertyevents.co.uk", 
+    "universalName": "brighton-and-hove-property-events", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "An opportunity to meet experts in attendance from the following fields:\r\nFinance \u2022 Mentorship \u2022 Refurbishment\r\nPortfolio Building \u2022 Landlords Insurance\r\nSourcing \u2022 Estate Agency \u2022 Letting \u2022 BMV Deals\r\nWe have networking breaks and great speakers sharing information and real life experiences"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Medics on the Move - Brighton", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN43 5AE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.movingtobrighton.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "relocation", 
+      "letting", 
+      "property management"
+     ]
+    }, 
+    "universalName": "medics-on-the-move---brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Relocation and Letting & Management services for professional people. Quality properties and excellent management services.  We help all professionals (not just medics) take the stress out of relocating home.  Purchase and management of investement property portfolios."
+   }, 
+   {
+    "numFollowers": 26, 
+    "description": "The Landmark Group is a growing specialty insurance brokerage located in Rochester, New York.  The company provides consulting broker services primarily to firms in the construction, manufacturing and high technology industries in upstate New York. The focus of their work includes property & casualty coverage, surety bonding and employee benefits.   A Personal Lines division assists individuals and families with insurance coverage for their auto and home.", 
+    "industry": "Insurance", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "585-272-7709", 
+        "phone1": "585-272-1956"
+       }, 
+       "address": {
+        "postalCode": "14623", 
+        "city": "Rochester", 
+        "street1": "1956 West Henrietta Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "www.landmarkinsurance.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "insurance", 
+      "employee benefits", 
+      "group insurance", 
+      "surety bonds"
+     ]
+    }, 
+    "universalName": "the-landmark-group-of-brighton-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Landmark Group of Brighton, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 121, 
+    "description": "The firm of choice in Brighton & Hove - delivering a truly professional service, with a personal touch.\r\n\r\nWe are a leading law firm in Brighton and Hove with a reputation for delivering excellence and innovation in legal services. We have been a cornerstone of the Sussex business community for over a century and successfully blend modern practices with traditional values:\r\n\r\n\u2022we are fair and ethical at all times\r\n\u2022we employ the best people\r\n\u2022we aim to get the best outcomes for our clients\r\n\u2022we believe it is both courteous and professional to keep you fully informed\r\n \r\nOur core areas are property, services for businesses, wills, probate and trusts, family law and litigation & dispute resolution.\r\n\r\nOur approach to fees is to ensure that there are no surprises, agreeing costs or budgets at the outset wherever possible.  We are authorised by the Legal Aid Agency to undertake publicly-funded work in the file of Child Care.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 820350", 
+        "phone1": "+44 1273 323231"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HY", 
+        "city": "Brighton", 
+        "street1": "Lanes End House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 1273 326347", 
+        "phone1": "+44 1273 722532"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BB", 
+        "city": "Hove", 
+        "street1": "79, Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1880, 
+    "websiteUrl": "www.woolleybevis.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Property", 
+      "Services for Business", 
+      "Wills", 
+      "Probate and Trusts", 
+      "Litigation", 
+      "Dispute Resolution", 
+      "Family"
+     ]
+    }, 
+    "universalName": "woolley-bevis-diplock-llp", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Woolley Bevis Diplock LLP incorporating Tennant & Knight"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Rock Paper Image", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4AF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.rockpaperimage.co.uk", 
+    "universalName": "rock-paper-image", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Providing SEO solutions in Brighton and around Sussex for small business websites.\r\n\r\nDesign, build, hosting and SEO for small companies in Brighton and around Sussex."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Lucraft Hodgson & Dawes Chartered Accountants were established in Brighton, in 1947 and have offices in Brighton and Rustington.\r\n\r\nAt Lucrafts our purpose is to make all your dealings with the taxman as painless and efficient as possible.\r\n\r\nWe don\u2019t believe in making tax or accountancy any more complicated than it has to be, which is why doing business with us is simple:\r\n\r\n1. We meet you for a free consultation about your business needs.\r\n\r\n2. We then establish exactly how we can help you.\r\n\r\n3. We provide you with an approximate costing.\r\n\r\nFinally, we\u2019ll get on with the job in hand, leaving you to focus on what you do best\u2026running your business.", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1UF", 
+        "city": "Brighton", 
+        "street1": "19 New Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1947, 
+    "websiteUrl": "http://lucrafts.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "accounting", 
+      "taxation", 
+      "business services"
+     ]
+    }, 
+    "universalName": "lucraft-hodgson-&-dawes", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Lucraft Hodgson & Dawes"
+   }, 
+   {
+    "numFollowers": 50, 
+    "name": "Church of Christ the King", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.cck.org.uk", 
+    "universalName": "church-of-christ-the-king", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Church of Christ the King is a church based in Brighton, England. It is part of a wide network of churches known as New Frontiers. The church's aim is to love and serve the city of Brighton and the people who live there and to tell the message and story of Jesus that is found in the Bible."
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Brighton Bespoke.", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn2 5fb"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonbespoke.co.uk/", 
+    "universalName": "brighton-bespoke.", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Web design, build & development. Graphic design!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Digital United is evolving! \r\n\r\nDu is not just another agency. It's a whole new way of working. It's a place where independent, talented people own the company and not the other way round. The result is better work for our clients and a better time at work for our managed team. Digital United is a Managed Network of professionals, collectively delivering a flexible blend of Agency, Consultancy & Production Services.\r\n\r\nBeing extremely Agile in outlook and formal process, we are the Agency of the future, \"...offering strategies that transcend disciplines;...a portal for many talents. Where the necessary talents do not exist under a single roof, the agency may create a virtual company for the benefit of each client.\"\r\n\r\nContact Us to discuss your requirements, challenge us today!\r\n\r\nFollow Us now as we unveil our 'bleeding'-edge capabilities...", 
+    "twitterId": "http://digitalunited.co.uk/blog.html", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 779384"
+       }, 
+       "address": {
+        "postalCode": "BN3 1AR", 
+        "city": "Brighton & Hove", 
+        "street1": "Chapel Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://digitalunited.co.uk", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Brighton new media", 
+      "branding", 
+      "design", 
+      "marketing", 
+      "advertising", 
+      "web", 
+      "mobile", 
+      "kiosk", 
+      "digital marketing", 
+      "internet marketing", 
+      "full service", 
+      "agency", 
+      "Brighton"
+     ]
+    }, 
+    "universalName": "digital-united-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Digital United Ltd."
+   }, 
+   {
+    "numFollowers": 26, 
+    "name": "Royal Brighton Yacht Club", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.rbyc.org.au", 
+    "universalName": "royal-brighton-yacht-club", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Yacht Club on Port Philip Bay"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Brighton Consulting Ltd", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "RG21 4HP"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonconsulting.co.uk", 
+    "universalName": "brighton-consulting-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Flood Risk Assessments\r\nCode for Sustainable Homes\r\nPlanning Services"
+   }, 
+   {
+    "numFollowers": 23, 
+    "name": "Brighton Mazda", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.brightonmazda.com.au", 
+    "universalName": "brighton-mazda", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Leading Mazda Dealership in Melbourne's metropolitan area."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Keller Willilams-Brighton", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.theKilarskiGroup.com", 
+    "universalName": "keller-willilams-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Helping our clients buy and sell real estate"
+   }
+  ]
+ }
+}

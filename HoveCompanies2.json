@@ -1,0 +1,595 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 40, 
+  "values": [
+   {
+    "websiteUrl": "", 
+    "numFollowers": 6, 
+    "industry": "Marketing & Advertising", 
+    "universalName": "brighton-&-hove-actually-directory", 
+    "name": "Brighton & Hove Actually Directory"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 3, 
+    "industry": "Nonprofit Organization Management", 
+    "universalName": "csa-brighton-&-hove", 
+    "name": "CSA Brighton & Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "We focus on helping businesses get online \u2013 building a professional and engaging online presence to extend and maximise online relationships with customers. Our services include: social websites, social media, event amplification, photography, videography and social media training.", 
+    "twitterId": "abigHELLO", 
+    "blogRssUrl": "feed://hellobrightonandhove.co.uk/feed/", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://hellobrightonandhove.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Social Media", 
+      "Social Websites", 
+      "Event Reporting", 
+      "Photography", 
+      "Training", 
+      "Videography"
+     ]
+    }, 
+    "universalName": "hello-brighton-and-hove", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "hello! Brighton and Hove"
+   }, 
+   {
+    "websiteUrl": "www.kwantesvanhove.nl", 
+    "numFollowers": 2, 
+    "industry": "Real Estate", 
+    "universalName": "kwantes-&-van-hove-vastgoedconsultants", 
+    "name": "Kwantes & Van Hove Vastgoedconsultants"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 60, 
+    "industry": "Primary/Secondary", 
+    "universalName": "hove-park-school", 
+    "name": "Hove Park School"
+   }, 
+   {
+    "websiteUrl": "http://www.vanhovephotography.com", 
+    "numFollowers": 2, 
+    "industry": "Photography", 
+    "universalName": "van-hove-photography", 
+    "name": "Van Hove Photography"
+   }, 
+   {
+    "websiteUrl": "http://www.hove-lydesign.no", 
+    "numFollowers": 12, 
+    "industry": "Events Services", 
+    "universalName": "hove-lysdesign-as", 
+    "name": "Hove Lysdesign AS"
+   }, 
+   {
+    "numFollowers": 11, 
+    "name": "Gymophobics Brighton & Hove", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3YH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.gymophobics.co.uk", 
+    "universalName": "gymophobics-brighton-&-hove", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Ladies only gym\r\n30 minute workout\r\nall shapes, sizes, ages and abilities"
+   }, 
+   {
+    "numFollowers": 543, 
+    "name": "Brighton & Hove Albion FC", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1YR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.seagulls.co.uk", 
+    "universalName": "brighton-&-hove-albion-fc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Football Club"
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Hove Consulting", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": ".", 
+    "universalName": "hove-consulting", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Management consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Brite Blinds Ltd", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273722250"
+       }, 
+       "address": {
+        "postalCode": "BN3 5QN", 
+        "city": "Brighton and Hove", 
+        "street1": "Portland Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 266663"
+       }, 
+       "address": {
+        "postalCode": "BN14 9RY", 
+        "city": "Worthing", 
+        "street1": "7 Offington Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.briteblinds.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Blinds and Awnings", 
+      "Made to measure blinds", 
+      "Venetian Blinds", 
+      "Motorised Blinds", 
+      "Markilux Awnings"
+     ]
+    }, 
+    "universalName": "brite-blinds-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Suppliers of made to measure blinds, curtains and awnings in Brighton, Hove, Worthing and surrounding areas.\r\n\r\nBrite Blinds supply and fit a wide range of quality made to measure blinds, curtains and awnings at competitive prices in Brighton, Hove, Worthing and surrounding areas. We offer free home visits, expert advice, free measuring and quotations."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Religion Bar & Club", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.ReligionBar.co.uk", 
+    "universalName": "religion-bar-&-club", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Hove's new bar and boutique club. In a world of nowhere to go Religion is some where to go..Never to cool for school it is a fun and yet beautiful venue \u2026.It guarantees a great night out with gorgeous friendly staff great music and superb cocktails. Sitting is the new dancing and they have created 7 stunning booths that you can book for the night. The most exclusive area though is a VIP mini club over looking the bar that you can book\u2026.\r\n\r\nFor those of you with your dancing shoes they also have a stunning boutique club downstairs where you can dance the night away and the best bit is you will know every song they play. Then again if you fancy dancing in your booth thats fine too. The heated covered outside area is perfect for a smoke and a chat.\r\n\r\nOpen Thursday ,Friday (till 3am) and Saturday (till 3am) nights with 2 for 1 cocktails on Thursday night and Friday afterwork club (3-8pm) it can\u2019t be missed if your in Hove.\r\n\r\nGet home, Get Dressed, Get out, Get Religion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Prominence Ltd was founded by Mehdi Jahani in 2008. From just four properties in 2009, Prominence Property now manages a number of properties across Brighton and Hove. The growth of the letting agency has been largely due to referrals, which is something we take great pride in.\r\n\r\nMehdi deals directly with the majority of our landlords and knows most of the tenants in Prominence property by name. If you have a question about renting or letting in Brighton or Hove, Mehdi is always more than happy to speak to you. Having lived and working in the city since 2003, he can give you valuable insights into the different areas and into the rental market trends.\r\n\r\nAll members of the Prominence Property team must complete a National Federation of Property Professionals (NFoPP) technical award in Residential Letting and Property Management. NFoPP works to raise standards within the letting and property management profession and its qualifications are recognised by the Office of Qualifications and Examinations Regulation (Ofqual).\r\n\r\nIf you are looking for local property rentals & management in East Sussex run by experts or want to get more information before buying your first BTL property, give us a call on 01273 724374", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 724374"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DB", 
+        "city": "Hove", 
+        "street1": "124 Western Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.prominenceproperty.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Full Property Management", 
+      "Tenant Introduction", 
+      "Property Valuation", 
+      "Local Insights", 
+      "Property Inspections", 
+      "Tenant Screening"
+     ]
+    }, 
+    "universalName": "prominence-property", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Prominence Property"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "OfwelTen Hove, Damen & Holmes Advocaten, is een nieuw kantoor in een authentiek pand waarvan de advocaten gezamenlijk  meer dan 60 jaren specialistische ervaring hebben in de juridische advies- en procespraktijk. Wij  richten ons op zowel  de zakelijke markt alsook op particulieren. Wij zijn jonge, gemotiveerde en enthousiaste  specialisten die streven naar een optimaal resultaat  voor u en voor uw zaak in zo kort mogelijke tijd. Onze advocaten zijn modern, werken pro-actief en hanteren concurrerende prijzen. \r\n\r\nONZE SPECIALISMEN ZIJN\r\n- Intellectuele Eigendom, Handelsrecht, Contracten, ICT, Mededingingsrecht (Ten Hove)\r\n- Ambtenarenrecht, Arbeidsrecht, Militair recht, Strafrecht (Damen)\r\n- Personen- en Familierecht, Jeugdrecht, Erfrecht (Holmes)\r\n\r\n\r\nVACATURES\r\nWe zijn nog op zoek naar uitbreiding van ons professionele team, op rechtsgebieden als arbeidsrecht, bestuursrecht en insolventierecht. Zijn er ondernemende en ervaren specialisten die deel willen uitmaken van ons kantoor en dat als ondernemer? Stuur een mail naar tenhove@tdhadvocaten.nl", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "043-7630531", 
+        "phone1": "043-7630992"
+       }, 
+       "address": {
+        "postalCode": "6221 CE", 
+        "city": "Maastricht", 
+        "street1": "Alexander Battalaan 44"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.tdhadvocaten.nl", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Internationale contracten", 
+      "Agentuur, Distributie, Franchise contracten", 
+      "Merken, modellen. octrooien", 
+      "Intellectuele Eigendom"
+     ]
+    }, 
+    "universalName": "tdh-advocaten-l-l-p-", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "TDH Advocaten L.L.P."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Triple A Event Security", 
+    "twitterId": "", 
+    "industry": "Security & Investigations", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.aaaeventsecurity.co.uk/", 
+    "universalName": "triple-a-event-security", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Triple A Security have been delivering professional security services across a range of industries since 2008. We  pride ourself on providing trained, professional staff.\r\n\r\nWe offer a full range of event and security services:\r\nTraffic management\r\nEvent security\r\nEvent stewarding\r\nDoor supervision\r\nKey holding\r\nAlarm response\r\nRisk assessments including fire\r\nTraffic management plans\r\nEvent management plans and documentation.\r\n\r\nOur clients include Brighton & Hove City Council, Sussex County Cricket Ground and Brighton & Hove Albion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Brighton Catering Supplies", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightoncateringsupplies.com", 
+    "universalName": "brighton-catering-supplies", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "BCS is a family owned business based in Brighton, servicing Hotel's, Restaurants, Bars and Cafe's all over the UK.  Thanks to the internet it enables us to meet amazing people, running great businesses in all areas of the country.  If you're in Brighton & Hove and the surrounding area then our base on Lewes Road is perfect for you to put your hands on the things you need immediately, as well as getting same day deliveries. \r\n\r\nNext day delivery on orders placed before 4pm as standard.\r\n\r\nFree Same Day delivery to Brighton & Hove and the surrounding area.\r\n\r\nOpen 6 days a week. \r\n\r\nA real person, in our shop to talk to on 01273 35 85 35 as well as a dedicated Account Manager for you.\r\n\r\nWe make the effort to learn about your business, which means you get the right products every time.\r\n\r\nConsistently high quality products at fair prices."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Personal Trainer David Staffell works in Brighton, Hove, Southwick, Shoreham, Rottingdean, Peacehaven and all across the borough of Brighton & Hove. He offers home, office and outdoor fitness training. www.dsfitbrighton.co.uk\r\n\r\nHis team of experienced, enthusiastic trainers consist of Tom Wilcox, Katie Whittle and Ka-Mun Fung work in Richmond, Twickenham, Sheen, Barnes, Putney, Kew and across south-west London and Surrey. www.dsfit.co.uk", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07714961129"
+       }, 
+       "address": {
+        "postalCode": "BN2 3FR", 
+        "city": "Brighton", 
+        "street1": "56a Roundhill Crescent"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07714961129"
+       }, 
+       "address": {
+        "postalCode": "TW9 1XL", 
+        "city": "Richmond", 
+        "street1": "10 Townshend Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.dsfitbrighton.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Personal Training", 
+      "Injury Rehabilitation", 
+      "Boxing", 
+      "Circuit Training", 
+      "Fitness Training", 
+      "Outdoor Training", 
+      "Home Training", 
+      "Sports/event specific training", 
+      "Pre & Post-natal exercise"
+     ]
+    }, 
+    "universalName": "ds-fit-personal-trainer-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "DS FIT Personal Trainer Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Simonsens Streger", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.streger.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Grafisk design", 
+      "Indk\u00f8b af tryk", 
+      "Indk\u00f8b af marketingmateriale"
+     ]
+    }, 
+    "universalName": "simonsens-streger", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Freelance Graphic Designer and artworker based in Copenhagen. Designs, localizes and adapts brochures, pamphlets, adverts, cards, banners, DM, posters, outdoor, stickers, signs, flags, etc. Can handle every aspect of the production process and has a network of printers, photographs, translators, illustrators, etc.\r\n\r\nShell Specialist  \r\nFormer Shell employee (1995-2003). Freelancing for Shell since 2003. Simonsens Streger is approved by SQS \u2013 Shell Supplier Qualification System. An approved vendor in The Shell SAP-system and has signed a non-disclosure agreement with Shell. Knows the Shell brand guidelines inside out and has access to Shell Brand Central. Can get approval by the Shell VI-checkpoint, via direct access.\r\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\r\nS\u00f8ger du en knivskarp grafiker, der rykker hurtigt p\u00e5 opgaverne? Jeg tilbyder grafisk assistance i et fleksibelt samarbejde, hvor jeg b\u00e5de kan arbejde fra din virksomhed og fra min egen adresse.\r\n\r\nSimonsens Streger er min lille, dynamiske tegnestue, som klarer en bred vifte af grafiske opgaver \u2013 store som sm\u00e5 - fra start til slut. Layout og rentegning af annoncer, brochurer, plakater, kl\u00e6bem\u00e6rker, messemateriale og meget andet. \r\n\r\nJeg arbejder bl.a. for dele af Shell i Skandinavien, Benelux og UK, Dansk Varme Service A/S, DCC Energi A/S,  Univar Lubricants i Skandinavien, Masytec A/S, Hove A/S, DLG (Dansk Landbrugs Grovvareselskab), elecom elevatorer, Dansk Vognfjederfabrik m.fl.."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Bishops Group is an established and reputable company located in Brighton and Hove, Sussex.  Our dedicated teams include Gas Safe Brighton plumbers, electricians, builders, locksmith, handymen and rubbish/waste clearance specialists serving the greater Brighton & Hove area including Sussex, Surrey and Kent.", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 6BD", 
+        "city": "Hove", 
+        "street1": "165 Goldstone Crescent."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.bishops-group.com", 
+    "universalName": "bishops-property-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bishops Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 56, 
+    "description": "Small Batch Coffee Company is a boutique coffee roastery based in Hove, supplying speciality grade coffee across the UK.  We also have four coffee shops and two mobile carts in Brighton & Hove supplying fantastic espresso and filter coffees along with freshly baked pastries and other locally sourced goods.", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 220246"
+       }, 
+       "address": {
+        "postalCode": "BN3 3RU", 
+        "city": "Hove", 
+        "street1": "68 Goldstone Villas"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 697597"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "17 Jubilee Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 710 627"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BD", 
+        "city": "Hove", 
+        "street1": "67C Church Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3TE", 
+        "city": "Brighton", 
+        "street1": "108a Dyke Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.smallbatchcoffee.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wholesale Coffee", 
+      "Coffee Roasting", 
+      "Single Origin Coffees", 
+      "Exceptional Customer Service"
+     ]
+    }, 
+    "universalName": "small-batch-coffee-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Small Batch Coffee Company"
+   }
+  ]
+ }
+}

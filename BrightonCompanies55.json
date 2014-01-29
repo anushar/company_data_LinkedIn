@@ -1,0 +1,863 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1100, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 126, 
+    "description": "Synergy Learning is the leading Moodle, Mahara & Totara Partner in the UK and Ireland\r\n\r\nWith over 15 years e-learning experience and a team full of experts in their field, expect nothing less, than a highly professional and friendly service for your e-learning project.\r\n\r\nNew to e-learning? Or require a specific service?  No matter where you are on your e-learning journey, we are the only Moodle, Mahara and Totara partner that can offer everything you need from content creation to platform hosting, training and support. \r\n\r\nAt Synergy Learning we have been creating professional, interactive elearning content for schools, colleges, universities, businesses and private training organisations since 1997. Our customer base is now global and includes the likes of; British Airways, The British Council, PwC, York University, The Royal College of GPs, Marie Curie and Macmillan. \r\n\r\nOur headquarters are in Holywood, Northern Ireland.  But with regional offices in Manchester,Brighton and Heidelberg, Germany, the company is well placed to provide services globally.", 
+    "twitterId": "synergylearning", 
+    "industry": "E-learning", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 28 9042 7444", 
+        "phone1": "+44 28 9042 2000"
+       }, 
+       "address": {
+        "postalCode": "BT18 9HF", 
+        "city": "Holywood", 
+        "street1": "Holywood House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+49 6221 6739 813"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Heidelberg", 
+        "street1": "Oberdorfstr. 32"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.synergy-learning.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "eLearning", 
+      "ePortfolio", 
+      "Moodle", 
+      "Mahara", 
+      "Totara", 
+      "Content Development", 
+      "Hosting", 
+      "Support", 
+      "Training", 
+      "Design", 
+      "Consultancy", 
+      "Moodle Healthchecks"
+     ]
+    }, 
+    "universalName": "synergy-learning", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Synergy Learning"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Sussex Merlins are the only Rugby League Club in Sussex. \r\n\r\nFormed in 2009 the aim of the club is to deliver more sport to the communities of Sussex in the form of Rugby League. \r\n\r\nIn 2010 we delivered an open age team playing in the national Rugby League Conference and junior teams consisting of under 7 and under 9 age groups and a masters team targeting the over 35's. We have also launched a program of coaching in junior schools that will reach over 120 children per week in a 10 week program. \r\n\r\nIn 2011 we will launch a partnership with City College Brighton to deliver in curriculum coaching and a colleges team. We will add under 11's and under 20's age groups to our teams roster.", 
+    "twitterId": "sussexmerlins", 
+    "blogRssUrl": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.sussexmerlins.co.uk", 
+    "universalName": "sussex-merlins-rl", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex Merlins RL"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 175, 
+    "description": "We're round the world travel experts who specialise in every aspect of trip planning, including round the world and multi-stop flights, tailor-made travel, group tours, accommodation, campervans, bus passes and rail travel.\r\n\r\nEstablished in 2001 by Haydn Wrath, Travel Nation is still owned and run by him. Our friendly team are travel industry professionals whose expertise and travel experience will become apparent from the moment you contact us. Our staff are some of the most experienced, knowledgeable and well-travelled consultants in the industry who will use their travel experience to build you an amazing trip that suits you, within your budget.\r\n\r\nBased in central Brighton in a busy but friendly and informal environment, we're always on the lookout for experienced long haul travel consultants to join us.\r\n\r\nIn the words of Simon Calder from the Independent newspaper: \"For anything with an extra degree of difficulty, such as a round the world trip, you should certainly consult an expert such as Travel Nation: on a multi-stop trip via the South Pacific, this Sussex based company saved me hundreds of pounds by taking advantage of a little known airpass loophole.\"\r\n\r\nWe're also pleased to be very highly reviewed on independent review site, TrustPilot: \r\n\r\nwww.trustpilot.co.uk/review/www.travelnation.co.uk", 
+    "twitterId": "http://www.twitter.com/travel_nation", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 320 580"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GH", 
+        "city": "Brighton", 
+        "street1": "New England Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.travelnation.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Round the World Flights", 
+      "Hotels & Accommodation", 
+      "Tours", 
+      "Expert Tailormade Travel Advice", 
+      "Multi stop flights", 
+      "Campervans"
+     ]
+    }, 
+    "universalName": "travel-nation", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Travel Nation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 76, 
+    "description": "Academy School in Hastings East Sussex  \r\n\r\nOur main sponsor is the University of Brighton. Together with co\u2013sponsors BT and East Sussex County Council they provide expertise and resources which bring enormous benefit to our students and staff. The Hastings Academy is federated with The St Leonards Academy as part of The Hastings Academies Trust.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.hastingsacademy.org", 
+    "universalName": "oxted-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Hastings Academy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 373, 
+    "description": "Independent record label based in Brighton, roster includes Frightened Rabbit, The Twilight Sad, We Were Promised Jetpacks, Nina Nastasia, Max Richter, Vashti Bunyan, Mazes, Gregory And The Hawk, Maps & Atlases, Ensemble, Hauschka, Les Shelleys, Mum, Sigur Ros, Animal Collective, David Karsten Daniels, Tom Brosseau, Brakes, Mice Parade, Get Back Guinozzi!, Ten Kens, The Balky Mule...", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "http://fat-cat.co.uk", 
+    "universalName": "fatcat-records", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "FatCat Records"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Dragonfly Clinic specialises in repairing sports and occupational injuries, postural therapy, Pilates and nutrition. Many clients come to us with a wide range of conditions and injuries including: \r\n\r\nMuscular and skeletal problems - strains and sprains - ligament and tendon injuries - chronic pain conditions such as back pain and arthritis. \r\n\r\nOur highly experienced team work with amateur, professional and Olympic athletes across a wide age range. Our purpose is to ensure you overcome injuries any setbacks you encounter in training, returning you to peak performance as soon as we can. \r\n\r\nWe can then give you the tools to prevent further injury, improve your overall health with better strength, flexibility and increased stamina. We design programmes of sports massage, postural assessments, rehabilitation exercise, ultrasound, injury taping as well as other techniques to assist in your recovery.\r\n\r\nOur training sessions, Pilates and nutrition consultations, will give you a more thorough understanding of how your own body works and how to be as fit and healthy as you can.\r\n\r\nWe also have a training club for runners and cyclists, as well as a programme of mat and studio Pilates classes in Brighton and Hove. If you want to take part in any of these sessions contact us on 01273 784 917.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 784 917"
+       }, 
+       "address": {
+        "postalCode": "BN1 2PS", 
+        "city": "Brighton", 
+        "street1": "56 Sillwood Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.dragonflyclinic.com", 
+    "universalName": "dragonfly-clinic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dragonfly Clinic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Heavenly Helpings Catering and Gourmet Desserts is a top quality full service catering and dessert company specializing in providing great service, excellent food and no worries.\r\n\r\nSelect from our menu or customize an affordable menu to fit within your event budget. This will ensure that your guests will enjoy our wide variety of delicious appetizers, hors d\u2019oeuvres, entrees, and gourmet desserts.\r\n\r\nWe thank you for visiting our website and we look forward to hearing from you soon!\r\n\r\nHeavenly Helpings Catering and Gourmet Desserts provides catering services and gourmet desserts to the entire Metro Area; including Denver, Brighton, Aurora, Broomfield, Littleton, Castle Rock, Thornton, Westminster, Lakewood, Englewood, Golden, Parker, Centennial, Boulder, Northglenn, and Arvada.", 
+    "twitterId": "DenverCatering", 
+    "blogRssUrl": "http://heavenlyhelpings.com/catering/feed/rss/", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "720-263-0210"
+       }, 
+       "address": {
+        "postalCode": "80640", 
+        "city": "Henderson", 
+        "street1": "PO Box 513"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://heavenlyhelpings.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Catering", 
+      "Personal Chef"
+     ]
+    }, 
+    "universalName": "heavenly-helpings-catering-&-gourmet-desserts", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Heavenly Helpings Catering & Gourmet Desserts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Floors by Beckers, Inc. established in 1994 and Becker Brothers, Inc. established in 1959 are located in New Brighton Minnesota. We are a full service floor covering dealer supplying and installing carpet, resilient, hardwood, ceramic and specialty flooring for residential and commercial applications. Beckers is a member of Floor Covering Installation Contractors Association (FCICA) and World Floor Covering Association. Our sales team and installers perform roles that encompass every aspect of flooring, with absolute emphasis on customer satisfaction.  \r\n\r\nBeckers is committed to: \r\n-Dedication to providing excellence in service, quality, design and value \r\n-Providing floors that ensure your total satisfaction (correct specifications) \r\n-Professional installation \r\n-Being a single source flooring supplier \r\n-Ongoing technical training for our sales staff and installers\r\n\r\nOur mission is to provide a \u201ctotal quality\u201d customer satisfaction policy from start to finish. Our values, honesty and performance are never compromised.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "651-636-8753", 
+        "phone1": "651-636-1100"
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "805 1st Street NW"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "651-633-2122", 
+        "phone1": "651-636-1100"
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "825 1st Street NW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1959, 
+    "websiteUrl": "http://www.beckerbrothers.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "\uf076\tSpecification of flooring: Carpet, resilient, ceramic, specialty flooring and hardwood", 
+      "\uf076\tEstimating / pre-installation site evaluation and measuring", 
+      "Consulting Services", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "floors-by-beckers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Floors by Beckers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "A participatory arts enterprise offering experiences that honour every person's birthright to be and live creatively.\r\n\r\nWe are based in Brighton and work here and internationally, in communities, companies, hospices and even art galleries.\r\n\r\nAlways open to hearing from potential collaborators and partners to experiment with new ways of working.\r\n\r\nAlso engaged in a range of research and writing projects to support the development of art in the social economy.", 
+    "twitterId": "libbydavy", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 (0)7968 687 107"
+       }, 
+       "address": {
+        "postalCode": "BN16GF", 
+        "city": "Brighton", 
+        "street1": "30 Havelock Road"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN41 1DG", 
+        "city": "Brighton", 
+        "street1": "108 North Street"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "North Fremantle", 
+        "street1": "C/- 57 Thompson Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.egghouseart.com", 
+    "universalName": "egg-house-art", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Egg House Art"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Environmental planning consultancy based in Brighton and Hove, Sussex.  I have over 19 years experience in a range of planning and environmental management roles. Specialisms include:\r\n- Planning, including strategy, policy and applications\r\n- Waste and Minerals Planning\r\n- Climate Change\r\n- Renewable and decentralised energy\r\n- Biodiversity\r\n\r\nCurrent clients include the Mineral Products Association (MPA) and private developers (waste management facilities).  Recent clients include Hampshire climate change partnership, Buckinghamshire County Council, Surrey Climate Change Partnership, Anglia Ruskin University (training), and Kingston Transport Ltd.\r\n\r\nI am a competitvely priced alternative to large consultancies, and also work as an associate with wider project teams on collaborative projects.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Environmental Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.cissburyconsulting.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Town and country planning", 
+      "Waste and minerals planning", 
+      "Climate change adaptation", 
+      "Renewable energy"
+     ]
+    }, 
+    "universalName": "cissbury-consulting-sole-proprietorship-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Cissbury Consulting (sole proprietorship)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Rule 26 is one of the fastest growing bespoke branding and corporate clothing suppliers in the UK.\r\n\r\nSpecialising in providing graphic and clothing solutions within the harsh marine environment, we are ideally placed to offer you a complete design and realisation package. From providing tailored corporate branding packages for an event or day on the water to a fully bespoke clothing range for your team, we offer the best expertise from our base in Hamble, the heart of the UK Sailing Industry.\r\n\r\nProducts we specialise in are:\r\n\r\nMarine graphics, Site, retail and exhibition graphics, digital printing, canvas printing, vehicle branding, corporate and marine technical clothing supply and branding.\r\n\r\nA selection of our clients in 2010:\r\n\r\nAboard Yachts,  \r\nTeam Abu Dhabi Ocean Racing, \r\nAncasta Marine, \r\nBMT Nigel Gee, \r\nBrighton Marina Yacht Club \r\nCapita Symonds \r\nDeutsche Bank \r\nForce 4 Chandlery \r\nFullers Brewing \r\nH2snow \r\nHamble School of Yachting \r\nJ Reddington Ltd \r\nNorth Sails \r\nOmansail \r\nOndeck \r\nOrbis T\r\nSailing Logic Ltd \r\nTeam GAC Pindar \r\n\r\nWe also have a number of race programmes and private clients\r\non our books, including a number of the Hamble fleet of Farr\r\n45\u2019s for which we provide marine graphics, sail graphics,\r\ncorporate clothing, deck grips and crew kit.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Maritime", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0044 23 80458173"
+       }, 
+       "address": {
+        "postalCode": "SO31 4QJ", 
+        "city": "Hamble", 
+        "street1": "Hamble Court Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "www.rule26.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Marine Graphics", 
+      "Marine Corporate Clothing", 
+      "Vehicle Graphics", 
+      "Digital Printing"
+     ]
+    }, 
+    "universalName": "rule-26-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Rule 26 Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "wanderlust is about easy, wearable, fun fashion, but it is also about empowering many people in Cambodia.  Every garment and accessory is inspired, designed, manufactured, and distributed globally from our adopted country.  We work with NGOs, non-profits, small family businesses, and local women sewing out of their homes so that they may care for their children.\r\n\r\nOur suppliers set their own prices, and we have helped them to become mini-entrepreneurs \u2013 following their dreams, employing others, building businesses, opening bank accounts, and improving the quality of their lives and the lives around them.  We have supported their initiatives by encouraging them to think creatively, take chances, offer suggestions, gain computer skills, and learn English - to be a part of a newly reborn Cambodia.\r\n\r\nAnd in the process, they have helped define wanderlust, a lifestyle concept dedicated to giving girls gorgeousness, beautiful things handmade by the beautiful people of this beautiful country, beauty that easily translates to Budapest, Boston, Battambang, Brighton, or any beautiful place they call home.\r\n\r\nBeginning in February 2011, wanderlust products will also be found in more than 30 boutiques and specialty stores around the world.", 
+    "twitterId": "http://twitter.com/wanderlustbodge", 
+    "blogRssUrl": "http://www.wanderlustcambodia.com/blogs/blog", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "855 (0)63.965.980"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Siem Reap", 
+        "street1": "Alley West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "855 (0)63.969.698"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Siem Reap", 
+        "street1": "FCC Hotel"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "855 (0)23.221.982"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Phnom Penh", 
+        "street1": "21 Street 240"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "855 (0) 63.963.145"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Siem Reap", 
+        "street1": "Angkor High School West"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.wanderlustcambodia.com", 
+    "universalName": "wanderlust-cambodia", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wanderlust Cambodia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Since 2005, we've been meeting the unique needs of our patients and their families in a fun, outgoing, patient-centered environment. Dr. Comella specializes in orthodontics, and is committed to creating a positive orthodontic experience from start, to finish!\r\n\r\nOur practice offers several advanced orthodontic treatments designed to meet your needs and fit into your lifestyle. Treatments include:\r\n\r\n\u2022\t3M Incognito\u2122 \u2013 premium behind-the-teeth (lingual) braces\r\n\u2022\t3M Clarity\u2122 \u2013 translucent self-ligating braces\r\n\u2022\tInvisalign\u00ae \u2013 100% invisible braces\r\n\u2022\tAccelerated Braces\r\n\u2022\tSelf-Ligating \u2013 the most innovative product available\r\n\u2022\tSpecial computer monitored direct bonding\r\n\u2022\tCustomized treatment plans for children, teens, and adults\r\n\r\nComella Orthodontics has two convenient locations, Victor and Brighton. Dr. Comella and his team invite you to come in for a complimentary new patient consultation today. Start enjoying the benefits of a beautiful, rejuvenated smile with orthodontic care from Comella Orthodontics.", 
+    "twitterId": "comellaortho", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "585-271-7532", 
+        "phone1": "585-271-7515"
+       }, 
+       "address": {
+        "postalCode": "14681", 
+        "city": "Rochester", 
+        "street1": "1972 South Clinton Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "585-271-7535", 
+        "phone1": "585-924-9660"
+       }, 
+       "address": {
+        "postalCode": "14564", 
+        "city": "Victor", 
+        "street1": "171 W. Main Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.comellaortho.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Orthodontics", 
+      "Incognito\u2122", 
+      "Invisalign\u00ae", 
+      "Self-Ligating"
+     ]
+    }, 
+    "universalName": "comella-orthodontics", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Comella Orthodontics"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "The Institute for Policy Research & Development (IPRD) is an independent non-profit research organisation for transdisciplinary security studies, analysing violent conflict in the context of global ecological, energy and economic crises. The IPRD works to promote equality, sustainability and security. Founded in April 2001 in Brighton, a UN Peace Messenger City, in the UK, the Institute moved office to the heart of London, Marylebone, in July 2005, where it currently operates as a voluntary global collective of specialist scholars, scientists, and analysts, working in different fields of the social and physical sciences.\r\n\r\nThe IPRD analyses conventional and unconventional threats to human, national and international security as global crises including, but not limited to, anthropogenic global warming, environmental degradation, hydrocarbon energy depletion, food scarcity, economic instability, social structural inequalities, international terrorism, violent extremism, military interventionism, psychological distress, and political breakdown.\r\n\r\nCurrently, the IPRD operates as an unincorporated association, and is funded entirely through sales of publications and donations.", 
+    "twitterId": "http://twitter.com/nafeezahmed", 
+    "blogRssUrl": "", 
+    "industry": "Public Policy", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.iprd.org.uk", 
+    "universalName": "institute-for-policy-research-&-development", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Institute for Policy Research & Development"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 145, 
+    "description": "Host Universal is the ethical communications company founded by Robin Smith in 1997. HOST works with many of the world\u2019s leading values-driven brands to unlock potential and inspire change. We've built a values-driven community of thinkers and doers from an inspirational place in Soho, London. We've managed to stick to our principles as well as produce powerful and effective work along the way,..\r\n\r\n\u2022 Delivered the 'Self-Esteem' strategy and 'Ruby' campaign, challenging fashion stereotypes for The Body Shop\r\n\r\n\u2022 Drove Caf\u00e9direct to UK No.1 brand (Millward Brown 2006) through strategy, innovation and events\r\n\r\n\u2022 Raised the Green Standard for Dale Vince's Ecotricity with design and social media\r\n\r\n\u2022 Turned the London Eye into a festival of Africa inspired entrepreneurialism and talent in the run-up to G8\r\n\r\n\u2022 Created Jonathan Wild's United Bank of Carbon - the world's Rainforest by another name\r\n\r\n\u2022 Evolved the World Fair Trade Organization for the benefit of farmers and artisans across 70 countries\r\n\r\n\u2022 Liberated theatre goers in Brighton, Edinburgh and Soho\r\n\r\n\u2022 Dreamed-up an ethical banana superbrand for the USA\r\n\r\n\u2022 Nailed the name Root Capital\r\n\r\n\u2022 Repositioned SERRV - an interface for artisans\r\n\r\n\u2022 Activated Triodos Bank \r\n\r\n\u2022 Focused Sir Ronnie Cohen's Social Finance\r\n\r\n\u2022 Launched 991 - rare music and memorabilia\r\n\r\n\u2022 Kick-started the sustainable economy at the British Library\r\n\r\n\u2022 Produced Martha Lane Fox's RaceOnline Manifesto for No.10\r\n\r\n\u2022 Repositioned and re-branded iDE\r\n\r\n\u2022 Reawakened Dennery&Mabouya in St Lucia\r\n\r\n\u2022 Developed the Positive Energy Partnership\r\n\r\n\u2022 Assisted Westmill Solar Farm with its share issues\r\n\r\n\u2022 Created a super-hero called SolarMan for Chris Hopkins at Ploughcroft\r\n\r\n\u2022 Produced strategic and creative for Rethink Mental Illness and produced two animated films\r\n\r\n\u2022 Positioned a rapidly expanding law firm for rapid expansion and built it a new website\r\n\r\n\u2022 Developed strategy and communications for a conflict zone media company", 
+    "twitterId": "hostnote", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0044 (0)2078494545", 
+        "phone1": "0044 (0)2078494500"
+       }, 
+       "address": {
+        "postalCode": "W1F 0LB", 
+        "city": "London", 
+        "street1": "6-10 Lexington Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.hostuniversal.com", 
+    "specialties": {
+     "_total": 17, 
+     "values": [
+      "strategy", 
+      "creativity", 
+      "collaboration", 
+      "communications", 
+      "innovation", 
+      "transformation", 
+      "think tank", 
+      "sustainability", 
+      "brand development", 
+      "brand identity", 
+      "community development", 
+      "values-driven brand building", 
+      "fair trade", 
+      "green energy", 
+      "fairtrade", 
+      "eco-ethical", 
+      "change-maker brands"
+     ]
+    }, 
+    "universalName": "host-universal", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Host Universal"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 441, 
+    "description": "We're a small, Brighton-based travel company made by travellers for travellers. We offer the kind of travel experiences that we enjoy the best \u2013 authentic adventures that allow you to discover a new country independently and get to know its own way of life. Our dedicated and friendly travel specialists can help you build your own trip using our unique bite-sized tours. All you need to do is pick and mix the mini-adventures that catch your eye, and we'll work with you to create a completely personal adventure. \r\n\r\nWith trips across Asia, Africa and Central and South America, we offer everything from island hopping in Thailand to trekking the Inca Trail in Peru and wildlife spotting in the heart of Borneo's rainforest. Having lived, worked and travelled in each destination they sell, our travel specialists have expert knowledge and will help you build a trip with a difference.\r\n\r\nYou'll travel independently, giving you time and space to explore our destinations your way. We'll organise your accommodation and your local train, bus and plane tickets in advance. This way, you'll spend your holiday time on holiday, but still feel like you're travelling independently. \r\n\r\nWe specialise in real, local experiences, so you'll stay in family run accommodation wherever possible, from floating huts on the River Kwai and traditional hill tribe homestays to jungle lodges and Caribbean beach cabanas.\r\n\r\nExplore the world your own way with Rickshaw Travel.", 
+    "twitterId": "http://twitter.com/Rickshaw_Travel", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 2JQ", 
+        "city": "Hove", 
+        "street1": "Intergen House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.rickshawtravel.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Adventure Travel", 
+      "Independent Travel Experiences", 
+      "Real Life Experiences", 
+      "Unusual, Interesting Holidays"
+     ]
+    }, 
+    "universalName": "rickshaw-travel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Rickshaw Travel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "NOW WIRRAL is the new FREE definitive guide to Pubs, Clubs, Restaurants and Entertainment on the Wirral. \r\n\r\nThe website is constantly evolving and we are adding new content every day. The friendly team at Now Wirral are working tirelessly to bring you the most up to date information. If you would like to be added to our directory please submit your details to us and we will add you ASAP, and what\u2019s more - IT\u2019S FREE!\r\n\r\nNOW WIRRAL has a directory of Wirral Pubs, listed alphabetically and by area eg. Bebington, New Brighton, Birkenhead etc. With an enhanced listing, we provide a link to a dedicated page giving information about the pub, and also the entertainment line-up for the month where applicable. \r\n\r\nNOW WIRRAL has a directory of artists listed in alphabetical order. Again with an enhanced listing, we provide a link to a dedicated page giving information about the artist and a gig guide for the month. It doesn\u2019t stop there though, if the artist has any demo\u2019s or video\u2019s hosted on the internet we will embed them into the page. (Click Here for an example)\r\n\r\nThe magazine will be available FREE via email in a PDF format and in printed format published each month. We can also post a copy to you for small handling fee of \u00a31 each.\r\n\r\nNow Wirral is also available on our up to the minute website which is live 24 hours a day, seven days a week. We also have a profile on facebook and you can follow us on twitter both of which are fed with the latest entertainment news from across the UK.", 
+    "twitterId": "https://twitter.com/NowWirral", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0871 245 3435", 
+        "phone1": "0871 996 8185"
+       }, 
+       "address": {
+        "postalCode": "CH42 8WA", 
+        "city": "Birkenhead", 
+        "street1": "Now Wirral"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.nowwirral.com", 
+    "universalName": "now-wirral", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Now Wirral"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 204, 
+    "description": "The Mayor\u2019s Office of Jobs and Community Services (JCS), an agency within the City\u2019s Economic Development Cabinet, manages $25+ million in Federal, State and local funds which invests in the upgrading of skills and education of Boston residents, including youth, to enhance their ability to access family sustaining wage jobs, continue their education, and support the City\u2019s employers\u2019 needs for high quality workers.  JCS provides workforce development and human service grants management, program development, and direct service, also working closely with the Boston Redevelopment Authority to coordinate workforce with economic development projects.\r\n\r\nJCS also houses the following initiatives:\r\n\r\nReadBoston\r\nWriteBoston\r\nEarned Income Tax Credit (EITC)\r\nYouth Options Unlimited (YOU)\r\nLiving Wage Administration\r\nNeighborhood Resource Centers in Allston-Brighton, Roxbury and South Boston", 
+    "twitterId": "BostonJCS", 
+    "blogRssUrl": "", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(617) 918-5252"
+       }, 
+       "address": {
+        "postalCode": "02114", 
+        "city": "Boston", 
+        "street1": "43 Hawkins Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.bostonjcs.org", 
+    "universalName": "boston-jobs-and-community-services", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Boston Jobs and Community Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "The Good Life For All is a Community Interest Company based in Brighton, UK. \r\n\r\nOur vision is the good life for all human beings and our fellow creatures. \r\n\r\nWe open up spaces to explore questions of who we are, what's important in our lives and how we want our world to be. We create opportunities to grow our empathic impulse and to nurture an appreciation of our interconnectedness and interdependence. We are moved by a deep concern for the social, environmental and economic state of our world and inspired by the belief that in cultivating our innate empathic nature we can create a world in which we can all live the good life.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.thegoodlifeforall.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "The Sunshine Bank", 
+      "Potlatches", 
+      "Playgrounds for Professionals", 
+      "First Life"
+     ]
+    }, 
+    "universalName": "the-good-life-for-all", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Good Life For All"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "MEERKATWorks are a independent  boutique agency based in central Brighton the media hub. We plan and buy advertising campaigns across all forms of media.\r\n\r\nThe broad spectrum we cover includes newspapers and magazines, radio, TV, outdoor and online.\r\n\r\nWhatever the size of budget, each and every project we work on deserves our full attention. Creativity and lateral thinking is key when planning any campaign. Experience and resourcefulness work hand-in-hand to make our clients' budgets work hard and deliver cost-effective campaigns.\r\n\r\nOur philosophy is that good marketing campaigns should always be designed to create word of mouth. The essence is to target the right people, at the right time, in the right place.\r\n\r\nWe have a personal commitment to our clients to respect their money and how this is spent on their behalf. Regardless of the size of budget, we commit to making the client\u2019s money work as hard as possible and deliver excellent results.\r\n\r\nEstablishing a connection between our clients and suppliers is important to us. We work honestly and openly which benefits all our working relationships.\r\n\r\nWith nothing to hide we can facilitate understanding of the client\u2019s brief and objective. We believe excellent communication lies at the heart of building a strong campaign.\r\n\r\nClients include My Breast, Mclndoe Plastic Surgery Globrix, Stansted Airport, Oakhouse foods, Love London, Lock n load, Serenity holidays, Woburn Safari and many more", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.meerkatworks.co.uk/", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Media planning and buying"
+     ]
+    }, 
+    "universalName": "meerkatworks", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MEERKATWorks"
+   }
+  ]
+ }
+}

@@ -1,0 +1,958 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1540, 
+  "values": [
+   {
+    "numFollowers": 7, 
+    "description": "617 Real Estate provides residential and commercial real estate brokerage services throughout the 617 area code, the Boston area, including home and building sales, apartment rentals, investment consultation, office leases, relocation services, and property management. \r\n\r\nFusing modern technology and global marketing with old-fashioned people first and localized real estate services, 617 Real Estate hopes to set a new precedent of client-first, world-class service for you and the great city of Boston. Visit our website at www.617RE.com", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "617-812-1456"
+       }, 
+       "address": {
+        "postalCode": "02143", 
+        "city": "Somerville", 
+        "street1": "12 Rose St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.617re.com", 
+    "specialties": {
+     "_total": 20, 
+     "values": [
+      "Real Estate", 
+      "Housing", 
+      "Apartment", 
+      "Residential", 
+      "Commercial", 
+      "Property Management", 
+      "Sales", 
+      "First Time Home-Buyer", 
+      "Advertising", 
+      "Roommates", 
+      "Off Campus Housing", 
+      "Cambridge", 
+      "Somerville", 
+      "Allston", 
+      "Brighton", 
+      "Medford", 
+      "Tufts", 
+      "Harvard", 
+      "Boston University", 
+      "MIT"
+     ]
+    }, 
+    "universalName": "617-real-estate", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "617 Real Estate"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Use and pay by-the-hour car hire with cars placed near where you work or live. 24 hour 365 day online booking and electronic access to cars.\r\nWhizzGo provides a network of low emission pay-by-the-hour cars across 12 cities in the UK.\r\n\r\nLONDON- MANCHESTER-LEEDS-LIVERPOOL-YORK-SHEFFIELD-NEWCASTLE-BIRMINGHAM-BRIGHTON-SOUTHAMPTON-St ALBANS\r\n\r\nOnce a member, you can book a car in minutes (online or over the phone) for as little as an hour or as long as you need it!\r\n\r\nAnd because you only pay for the time you use a car, you could save up to \u00a33,000 a year against owning your own.\r\n\r\nMission: WhizzGo saves money, hassle and the environment.", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "08444 77 99 66"
+       }, 
+       "address": {
+        "postalCode": "LS2 7JF", 
+        "city": "Leeds", 
+        "street1": "Leeming House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.whizzgo.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Car hire", 
+      "car rental", 
+      "car club", 
+      "self-service cars", 
+      "integrated transport"
+     ]
+    }, 
+    "universalName": "whizzgo-europe-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "WhizzGo Europe Limited"
+   }, 
+   {
+    "status": {
+     "code": "ACQ", 
+     "name": "Acquired"
+    }, 
+    "numFollowers": 15, 
+    "description": "TZO, a Pepperell, MA, based company, was acquired by Dyn, the world leader in Internet Performance Solutions, in September 2012. Dyn is based out of Manchester, NH, with additional locations in Brighton, UK, and San Francisco, CA.\r\n\r\nLearn more at www.Dyn.com.", 
+    "twitterId": "autofailover", 
+    "industry": "Computer Networking", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "03101", 
+        "city": "Manchester", 
+        "street1": "150 Dow Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "http://www.tzo.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "DNS and Dynamic DNS", 
+      "SMTP Backup MX and Alternate Port Services", 
+      "Web and Email Services", 
+      "High Availability Services including DNS Failover & Load Balancing", 
+      "DNS Failover", 
+      "Geographic Load Balancing", 
+      "High Availability DNS", 
+      "DNS Load Balancing", 
+      "Server Monitoring"
+     ]
+    }, 
+    "universalName": "tzo.com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "TZO.COM"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 361, 
+    "description": "responsibletravel.com is the world's leading company for responsible holidays. In 2011 the company celebrates its 10th birthday and has sold $100million worth of holidays since it launched. The site works with over 1,000 tourism suppliers to help market over 7,000 richer, deeper and more locally distinctive travel experiences that are better for destinations and local communities.\r\n\r\nCo-founder, Justin Francis launched the site with backing from Dame Anita Roddick in 2001 and since then has been included in Courvoisier\u2019s The Future 500, Thames and Hudson\u2019s 60 Innovators Shaping Our Creative Future and taken his place on the Advisory Board of The International Centre for Responsible Tourism at Leeds Metropolitan University. Based in Brighton, England, responsibletravel.com also campaigns for positive change in the travel and tourism industry. \r\n\r\nJoin debates and discussions in our responsible travel and tourism group:\r\nhttp://www.linkedin.com/groups/Responsible-travel-tourism-3997450", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "First Floor, Edge House,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.responsibletravel.com", 
+    "universalName": "responsibletravel.com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "responsibletravel.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "name": "Ditch the Label", 
+    "twitterId": "", 
+    "industry": "Recreational Facilities & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://ditchthelabel.org", 
+    "universalName": "ditch-the-label", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Our message is clear: It doesn't matter if you're white, black, gay, straight, asexual, disabled, skinny, curvy, old, young, interested in sports, work in a salon or feel good in drag - we think you're amazing. \r\n\r\nSince 2006 we have been fighting against inequality and promoting the message that it's okay to be different. In fact, difference should be celebrated. We are slowly but surely beginning to touch the hearts of thousands worldwide, capturing a team of loyal supporters and providing community and support to those that need it. \r\n\r\nWe are a not-for-profit based in Brighton, UK with enormous ambitions. To find out more about our cause and to get involved visit www.DitchtheLabel.org"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 517, 
+    "name": "British Study Centres", 
+    "twitterId": "schoolofenglish", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)207 487 9051", 
+        "phone1": "+44 (0)207 487 9030"
+       }, 
+       "address": {
+        "postalCode": "W1U 1LN", 
+        "city": "London", 
+        "street1": "37 Duke Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.british-study.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "English Language Courses For Adults", 
+      "Teacher Training", 
+      "English Language Courses For Juniors", 
+      "University Pathway"
+     ]
+    }, 
+    "universalName": "british-study-centres", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "British Study Centres School of English teaches English as a foreign language courses to adults and juniors, providing study vacation courses to over 7500 students from over 90 nationalities in 2013. Its operations consists of four adult year round language schools in London, Oxford, Brighton and Bournemouth and five junior centres in the UK, as well as online video teaching to students all over the world. British Study Centres is a recognised provider of teacher training with two centres in the UK. It was voted the STM Star English Language School Europe for the second time in three years and the STM Star Junior Course provider for under 18s in 2012.\r\n\r\nBritish Study Centres is accredited by the British Council and a member of English UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 394, 
+    "description": "South East Design Forum (previously the South Coast Design Forum) is an independent not-for-profit networking group for designers and other creatives on the south coast between Southampton and Brighton including Winchester and Petersfield with its office in Chichester, West Sussex. SEDF is now expanding into Kent and Surrey.\r\nSEDF now has 400 members drawn from designers of all disciplines and has quickly developed a reputation as one of the leading organisations of its type in the country. \r\nPeter is the Forum Director reporting to a board chaired by Wayne Hemingway.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "PO19 1BA", 
+        "city": "Chichester", 
+        "street1": "Northgate Design Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.sedf.org.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Networking", 
+      "information", 
+      "events"
+     ]
+    }, 
+    "universalName": "south-east-design-forum", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "South East Design Forum"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 106, 
+    "description": "Central Conveyor Company designs and builds customized material handling systems, storage retrieval systems and automated conveyance solutions. Our conveyors can either be designed and engineered as a stand alone unit or they can be fully integrated with an existing manufacturing line. \r\n\r\nCentral Conveyor Company was established in 1993 and has been involved with projects throughout the United States, Canada, Mexico and the United Kingdom. Central Conveyor is headquartered in Brighton, Michigan and we have a southern facility located in Bessemer (Birmingham), Alabama. \r\n\r\nwww.centralconveyor.com", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "248-446-1550", 
+        "phone1": "248-446-0118"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "7771 Lochlin Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "205-989-6636", 
+        "phone1": "205-989-6630"
+       }, 
+       "address": {
+        "postalCode": "35022", 
+        "city": "Bessemer", 
+        "street1": "1016 Powder Plant Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.centralconveyor.com", 
+    "universalName": "central-conveyor-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Central Conveyor Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 245, 
+    "description": "The Diocese of Toronto serves Christ\u2019s mission through compassionate service, intelligent faith, and godly worship. The Diocese was founded in 1839 and is the most populous of the 30 dioceses in the Anglican Church of Canada. Our geographical area extends over 26,000 square kilometres, stretching from Mississauga to Brighton and north to Haliburton. Some 237 congregations in 202 parishes are located in the Diocese.\r\n\r\nTo connect with us, visit our Facebook page at http://www.facebook.com/torontoanglican or follow us on Twitter at @anglicandioTO.\r\n\r\nFor careers with the Anglican Diocese of Toronto, visit the Careers and Vocations page on our website: http://www.toronto.anglican.ca/about-the-diocese/careers-and-vocations/.", 
+    "twitterId": "", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "416 363-3683", 
+        "phone1": "416 363-6021"
+       }, 
+       "address": {
+        "postalCode": "M5C 1L8", 
+        "city": "Toronto", 
+        "street1": "135 Adelaide St. E."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1839, 
+    "websiteUrl": "www.toronto.anglican.ca", 
+    "universalName": "anglican-diocese-of-toronto", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Anglican Diocese of Toronto"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 274, 
+    "description": "Western Nephrology began practice in 1963 serving Lutheran Medical Center and St. Anthony Central Hospitals. In 1973 the practice expanded to provide both inpatient and outpatient dialysis services in the West Denver Metropolitan Region.\r\n\r\nOver the next 30 years outpatient dialysis centers were developed in Boulder, Arvada, Brighton, Lakewood, Longmont, and Westminster. In addition inpatient dialysis services were expanded to cover 8 hospitals and 2 rehabilitation hospitals in the Northwest Denver Metropolitan and Boulder area counties. Currently Western Nephrology provides consultative services and inpatient dialysis services to Avista Hospital, Boulder Community Hospital, Colorado Acute Specialty Hospital, Exempla Lutheran Hospital, Exempla Good Samaritan Hospital, Longmont United Hospital, North Suburban Hospital, Vibra, St. Anthony Hospital and St. Anthony North Hospital.\r\n\r\nWestern Nephrology partners with American Renal Associates as medical directors and attending physicians at 8 regional dialysis clinics as well as a home dialysis program that provides for both home hemodialysis and peritoneal dialysis.\r\n\r\nThe practice currently includes 17 board certified nephrologists in clinics in Arvada, Lakewood, Boulder, Lafayette, Longmont and Westminster. Research Departments are housed in our Westminster and Arvada Offices. Our administrative office is located in Wheat Ridge and provides credentialing, financial support, and information systems support to the practice.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303-456-7490", 
+        "phone1": "303-456-5495"
+       }, 
+       "address": {
+        "postalCode": "80033", 
+        "city": "Wheat Ridge", 
+        "street1": "4891 Independence Street, Suite 120"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303-232-8734", 
+        "phone1": "303-232-3366"
+       }, 
+       "address": {
+        "postalCode": "80002", 
+        "city": "Arvada", 
+        "street1": "5265 Vance Street, Suite 200"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303-443-5470", 
+        "phone1": "303-443-4200"
+       }, 
+       "address": {
+        "postalCode": "80026", 
+        "city": "Lafayette", 
+        "street1": "2655 Crescent Drive, Suite D"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303-443-5470", 
+        "phone1": "303-443-4200"
+       }, 
+       "address": {
+        "postalCode": "80501", 
+        "city": "Longmont", 
+        "street1": "1960 Ken Pratt Boulevard, Suite B"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303-430-1506", 
+        "phone1": "303-430-7000"
+       }, 
+       "address": {
+        "postalCode": "80031", 
+        "city": "Westminster", 
+        "street1": "8410 Decatur Street, Suite 100"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1963, 
+    "websiteUrl": "www.WestNeph.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Nephrology", 
+      "Dialysis", 
+      "Kidney Disease", 
+      "Vascular Access Maintenance", 
+      "End-Stage Renal Disease", 
+      "Chronic Kidney Disease"
+     ]
+    }, 
+    "universalName": "western-nephrology", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Western Nephrology"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 122, 
+    "name": "Amino Transport", 
+    "twitterId": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Stafford", 
+        "street1": "10701 Corporate Drive Suite #396"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "2060 Grand River Annex"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "63376", 
+        "city": "St Peters", 
+        "street1": "5700 Mexico Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "78232", 
+        "city": "San Antonio", 
+        "street1": "16414 San Pedro Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Cincinnati", 
+        "street1": "Andy Hurley"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.aminotransport.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Freight Brokerage", 
+      "Full Load, LTL"
+     ]
+    }, 
+    "universalName": "amino-transport", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Amino Transport Inc. is a privately owned freight brokerage company with offices in Hurst TX, Houston TX, San Antonio TX, St Louis MO, Cincinnati OH and Brighton MI.  We broker truckloads of freight nationwide in support of multiple shippers and manufacturers in every industry.  \r\n\r\nOur Sales Account Managers have unlimited earning potential in a highly competitive market!\r\nAmino Transport\u2019s culture of reliability, commitment, dependability and innovation relies on our greatest assets, which are our people. \r\n\r\nWe are committed to recruiting, training and retaining the best and brightest individuals.  We offer a four-week educational process that includes two weeks of classroom instruction and two weeks of hands on education.  Once formal training completes, each new account manager enters our mentoring program to ensure success.\r\n\r\nWe are proud to offer our employees:\r\n\u2022\tMedical / Dental / Vision\r\n\u2022\t401(k)\r\n\u2022\tPaid Time Off / Holidays\r\n\r\nEEO"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Lunch Media Limited", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3er"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.lunchmedia.co.uk", 
+    "universalName": "lunch-media-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Offering full media services in Brighton"
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Two Tick Records / Promotions", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4HH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.twotickrecords.co.uk/", 
+    "universalName": "two-tick-records-promotions", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Indepedant record label / promotions company in Brighton, UK."
+   }, 
+   {
+    "numFollowers": 73, 
+    "name": "PSE Associates", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 3XE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.pse-associates.co.uk", 
+    "universalName": "pse-associates", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Based in Brighton, East Sussex, PSE Associates have unrivalled experience in fast-track development projects in the retail, leisure and hotel industries and are proud to have received several awards for Quantity Surveying excellence from clients.\r\n\r\nOur aim continues to be to extend our knowledge and experience within the leisure and other sectors of the building industry, tailoring our professional services to meet the diverse needs of our increasing client base."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 546, 
+    "description": "We're proud to operate the St Christopher's Inns hostel chain, Belushi's bars and a number of other well known brands and services across Europe including The Flying Pigs, Winston, Mosaic House and Bauhaus.\r\n\r\nBeds and Bars is a collective of companies and brands and we\u2019ve been building our fun little empire for a while now. We are made up of St Christopher\u2019s Inns \u2013 the largest independent chain of hostels in Europe, Belushi\u2019s Bars, the Winston Hotel and nightclub and the Flying Pig Hostels in Amsterdam, the Bauhaus hotel, bar and hostel in Bruges and Interpub, the traditional pub arm of Beds and Bars.\r\n\r\nOur company started back in 1964 with one traditional English Pub. Since then things have changed a bit.\r\n\r\nIn 1994 the first Belushi's bar opened in Covent Garden. Two years later the first St Christopher's backpacker hostel opened up in Southwark. By 1999 Beds and Bars had 6 Backpacker bars and 350 beds in London. Over the years Beds and Bars has expanded rapidly from a single site to a multi-unit, multinational organisation. Since 1999 we have spread throughout the UK and Europe to Newquay, Bath, Brighton, Edinburgh, Amsterdam, Bruges and Berlin. Paris Canal was our first purpose built hostel and nightclub. The doors opened at the start of 2008. Barcelona in 2012 and our latest baby opened in Gare du Nord, Paris in August 2013.\r\n\r\nProud to be Investors in People Champion since 2010 and winner of the 2013 Best Employer Publican Award", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "w14 9dh", 
+        "city": "Hammersmith", 
+        "street1": "Overlord House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1964, 
+    "websiteUrl": "www.bedsandbars.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Careers - http://www.bedsandbars.com/careers.php"
+     ]
+    }, 
+    "universalName": "beds-and-bars-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Beds and Bars Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 120, 
+    "name": "Jewish Senior Life of Rochester", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14618", 
+        "city": "Rochester", 
+        "street1": "2021 Winton Road South"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "jewishseniorlife.org", 
+    "universalName": "jewish-senior-life", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "At Jewish Senior Life\u2122 we offer a full complement of senior services\u2014from a continuing care retirement community, including independent senior living, assisted living and long-term care, to community-based services that enable people to remain in their own homes.\r\n \r\nGuided by our values of honoring family and helping seniors age well in the place of their choice, we are well known for our dedication to improving the health, well-being, and quality of life of our elders\u2014both on our campus and out in the community. We strive to provide the services you need, when, how and where you need them.\r\n \r\nOur senior living continuum includes:\r\n \u2022Independent senior living at The Summit at Brighton\r\n \u2022Assisted living at Wolk Manor\r\n \u2022Long-term care, transitional care and memory care at the Jewish Home of Rochester\r\n \r\nCommunity-based programs that enable seniors to remain at home, with life enriching services:\r\n \u2022Adult Day Health Care\u2014a medical model adult day program\r\n \u2022At Home Services\u2014personal emergency response systems; handyman, housekeeping, lawn care, and meal delivery\r\n \u2022Companion Services\u2014home help with transportation, cooking, laundry, errands and more\r\n \u2022Geriatric Care Management\u2014certified geriatric case managers to assist you in finding the right environment or services for your loved one\r\n \u2022Memory Support\u2014Marian\u2019s House daytime memory retreat and respite\r\n \u2022Outpatient Rehabilitation\u2014physical, occupational, massage and speech therapy on an outpatient basis\r\n \u2022Physician House Calls\u2014primary care in the comfort of your own home"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 113, 
+    "description": "Centre Realty Group (CRG) first opened its doors in 1992, where the original focus was on residential sales and rentals. Since then it has continued to expand its services and offerings, and has developed into a leading residential and commercial real estate organization in the  Greater Boston area. Today the firm has expanded to five locations in Newton, Watertown, Brighton, Brookline and West Roxbury.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617-332-3737", 
+        "phone1": "617-332-0077"
+       }, 
+       "address": {
+        "postalCode": "02459", 
+        "city": "Newton", 
+        "street1": "1280 Centre Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-393-3425", 
+        "phone1": "617-393-3477"
+       }, 
+       "address": {
+        "postalCode": "02472", 
+        "city": "Watertown", 
+        "street1": "460 Main Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-787-4701", 
+        "phone1": "617-787-4700"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "384 Washington St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-505-6544", 
+        "phone1": "617-505-6533"
+       }, 
+       "address": {
+        "postalCode": "02446", 
+        "city": "Brookline", 
+        "street1": "375 Harvard Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-469-8774", 
+        "phone1": "617-469-4040"
+       }, 
+       "address": {
+        "postalCode": "02132", 
+        "city": "West Roxbury", 
+        "street1": "2012 Centre St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.centrerealtygroup.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "real estate brokerage boston newton watertown wellesley weston waltham chestnut hill"
+     ]
+    }, 
+    "universalName": "centre-realty-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Centre Realty Group"
+   }, 
+   {
+    "numFollowers": 490, 
+    "name": "School District 27J", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "80601"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.sd27j.org", 
+    "universalName": "school-district-27j", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Brighton School District 27J (K-12)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 628, 
+    "description": "CV Screen provides cost effective recruitment solutions to a wide range of organisations throughout the UK.\r\n\r\nWe have a large database of available candidates in your local area and our fees of 12.5% of the basic salary are excellent value within the marketplace.\r\n\r\nWe also offer a rebate of 100% for the first 100 days to provide you with added security when you are employing a new candidate. Established in 2000, CV Screen has recruited for many of the UK's leading companies and has a proven track record of providing cost effective resourcing solutions to a wide range of clients including GlaxoSmithKline, John Lewis, and Links of London.\r\n\r\nWe would be very interested to hear from you if you are seeking to recruit throughout the UK or indeed if you are a candidate seeking your next career move. We cover all areas of the UK and have satellite offices in London, Manchester, Birmingham, Edinburgh, Leeds and Brighton.\r\n\r\nWe have specialist divisions in IT, Marketing, Accountancy, HR, Admin and Secretarial. We also offer access to free services such as our salary survey, job descriptions and skills testing.\r\n\r\nFor further information, please visit http://www.cvscreen.co.uk or call us on 0845 200 8170.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 200 8170"
+       }, 
+       "address": {
+        "postalCode": "HP6 6GL", 
+        "city": "Amersham", 
+        "street1": "Unit A12, Boughton Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.cvscreen.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "IT Recruitment", 
+      "Marketing Recruitment", 
+      "Accountancy Recruitment", 
+      "HR Recruitment", 
+      "Secretarial Recruitment", 
+      "Admin Recruitment"
+     ]
+    }, 
+    "universalName": "cv-screen-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CV Screen Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 367, 
+    "description": "HODGES is the only agent in Melbourne that can offer you the wealth of experience and reputation that spans over 150 years since our establishment in 1856.\r\n \r\nWe are recognised as one of Melbourne\u2019s leading Real Estate Agencies with our multiple office network, offering over eighty highly trained and experienced staff who are at your disposal for the best service on offer.\r\n \r\nHodges client management is at the forefront of our business and we provide our clients exemplary service thanks to our extensive training program and technology management systems. Communication is critical in all real estate transactions, that is why Hodges has invested in technology and communication channels to ensure that our clients are informed every step of the way.\r\n \r\nThe company expanded through acquisition to establish offices in Bentleigh, Mentone, and South Yarra. In 2006 the Hodges Group was franchised and now has offices in Prahran/South Yarra, St Kilda, Brighton, Bentleigh, Sandringham, Beaumaris, Mentone, Frankston, Chelsea, Mt Eliza and Geelong.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "03 9557 0200"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Bentleigh", 
+        "street1": "1/277 Centre Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1856, 
+    "websiteUrl": "www.hodges.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Real Estate Sales", 
+      "Premium Property Sales", 
+      "Property Management", 
+      "Auctioneering"
+     ]
+    }, 
+    "universalName": "hodges-real-estate-pty.-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Hodges Real Estate"
+   }
+  ]
+ }
+}

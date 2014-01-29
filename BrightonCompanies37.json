@@ -1,0 +1,789 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 740, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Unbound Visual Arts", 
+    "twitterId": "", 
+    "industry": "Fine Art", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.UnboundVisualArts.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "FIne Art Exhibitions", 
+      "Fine Art Sales", 
+      "Fine Art Workshops and demonstrations"
+     ]
+    }, 
+    "universalName": "unbound-visual-arts", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "We're a newly formed 2012 non-profit organization in the Commonwealth of Massachusetts devoted to enlivening the creative economy in Allston, Brighton & beyond with contemporary visual art for all through exhibitions, sales, classes and workshops.  We're managed by a Board of Directors and a Council of Advisors. Our community of members consists of individuals, businesses and institutions that include professional and amateur artists, art collectors and buyers, art connoisseurs, art related businesses and institutions, curators, performing artists and anyone that enjoys seeing, feeling, experiencing and promoting meaningful and expressive art.  They all recognize the importance of the visual arts in their personal, business or professional lives. We also develop and nurture partnerships and collaborations with other organizations and businesses to promote and achieve our educational mission."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Producing first class, outstanding events, of which we and our clients can be proud, is what Generate Events are all about. We pledge to deliver excellence; so be assured that whatever the event, we'll deliver on that promise.\r\n\r\nOur team share a passion for events and a commitment to our core philosophy. That aside, we're a diverse collection of individuals with different skills and expertise to offer. Add in our trusted partners and suppliers and it's a powerful mix of talent ready to take on your event and a team capable of delivering excellence.\r\n\r\nWorking hard for our clients and bringing events to life - these things makes us proud. But we're not selfish and believe that sharing is a good thing - so if you have a question about events, want to talk events, or need help or advice with an event; then why not get in touch.\r\n\r\nCurrently working with the Brighton Marathon, Durham CCC, Close House Hotel, The F.A, Lancashire CCC, Free Radio, St. George's Park, Wiggle, Scope, Bauer Media Group.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01785 330776", 
+        "phone1": "01785 887845"
+       }, 
+       "address": {
+        "postalCode": "ST18 9JL", 
+        "city": "Stafford", 
+        "street1": "Stafford Business Village"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.generateevents.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Concerts", 
+      "Exhibitions", 
+      "Corporate Events", 
+      "Sports Stadia"
+     ]
+    }, 
+    "universalName": "generate-events", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Generate Events"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Shoreham Oral Care ltd is a Dental and Cosmetic Company hosting a variation of Dental Health solutions to suit everyone. \r\n\r\nShoreham Dental Centre our NHS Practice is one of the largest NHS contracts in Sussex providing a wide variety of Dental Services.\r\n\r\nShoreham Smile Studio is our state of the art Smile Clinic with some of the latest used dental technologies on the market and high end Implant systems.\r\n\r\nBrighton Braces is our braces division; pure aspect is to provide different and varied options for braces to suit the needs of all patients.\r\n\r\nSPM Beauty is our beauty and cosmetic aspect of the business where Botox, Fillers and Semi Permanent Makeup with fully trained technicians at hand.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.shorehaoralcare.co.uk", 
+    "universalName": "shoreham-oral-care-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Shoreham Oral Care ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Cobourg Kia serves many family communities in Ontario, including Courtice, Bowmanville, Newcastle, Cobourg, Port Hope and Brighton (in the municipalities of Northumberland and Clarington). We're a destination for our customers right beside the 401. Cobourg Kia was founded in 2001.\r\n\r\nWe offer a great selection of new and used Kia's, including Rio, Soul, Forte, Rondo, Optima, Sedona, Sorento, and Sportage, as well as a wide range of auto services.  You can book a service appointment online easily using our website and we offer a shuttle service if you're in the local area. We are also the only dealership in the GTA to have a flat-bed truck (called Sherman) to help us get the right car for you!\r\n\r\nCobourg Kia is #1 in customer service in Ontario and has held an \"A\" dealer rating for 5 years. We are obsessed with delighting our customers and we are committed to conducting ourselves with the highest standards of integrity. \r\n\r\nWe enjoy involvement in the community and hosting golf tournaments and other fundraising events for charity, including the United Way, Children's Wish Foundation, YMCA, DARE and Community Cares. Come by and see us for great cars and great service!", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Cobourg", 
+        "street1": "1145 Division St. Box 426"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.cobourgkia.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Kia Sales and Service"
+     ]
+    }, 
+    "universalName": "cobourg-kia", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cobourg Kia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "description": "Mission\r\n\r\nAlivio Medical Center is a bilingual, bicultural organization committed to providing access to quality cost-effective health care to the Latino community, the uninsured and underinsured, and not to the exclusion of other cultures and races.  This mission is expressed through the provision of services, advocacy, education and research and evaluation provided in an environment of caring and respect.\r\n\r\nAlivio Medical Center\u2019s service area encompasses the predominantly Mexican communities of southwest Chicago: Pilsen (Lower West Side), Little Village (South Lawndale), Heart of Chicago (Gage Park), and Back of the Yards (New City).  As the population of Alivio\u2019s service area has increased over the years, many residents migrated to the neighboring areas of Armour Square, Brighton Park, Archer Heights, Bridgeport, and McKinley Park and the western suburbs of Cicero and Berwyn, Illinois.\r\n\r\nOffering primary health care with an emphasis on maternal/child health, Alivio uncompromisingly promotes the care and well-being of mothers, babies, and families.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "773-254-1400"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "966 W. 21st Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "773-254-1400"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "2355 S. Western Ave."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "773-254-1400"
+       }, 
+       "address": {
+        "postalCode": "60804", 
+        "city": "Cicero", 
+        "street1": "4842 W. Cermak Rd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "http://aliviomedicalcenter.org/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Clinical", 
+      "Education and Outreach"
+     ]
+    }, 
+    "universalName": "alivio-medical-center-inc-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Alivio Medical Center, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Magic Pie Media Ltd", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.magicpiemedia.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Advertising Sales", 
+      "Lead Generation", 
+      "Creative Solutions", 
+      "Key Account Management", 
+      "Business Development"
+     ]
+    }, 
+    "universalName": "magic-pie-media-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Magic Pie Media is a boutique media business offering expertise and consultancy across numerous areas of the media, marketing and advertising world. Based in Brighton, we specialise in providing outsourced advertising sales and commercial representation across all media platforms. \r\n\r\nOutsourcing commercial representation allows media owners to significantly reduce their overhead costs, whilst also freeing up far more time to focus on the quality of content and production for their specific form of media; be that print, online, radio, TV or any other form of ad funded output. Magic Pie Media works on a revenue share business model, effectively eliminating risk for our clients and creating a \u201cwin win\u201d situation.\r\n\r\nOur sales team offers a wealth of experience in the media and advertising world, both in the UK and Overseas. This offers local and regional businesses the advantage of having highly experienced sales representation without the need to pay inflated salaries.\r\n\r\nIn addition to sales representation, we can assist in devising and implementing marketing campaigns for businesses of all sizes, with fees based on a cost per lead basis to ensure client satisfaction and minimal risk.\r\n\r\nIf you are interested in discussing the benefits of outsourcing your advertising sales or need any more information about Magic Pie Media, please call Phil Canavan on 07808 267 196, or alternatively you can send an email to phil@magicpiemedia.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Since 2002, Quid has produced an array of books on popular culture, humour and reference, and we continue to grow our business across a range of international markets.\r\n\r\nWe also invest heavily in product development, with innovative projects in history, mathematics, science, natural history, the arts and philosophy. A broad range of our new presentations can be viewed on request and in our catalogue.\r\n\r\nBased in the cosmopolitan seaside city of Brighton and Hove, we are a small team with big ambitions. Although we are represented throughout North America, Europe, Asia and Australia, much of our creative input is sourced locally, employing the extraordinary talent available in our highly creative community.", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 716009"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DD", 
+        "city": "Hove", 
+        "street1": "Level 4 Sheridan House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.quidpublishing.com/", 
+    "universalName": "quid-publishing", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Quid Publishing"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "We offer Clinical Advanced Massage, Myofascial Release, Osteopathy, Acupuncture, Yoga and relaxing holistic treatments from our centre in Brighton & Hove.\r\nFrom booking to aftercare, our service is professional, relaxed and caring. All our therapists are trained in advanced techniques to get the best result for you. We are open late most evenings, up to 9pm, and offer an Online Booking system so you can check availability and make confirmed appointments 24 hours a day.", 
+    "twitterId": "", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 771441"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JD", 
+        "city": "Hove", 
+        "street1": "30 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.anaturalbalance.co.uk", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "massage", 
+      "osteopathy", 
+      "acupuncture", 
+      "sports massage", 
+      "yoga", 
+      "back wax", 
+      "deep tissue massage", 
+      "myofascial release", 
+      "pregnancy massage", 
+      "Thai massage", 
+      "Reflexology", 
+      "aromatherapy", 
+      "hot stone massage"
+     ]
+    }, 
+    "universalName": "natural-balance-therapies", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Natural Balance Therapies"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "LoveCard is the discount card that gives you exclusive discounts and deals at local independent shops, resteraunts, bars and more in Brighton & Hove, saving you money and supporting the local businesses in your area.\r\n\r\nWe help consumers save money when they shop at independent businesses, and help small businesses through our advertising, marketing and social platforms.\r\n\r\nContact us today to find out about becoming a partner.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08000119835"
+       }, 
+       "address": {
+        "postalCode": "BH508FY", 
+        "city": "Brighton", 
+        "street1": "PO BOX 5385"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.lovecard.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Marketing", 
+      "Social Media", 
+      "B2B", 
+      "Advertising", 
+      "Technology", 
+      "Mobile"
+     ]
+    }, 
+    "universalName": "lovecard-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LoveCard UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "We are independent suppliers of Prepress equipment and software. Take advantage of our experience and our professional and reliable approach. Based in Brighton and Cheltenham we offer specialist software solutions backed by an unparalleled personal service from initial enquiry through post sales support. If you have a Prepress problem, let us solve it for you.", 
+    "twitterId": "", 
+    "industry": "Printing", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Cheltenham", 
+        "street1": "Cheltenham"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.prepressuk.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Workflow and RIP solutions", 
+      "Colour Management", 
+      "Consultancy", 
+      "Ink presetting software"
+     ]
+    }, 
+    "universalName": "prepressuk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Prepressuk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "BlueLabs", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://bluelabs.me", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "iOS Development", 
+      "Webservices", 
+      "Software Development", 
+      "UX"
+     ]
+    }, 
+    "universalName": "bluelabs", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "BlueLabs is a London & Brighton based Agile UX and technology-driven business that is focused on the development of apps for the iPhone, iPod Touch and iPad.\r\nWe were founded by developers to bring their software engineering expertise to the mobile app industry and now our team has expanded to include UX practitioners, designers and custom app developers. We work very collaboratively with organisations of all sizes to design innovative, intuitive and effective mobile applications that are delivered on-time and on-budget \u2013 in short we build apps that our clients and your clients love!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Echo Video are a Brighton based video production company who specialise in producing high end, bespoke videos for companies all over the world.  We provide video solutions to local SMEs, multi-national corporations and everything in between, bringing our own brand of creativity and flair to every single aspect of video production.\r\nOur work includes internet video, corporate videos, blu-ray authoring and live event coverage.  We offer a full in-house service that will take your project from concept to delivery ensuring the highest possible quality at every step.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 911345"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FL", 
+        "city": "Hove", 
+        "street1": "2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.echovideo.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Video Production", 
+      "DVD Authoring", 
+      "Motion Graphics", 
+      "Blu-ray Production", 
+      "Video Editing"
+     ]
+    }, 
+    "universalName": "echo-video", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Echo VIdeo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "MARKET RESEARCH CONSULTANTS: London, Brighton & beyond\r\n\r\nKey areas of expertise:\r\n\r\n\u2022\tAdvertising and promotional testing\r\n\u2022\tConsumer buyer behaviour\r\n\u2022\tBenchmarking\r\n\u2022\tBrand awareness\r\n\u2022\tIdentify and understand customer needs\r\n\u2022\tCustomer satisfaction\r\n\u2022\tValues based market segmentation\r\n\r\nLatimer Appleby is a market research consultancy whose clients operate across a wide range of sectors, but share one thing in common: they want to understand people to a more profound level. \r\nWe work with naturally inquisitive organisations who measure their success by providing a great experience to clients, customers and employees.\r\n\r\nThrough the use of well tested market research techniques, Latimer Appleby helps organisations to identify and comprehend the needs, preferences, behaviours and motivations of their target audiences. We do this by providing answers to business and operational questions, acquiring accurate facts quickly and effectively, using the most appropriate means available. After expert analysis and understanding we present tangible and actionable findings to our clients.\r\n\r\nTo find out more, please visit our homepage at www.LatimerAppleby.com or give us a call on 01273 648335.", 
+    "twitterId": "", 
+    "industry": "Market Research", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 648335"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EL", 
+        "city": "Brighton", 
+        "street1": "Old Steyne House,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.latimerappleby.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "market research", 
+      "qualitative research", 
+      "quantitative research", 
+      "consumer insights"
+     ]
+    }, 
+    "universalName": "latimer-appleby-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Latimer Appleby Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Your Doctor. Your Home.\r\n\r\nHouse Call Physicians provides convenient primary medical care for seniors and the disabled in the privacy, comfort, and safety of your home. With recent advances in technology, House Call Physicians can provide or coordinate virtually the same primary medical care in your home which you would receive in a traditional doctor\u2019s office. Our providers will develop an individualized plan of treatment in order to ensure the highest quality care for each patient.\r\n\r\n\r\nWho we serve. Where we serve.\r\n\r\nWe are a Medicare provider, and accept most Medicare Advantage and private insurance plans in addition to traditional Medicare. If you regularly require in-home services or have a physical or mental condition which make it difficult for you to leave your home you may qualify for a physician house call. We serve homebound seniors in assisted living, independent living, retirement communities, senior apartments, and private homes.\r\n\r\nWe provide senior care services in the following cities and surrounding areas:\r\n\r\nFort Collins, Loveland, Greeley, Longmont, Boulder, Broomfield, Westminster, Arvada, Thornton, Northglenn, Brighton, Denver, Lakewood, and Wheat Ridge.", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(303) 532-4174", 
+        "phone1": "(303) 532-4171"
+       }, 
+       "address": {
+        "postalCode": "80501", 
+        "city": "Longmont", 
+        "street1": "164 Primrose Ct."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.hcphysicians.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Geriatrics", 
+      "Family Medicine", 
+      "Doctor's House Calls"
+     ]
+    }, 
+    "universalName": "house-call-physicians", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "House Call Physicians"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "WithSoul Limited", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.withsoul.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "beer and real ale", 
+      "beer distribution", 
+      "beer distributor", 
+      "cask ale"
+     ]
+    }, 
+    "universalName": "withsoul-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "WithSoul are Distribution agents for award-winning breweries, covering Brighton, Sussex, Surrey, Kent, Essex and areas of London.\r\n\r\nAt WithSoul we have extensive experience in the pub industry taking products to market and making them a success. We\u2019ve grown some of the biggest names in drinks & made some of the smallest brands famous.\r\n\r\nWithSoul was born from our passion for an excellent pint; to champion ale and make a difference.\r\n\r\nReal Ale, Craft Beer, the artisan brew, \"a pint of the usual\". Call it what you like and debate it at length, we love cask and we think it is the saviour of the pub industry.  That's why we've made it our mission to sell great pubs remarkable beer.\r\n\r\nWe raise our glass to...\r\n- A fair value chain delivering profit for all\r\n- Working with remarkable products we can all believe in\r\n- Straightforward, straight talking accountability\r\n\r\nEverything we do at WithSoul is underpinned by these core values and a very simple approach...\r\nBy talking to you about your business and genuinely listening, we can give you informed recommendations and sell you the beers that will not only excite and delight your customers, but generate more profit."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "trivial.ly", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2112, 
+    "websiteUrl": "www.trivial.ly", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Training", 
+      "Development"
+     ]
+    }, 
+    "universalName": "trivial-ly", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "High energy mission based learning helps engage your brain. Staff training works better when delegates emerge at the end of the day feeling tired, yet enthusiastic.\r\n\r\nLearn online, in my central Brighton training studio, or in your own place of work.\r\n\r\nHappy customers include: Imperial College London, ABCAM, Christian Aid, Match.com, BAE and many more."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Sussex Copywriting Services", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.sussexcopywriter.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "SEO Copywriting", 
+      "SEO", 
+      "Content Writing", 
+      "Email marketing", 
+      "Blog writing", 
+      "Proposals", 
+      "Business plans"
+     ]
+    }, 
+    "universalName": "sussex-copywriting-services", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton based SEO copywriter, specialising in crisp, clear web content to help your site beat the competition in terms of rankings AND present your business in the best way possible.\r\n\r\nOver the last two years, Google and Bing's search algorithms have changed: in order to be indexed on search engines you need accurate, relevant and engaging content; each page needs words which are appropriate and to-the-point - never has SEO copywriting been so important in your marketing.\r\n\r\nSussex Copywriting Services will work closely with you to blow your competitors out of the water by delivering exceptional content.  I have over 20 years' senior level business experience and in addition to my expertise in all matters web related, I also write blogs, newsletters, business proposals, anything you need for your business.\r\n\r\nAnd, if you're just starting out, talk to me about writing your business plan; a well written plan will get you the funding you need and help you focus on building your business."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Caprice Pine Consulting", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.linkedin.com/company/caprice-pine-consulting", 
+    "universalName": "caprice-pine-consulting", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Caprice Pine Consulting provides strategic business partnership and trusted employee advocacy to Puget Sound companies. Working closely with the executive management team, CPC steps in to assist companies in situations like these: \r\n\r\n* Startups designing their very first HR plans and programs\r\n* Small companies needing professional HR help on an occasional basis\r\n* Growing companies in need of an HR audit and action plan \r\n* Companies needing experienced HR leadership on an interim basis\r\n\r\nCPC works with business leaders to design and implement effective HR systems in alignment with company goals. Depending on client needs, engagement can be either independent or through partnership with other local HR organizations that bring additional resources to the mix.\r\n\r\nPARTNERS\r\nOrganizations that help provide complete solutions for clients:\r\n* Swift HR Solutions\r\n* The Brighton Group\r\n\r\nCLIENTS\r\nPartial  list of companies worked with:\r\n* MBS Source\r\n* MindMode, Inc.\r\n* Unify Square, Inc.\r\n* T&A Supply / Pacific Materials\r\n* bluLink Solutions, Inc.\r\n* Carbon Cycle Crush\r\n* Flexure Engineering\r\n* RootMetrics\r\n* Door to Door Storage\r\n* Cozi\r\n* Working Spaces Project\r\n* COBRA Management Services\r\n* Cypress Consulting\r\n* TTM, Inc.\r\n* Zumobi\r\n* Photobucket\r\n* ExBiblio\r\n* Pacific Ridge Homes\r\n* Velocity\r\n* ShareBuilder Corporation\r\n* Trygstad Technical Services\r\n* COCO Communications"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "name": "Daily Work | Hands on Help for Struggling Job Seekers", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.Daily-Work.org", 
+    "universalName": "daily-work", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Daily Work is an independent, nonprofit organization operating from two Lutheran churches -  Christ on Capitol Hill in St. Paul and Christ the King in New Brighton. Our partnerships with these congregations are critical to our success, but we eagerly welcome people of all faiths and backgrounds who need help finding work and who desire long-term self-sufficiency. In fact, due to changing demographics in our communities, many people Daily Work serves today are new to America: immigrants from Ethiopia, Liberia and Eritrea. Daily Work continues to be primarily a volunteer-driven organization, but volunteers come from a variety of backgrounds, including many college interns who are completing field work requirements as part of their degrees.\r\n\r\nWe envision communities where all people can support and sustain themselves through work, and, as a result, take active roles in the lives of their families and neighborhoods, benefiting all. Daily Work\u2019s mission is to guide and mentor job seekers, who seek to be self-supporting by helping them prepare for, find and maintain work, enabling them to sustain themselves and their families. Currently, we provide all services at no charge by utilizing college social work interns who help job seekers access established resources, develop job seeking materials such as resumes and cover letters, and cultivate work readiness skills."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Big Local App Surrey & Sussex", 
+    "twitterId": "", 
+    "industry": "Information Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.biglocalapp.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Promoting YOUR business"
+     ]
+    }, 
+    "universalName": "big-local-app-surrey-&-sussex", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "The Big Local App, The smartphone app packed full of local news, information, entertainment and business listings has now launched in Brighton & Hove! with many more for Surrey & Sussex coming soon.\r\n \r\nThe app is available from the App Store for iPhone and iPod touch, and from the Android Market for all Android phones, so a wealth of local information is right at your fingertips.\r\n\r\nThe Big Local App contains a business directory containing a wealth of businesses, many with their own mini-apps which allow you to access detailed information including products and services, opening times and location maps. There's also a direct link to local cinema times, local news from the BBC and all your local council information.\r\n \r\nTo start using the app today, use the download links to the left for your iPhone or Android smartphone or visit the App Store or Market directly from your device and search for BigLocalApp!\r\n\r\nOnce downloaded you can easily select other 'Big Local Apps' throughout the UK!\r\n\r\nContact us to get your company listed!"
+   }
+  ]
+ }
+}

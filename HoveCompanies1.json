@@ -1,0 +1,840 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 20, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Mishon Welton Estate Agents", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 778877"
+       }, 
+       "address": {
+        "postalCode": "BN3 2EB", 
+        "city": "Hove", 
+        "street1": "94 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mishonwelton.com", 
+    "universalName": "mishon-welton-estate-agents", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "What ever you are looking for in your Hove Property.... let us help you find it..\r\n\r\nA leading independent estate agent located in prominent Church Road, Hove. If you are thinking of moving in and around Hove contact us today to find our how we can help you with your move."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Sussex Funeral Services", 
+    "twitterId": "", 
+    "industry": "Individual & Family Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.sussexfunerals.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Funeral Directors Brighton", 
+      "Funeral Arrangements Hove", 
+      "Celebrant Services Brighton", 
+      "Funeral Services Hove"
+     ]
+    }, 
+    "universalName": "sussex-funeral-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We are an independent Funeral Directors based in Hove, East Sussex.  We offer a complete funerary service providing all aspects of funeral care and arrangements beginning from the moment you contact us. We are able to provide services for a variety of different religions and belief systems, and will always respect your wishes."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 92, 
+    "description": "QualitySolicitors Howlett Clarke is a modern legal practice providing a full range of services and professional representation in all main areas of law.\r\n\r\nOur legal services offers a diverse range to satisfy Brighton and Hove's ever expanding commercial and consumer population. This can range from, large corporations to middle market companies, community matters and not-for-profit organizations to individuals and emerging businesses. \r\n\r\nAs the dynamics of business, economics, technology, and communications have become increasingly complex, so has the practice of law. To combat this we initially offer a free 30 minute meeting for any client who has a possible legal enquiry. We believe that the best results are achieved by recruiting and drawing on our lawyers exceptional talents and varied experiences.\r\n\r\nWe currently have offices in Brighton and Hove as well as Legal Access Points located in the WH Smith branch's of Brighton, Hove and Worthing. Collaboratively we assist our clients in achieving their personal and business goals, structuring, negotiating and closing transactions, and handling disputed matters.  \r\n  \r\nEven though our firm is the longest standing practice in Brighton (est 1773) we still aim to become trusted advisors that clients can depend upon to deliver excellent legal counseling. This and other factors have proven to consolidate our long-standing relationships with a vast majority of our clients, having counseled numerous businesses for decades and to affirm our dependability and dedication.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 328857", 
+        "phone1": "01273 327272"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AZ", 
+        "city": "Brighton", 
+        "street1": "Quality Solicitors Howlett Clarke"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 430193", 
+        "phone1": "01273 327272"
+       }, 
+       "address": {
+        "postalCode": "BN3 4EF", 
+        "city": "Hove", 
+        "street1": "Quality Solicitors Howlett Clarke"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1773, 
+    "websiteUrl": "http://www.qualitysolicitors.com/howlettclarke", 
+    "specialties": {
+     "_total": 15, 
+     "values": [
+      "Employment", 
+      "Family Law", 
+      "Commercial", 
+      "Conveyancing", 
+      "Private Client", 
+      "Corporate", 
+      "Personal Injury", 
+      "Landlord & Tenant", 
+      "Litigation", 
+      "Mediation", 
+      "Wealth Management", 
+      "Matrimonial & Partnerships", 
+      "Divorce", 
+      "Intellectual Property", 
+      "Internet Law"
+     ]
+    }, 
+    "universalName": "quality-solicitors-howlett-clarke", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Quality Solicitors Howlett Clarke"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Nimbus Accounting, Accountants in Brighton & Hove - www.nimbusaccounting.com\r\n\r\nWe provide a bespoke accounting service to our clients in Brighton & Hove, Sussex and beyond.  Our specialist knowledge is specifically focused on small businesses. We deliver our clients an excellent service and keep them up to date with the current legislation which may impact their business. \r\n\r\nAt our core is a dedicated team of qualified accountants who strive for customer satisfaction and delivering the best tax planning strategies for our clients.\r\n\r\nWe have developed a robust system to keep in constant contact with our clients, ensuring no deadlines are missed. We take personal pride in working with our clients and will ensure as we continue to grow that this culture remains.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07717753073"
+       }, 
+       "address": {
+        "postalCode": "BN3 2FN", 
+        "city": "Hove", 
+        "street1": "32 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.nimbusaccounting.com", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "Contractors", 
+      "Freelancers", 
+      "Small Business", 
+      "Property owners", 
+      "Accountant Hove", 
+      "Accountant Brighton", 
+      "Accountant London", 
+      "Landlords", 
+      "IR35", 
+      "FreeAgent", 
+      "Xero", 
+      "Clearbooks", 
+      "Online accounting software", 
+      "Tax Planning", 
+      "Limited Companies", 
+      "IT Contractors"
+     ]
+    }, 
+    "universalName": "nimbus-accounting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nimbus Accounting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Providing Tennis Coaching Courses for children in Brighton and Hove aged between 4 and 12 years.  Offeing after school clubs at Downs Infants, Stanford Infants and Brighton and Hove.  Mini Tennis Tournament programme in Brighton and Hove.  Tennis Coaching courses for those who want to learn to become tennis coaches held regularly in Dyke Road Tennis Courts in Brighton.\r\n\r\nAdditional services include:\r\n\r\nWeekend Tennis coaching courses every weekend in Preston Park, Brighton.  Open to children from 4 to 12 years 10am to 12pm. Drop in available.\r\n\r\nHoliday Booster courses held in Preston Park , Brighton. 10am to 12 noon Monday to Friday.  Any combination of days available.", 
+    "twitterId": "tennistigers", 
+    "blogRssUrl": "http://tenniscoachingbrighton.co.uk/", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07531879404"
+       }, 
+       "address": {
+        "postalCode": "BN1 6HB", 
+        "city": "Brighton", 
+        "street1": "Beaconsfield Villas"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.tennisigrs.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "After School Club Tennis Coaching Courses in Brighton", 
+      "Tennis Qualification Coaching Courses in Brighton", 
+      "Weekend Tennis Coaching in Brighton", 
+      "Holiday Booster Tennis Sessions in Brighton", 
+      "Individual Tuition in Brighton", 
+      "Tennis Tournaments in Brighton"
+     ]
+    }, 
+    "universalName": "tennis-tigers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tennis Tigers"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 25, 
+    "description": "I set up the Unique to Brighton directory in 2005. Its locational data has now been reconfigured as a map for general interest only. The map is not a list of recommendations nor does it attempt to include all of the lovely specialist & independent places that you can find all across Brighton & Hove.", 
+    "twitterId": "", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1YD", 
+        "city": "Brighton", 
+        "street1": "Brighthelm Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.uniqueto.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Brighton and Hove local issues", 
+      "Unique, independent outlets", 
+      "SEO Brighton and Hove", 
+      "Local economy", 
+      "Sustainable Brighton", 
+      "Environmental issues"
+     ]
+    }, 
+    "universalName": "unique-to-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Unique to Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Callaways are based in Sussex on the south coast with brand new offices in Worthing, and further along the coast in Hove. Our property team provides knowledge and experience to help build lasting and profitable relationships with both developers and house buying clients. We combine a wealth of experience and expertise across the fields of new and re-sale homes, letting properties, overseas property sales and marketing services.\r\n\r\nWe pride ourselves on having the ability to differentiate ourselves from other Brighton & Hove Estate Agents by offering services direct from our sister company, Land & Brand New Homes. Callaways also strides ahead in front of Brighton & Hove Letting Agents by offering unique packages for Landlords and Tenants with the aim of providing the highest level of service possible. By achieving these high standards Callaways are proud winners of the UK Residential Property Award for best estate agency service.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1935, 
+    "websiteUrl": "www.callaways.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Residential Sales", 
+      "Residential Lettings", 
+      "Land and new homes"
+     ]
+    }, 
+    "universalName": "callaways-estate-and-lettings-agent", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Callaways Estate and Lettings Agent"
+   }, 
+   {
+    "numFollowers": 148, 
+    "name": "NHS Brighton and Hove", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "http://www.brightonhovecitypct.nhs.uk/", 
+    "universalName": "nhs-brighton-and-hove", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "NHS Brighton and Hove is the new name we use instead of Brighton and Hove City Teaching Primary Care Trust, as it\u2019s a more accurate description of us as an organisation.\r\n\r\nAlthough much of our work still concerns primary care practitioners (GPs, pharmacists, optometrists and dentists) we do a lot of other things too, as we explain below.\r\n\r\nPut simply, we aim to help people live healthily and stay well, and make sure that high quality care is provided for them when they become unwell."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 559, 
+    "name": "City College Brighton and Hove", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 667788"
+       }, 
+       "address": {
+        "postalCode": "BN1 4FA", 
+        "city": "Brighton", 
+        "street1": "City College Brighton and Hove"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 667703", 
+        "phone1": "01273 667788"
+       }, 
+       "address": {
+        "postalCode": "BN2 5PB", 
+        "city": "Brighton", 
+        "street1": "City College East Campus"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.ccb.ac.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "training", 
+      "education", 
+      "skills", 
+      "vocational"
+     ]
+    }, 
+    "universalName": "city-college-brighton-and-hove", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "City College Brighton and Hove is a vocational training and skills college set in the heart of Brighton.\r\n\r\nThe College offers hundreds of full time and part time courses including entry level, Foundation and Adult learning, accreditation and professional training options.\r\n\r\nOur College is one of the most diverse in the country, attracting students from all ages and backgrounds, from 14 years to 80 and beyond, attracting nearly 9,000 students.\r\n\r\nIn addition to this, we also specialise in offering professional training to companies and employers of all sizes. Many of our courses are either subsidised or you can access financing for an affordable learning solution.\r\n\r\nAside from being a successful College, we promise you a great learning experience. We are committed to supporting and helping you throughout your time with us."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "AudioBeach Studios is Brighton & Hove's newest, and best, recording studio for all types of bands, groups and solo artists.\r\n\r\nAudioBeach Studios was set up in November 2009 by producers Forbes Coleman (Spitefire, My Red Angel, Amanda Shaw, Franny, Andy Walker) and Jez Larder, who has worked on tracks by David Bowie, Simply Red, Estelle and more recently One Eskimo and Amy MacDonald.\r\n\r\nAudioBeach Studios provides an affordable professional 48 track recording and live sound service. The studio will have a great size live room and sound booth and will cater for all types of bands and artists.\r\n\r\nAs part of AudioBeach Studios's commitment to promoting new talent, we offer discounted recording sessions to unsigned artists and young musicians at just \u00a3160 per day for a recording session.\r\n\r\nThe studio benefit's from ample, nearby low priced pay-and-display parking as well as being near a large cheap multi-storey carpark in Norton Road, Hove and is situated minutes away from Brighton and Hove stations.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1FW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.audiobeachstudios.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Recording", 
+      "Production", 
+      "Workshops", 
+      "Rehearsal Space"
+     ]
+    }, 
+    "universalName": "audiobeach-studios", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "AudioBeach Studios"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "H\u00f8ve St\u00f8tt is the natural choice when you want to do something active in Geilo. We offer unique locations, products, experiences and activities at any time. Many call us an event agency, but we are more then that. We are an experience producer!\r\n\r\nAll our activities and experiences are nature based and approved by Norsk \u00d8koturisme (Norwegian Eco tourism). There is a strong focus on being part of the nature during our activities and we have a truly local connection!\r\n\r\nWe are known for our good mood and one of our strengths is beeing host. H\u00f8ve St\u00f8tt is professional and creative in all aspects. From product development, planning and coordination to arrange your arrangement", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3580"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.hovestott.no", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Marketing", 
+      "speaches", 
+      "lectures", 
+      "eco tourism", 
+      "outdoor", 
+      "wintertime", 
+      "snow", 
+      "Geilo", 
+      "design", 
+      "Experience economy", 
+      "Experience expert. Finland", 
+      "Norway"
+     ]
+    }, 
+    "universalName": "h-ve-st-tt-as", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "H\u00f8ve St\u00f8tt as"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Velkommen til Aktiv 3`s profil p\u00e5 Linkedin !\r\n\r\nHer er vi i kontakt  med private ejendomsinvestorer, ejendomsadministration, pensionskasser og andre af vores kunder. Vi har naturligvis en generel interesse i ejendomme, s\u00e5 arktitekter, ejendomsm\u00e6gler osv, er ogs\u00e5 noget vi kan lide at stikke vores n\u00e6se ned i.\r\n\r\nAktiv 3 udf\u00f8rer ejendomsservice ( facility management, vicev\u00e6rtservice), trappevask, snerydning og kontorreng\u00f8ring i K\u00f8benhavn og omegn. \r\n\r\nHvis du mener vi skal give dig et godt, uforpligtende, tilbud p\u00e5 ovenst\u00e5ende arbejdsomr\u00e5der. S\u00e5 kontakt os gerne, og find ud af hvorfor vi har eksisteret siden 1999, og stadig vokser.\r\n\r\nmvh\r\n\r\nJimi Hove\r\nAktiv 3\r\nhttp://www.aktiv3.dk/", 
+    "twitterId": "korekortpriser", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "42101040"
+       }, 
+       "address": {
+        "postalCode": "2000", 
+        "city": "Frederiksberg", 
+        "street1": "Ct Barfoedsvej 1, 1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.aktiv3.dk/", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Ejendomsservice", 
+      "Facility Management", 
+      "Snerydning", 
+      "Reng\u00f8ringsfirma", 
+      "Vicev\u00e6rtservice", 
+      "Trappevask", 
+      "Kontorreng\u00f8ring"
+     ]
+    }, 
+    "universalName": "k-rekort-priser.dk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Aktiv 3 - Ejendomsservice Snerydning Facility Management i K\u00f8benhavn"
+   }, 
+   {
+    "numFollowers": 6, 
+    "name": "Jo Offer Creative Services", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.jooffer.co.uk", 
+    "universalName": "jo-offer-creative-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "My own art practice combines the use of digital skills with hand-rendered type, pattern, collage and print-making to create illustrative images and graphic design solutions for a broad range of clients.\r\n\r\nCommissions include Brighton & Hove Council, Brighton & Hove Primary Care trust, Brighton & Hove buses and Simon Carter Accessories. \r\n\r\nVisualisation of ideas and concepts\r\nStoryboarding and narrative illustration\r\nCharacterisation\r\nBrand development and application.\r\nPrint pricing and production"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Our vision is to create a society in which the most vulnerable people are valued and have the opportunity to achieve quality of life and well-being. \r\n\r\nImpetus uses volunteers and volunteering as a way to provides direct support services to local people experiencing disability and/or disadvantage. We currently work primarily with older people and adults with learning disability providing befriending services, advocacy, and representation on issues relating to health and wellbeing. \r\n\r\nWe also provide infrastructure support to organisations within the voluntary sector through the Volunteer Centre and the Performance Development Service.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://bhimpetus.wordpress.com/feed/", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 2JQ", 
+        "city": "Hove", 
+        "street1": "First Floor, Intergen House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.bh-impetus.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Mentoring & befriending services for older people", 
+      "Advocacy & support for people with learning difficulties", 
+      "Representation & voice on health & wellbeing issues"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-impetus", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Impetus"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 343, 
+    "description": "When you join the Brighton & Hove Chamber of Commerce you become part of one of the City\u2019s most effective business groups, and by joining you add another business with which others can engage. You can share your knowledge and expertise, and in turn you get access to a new business network from which you can benefit. \r\n\r\nWhat does the Chamber do?\r\nThe Chamber is the voice of the City\u2019s business people, and it\u2019s a voice that really helps its members build successful businesses. We have a reputation for providing high-quality networking opportunities and delivering a wide-ranging syllabus of inspirational advice and effective training.\r\n\r\nAs well as helping local businesses to grow and prosper, we represent our members on the larger political and economic stage too, working closely with local agencies, including the Council, on issues like business legislation, building programmes and regional transport.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.businessinbrighton.org.uk", 
+    "universalName": "brighton-and-hove-chamber-of-commerce", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton and Hove Chamber of Commerce"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Hove Therapy Centre opened in April 2009 and we pride ourselves on being a collective of specialised practitioners each focusing on a specific range of holistic and complementary therapies.\r\nAn example of the therapies we currently specialise in are massage, hypnotherapy, herbal medicine, counselling and homeopathy treating a wide range of common ailmets such as stress, depression, muscular fatigue and phobias.\r\n\r\nThe centre offers individuals the chance to explore their health and goals in a supportive environment whilst offering the opportunity to take part in our many talks, workshops and open days held throughout the year. \r\n\r\nWe work hard to build relationships within the local community and to raise the awareness of our practice and at the same time offering you all the chance to feel relaxed, focused and full of health after visiting us.", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 5DQ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.hovetherapy.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Massage", 
+      "organic skincare", 
+      "homeopathy", 
+      "hypnotherapy", 
+      "EFT", 
+      "herbal medicine", 
+      "counselling"
+     ]
+    }, 
+    "universalName": "hove-therapy-centre", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Hove Therapy Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Edeo Interactive Ltd", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.s-fx.net", 
+    "universalName": "edeo-interactive-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Edeo Interactive Ltd is an Active business incorporated in England & Wales on 8th February 2010.\r\nTheir business activity is recorded as Other Information Technology Service Activities\r\n\r\nRegistered Address\r\nUnit 11 Hove Business Centre, Fonthill Road, Hove, East Sussex, Bn3 6ha"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "The Kitchen Store is a designer and installer of beautiful kitchens throughout Sussex.. We have two flagship showrooms one in Brighton & Hove and the other at our manufacturing plant in Lancing, Sussex.\r\n\r\nEstablished in 2004, we are UK retail Distributor for Manhattan Furniture and Paula Rosa kitchens supplying customers throughout the South and nationwide.\r\n\r\nAs experts in the Manhattan and Paula Rosa current and back catalogues, we also sell furniture parts, accessories and appliances to existing kitchen owners throughout the UK who wish to add, extend, upgrade or renew their existing kitchens.\r\n\r\nIn 2013 we were proud to be Finalists in the Brighton and Hove Business Awards\r\n\r\n*Best Customer Service\r\n*Best Independent Retailer\r\n*Managing Director of the Year", 
+    "twitterId": "", 
+    "industry": "Furniture", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 524343"
+       }, 
+       "address": {
+        "postalCode": "BN15 8UH", 
+        "city": "Lancing", 
+        "street1": "Blenheim Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 7BD", 
+        "city": "Hove", 
+        "street1": "Adj Goldstone Retail Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.thekitchenstore.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Kitchen Design", 
+      "Kitchen Installation", 
+      "Mail and Online Order", 
+      "Personal Service"
+     ]
+    }, 
+    "universalName": "the-kitchen-store-retail-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Kitchen Store (Retail) Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "If you think Age Concern is only for the very elderly, think again - we are for everyone over the age of 50 and also for these who support or care for those over this age.\r\n\r\n   As our local City Council faces reductions of at least 28% over the next 4 years it is inevitable that those who are struggling to stay independent in their own homes will get less support from the Council, and Health, and they will turn to us even more. Our values mean that this organisation will not simply cut and reduce services, in fact the Board of Trustees have been clear that we must prioritise any savings so that protect our direct delivery to the client group.\r\n\r\n   What we know for sure is that whatever the Big Society is, a concept that is such an important part of the Prime Ministers' thinking; it cannot be achieved without organisations like ours. Otherwise, yet again, older people and their local groups will be left behind because older people do not shout or work in `sound bites'.\r\n\r\n\r\n\r\n   The people we work with are not lonely victims they are funny, rude, outrageous and only limited by the society in which they live. If we all want them to enjoy their lives we can choose for that to happen.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 720603"
+       }, 
+       "address": {
+        "postalCode": "BN1 3TJ", 
+        "city": "Brighton", 
+        "street1": "29-31 Prestonville Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "http://www.ageconcernbrighton-hove.org.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Crisis Care", 
+      "Information & Advice", 
+      "Counselling", 
+      "Horizons"
+     ]
+    }, 
+    "universalName": "age-concern-brighton-hove-&-portslade", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Age Concern Brighton Hove & Portslade"
+   }, 
+   {
+    "websiteUrl": "www.heymans-vanhove.be", 
+    "numFollowers": 4, 
+    "industry": "Publishing", 
+    "universalName": "heymans-van-hove", 
+    "name": "Heymans-Van Hove"
+   }
+  ]
+ }
+}

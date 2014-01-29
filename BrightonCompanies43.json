@@ -1,0 +1,962 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 860, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Fieldhouse Yacht Surveys is a marine surveying company offering a range of sailing and motor yacht services tailored to the specific requirements of the boat buyer and owner.\r\n\r\nAll surveys and inspections are carried out in accordance with guidelines and standards set by the International Institute of Marine Surveying.\r\n\r\nFieldhouse Yacht Surveys is based in West Sussex, on the south coast of England. The communications network along the south coast enables fys to efficiently reach locations such as Dover, Ramsgate, Brighton, Littlehampton, Chichester, Gosport, Southampton, Cowes, Lymington, Poole and Bournemouth. We are also close to Gatwick Airport, enabling fast access to locations in the West Country and abroad. \r\n\r\nWe undertake pre-purchase & condition, insurance and damage surveys on sailing and motor yachts, RIBs and sports boats of all materials.\r\n\r\nFully qualified Surveyor and Chartered Mechanical Engineer.\r\n\r\nPre-purchase, insurance and damage surveys of RIBS, Canal Boats, Sailing Yachts and Motor Yachts. All hull materials and construction types inspected.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Maritime", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.fieldhouse-yacht-surveys.com/", 
+    "universalName": "fieldhouse-yacht-surveys", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Fieldhouse Yacht Surveys"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 147, 
+    "description": "Major Medical Supply was founded in 1983 by a group of Colorado medical professionals and business people. Today we have seven locations in Brighton, Colorado Springs, Denver, Ft. Collins, Greeley, Longmont and Loveland and are currently serving the Colorado Front Range. Each location is locally owned and operated, guaranteeing the greatest flexibility and responsiveness in the market.\r\n \r\nOur business philosophy is to provide a full line of home oxygen and medical equipment/supplies in each of our locations. Our focus is to consistently exceed expectations for quality, delivery, service, value, responsiveness, and professionalism. Major Medical Supply has made a commitment to exceptional, high quality service in the home medical products field.\r\n \r\nOver the years, Major Medial Supply has become a leader in the medical supply and equipment industry. In ourbeautiful product showrooms, you will find a wide array of durable medical equipment, aids, and supplies. From respiratory equipment, mobility products, ambulatory aids, and aids to daily living, to compression therapy, incontinence products, maternity supplies, wound care, orthopedic supports and braces, and bathroom safety products - Major Medical Supply has it all!", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303.403.1953", 
+        "phone1": "393.403.4655"
+       }, 
+       "address": {
+        "postalCode": "80221", 
+        "city": "Denver", 
+        "street1": "7000 North Broadway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303.403.1953", 
+        "phone1": "303.403.4655"
+       }, 
+       "address": {
+        "postalCode": "80120", 
+        "city": "Littleton", 
+        "street1": "151 W. Mineral Ave., Suite 111"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "719.475.1239", 
+        "phone1": "719.475.1236"
+       }, 
+       "address": {
+        "postalCode": "80909", 
+        "city": "Colorado Springs", 
+        "street1": "405 N. Union #E"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "303.678.4837", 
+        "phone1": "303.651.6400"
+       }, 
+       "address": {
+        "postalCode": "80501", 
+        "city": "Longmont", 
+        "street1": "1649 N. Main St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "http://www.majormedicalsupply.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "home medical equipment", 
+      "home oxygen", 
+      "mobility products", 
+      "hospital beds and support surfaces"
+     ]
+    }, 
+    "universalName": "major-medical-supply", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Major Medical Supply"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Since 2000, Carmotive, LLC has been selling clean, low mileage vehicles at Wholesale prices. We specialize in commercial fleet vehicles and ex-government vehicles. We are a small family owned dealership that focuses on the needs of our customers, and delivering a fair value. Located at 8769 Main St in Whitmore Lake, MI we are located just seconds off of US-23 in between Ann Arbor and Brighton.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.carmotive.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Commerical fleet sales"
+     ]
+    }, 
+    "universalName": "carmotive-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Carmotive, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 67, 
+    "description": "KAP Motor Group is one of the largest motor dealerships in the South East of England. We cover a wide range of services from new & used car sales to Motability adaptations.\r\n\r\nWe hold the Nissan, Peugeot, Renault, Subaru and Ford franchises and have a major Used Car operation with over 200 vehicles in stock and further access to literally 1000's more.\r\n\r\nWe operate an Alloy Wheel refurbishing department and here we not only cater for retail and trades customers we also work directly with the motor manufacture Nissan refinishing alloy wheels for the entire Nissan network in England, Wales and Scotland.\r\n\r\nOur vehicle-servicing centres specialise in Nissan, Peugeot, Ford, Subaru and Renault and All Makes servicing and maintain/repair over 100 vehicles a day.\r\n\r\nIn addition to these we also carry a very large stock of tyres offering unbeatable value for money.\r\n\r\nOther departments include a large Recovery division (AA Premier agents covering Channel Tunnel and Ports), Automotive Engineering specialising in engine reconditioning to the trade and retail, Crash Repair Centre covering from London to Brighton and approved by all leading insurance companies, a Vehicle Parts department who carry an enormous selection of Nissan, Ford, Renault, Subaru and Peugeot parts which are supplied world wide.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01233 504150"
+       }, 
+       "address": {
+        "postalCode": "TN24 0GR", 
+        "city": "Ashford", 
+        "street1": "Crowbridge Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01303 228200"
+       }, 
+       "address": {
+        "postalCode": "CT20 3UJ", 
+        "city": "Folkestone", 
+        "street1": "Ross Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1950, 
+    "websiteUrl": "http://www.kapmotorgroup.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "New and Used Cars", 
+      "Vehicle Servicing", 
+      "Alloy Rim Refurbishing", 
+      "Tyres", 
+      "Vehicle Recovery"
+     ]
+    }, 
+    "universalName": "kap-motor-group-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "KAP Motor Group Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "The PA Boutique provides PA/VA, administrative and lifestyle support to busy individuals, entrepreneurs and small to medium businesses; tailored to individual needs and budgets. This is a truly bespoke service, unique in the expertise, experience, value for money and flexibility it offers, available on-site in Brighton / London and 'virtually' anywhere\r\n\r\nThis is not an agency. This is service..", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Executive Office", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.thepaboutique.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "PA / VA Support", 
+      "Admin Support", 
+      "Event Management", 
+      "Lifestyle Support"
+     ]
+    }, 
+    "universalName": "the-pa-boutique", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "The PA Boutique"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Eyes on Rosemont is a Complete Vision Wellness Center conveniently located on Brighton Avenue in Portland, ME. Drs. Tricia and Michael Pirone and our experienced staff will answer all your questions, explain every treatment option, and provide the highest quality eye health care available.  We also feature one of the most exclusive collections of designer eyewear that can be found in Southern Maine! Every pair of glasses in our optical boutique offers the very best in quality, style, and value, because we want our patients to look as good as they see in their new eye wear.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(207) 210-6700"
+       }, 
+       "address": {
+        "postalCode": "04102", 
+        "city": "Portland", 
+        "street1": "595 Brighton Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.eyesonrosemont.com", 
+    "universalName": "eyes-on-rosemont", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Eyes on Rosemont"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 237, 
+    "description": "Founded in 1890 by Englishman, Alfred Grace Thompson, a saddle and harness maker, with a love for sport, A G Thompson Pty Ltd. began business in Bay Street Brighton Victoria, Australia and by WW1 was already entrenched as one of the leading Australian hand-made cricket ball manufacturers.  For the first 100 years of our existence, Kookaburra Sport traded as A G Thompson Pty Ltd and many members of the Thompson family are still involved in the day to day running of the company, looking to extend its award winning record as the world\u2019s best known manufacturer of hockey and cricket balls.\r\n\r\nThe Kookaburra name is synonymous with Australian sport. Not only is Kookaburra Sport the largest producer of cricket balls in the world, our cricket bats and ultralight protective equipment is used by the world\u2019s elite batsmen. Kookaburra now exports world wide to all cricket playing nations.\r\n\r\nKookaburra\u2019s world famous Turf Cricket Ball has been used exclusively in Australia, New Zealand and South African Test Cricket since 1946.\r\n\r\nOur Dimple Elite Hockey Ball is the only ball recommended by the Federation Internationale de Hockey and has been used in all Olympic Games from 1984 - 2008. \r\n\r\nKookaburra continues to strive for excellence to be the best equipment for hockey and cricket both locally and world wide.", 
+    "twitterId": "", 
+    "industry": "Sporting Goods", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01536 209211", 
+        "phone1": "01536 209210"
+       }, 
+       "address": {
+        "postalCode": "NN17 5LU", 
+        "city": "Corby", 
+        "street1": "3 Brakey Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+61(3) 8552 1188", 
+        "phone1": "+61(3) 8552 1111"
+       }, 
+       "address": {
+        "postalCode": "3189", 
+        "city": "Victoria", 
+        "street1": "218 Chesterville Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+64(9) 479 6288", 
+        "phone1": "+64(9) 478 1969"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Albany", 
+        "street1": "Douglas Johnson and Co. Ltd."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "27(0) 31 579 4180", 
+        "phone1": "27(0) 31 579 4150"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Springfield Park 4034", 
+        "street1": "JRT Crampton Pty."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1890, 
+    "websiteUrl": "www.kookaburra.biz", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Cricket Bats", 
+      "Cricket Balls", 
+      "Cricket Equipment", 
+      "Hockey Balls", 
+      "Hockey Sticks", 
+      "Hockey Equipment"
+     ]
+    }, 
+    "universalName": "kookaburra-reader-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kookaburra Reader Limited (Kookaburra Cricket & Kookaburra Hockey)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Waldor Orchids has been a family-owned and operated business for four generations. We continue to provide the same quality and old-fashioned service that our customers have grown accustomed to over the years. Waldor is the largest provider of orchid\r\n\r\nWaldor Orchids\u2019 founder George Allen Off entered the flower business when he established Brighton Florist in 1925. His love of flowers and his desire to grow them would lead him out of his father\u2019s hotel business and into the fascinating world of growing plants. To find out more visit www.waldor.com", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "609-927-4126"
+       }, 
+       "address": {
+        "postalCode": "08221", 
+        "city": "Linwood", 
+        "street1": "10 E. Poplar Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1925, 
+    "websiteUrl": "www.waldor.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Orchid Plants"
+     ]
+    }, 
+    "universalName": "waldor-orchids", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Waldor Orchids"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "We are an experienced, proactive and trustworthy firm of criminal law defence solicitors\r\n\r\nMackrell Marsh & Co solicitors are based in Brighton & Hove and has presence throughout Sussex and the South East. We are a friendly and approachable team working for you, with straight talking and no empty promises. \r\n\r\nAs criminal solicitors we have experience of handling all types of cases from complex fraud, murder, to theft or public order offences. \r\n\r\nWe are also expert motoring solicitors dealing with cases ranging from causing death by dangerous driving, drink driving, careless driving. See motoring offences", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 729910", 
+        "phone1": "01273 823456"
+       }, 
+       "address": {
+        "postalCode": "BN3 1FA", 
+        "city": "Brighton", 
+        "street1": "96 Western Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mackrellmarsh.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Criminal Law"
+     ]
+    }, 
+    "universalName": "mackrell-marsh-&-co-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mackrell Marsh & Co."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Architecture & Interior Design\r\n\r\nCDMS Partners Architects and Interiors is Camillin Denny Morton Scarr, located in the heart of Brighton and Hove.\r\n\r\nThe practice undertakes unique architectural projects both in the UK and internationally, combining innovation and progressive design skills with wide practical experience and detailed construction knowledge. Our work now includes public and private listed and conservation properties, hotels, museums and international masterplanning projects. \r\n\r\nOur aim is to produce beautiful, sustainable and healthy living, working and educational environments that demonstrate how good design is compatible with economic, social and environmental well being. We have won four Sussex Heritage Trust Awards in recognition of the creative integration of heritage properties with modern design and the sensitive use of local materials within our projects. Each project is assessed on an individual basis to determine the most appropriate sustainable design strategies. From inception to completion we will guide the client through the complex maze of alternative choices around sustainable design, to provide best value and lower running costs.\r\n\r\nWe are a Chartered Practice of the Royal Institute of British Architects (RIBA) and ensure our Clients receive the highest quality service through our Quality Management System certified to ISO 9001:2008.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 220407"
+       }, 
+       "address": {
+        "postalCode": "BN1 3BE", 
+        "city": "Brighton", 
+        "street1": "Montpelier House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.cdmspartners.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Architecture", 
+      "Interior Design", 
+      "Masterplanning"
+     ]
+    }, 
+    "universalName": "cdms-partners-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CDMS Partners Ltd - Architects + Interiors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Simply put, we are three photographers, backed by a panel of highly trained experts, whose professional experiences have covered, for example; Afghanistan, the Middle East, military embeds and commissions, both commercial and journalistic, involving extensive travel throughout many areas of the globe.\r\n\r\nWe have teamed up to create Risk Images. An operation with the sole aim of delivering to our clients, a versatile range of action based photographic services with the ability to operate anywhere in the world. \r\n\r\nRecent operations include work embedded with NATO, a photo assignment in Gaza, aerial photography of Brighton Marathon and a political demonstration or two!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.riskimages.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Hostile Environment Photography", 
+      "Photojournalism", 
+      "photographic consultancy", 
+      "hostile environment consultancy"
+     ]
+    }, 
+    "universalName": "risk-images", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Risk Images"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Mitchell Humphreys Business Development is based in Brighton and operates across the UK and on an international basis.\r\n\r\nWe cover all aspects of business development from initial planning through to market research, sales strategy, marketing analysis, operations strategy and financial planning etc.", 
+    "twitterId": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 606696"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ST", 
+        "city": "Brighton", 
+        "street1": "Ditchling Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.mhbds.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sales strategy", 
+      "Operations strategy", 
+      "Marketing strategy", 
+      "Market Research"
+     ]
+    }, 
+    "universalName": "mhbd-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "MHBD Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Waverly Apartments is a 103-unit community featuring 2- and 3-bedroom apartments and townhomes. We are located in Brighton, MA.\r\n\r\nOur community is near MIT, Harvard University, Fenway Park, the Arsenal and Watertown Malls, Boston Common Park and just five miles from the Back Bay and Financial District.\r\n\r\nOur pet-friendly community offers controlled access, on-site laundry and a playground. All utilities are included in rent. Some units have wood flooring, washers and dryers.\r\n\r\nVisit our LinkedIn Aimco company page for career opportunities at Waverly Apartments and other Aimco communities.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "9 Bronsdon St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "http://www.waverlybostonapartments.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Multi-Family Housing", 
+      "Apartments", 
+      "Equal Housing Opportunity"
+     ]
+    }, 
+    "universalName": "waverly-apartments", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Waverly Apartments"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "We are a Sussex based design and communication agency with heaps of experience in delivering innovative and engaging designs for a wide range of clients in the Private, Public and Voluntary sectors.\r\n\r\nFrom logos, branding and campaigns to brochures, exhibitions and websites, check out our portfolio and if you like what you see, why not give us a call on 01273 483123.\r\n\r\nIn an industry where experience really counts, we maintain a close, friendly and trusting relationship with all our clients.\r\n\r\nWith a big perspective and a small talented team, we design for web and digital media, corporate identity, marketing campaigns, display, literature and newsletters as well as manage print and photography.\r\n\r\nhrscreative started life in 1987 as Hill Rae Smith Associates Limited, based in a Victorian Hop Exchange at London Bridge. We relocated just outside of Brighton, East Sussex, to Lewes, home to the historic Lewes Castle, Sussex\u2019s oldest independent brewery and the biggest and best bonfire night in Sussex.\r\n\r\nStaying true to our London roots, we\u2019re now based in the Star Brewery, a converted brewery in the heart of the town. Now an arts centre, we are surrounded by businesses involved in the arts and crafts, from illustrators to jewellery designers, guitar makers to architects. It\u2019s a fascinating place to work.\r\n\r\nhrscreative is headed up by Deborah Rae Smith, and managed by Clare Crouch.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 483123"
+       }, 
+       "address": {
+        "postalCode": "BN7 1YJ", 
+        "city": "Lewes", 
+        "street1": "Castle Ditch Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.hrscreative.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Design for Print", 
+      "Design for Web", 
+      "Branding", 
+      "Campaigns", 
+      "Literature", 
+      "Digital", 
+      "Exhibitions", 
+      "Newsletters", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "hrs-creative", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "hrs creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 63, 
+    "description": "The decision to form the FWA was made by four journalists on board a ship in the middle of the English Channel on September 22 1947. The four were returning from Brussels, where they had seen England beat Belgium 5-2 in a friendly international, and are listed as Messrs Cole, Roy Peskett, Archie Quick, and Charlie Buchanan. The latter was the most famous of the four, having been an England international before becoming a successful journalist and founding the legendary Charlie Buchan\u2019s Football Monthly.\r\n\r\nWithin a month they had formalised some of the rules and regulations for the fledging association, membership would be invitation only, to \u201cworking journalists who are accredited football correspondants for newspapers and agencies.\u201d Headquarters were to be in London with the initial membershp fee set at five guineas for the first year, and two guineas annually thereafter \u2013 with an FWA tie included!\r\n\r\nMembership of the Football Writers Association has continued to grow steadily, to around 400 with regional hubs in the north-west, north-east, Midlands and London. With the changes in modern-day journalism, FWA members now come from more diverse backgrounds rather than the once traditional newspaper reporter.\r\n\r\nThe Association has also needed to develop quickly in recent years, with on-line voting for Footballer of the Year now also available to members, while in 2011 the FWA relaunched our website to incorporate new social media platforms all of which help improve communication.\r\n\r\nWe remain proactive in taking up members issues with both clubs as well as the Barclays Premier League and Football League, whether it be over disputed access or press facilities, and the FWA also acts to guide clubs who are looking to redevelop their own stadia, with recent improvements at Brighton a case in point.\r\n\r\nThe FWA continues to openly recruit new members and welcomes any input as to how to make covering the beautiful game a smooth working environment for all.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1947, 
+    "websiteUrl": "www.footballwriters.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "football", 
+      "journalism", 
+      "media", 
+      "newspapers"
+     ]
+    }, 
+    "universalName": "football-writers'-association", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Football Writers' Association"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Switch2IT\u00ae - Managed IT Services", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.switch2IT.co.uk", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Managed IT Services", 
+      "Networking", 
+      "IT Consultancy", 
+      "Website Design", 
+      "Business Intelligence Development", 
+      "Helpdesk Service", 
+      "Business Continuity", 
+      "Data Recovery", 
+      "Email and Messaging Systems", 
+      "Computer Repair and Maintenance", 
+      "Web Hosting and Database Design"
+     ]
+    }, 
+    "universalName": "switch2it", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "End User? National business? Global business? Looking for a trusted partner at the customer end? Call us\r\n\r\nManaged IT Services. Click here to visit Switch2IT providing Managed IT Services, Computer / PC / Server / Cloud & Network Support Solutions. Switch2IT is a leading independent IT solutions and support provider. We provide a proven innovative and proactive service to our clients. We are passionate in what we do and the service we give. Supporting a wide range of businesses in many industries we provide 24/7 monitoring of your business IT. With local IT support across Sussex, Surrey, London and the South East you can be assured of a service tailored to you. \r\n\r\nSupport, services, computer, pc, server, cloud, network, solutions, brighton, leytonstone, westminster, moorgate, crawley, haywards heath, burgess hill, uckfield, gatwick, diamond,  horsham, chichester, worthing, east grinstead, croydon, caterham, data, backup, recovery, consultancy, director, cloud, virtualisation, security, telecoms, microsoft, apple, education, reseller\r\n\r\nDiscover an IT company that is different from the rest, starting with the free phone call to get in touch and start your journey with us. Call us today on 0800 083 3416."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 34, 
+    "description": "Magenta Associates is a specialist communications consultancy for the facilities management and business support services sector. We work with a range of organisations from in-house FM teams and FM consultants to facilities management training providers, institutes, service providers and product suppliers providing a comprehensive range of bespoke communication services. We work on one-off projects to long-term relationships in the following areas:\r\n\r\n    Media and public relations\r\n    Communications strategy\r\n    Social media marketing\r\n    Advertising campaign planning\r\n    Awards submissions and advice\r\n    Ghost writing\r\n    FM bid writing\r\n    Internal and customer communications such as newsletters\r\n    Website design and content management\r\n    Research documents and annual reports\r\n    Events management\r\n    Corporate film making\r\n\r\nWith offices in London and Brighton, and clients in the UK and overseas we are experts in communication in  facilities management.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 669917"
+       }, 
+       "address": {
+        "postalCode": "EC2V 6BT", 
+        "city": "London", 
+        "street1": "127 Cheapside"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07971 400332"
+       }, 
+       "address": {
+        "postalCode": "BN2 9QB", 
+        "city": "Brighton", 
+        "street1": "23 Grand Parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.magentaassociates.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Media and public relations", 
+      "Social media marketing", 
+      "Internal and customer communications such as newsletters and magazines", 
+      "Website design and management", 
+      "Research and annual reports", 
+      "Corporate film making", 
+      "Marketing collateral  - design and content"
+     ]
+    }, 
+    "universalName": "magenta-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Magenta Associates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 56, 
+    "description": "MRL-V is an exciting new creation by the MRL Consulting Group. We are a team of experienced, passionate and innovative recruitment professionals based in the UK, France and Germany who have been working together for over 15 years. We have become a dominant recruitment player in several niche high technology and financial services markets across Europe.\r\n\r\nMRL-V's principal aim is to build a highly successful portfolio of recruitment companies by leveraging decades of experience and our considerable financial and operational resources to either:\r\n\r\nPartner with and assist recruitment consultants with strong potential to found and grow their own exciting recruitment businesses in international niche markets.\r\n\r\nor:\r\n\r\nBecome a vibrant and supportive home for established recruitment businesses that are looking for enhanced, sustainable growth and immediate access to lucrative overseas markets.\r\n\r\nWith offices in London, Brighton, Munich, Dresden and Nice and a long and established list of highly satisfied key accounts in our chosen sectors, we know what works in recruitment.\r\n\r\nWith our innovative and flexible approach to partnering, we can help you to grow your business and sustainable profits at greatly accelerated rates and help your business punch well above its weight in international markets. \r\n\r\nPlease do not hesitate to contact us if you think we can help you to achieve your ambitions.\r\n\r\ninfo@mrl-v.com\r\n+44 (0)1273 320860", 
+    "twitterId": "", 
+    "blogRssUrl": "http://mrlventures.wordpress.com", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 320860"
+       }, 
+       "address": {
+        "postalCode": "BN2 0BQ", 
+        "city": "Hove", 
+        "street1": "Microscape House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+49 89 2111 210"
+       }, 
+       "address": {
+        "postalCode": "80335", 
+        "city": "Munich", 
+        "street1": "Nymphenburger Strasse 3a"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.mrl-group.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Recruitment", 
+      "Incubation", 
+      "Investment", 
+      "Consultancy", 
+      "Finance"
+     ]
+    }, 
+    "universalName": "mrl-v", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "MRL-V"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "SIA Group  | \"Asset Ingenuity\"\r\n\r\nA boutique asset valuation, advisory and disposal business providing asset solutions to a blue chip client base. \r\n\r\nSIA Group was founded as an asset valuation and disposal company in 2003 and has offices in London, Brighton and Bicester. \r\n\r\nWe work on behalf of asset based lenders, banks, financial institutions, private equity firms, restructuring professionals, turnaround specialist\u2019s, trustees, private companies and public bodies in the valuation and disposal of tangible and intangible assets.\r\n\r\nSIA Group provides a comprehensive valuation and advisory service for all types of assets including aviation,  machinery & equipment, marine, property, receivables and inventory in a broad spectrum of industries. \r\n\r\nAreas of Expertise\r\n\r\nAsset Valuations  |  Advisory Services  |  Asset Disposals  |  Asset Recovery & Storage  |  Aviation Valuation  |\r\n\r\nCollateral Due Diligence  |  Corporate Restructuring  |  Sale of Assets & Businesses  |  Securitisation Reviews  |  \r\n\r\nDiscover how we can help you provide valuation advice for structuring your next transaction or help you achieve maximise realisation on disposal of your surplus assets. Contact SIA Group now: info@sia-group.co.uk or + 44 207 498 4900", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1273 624347", 
+        "phone1": "+44 (0) 1273 621317"
+       }, 
+       "address": {
+        "postalCode": "BN2 4JE", 
+        "city": "Brighton", 
+        "street1": "Regal House, The Hyde Business Park"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 207498403"
+       }, 
+       "address": {
+        "postalCode": "SW8 5HH", 
+        "city": "London", 
+        "street1": "B65"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+ 44 (0) 1869 365780"
+       }, 
+       "address": {
+        "postalCode": "OX26 4SW", 
+        "city": "Bicester", 
+        "street1": "Charbridge Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.sia-group.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Asset Valuations", 
+      "Asset Disposal & Recovery", 
+      "Auctions", 
+      "Aviation Valuation & Disposal", 
+      "Account Receivables Due Diligence", 
+      "Corporate Restructuring", 
+      "Inventory Appraisals", 
+      "Machinery & Equipment Valuations"
+     ]
+    }, 
+    "universalName": "sia-group-uk-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "SIA Group (UK)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 29, 
+    "description": "Ann Arbor Michigan's premiere PADI 5 star IDC Dive center. Helping people dive into a new adventure. Stop in and see what we have to offer. PADI, Handicap Scuba Association (HSA) and much more.\r\n\r\nValuable Training at a Great Value! We keep our classes small to provide personalized instruction and keep it FUN!! Make the most of your precious time with our convenient schedules at Ann Arbor, Ypsilanti, Saline, and Canton pools. A full range of PADI courses are available, including specialty training, Instructor courses, Technical diving courses, and more! Sign up for Basic Open Water Scuba Diver to get started.\r\n\r\nKeep your Fins Wet! Our local Fun Dives, weekend Great Lakes dive trips, and group dive travel to exotic locations will keep you diving, and provide plenty of opportunities for meeting new dive buddies & learning more about the world of diving!\r\n\r\nGear up & Go! Our knowledgeable staff at our full-service retail store in Ann Arbor can help you select the scuba and snorkel gear that's right for you from all of the top quality brands in the industry.\r\n\r\nOur Ann Arbor store is located just 10 minutes west of downtown Ann Arbor, Michigan and Briarwood Mall - convenient to the I-94 and M-14 freeways on Jackson Road between Wagner & Zeeb Roads. (Here's a map to the store.)  We're convenient for residents of Ann Arbor, Ypsilanti, Dexter, Chelsea, Saline, Manchester, Brighton, Howell, South Lyon, Whitmore Lake, and the extended Washtenaw, Livingston, and Oakland Counties.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.huronscuba.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "PADI IDC Dive Center - Instructor Training", 
+      "PADI Scuba training", 
+      "Expert Service Technicians", 
+      "Adventure Travel Provider"
+     ]
+    }, 
+    "universalName": "huron-scuba-snorkel-and-adventure-travel-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Huron Scuba, Snorkel and Adventure Travel Inc."
+   }
+  ]
+ }
+}

@@ -1,0 +1,798 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 0, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2431, 
+    "description": "Brighton & Hove City Council  is a unitary authority and city on the south coast of England. It is England's most vibrant and cultural seaside city.\r\n\r\nIt was formed as a unitary authority area on 1 April 1997 by the merger of the East Sussex districts of Brighton and Hove. It immediately applied for and was granted borough status. In 2000 it was awarded city status together with two other UK towns, to mark the Millennium. \r\n\r\nBrighton and Hove is not part of the non-metropolitan county of East Sussex, but it is still part of the ceremonial county of East Sussex.", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 290000"
+       }, 
+       "address": {
+        "postalCode": "BN3 2LS", 
+        "city": "Hove", 
+        "street1": "Kings House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.brighton-hove.gov.uk", 
+    "universalName": "brighton-&-hove-city-council", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Brighton & Hove City Council"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Brighton and Hove Psychotherapy", 
+    "twitterId": "", 
+    "industry": "Mental Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 921355"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JA", 
+        "city": "Hove", 
+        "street1": "6 The Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonandhovepsychotherapy.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Counselling", 
+      "Therapy Room Rental", 
+      "Psychotherapy"
+     ]
+    }, 
+    "universalName": "brighton-and-hove-psychotherapy", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Brighton and Hove Psychotherapy is comprised of three experienced clinicians offering a range of counselling, psychotherapy and psychological services, in central Hove. \r\n\r\nWe offer short-term and open-ended counselling, psychotherapy for individuals and couples and clinical supervision. We offer a choice of therapists with varying experience and specialisms. \r\n\r\nWe are fully insured and registered as either accredited members of the BACP or UKCP. We are also registered with the major private healthcare providers to offer counselling and/or psychotherapy. \r\n\r\nOur consulting rooms comprise the third floor of a beautiful period building, centrally located on The Drive in Hove. Our central, but discreet location offers quiet rooms furnished to a high standard. We also offer our rooms to other practitioners who require therapy room rental in Brighton & Hove area."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "A free job listing board for Brighton and Hove in East Sussex, offering free recruitment advertising for employers and free local job alerts for job seekers. \r\n\r\nFor people seeking jobs in Brighton and Hove, or the surrounding towns and villages in Sussex, the website offers a free account management area for keeping track of applications, uploading CVs for local employers to view, adding jobs as 'favourites' and organising job alert settings. \r\n\r\nFor employers seeking to recruit candidates for positions based near Brighton and Hove, the website offers both free and low cost recruitment advertising solutions. In addition to being able to post jobs free of charge for 30 days, employers can upgrade from as little as \u00a320. Upgrades offer greater exposure and response. \r\n\r\nWhether you're a job seeker or an employer, Jobs in Brighton and Hove has the tools and the options to help connect the right people to the right job.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273726411"
+       }, 
+       "address": {
+        "postalCode": "BN3 2JD", 
+        "city": "Hove", 
+        "street1": "5 Adelaide Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.jobsinbrightonandhove.co.uk", 
+    "universalName": "jobs-in-brighton-and-hove", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Jobs in Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 36, 
+    "description": "A comprehensive, up-to-date and free on-line resource for parents living in and visiting Brighton, listing everything that is child friendly in Brighton. It includes what\u2019s on for children in Brighton and Hove, things to do, events and activities for children, places to visit, attractions, and listings of groups, clubs and classes such as parent and baby groups, music groups, swimming lessons, ballet, dance and drama classes, arts and crafts classes. From indoor activities such as soft play centres, pottery painting and cinema, to outdoor activities such as farms, zoos, playgrounds and beaches, it provides an invaluable resource for parents looking for ideas for things to do with their children in Brighton and Hove. \r\n\r\nThe website also provides listings of child friendly restaurants, cafes, pubs and hotels with details on facilities for children. The website is free to use, and free to be listed on. It is updated on a daily basis.", 
+    "twitterId": "http://twitter.com/chldfriendlybtn", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07884075772"
+       }, 
+       "address": {
+        "postalCode": "BN3 5BA", 
+        "city": "Hove, East Sussex", 
+        "street1": "Byron Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.childfriendlybrighton.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Activities and events for families and children in Brighton and Hove", 
+      "Child friendly restaurants, cafes and pubs in Brighton and Hove"
+     ]
+    }, 
+    "universalName": "child-friendly-brighton-and-hove", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Child Friendly Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Ten Hove Advice & Support heeft jarenlange ervaring met het outsourcen van werkzaamheden bij gerenommeerde en geauditeerde bedrijven in binnen- en buitenland. Vanwege het grote netwerk van Ten Hove in binnen- en buitenland en het uitvoeren van kwaliteitscontroles kunnen wij u een kwalitatief goed en goedkoop product bieden. Wij vertegenwoordigen meerdere bedrijven in binnen- en buitenland. Desgewenst brengen wij u in contact met \u00e9\u00e9n van onze leveranciers, wanneer u liever direct zaken doet zonder onze assistentie!\r\n\r\nDe zorg om kwaliteit en tijdige leveringen, wordt u uit handen genomen door Ten Hove Advice & Support, voor een zeer scherpe prijs.", 
+    "twitterId": "", 
+    "industry": "Outsourcing/Offshoring", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+31 (0) 22 772 06 51", 
+        "phone1": "+31 (0) 22 751 17 77"
+       }, 
+       "address": {
+        "postalCode": "1778 KM", 
+        "city": "Westerland", 
+        "street1": "Westerlanderweg 60"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+31 (0) 38 447 71 23"
+       }, 
+       "address": {
+        "postalCode": "8191 JP", 
+        "city": "Wapenveld", 
+        "street1": "Vlijtweg 10F"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "Www.Tenhove.net", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Outsourcing", 
+      "Offshoring", 
+      "Kwaliteit leveren", 
+      "Kosten besparen", 
+      "Tijdige leveringen", 
+      "Service bieden"
+     ]
+    }, 
+    "universalName": "ten-hove-advice-&-support", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ten Hove Advice & Support B.V"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 13, 
+    "description": "Specialising in mortgages and protection.\r\nBrighton and Hove Mortgages\r\nT: 01903 879912  M: 07802 619215 \r\nmike@brightonandhovemortgages.com\r\nwww.brightonandhovemortgages.com \r\nAlbany Villa, Station Road, Steyning BN44 3YL\r\nRegistered Office. Brighton & Hove Mortgages Limited, 12 Station Road, Portslade, East Sussex BN41 1GA. Registered in England, Company No.07467148. Brighton & Hove Mortgages Limited is an appointed representative of Legal & General Partnership Services Limited which is authorised and regulated by the Financial Services Authority for advising on and arranging mortgages and insurance", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01903 815641"
+       }, 
+       "address": {
+        "postalCode": "BN44 3YL", 
+        "city": "Steyning", 
+        "street1": "Alabny Villa"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "brightonandhovemortgages.com", 
+    "universalName": "brighton-and-hove-mortgages", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton and Hove Mortgages"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 82, 
+    "description": "The Brighton & Hove Food Partnership is working for a healthier, more sustainable food system for the city. We believe all residents should be able to enjoy food that is good for health, respects environmental limits and supports a vibrant farming and food economy. We drive forward progress on the city's food strategy \u2018Spade to Spoon: Digging Deeper\u2019, campaign on local and national food issues and deliver a range of community-based cookery, nutrition and growing projects.\r\n\r\nWe undertake lobbying work and provide training and information to achieve:\r\n- better access to affordable fresh, seasonal food\r\n- more locally produced food\r\n- more opportunities to learn to cook and grow food\r\n- a better understanding of the links between food and health\r\n- a better understanding of where food comes from.\r\n\r\nWe are a not-for-profit, membership body that brings together community organisations, statutory services, local businesses and individual residents. Membership is free and open to anyone who lives or works in Brighton & Hove and wants to support our work. Members receive a monthly email update and our quarterly printed newsletter as well as the chance to come to member events.", 
+    "twitterId": "harvestbh", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 431 700"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YD", 
+        "city": "Brighton", 
+        "street1": "Brighthelm Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.bhfood.org.uk", 
+    "universalName": "brighton-&-hove-food-partnership", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Food Partnership"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We create, we finance, we run and we enhance companies. \r\nAll in order to create maximum efficiency and result. \r\nWe serve our global network of knowledged professionals, connections, investors and funds in order to achieve a permanent boost in your company. \r\n\r\nVan Hove Beleggingen N.V. aims at Capital Search, Recruiting Services and Management Consulting.  \r\nWe deliver the need of driven professionals, capital and management; your need to achieve new successes every day. \r\n\r\nWe are still expanding our business and we are currently aiming at European markets. Our International partnerships guarantee that every aspect of doing business with Van Hove Beleggingen N.V. is worth doing so, and\u00a0 will bring your venture to a higher end and maintain at the top.\u00a0 \r\n\r\nWe just love doing business.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+31 (0)84 - 754 06 00", 
+        "phone1": "+31 (0)70 - 362 52 25"
+       }, 
+       "address": {
+        "postalCode": "2514 BP", 
+        "city": "Den Haag", 
+        "street1": "Nieuwe Uitleg 15"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.vanhovebeleggingen.nl", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Capital Search", 
+      "Recruiting", 
+      "Management Consulting", 
+      "Investments"
+     ]
+    }, 
+    "universalName": "van-hove-beleggingen-n.v.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Van Hove Beleggingen N.V."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Home to Tony Bowall, Award Winning Hove Fine Art Photographer based in his studio in Third Avenue, Hove. Tony's work can be seen in Bellis Gallery, Brighton, Lulu & Hitch, Hove, the Brighton Bandstand Cafe and he has a permanent exhibition of large works in Pizza Express, Church Road, Hove.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.tonybowallphotography.com", 
+    "universalName": "tony-bowall-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Tony Bowall Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Hove Hair Clinic", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 711140"
+       }, 
+       "address": {
+        "postalCode": "BN3 3RH", 
+        "city": "Hove", 
+        "street1": "42 Goldstone Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.hovehairclinic.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Alopecia/Hair Loss Treatment", 
+      "Laser Hair Restoration", 
+      "Male/Female Pattern Baldness", 
+      "Dandruff Treatments", 
+      "Psoriasis", 
+      "Seborrhoea/Greasy Hair"
+     ]
+    }, 
+    "universalName": "hove-hair-clinic", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Hove Hair clinic tackles the hair and scalp problems that are making the news today, from Male/female pattern baldness, alopecia (hair loss), to dandruff, psoriasis, seborrhoea (greasy) conditions and many more.\r\n\r\nWe take pride in giving YOU the knowledge, products and support to understand, treat and take control of your hair loss or scalp condition. We treat each client individually finding the correct combination of products to suit your hair and scalp."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Brighton & Hove Training Services provides a range of services to trainers, small businesses, charities and social enterprises throughout Sussex.\r\n\r\nWith fifteen years of experience across the private, public and third sectors, we can tailor all of our services to meet your needs.\r\n\r\nWith a flexible pricing structure designed to be accessible to people from all backgrounds, not only will our services save you valuable time and resources, but they will save you money too.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bhtraining.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Training administration", 
+      "Trainer support", 
+      "Social enterprise", 
+      "IT tutoring"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-training-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton & Hove Training Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Brighton & Hove Energy Services Company", 
+    "twitterId": "", 
+    "industry": "Oil & Energy", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.bhesco.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "ESCO", 
+      "Eco-retrofit", 
+      "Renewable Energy"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-energy-services-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "BHESCO is a new community owned energy services company created to help residents of Brighton & Hove (and Sussex) reduce their exposure to rising energy prices. We are a not for profit, social enterprise helping people take more control over their energy supply. Offering a three tiered service, we act as a bulk buying club for energy and re-invest a significant part of the profits earned in retrofitting properties to reduce energy bills even further as well as installing renewable energy micro-generation, all designed to buffer the impacts of wholesale fuel price hikes on our customers."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Since 1993 BHIMS has worked with residents, organisations and businesses across Brighton and Hove to promote and deliver mediation services and build stronger more cohesive local communities. We develop and share conflict resolution and communication tools to resolve current problems and reduce future conflicts. We achieve this by training locally based volunteers in the skills they need to mediate conflict within our communities, working with families, neighbours, groups and organisations to find realistic solutions to problems that are acceptable to all involved.", 
+    "twitterId": "", 
+    "industry": "Alternative Dispute Resolution", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 700812"
+       }, 
+       "address": {
+        "postalCode": "BN2 9NG", 
+        "city": "Brighton", 
+        "street1": "Ecclesden"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "http://www.bhims.org.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Mediation", 
+      "Conflict Resolution", 
+      "Mediation Training", 
+      "Workplace Mediation", 
+      "Commercial Mediation", 
+      "Family Mediation"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-independent-mediation", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Independent Mediation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Pride Brighton & Hove CIC is the new community interest company operating the annual LGBT Pride parade and park event within the city.\r\n\r\nWe will be launching a website soon. At the moment you can follow us on facebook and twitter.\r\n\r\nwww.fb.com/brightonpride www.twitter.com/pridebrighton", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 257 225"
+       }, 
+       "address": {
+        "postalCode": "BN1 2TA", 
+        "city": "Brighton", 
+        "street1": "5-7 Marine Parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.fb.com/brightonpride", 
+    "universalName": "pride-brighton-&-hove-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Pride Brighton & Hove CIC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "kirk & hove er en lille konsulentvirksomhed som r\u00e5dgiver, faciliterer og vejleder bestyrelser og grupper i visionsprocesser, gennem forandrings faser  eller konflikth\u00e5ndtering.\r\n\r\nVi henvender os til alle, som \u00f8nsker, at g\u00f8re brug af vores tilgang og vores kompetencer.\r\n\r\nVores prim\u00e6r m\u00e5lgrupper er menighedsr\u00e5d, kirker og frivillige organisationer, fordi vi har mere erfaring og st\u00f8rre viden om de omr\u00e5der.\r\n\r\nVi har et helhedssyn p\u00e5 det enkelte menneske, de n\u00e6re relationer, organisationer og samfund som er funderet i personalisme. Med andre ord tror vi p\u00e5 at mennesket i bund og grund er et relationelt v\u00e6sen og det er ved at styrke og forbedre relationerne mennesker imellem at vi opn\u00e5r det bedste resultat som menneske, i de n\u00e6re relationer, i organisationer og i samfundet som s\u00e5dan. Vi tror p\u00e5 at man f\u00e5r den bedste kirke og den bedste organisation, hvis de mennesker driver den har det godt med sine kolleger og f\u00e5r lov til at dr\u00f8mme og realisere dem. Det vil derfor altid v\u00e6re vores ambition at arbejde i retning af et styrket samarbejde hvor kirken eller organisationen er samlet om et f\u00e6lles projekt, hvor alle er med.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Management Consulting", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.kirkoghove.dk", 
+    "universalName": "kirk-og-hove", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "kirk og hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Van Hove Vers is een KMO gespecialiseerd in de productie van vers gesneden groenten.\r\nHierbij richten wij ons op de grootkeukens en industri\u00eble afnemers.\r\n\r\nOnze sterke producten zijn dan ook:\r\n - Barbecue groenten\r\n - Brochette groenten\r\n - kant-en-klare salades", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Food Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "050 31 74 71", 
+        "phone1": "050 31 56 58"
+       }, 
+       "address": {
+        "postalCode": "8000", 
+        "city": "Brugge", 
+        "street1": "Monnikewerve 103"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.vanhovevers.be", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "BBQ-groenten", 
+      "Brochette groenten", 
+      "kant-en-klare salades", 
+      "gesneden groenten"
+     ]
+    }, 
+    "universalName": "van-hove-vers-bvba", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Van Hove Vers bvba"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "We are building a citywide WiFi network providing affordable Internet access for residents, information for visitors and free access to local services. We want to bring all the social & economical benefits other cities have enjoyed from a public WiFi network to Brighton & Hove.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 728685"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton & Hove", 
+        "street1": "Brighton & Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightonandhovewifi.co.uk", 
+    "universalName": "brighton-and-hove-wifi", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton And Hove WiFi"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "We are a friendly, professional, family-run practice in the centre of Hangleton and are Hove's longest-running Chiropractic Clinic using gentle McTimoney techniques.\r\nWe also offer Aromatherapy and Sports Massage, KMI Structural Alignment, Reflexology and Thermo-Auricular Ear Candles.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 888516", 
+        "phone1": "01273 733177"
+       }, 
+       "address": {
+        "postalCode": "BN3 8LD", 
+        "city": "Hove", 
+        "street1": "2 West Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "http://www.hovechiro.co.uk", 
+    "universalName": "hove-chiropractic-clinic-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Hove Chiropractic Clinic Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Herbs Kingdom (Hove) Chinese Medicine Clinic, founded in 1998, is one of the leading providers of alternative medicine in Sussex area, specialized in acupuncture, Chinese herbal medicine and Chinese Tui Na massage. All practitioners are fully qualified and the treatment is fully insured.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Alternative Medicine", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.herbskingdom.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Acupuncture", 
+      "Chinese herbal medicine", 
+      "Chinese massage (Tui Na)"
+     ]
+    }, 
+    "universalName": "herbs-kingdom-hove-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Herbs Kingdom (Hove) Limited"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "BRIGHTON AND HOVE STUDIO LTD", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9RA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonandhovestudio.co.uk", 
+    "universalName": "brighton-and-hove-studio-ltd", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Brighton and Hove Studio LTD consists of 2 experienced and skilled photographers who specialise is press, PR, Corporate, Weddings, Studio Photography, and more. We work for the national press and do work regionally. Also the company has just opened a photographic studio in Brighton and is now doing extensive work in there from portraiture, families, children, babies, pets, models and much much more..."
+   }
+  ]
+ }
+}

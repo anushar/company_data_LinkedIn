@@ -1,0 +1,757 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 340, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Tiara Galleries and Gifts prides itself on delivering a shopping experience like no other, with great selections from the finest names in the business. . .Pandora, Vera Bradley, and Brighton. We are recognized as a leader in each of these lines. Our history goes back 50 years, and we excel in old-fashioned customer service.\r\n\r\nTiara was one of the first in America to carry Pandora Jewelry, and in the years since, Pandora has become the standard by which all other jewelry lines are judged. Tiara carries the entire Pandora line from beads to rings and watches, and our staff is knowledgeable and creative in helping you make your selections.\r\n\r\nYou can also visit our sister PANDORA store at Westfield Montgomery Mall in Bethesda, MD.", 
+    "twitterId": "tiaragalleries", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "301-468-1481", 
+        "phone1": "301-468-1122"
+       }, 
+       "address": {
+        "postalCode": "20852", 
+        "city": "Rockville", 
+        "street1": "1675 Rockville Pike"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(301) 767-1601"
+       }, 
+       "address": {
+        "postalCode": "20817", 
+        "city": "Bethesda", 
+        "street1": "7101 Democracy Blvd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1959, 
+    "websiteUrl": "www.tiaragalleries.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Pandora Jewelery", 
+      "Brighton Collectibles", 
+      "Vera Bradley", 
+      "Rembrandt Charms", 
+      "Metalsmiths Sterling", 
+      "Swarovski", 
+      "Lladro Porcelain"
+     ]
+    }, 
+    "universalName": "tiara-galleries-and-gifts", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Tiara Galleries and Gifts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Home to Tony Bowall, Award Winning Hove Fine Art Photographer based in his studio in Third Avenue, Hove. Tony's work can be seen in Bellis Gallery, Brighton, Lulu & Hitch, Hove, the Brighton Bandstand Cafe and he has a permanent exhibition of large works in Pizza Express, Church Road, Hove.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.tonybowallphotography.com", 
+    "universalName": "tony-bowall-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Tony Bowall Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "I am a fully qualified individual and couples counsellor, based at various clinics around Brighton and Hove. I currently work at The Rock Clinic and Anahata Health Clinic in Brighton.  I am a member of the BACP and I am working towards my accreditiation.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.julierodgers.co.uk", 
+    "universalName": "julie-rodgers", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Julie Rodgers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Chace Associates is a specialist public relations recruitment consultancy, covering Brighton and South East England. \r\n\r\nOur business is built on providing a personal service and forging long term relationships with both clients and candidates. We handle positions ranging from account manager to managing director level both in-house and consultancy. We have particular expertise in the following sectors: professional services, healthcare, financial services, technology and new media. \r\n\r\nAshley Chace set up her first public relations recruitment consultancy in London in 1996 and brings over 20 years experience to the table. Now based in Brighton, we\u2019re a team of recruitment professionals who share the same business ideals. \r\n\r\nWe offer a competitive and straight-forward fee structure for permanent and interim placements.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 573857"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ST", 
+        "city": "Brighton", 
+        "street1": "Brighton Forum Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.chace-associates.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Public Relations recruitment."
+     ]
+    }, 
+    "universalName": "chace-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Chace Associates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "DarenDino Productions are a Brighton-based film production agency that produces and funds our own short films. Innovative and committed, we have our own in-house team of talent - script writers, actors, film crew and post-production. \r\n\r\nWe are fiercely proud to harness local actors, writers and media technicians, although we adopt a far from parochial perspective, and are keen to network with others who are keen to create their own films. Our productions are showcased online and exposed at many of the annual short film festivals. \r\n\r\nWe have a fully mobile filming and post production unit, allowing us to work to the demands of each project, turning films around quickly for distribution online. We have a burgeoning reputation for unearthing locations, sourcing props and for creating sets, and are happy to share our skills and experience with like minded others. We love getting talent out there.\r\n\r\nOur fully independent and creatively focused crew adopt a collectivist approach - giving full credit to key personnel for their efforts throughout the marketing process. We write scripts, shoot all our productions, edit and finalise in post-production and handle all the marketing and distribution.\r\n\r\nBrighton is blessed with a community of talent and creative individuals in the arts, media, theatre and drama profession that much of the talent is not seen. At DarenDino Productions, we are keen to harness talent and put it where it belongs \u2013 in the public eye..", 
+    "twitterId": "http://twitter.com/#!/darendino", 
+    "blogRssUrl": "", 
+    "industry": "Motion Pictures & Film", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.darendinoproductions.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Short Film", 
+      "Music Video", 
+      "Documentaries"
+     ]
+    }, 
+    "universalName": "darendino-productions", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Darendino Productions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 146, 
+    "description": "Breathe Unity is a dynamic sports public relations company based in Brighton and Manchester, UK. \r\n\r\nWe specialise in Sports PR for Sports Businesses, Sports Brands and Sports Events. Our PR services are complemented by Sponsorship for Sports Events and Consultancy for the Sports Industry. \r\n \r\nBreathe Unity work with many credible sports businesses, sports brands and sports events across the UK and beyond. We are very proud of all our clients and have a close working relationship which results in longevity of our existing client base. \r\n \r\nBreathe Unity has a full calendar of Sports Events we are working with for PR & Sponsorship in 2014 including ASICS Greater Manchester Marathon, Brighton Half Marathon, City of London Mile, ASICS Oulton Park Half & 10K, Ealing Half Marathon, Mizuno Endure24, Windsor Half Marathon, Running 4 Womens Race Series, Oulton Park Spring, Oulton Park Autumn Duathlon, Wilmslow Triathlon, The Rhyl Sprint Triathlon Festival, Ffit LLandudno Sea Triathlon, Buxton Triathlon, Leeds Xpress Triathlon, The Eirias Standard & Middle Distance Triathlon, Macclesfield Triathlon, Leeds Triathlon and South Manchester Triathlon. \r\n\r\nWe are always looking to work with new clients, sports events, sponsors and charities who wish to get involved in the events we look after. Please get in touch with Breathe Unity today and we can discuss various ways of working together in a sports unity collaborative approach. \r\n \r\nOur core services are PR and Communications for Sports Businesses, PR and Communication for Sports Events, Sponsorship for Sports Events and Consultancy for the Sports Industry. \r\n \r\nTo find our more please visit www.breatheunity.com or contact info@breatheunity.com", 
+    "twitterId": "breatheunity", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 86 24 20"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XF", 
+        "city": "Brighton", 
+        "street1": "Queensbury House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Manchester", 
+        "street1": "Didsbury"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.breatheunity.com", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Sports Public Relations", 
+      "Sports Business Consultancy", 
+      "Sports Business Public Relations", 
+      "Sport Events PR", 
+      "Sports Business PR", 
+      "Sponsorship for Sports Events", 
+      "Sponsorship concepts and structure", 
+      "Sports PR for Mass Participation Events", 
+      "Sponsorship", 
+      "Public Relations", 
+      "PR"
+     ]
+    }, 
+    "universalName": "breathe-unity", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Breathe Unity: Sports PR & Sponsorship"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Local born artist Daniel Laurence Matthews studied sculpture and furniture making at the University of Brighton before establishing his open-studio, tucked away in the famous \"Artists Quarter\" of Brighton's historic Kings Road Arches, where he continues to develop his fresh, imaginative style with it's distinctive sense of peace and relaxation.\r\n\r\nLocated on the beach, he is aptly inspired by the ever changing vista of sea and sky, and marine life is a favoured theme in depicting Gods beautiful creation. This is evident from the visual feasts that are displayed around the gallery, in the form of an amazing reef aquarium, full of brightly coloured fish and coral, and a cascading tropical rock-pool water feature.\r\n\r\nDiscover this hidden gem of a store where you can enjoy a tranquil shopping experience, just yards away from the hectic city crowds, as you browse through a stylish selection of home and garden wares that ramble out onto the promenade, as well as viewing original artworks in the making.", 
+    "twitterId": "daniel_laurence", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.daniellaurence.co.uk", 
+    "universalName": "daniel-laurence-home-&-garden", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Daniel Laurence Home & Garden"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "AnenA Creative Canvas Art is a small but truly inspiring company based in Brighton in East Sussex. At AnenA we provide a unique canvas design service aimed at those of you looking for affordable, hand painted canvases to suit your particular interior. \r\nGeorgina Hardy is the main designer at AnenA and studied Art at Northbrook College of Art and Design before working with an independent Interior Designer based in Brighton. Georgina has always had an interest in interiors, colour schemes and textiles and likes to think of her canvases as being pieces of interior design rather than pieces of art. \r\n\r\nGeorgina finds inspiration in the natural world and uses forms and patterns which can be found on flowers, foliage, animals and insects. Her use of colour is key and her canvases are designed to enhance your living space, giving movement, freedom and interest as well as combining the overall interior design of a room.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.AnenA.co.uk", 
+    "universalName": "anena", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "AnenA"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Lake & Land Real Estate specializes in the Livingston County Real Estate Marketplace, the Pinckney and Brighton Recreation Areas, the Portage Chain of Lakes, the Halfmoon Chain of Lakes, Livingston's Waterfront and Golf Course communities, and foreclosed properties.\r\n\r\nLake & Land Team Members have a collective 45 years experience in matching buyers and sellers in the real estate residential marketplace.  They offer the highest in real estate representation and work hard to get the job done!  They have earned many real estate Accreditations and Designations: \r\n     \u2022 ABR  (Accredited Buyer Agent)\r\n     \u2022 CDPE  (Certified Distressed Property Expert)\r\n     \u2022 CPS  (Certified Staging Professional)\r\n     \u2022 CRS  (Certified Residential Specialist)\r\n     \u2022 GRI  (Graduate Realtor Institute Designee)\r\n     \u2022 SFR  (Short Sale & Foreclosure Certified)\r\n\r\nLake & Land will help with staging homes for the market and professionally photograph it to its best advantage.  At least 80% of buyers searching for homes today will do so on the internet; our listings look great on the internet!  Check out our \u201cstate of the art\u201d website at lakelandmi.com.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(810) 231-5001", 
+        "phone1": "(810) 231-5050"
+       }, 
+       "address": {
+        "postalCode": "48169", 
+        "city": "Pinckney", 
+        "street1": "5590 E M-36"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.lakelandmi.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Livingston County Lake Front Real Estate", 
+      "Livingston County Golf Course Real Estate", 
+      "Pinckney Recreation Area", 
+      "Brighton Recreation Area", 
+      "Portage Chain of Lakes Real Estate", 
+      "Halfmoon Chain of Lakes Real Estate"
+     ]
+    }, 
+    "universalName": "lake-&-land-real-estate", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lake & Land Real Estate"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Brighton based digital record label. Wax Murder was founded in late 2010 by Sean DeRosa & Justin Marsden. The label was created as a means to release their own music and the music of emerging artists in Brighton and the South  focusing on Electronica and Hip Hop genres.", 
+    "twitterId": "@waxmurder", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "In"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.waxmurder.com", 
+    "universalName": "wax-murder", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Wax Murder"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "Simply The Best is proud to offer a broad selection of high quality, unique specialty gifts. Located right by the fountain in the Lanes we have gifts for everyone. Our handpicked selections along with our personalised service sets apart from everyone else.\r\nWe have a great selection of classy gifts from British Companies that will make you proud. From handmade baby grow cupcakes, to unique one of a kind hand crafted pottery by Richard Wilson. His collection is truly a piece of art for any home. \r\nSimpatico is a brand of high end luxury spa scented diffusers, candles and bubble baths all the way from the USA, why not paper yourself as the spring arrives? \r\nBrink is a wonderful line of specialty desk gifts, enough of the ties and socks for that man in your life. Treat him to something different and fun that he will enjoy.\r\nLuxury hand embroidered pillows with unique British designs by Jan Constantine will find a special place in your home. l \r\nWe have a great selection of fun party glasses for that special night. As seen on channel 4\u2019s Chatty man with Alan Carr these glasses will add colour to your celebration.\r\nBrighton is proud of its unique landmarks and so we have outstanding local canvas art with vibrant colours that represent the best of Brighton. \r\nCome on in and visit us, we are here to help you find that perfect gift for that special someone in your life, even if that someone is you!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Brighton , BN", 
+        "street1": "15 Brighton Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.simplythebestbrighton.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Mens Gifts, Womens Gifts, Home Gifts"
+     ]
+    }, 
+    "universalName": "simply-the-best", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Simply The Best"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "If you need an expert who's been providing I.T. technical support since 1988 who can fix your computer, network or internet issues FAST - call 0784 300 8875.\r\n...or...\r\nSend an email to help@human-touch.it. Your email will go straight to our helpdesk where it will be dealt with in the shortest possible time.\r\n\r\nWe're based in central Brighton and regularly travel to London to see our customers.\r\n\r\nIf you have a Microsoft Small Business server, a Microsoft Exchange server, an Apple X-Server or a Linux Server in your business, you've found the right I.T. support company!\r\n\r\nWe go about our business with Professionalism, Honesty and Integrity.\r\n\r\n**  ONLINE BACKUPS **\r\nNo middle man. We own the servers and the infrastructure, so our prices are unbeatable. We allow ANY type of data, unlike most other internet backup providers. It's 100% Secure and your data is physically in Brighton so we can get it to you fast if you've lost your internet connection. We also offer a full disaster recovery service if you don't have backups and your computer is damaged.", 
+    "twitterId": "Human_Touch_IT", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0700 606 3034", 
+        "phone1": "0784 300 8875"
+       }, 
+       "address": {
+        "postalCode": "BN1 3LP", 
+        "city": "Brighton", 
+        "street1": "Buckingham Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://human-touch.it", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Apple", 
+      "Windows", 
+      "Servers", 
+      "Networks", 
+      "Online Backups", 
+      "Cloud Services", 
+      "CCTV", 
+      "Linux", 
+      "OS X", 
+      "Ubuntu", 
+      "Hosting", 
+      "Email", 
+      "Drupal", 
+      "SugarCRM"
+     ]
+    }, 
+    "universalName": "human-touch-i.t.", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Human Touch I.T."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 36, 
+    "description": "Rhythmix is one of the UK\u2019s leading music Charities, delivering a large range of music making opportunities for young people across the South East region. Since 1999, Rhythmix has worked with more than 40,000 young people, enabling their creativity through music and developing their personal and social skills.\r\n\r\nRhythmix works with its partners in Youth Support Services, such as Youth Workers, Arts Officers, Crime Reduction and Youth Offending Teams, to identify young people in challenging circumstances, and enables those young people to shape and develop projects that respond to their needs.\r\n\r\nWorking with a team of over 50 professional community musicians, Rhythmix is continually developing innovative and exciting new programmes that challenge young people to express their creativity.\r\n\r\nRhythmix manages and delivers the Youth Music Action Zone for the South East region, with funding from Youth Music.\r\n\r\nRhythmix is core funded by Surrey County Arts, Brighton & Hove Music, Arts and Study Support, East Sussex Music Service, and Kent Music, and has attracted funding from Youth Music, Arts Council England, Surrey County Council, East Sussex County Council, Kent County Council, Medway Council, Brighton & Hove City Council and many others.", 
+    "twitterId": "http://twitter.com/RhythmixMusic", 
+    "blogRssUrl": "www.rhythmixmusic.blogspot.com", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.rhythmixmusic.org.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Music Education", 
+      "Charity", 
+      "Music Production", 
+      "Working with Young People", 
+      "Live Band", 
+      "Partnership Working", 
+      "Workforce Development", 
+      "Vocal & Lyric Writing"
+     ]
+    }, 
+    "universalName": "rhythmix", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Rhythmix"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "We offer a bespoke service for Landlords Gas Safety Certifications and can offer Installation, servicing and repairs for Boilers,Cookers,Gas Fires and Warm Air Units. Installation and advice of Energy Efficiency system upgrades and installation and repairs to  high efficiency condensing boilers. LWL are Gas Safe Registered and OFTEC registered (Oil) and our team of engineers are fully qualified for the areas of work we cover I East and West Sussex . LWL Heating are approved Traders with Brighton Trading Standards \"Buy with Confidence Scheme\" as well as fully vetted contractors with the Checkatrade scheme.We offer a bespoke service for Landlords Gas Safety Certifications and can offer Installation, servicing and repairs for Boilers,Cookers,Gas Fires and Warm Air Units. Installation and advice of Energy Efficiency system upgrades and installation and repairs to  high efficiency condensing boilers. We are approved Installers for the Mitsubishi Ecodan Air Source Heat Pumps. Our company is Gas Safe Registered and OFTEC registered (Oil) and our team of engineers are fully qualified for the areas of work we cover I East and West Sussex . LWL Heating are approved Traders with Brighton Trading Standards \"Buy with Confidence Scheme\" as well as fully vetted contractors with the Checkatrade scheme.", 
+    "twitterId": "lwlheating", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.lwlheating.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Gas Safety Inspections,Landlord Certifications", 
+      "Gas,Oil &LPG systems covered", 
+      "Swimming Pool Boilers,Repair and Maintenance", 
+      "Energy Efficiency Installer", 
+      "Energy Efficient  System upgrades and advice", 
+      "Boiler Repairs", 
+      "Condensing Boilers", 
+      "Honeywell Controls Installer"
+     ]
+    }, 
+    "universalName": "lwl-heating", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "LWL HEATING"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 470, 
+    "description": "New & Used car dealers in Hampshire, Sussex, Surrey & Kent\r\nIt\u2019s been a busy year so far at Harwoods Group and as you can see, our new website is now live with some stunning new features such as Online Service Bookings and Whatcar? reviews for all of our new and used vehicles.\r\n\r\nWe have also expanded our locations and now have new dealerships in Crawley and Brighton representing Land Rover, Jaguar as well as our existing sites across the south covering Hampshire, Sussex, Surrey and Kent for Aston Martin, Audi, Bentley, Jaguar and Land Rover for sales, service, parts and body shop work.\r\nOur Harwoods Advantage scheme is really taking off allowing us to offer Non Franchise vehicles and slightly older franchise vehicles to you with the backing or a manufacturer approved dealer group meaning there\u2019s even more chance that we have the right car for you.\r\n\r\nAftersales MOT & Servicing across the south of England\r\nAt Harwoods we operate a full aftersales service across our dealerships, which allows us to repair and maintain your car to the Manufacturers exacting standards. Our workshops are fully-equipped with all the latest tools and diagnostic equipment which means our factory-trained technicians are able to spot and rectify any faults quickly and efficiently.\r\n\r\nYou're Never Too Far From Harwoods\r\nBasingstoke, Bramshaw, Brighton, Crawley, Chichester, Croydon, Edenbridge, Five Oaks, Portsmouth, Pulborough, Southampton, Tonbridge, Totton", 
+    "twitterId": "HarwoodsGroup", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "http://www.harwoods.uk.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "| Aston Martin | Audi | Bentley | Jaguar | Land Rover |", 
+      "Online & Mobile at harwoods.uk.com", 
+      "New & Approved Used Vehicle Sales & Service", 
+      "Best Dealer Website of the Year 2011 AM Awards", 
+      "Servicing in Surrey, Sussex, Kent & Hampshire"
+     ]
+    }, 
+    "universalName": "harwoods-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Harwoods Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Community Base is a charity providing a home for community and voluntary groups in Brighton and Hove and services to the local community.\r\n\r\nOur building on Queens Road Brighton offers affordable, serviced office space to local organisations as well a range of meeting spaces available to hire. We also deliver a range of online search services for local people covering volunteer opportunities; community job listings; community events & local services.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 234000"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XG", 
+        "city": "Brighton", 
+        "street1": "113 Queens Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.communitybase.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Charity Office Space", 
+      "Meeting Space", 
+      "Community Services"
+     ]
+    }, 
+    "universalName": "community-base", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Community Base"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 135, 
+    "description": "Fond\u00e9 en 2006 par S\u00e9bastien Nasra (Avalanche Productions) en consultation avec le l\u00e9gendaire programmateur anglais Martin Elbourne (Glastonbury Festival, The Great Escape), M pour Montr\u00e9al propose, en plus de son \u00e9v\u00e9nement showcase en novembre, diff\u00e9rentes vitrines promotionnelles un peu partout dans le monde (South by Southwest \u00e0 Austin, TX, The Great Escape \u00e0 Brighton, UK, CMJ Music Marathon \u00e0 New York, NY) et au Qu\u00e9bec (mini-M, M sur les Quais) pour mettre en valeur le talent musical montr\u00e9alais et canadien. \r\nwww.mpourmontreal.com\r\n\r\nM FOR MONTREAL\r\nFounded in 2006 by S\u00e9bastien Nasra (Avalanche Productions), in collaboration with the legendary British festival programmer, Martin Elbourne (Glastonbury Festival, The Great Escape and cofounder), M for Montreal presents various showcases, aside from its main event in November, all around the world (South by Southwest in Austin, TX, The Great Escape in Brighton, UK) and in Quebec (mini-M, M on the Quays) that put Montreal and Canadian music in the spotlight. www.mformontreal.com", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.pourmontreal.com", 
+    "universalName": "m-pour-montr-al", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "M pour Montr\u00e9al"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 40, 
+    "description": "* LEWIS PROPERTY SERVICES:  We are an independently run family business who specialise in property letting mainly within the Hove area of East Sussex (also Brighton and Worthing, West Sussex). \r\n\r\n* The Company has been trading since 1993 as residential Landlords and are experienced in dealing with all aspects of property letting, property management and building maintenance. We can also provide Energy Performance Certificates (EPC) in Brighton & Hove, East Sussex areas - all EPCs will be carried out by us and not contracted out to anybody else. \r\n\r\n* We can undertake small building works (kitchen and bathroom refits), decorating, general maintenance and handyman services, lock replacement/fitting, carpet cleaning, flat roofs and guttering. No obligation estimates available upon request. Private and Commercial.\r\n\r\n* We have extensive knowledge of the local area and can offer impartial advice, are current members of the Southern Landlords Association (SLA) and adhere to their code of practice.\r\n\r\n* Our mission is to ensure a professional, personal and reliable service at all times.", 
+    "twitterId": "LewisProperty", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0775 9779651"
+       }, 
+       "address": {
+        "postalCode": "BN3 6LR", 
+        "city": "Brighton", 
+        "street1": "Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.Lewis-Property.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Property letting", 
+      "Property management", 
+      "Building maintenance", 
+      "Energy Performance Certificates (EPC)", 
+      "Domestic Energy Assessor (DEA)", 
+      "Landlord services"
+     ]
+    }, 
+    "universalName": "lewis-property-services", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Lewis Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Steven is an Illustrator who lives and works in Brighton, UK. Originally from North London Steven fell in love with Brighton whilst studying on the renowned Illustration course there. He can often be found foraging through the local flea markets for obscure books and discarded paraphernalia to use as inspiration for his varied and experimental work which he generalizes as \u2018somewhere between pop and psychedelia'.\r\n\r\nHe has a particular passion for working on album covers as he enjoys their permanent nature. \"I like the idea that with an album sleeve the artwork is forever associated with that album and so you are creating a little piece of history.\"", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.wilson2000.com", 
+    "universalName": "wilson-radcliffe-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Stevenwilsonstudio.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "\"Sandra shows her adaptability; she's capable of pulling off a serious, hard-hitting piece followed up by a stand-up show of hilarious one-liners\" - Rosie Blackwell-Sutton, reviewer for Diva Magazine, Brighton Fringe Festival '10\r\n\r\nSandra Risser is definitely young at heart and no prude. She comes to the stage with the vibrancy of youth and the wisdom of the ages. She captivates her audiences and has them rolling in the aisles with her unorthodox and irreverent look at growing up in the Midwest, surviving the free sex and drug culture of the \"60's & '70's and being over fifty in our youth oriented society. People of all ages respond to her well rounded comedy and clever audience repartee. When Sandra leaves the stage the audience clamors for more and they know \"age is just a state of mind\".\r\n\r\nYou've seen her throughout the Bay Area - Rooster T Feathers, Tommy Ts, Pepperbelly's, Wharf Room Comedy, Comedy Off Broadway to name a few. She's performed solo comedy and theater shows in the Edinburgh, Scotland and Brighton. England Fringe Festivals. She produces and hosts \"Comedy Night\" in Vallejo.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://sandrarisser.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Comedy", 
+      "Stand-up comedy", 
+      "Corporate and private parties", 
+      "Hosting shows"
+     ]
+    }, 
+    "universalName": "comedian-sandra-risser", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Comedian Sandra Risser"
+   }
+  ]
+ }
+}

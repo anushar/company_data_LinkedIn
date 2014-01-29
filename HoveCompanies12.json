@@ -1,0 +1,837 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 240, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "For close on 20 years I have been buying, renovating, renting and managing property in what is now the city of Brighton & Hove. From the first flat purchased in 1991 for \u00a325,000 the portfolio has grown over the years as and when suitable investments/projects presented themselves. What started out as a single long term capital growth investment and well before \u201cbuy to let\u201d came to be fashionable, there is now a complete 01 Property Group which encompasses its own dedicated 01 Property Letting, 01 Property Maintenance and now an 01 Property Investment business. \r\n\r\n01 Property Investment Ltd was established in 2009 as a way of allowing others to share the capital growth and/or monthly income opportunities from bricks and mortar investment but without the hassle and worry. \r\n\r\nGetting a healthy return on your hard earned cash is not without its risks and generally the higher the return the higher the risk. Each and every one of us has to make our choices and decisions, but if you believe (as I do) that over the long run that sensible investment in property will provide that healthy return \u2013 come and join us.\r\n\r\nTwo products are currently available depending on your investment appetite:\r\n\r\nInvestment Loan - a guaranteed monthly paid high return on your money.  \r\n\r\nManaged Buy-to-Let \u2013 a full managed service with monthly income from day one and medium term capital growth (not guaranteed).", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.01propertyinvestment.co.uk", 
+    "universalName": "01-property-investment-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "01 Property Investment Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "PR PC Support is a IT Support company that specialises in supporting small businesses , home office users and home users in the Brighton and Hove area ( We also have clients in Guildford, Reigate , Caterham and Maidenhead - so don't be put off by distance ). \r\nWe can help from the smallest problem , like a virus on a single PC to office moves, or server installs and builds.", 
+    "twitterId": "prpcsupport", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Hove", 
+        "street1": "Applesham Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.prpcs.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "WIndows XP/7/2003 Server/2008 Server", 
+      "Active Directory", 
+      "Exchange Server", 
+      "Home User Issues ( Viruses/Wireless/etc )"
+     ]
+    }, 
+    "universalName": "pr-pc-support", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "PR PC Support"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 43, 
+    "description": "The monthly Brighton Business Curry Club networking event has been attracting businesses from Brighton and beyond for more than two years. Now the event is firmly established as one of the most informal, cost effective and fun networking events held in the city of Brighton and Hove.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightonbusinesscurryclub.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Business Networking"
+     ]
+    }, 
+    "universalName": "the-brighton-business-curry-club", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Brighton Business Curry Club"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Melina Miller Curtains & Soft Furnishings", 
+    "industry": "Furniture", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 4QN"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.melina-miller.co.uk", 
+    "universalName": "melina-miller-curtains-&-soft-furnishings", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Based in Hove, East Sussex Melina Miller Bespoke Curtains & Soft Furnishings was established in 2004 to offer a new contemporary approach to designing and making curtains, blinds and soft furnishings and our constant strive for perfection has ensured a consistent stream of recommendations. \r\n\r\nWe can arrange to visit you at home to measure up and discuss your requirements at a time that suits you - weekend and evening appointments are available. We will then provide you with a free, no obligation quotation. We can source fabrics, and even wallpapers, from all the top designers at competitive prices and can arrange for any curtain poles, tracks or blinds to be fitted by our own track fitter. \r\n\r\nOur service is always friendly, reliable and honest so please do not hesitate to contact us for more information or to book an appointment."
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Melissa McClements", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.melissamcclements.co.uk", 
+    "universalName": "melissa-mcclements", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Hove-based journalist"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Chiropractic Life", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 5DL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.chiropracticlifehove.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Chiropractor"
+     ]
+    }, 
+    "universalName": "chiropractic-life", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "promoting and creating health and vitality through Chiropractic in the Hove community. \r\n\r\nChiropractic Life is owned and run by Dr R. McMinn who has many years in professional practice. \r\n\r\nThe chiropractors at Chiropractic Life provide support and treatment for a variety of conditions including back pain, neck pain, sciatica, sports injuries, headaches and migraines, asthma, digestive problems and many more."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Gold Eagle Enterprises Ltd", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.goldeagleconsulting.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Recruitment", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "gold-eagle-enterprises-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Gold Eagle Consulting Brighton is one of the only Companies in Sussex to offer JobSearch Support in addition to our professional CV writing services. We also provide Recruitment Solutions to a range of businesses stretching from Eastbourne to Hove, Worthing and Crawley.\r\n\r\nGold Eagle Consulting offers extensive support to customers in their job search so it is our mission to make you stand out from the crowd by writing a CV or Resume that will not only market you more effectively but will make a professional first impression.\r\n\r\nOur mission at Gold Eagle Consulting is to give every candidate the best possible chance of being recognised for their skills and achievements at every stage of the process. Whether you need help with covering letters, a professionally written CV, refocused Job Search support or with interview techniques then we are here to help.\r\n\r\nWe are passionate at helping employers retain staff either through effective training or through the recruitment supply chain. Our consultancy services will drive through improved efficiencies within your recruitment processes and recruitment procedures which will result in direct and indirect cost savings."
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "BSCENE", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 1ae"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bscene.ning.com", 
+    "universalName": "bscene", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "A place for social and creative entrepreneurs in Brighton and Hove to meet, get inspired, skilled up and get started."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Brighton Acupuncture & Massage", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN33JD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonacupunctureandmassage.co.uk", 
+    "universalName": "brighton-acupuncture-&-massage", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Professional clinic specializing in therapeutic and deep tissue massage and acupuncture. Located in central Hove open 6-days a week."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "rehabdesign\u2122 was formed in 2001. We are a multi- disciplinary graphic design and print practice based in Brighton (well, Hove, actually). Our team mixes diverse backgrounds, skills and hairstyles, working together to bring out the best in each other and our clients, whatever the project. We take an informal approach to encourage the best and most appropriate ideas, and then apply them with commercial realism. Simple.\r\n\r\nWe\u2019re pretty flexible in the way we work and adapt the design process to fit each project, whether it be a simple business card, a website or a complete corporate identity. We always welcome ideas or specific requirements you may have and our creative team liaise directly with the client to make sure each project is delivered on brief, on time and to budget and with the minimum of stress.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 772702", 
+        "phone1": "+44 1273 772702"
+       }, 
+       "address": {
+        "postalCode": "BN3 3YP", 
+        "city": "Hove", 
+        "street1": "One Blatchington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.rehabdesign.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Print design & management", 
+      "Illustration", 
+      "Photography", 
+      "Web design", 
+      "Social media consultation"
+     ]
+    }, 
+    "universalName": "rehabdesign-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "rehabdesign\u2122"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 195, 
+    "description": "Humphrey & Co has been practicing as a firm of Chartered Accountants since 1928.  With eleven partners and over forty staff, including former Inspectors of Taxes, collectively, we have considerable expertise and experience in the provision of taxation, financial and business advice.\r\n \r\nOur range of clients is vast and includes individuals, self employed, small enterprises and international corporations. We are committed to providing approachable, professional customer service and practical, straightforward advice to all our clients, irrespective of their size or the complexity of their financial situation.\r\n \r\nDespite constantly evolving personal and corporate financial legislation, you can rely on Humphrey & Co to be fully aware of accountancy opportunities and challenges, and one step ahead of our competitors in anticipating and planning for future legislative changes. All members of our staff receive continuous training and development and we take full advantage of information technology to ensure Humphrey & Co remains a dynamic and forward thinking company.\r\n \r\nWe currently operate from two offices, in Eastbourne and Brighton & Hove. The offices are open from 9.00 to 5.30 each weekday; however, realising that this may not be convenient for all our clients, we are happy to make flexible arrangements to meet with you out of hours, at evenings and weekends.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01323 738355", 
+        "phone1": "01323 730631 (Eastbourne Office)"
+       }, 
+       "address": {
+        "postalCode": "BN21 3YA", 
+        "city": "Eastbourne", 
+        "street1": "7 - 9 The Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1928, 
+    "websiteUrl": "www.humph.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Dental Accountants"
+     ]
+    }, 
+    "universalName": "humphrey-&-co", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Humphrey & Co"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Diamond Computers", 
+    "industry": "Computer Hardware", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4GG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.diamondhardware.com", 
+    "universalName": "diamond-computers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton & Hove based computer services business established 2001. Specialising in B2B IT support and maintenance and PC/Laptop repair/upgrade"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "ODT Solicitors LLP is a forward thinking firm of solicitors formed in 1998 and based in the centre of Brighton & Hove. \r\n\r\nOur team aims to shed the image of unapproachable law firms by adopting a less formal and much more friendly and personal approach towards our clients.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 221584", 
+        "phone1": "01273 710712"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Pavilion View"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 221584", 
+        "phone1": "01273 831574"
+       }, 
+       "address": {
+        "postalCode": "BN6 9PU", 
+        "city": "Hurstpierpoint", 
+        "street1": "133 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.odt.uk.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Business Law", 
+      "Commercial Property", 
+      "Residential Property and Conveyancing", 
+      "Leasehold Enfranchisement", 
+      "Landlord and Tenant", 
+      "Litigation", 
+      "Wills and Probate"
+     ]
+    }, 
+    "universalName": "odt-solicitors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "ODT Solicitors LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Delivering excellence in rotational moulding since 1970. Originally established in Sussex, tecni-form now has 2 manufacturing sites: the head office and the southern factory are in Brighton & Hove, on the south coast of the UK; their Midlands UK factory is based in Stone, near Stoke-on-Trent and ideally placed to serve the majority of the UK and export markets to the rest of the world.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Plastics", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1273 822715", 
+        "phone1": "+44 (0) 1273 72359"
+       }, 
+       "address": {
+        "postalCode": "BN3 7BU", 
+        "city": "Hove", 
+        "street1": "Goldstone Lane"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1785 286096", 
+        "phone1": "+44 (0) 1785 286476"
+       }, 
+       "address": {
+        "postalCode": "ST15 8LQ", 
+        "city": "Stone", 
+        "street1": "Whitebridge Industrial Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.tecni-form.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "rotational moulding", 
+      "plastic moulding"
+     ]
+    }, 
+    "universalName": "tecni-form-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tecni-form Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 971, 
+    "name": "Brighton & Sussex University Hospitals NHS Trust", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 5BE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "websiteUrl": "www.bsuh.nhs.uk", 
+    "universalName": "brighton-&-sussex-university-hospitals-nhs-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Brighton & Sussex University Hospitals provides general acute services to Brighton & Hove and Mid Sussex and more specialist services for patients across Sussex and the South East of England.  \r\n\r\nBSUH is the regional teaching hospital working across two sites: the Royal Sussex County Hospital in Brighton and the Princess Royal Hospital in Haywards Heath. The Brighton campus includes the Royal Alexandra Children\u2019s Hospital and the Sussex Eye Hospital, and the Haywards Heath campus includes Hurstwood Park Regional Centre for Neurosciences."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 533, 
+    "description": "WEXAS is the UK\u2019s leading travel club for leisure and business travellers, providing expert tailor-made travel services to its 35,000 members. Founded in 1970 by Dr Ian Wilson, WEXAS is endorsed by such Honorary Presidents as Sir Ranulph Fiennes, John Simpson and Michael Palin. \r\n\r\nWEXAS Leisure looks after the travel needs of some 35,000 members, creating tailor-made solutions and/or retailing airline, hotel, tour operator and cruise products. All WEXAS consultants are specialists in particular parts of the world, having travelled there extensively and often having lived and worked there. They've an honest, informed approach to planning tailored itineraries, offering suggestions based on first-hand experience and an average of ten years work within the industry. They regularly travel to seek out the new and re-evaluate the old, so members can be assured of an honest and up-to-date opinion. \r\n \r\nWEXAS Travel Management looks after the travel needs of more than 450 businesses and organisations, and includes what was BJB Travel, a marine specialist, acquired in early 2010, and Bath Travel Business Travel, acquired at the end of 2010. It's a full-service travel management company with offices in St John's Square, London and Westbourne, Bournemouth. \r\n\r\nIn addition, WEXAS also owns The Luxury Cruise Company, a specialist retailer in upmarket cruise holidays, based in Hove, East Sussex, and Best Served Scandinavia, specialists in tailor-made Scandinavia holidays.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7589 3315"
+       }, 
+       "address": {
+        "postalCode": "SE1 9NT", 
+        "city": "London", 
+        "street1": "Dorset House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.wexas.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "tailor-made holidays", 
+      "travel experts", 
+      "travel club", 
+      "airport lounge programme", 
+      "travel magazine", 
+      "travel guides", 
+      "holidays", 
+      "cruises", 
+      "hotels", 
+      "flights", 
+      "car-hire", 
+      "travel consultants"
+     ]
+    }, 
+    "universalName": "wexas-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "WEXAS Travel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 330, 
+    "description": "We make life better for our clients and their customers.\r\n\r\nOur clients enjoy a competitive advantage that delivers sustainable business growth ahead of key players. \r\n\r\nTheir customers get the information however, wherever  and whenever they need it to take decisions and share experiences.\r\n\r\nWe\u2019re also a search marketing and social media agency, with additional expertise in content marketing, conversion optimisation and lots of other stuff too.\r\n\r\nAnd we specialise in travel, retail, fashion, finance and B2B (although we do help ambitious clients in other markets).\r\n\r\nBut, most importantly, we\u2019re on a journey to make life better.\r\n\r\nJoin us on that journey.\r\n\r\nRecent award wins include:\r\n\r\n- Best Agency | European Search Awards 2013\r\n- Best Pan European Campaign | European Search Awards 2013\r\n- Young Search Professional of the Year | European Search Awards 2013\r\n- Best Small Workplace in the UK | Great Places To Work 2013\r\n- MD of the Year | Brighton and Hove Business Awards 2013", 
+    "twitterId": "propellernet", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 207225"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EG", 
+        "city": "Brighton", 
+        "street1": "Castle Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.propellernet.co.uk", 
+    "specialties": {
+     "_total": 17, 
+     "values": [
+      "search marketing", 
+      "natural search", 
+      "paid search", 
+      "SEO", 
+      "PPC", 
+      "online PR", 
+      "social media", 
+      "link building", 
+      "search personas", 
+      "authentic search", 
+      "conversion optimisation", 
+      "content optimisation", 
+      "analytics", 
+      "reputation management", 
+      "brand monitoring", 
+      "digital insight", 
+      "content marketing"
+     ]
+    }, 
+    "universalName": "propellernet", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Propellernet"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 769, 
+    "name": "Chantrey Vellacott", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)20 7436 8884", 
+        "phone1": "+44 (0)20 7509 9000"
+       }, 
+       "address": {
+        "postalCode": "WC1B 5LF", 
+        "city": "London", 
+        "street1": "Russell Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.cvdfk.com", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Accounting", 
+      "Tax", 
+      "VAT", 
+      "Audit", 
+      "Business Recovery", 
+      "Advisory", 
+      "Not for profit", 
+      "Property & Construction", 
+      "Manufacturing & Engineering", 
+      "Hospitality & Leisure", 
+      "Technology & Telecoms", 
+      "Media & Entertainment", 
+      "Recruitment"
+     ]
+    }, 
+    "universalName": "chantrey-vellacott-dfk", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Chantrey Vellacott provides accountancy, taxation, and related advisory services. The company\u2019s services include business assurance, taxation, mergers and acquisitions, corporate finance, business recovery, e-business and management consultancy, outsourcing, corporate secretarial, and audit. It also offers online services. \r\n\r\nOur range of services is exceptional for a firm of our size, reflecting the strength of our organisation and our commitment to delivering the expert services our clients require.\r\n\r\nWe work with quoted companies and privately owned businesses drawn from a wide range of commercial sectors. Our clients include professional partnerships, regulatory bodies, charities and other not-for-profit organisations, public sector bodies and private clients.\r\n\r\nChantrey Vellacott has ten offices in Birmingham, Colchester, Croydon, Leicester, London, Northampton, Reading, Southampton, Stevenage, Brighton and Hove."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1600, 
+    "name": "Sussex Police", 
+    "twitterId": "", 
+    "industry": "Law Enforcement", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1967, 
+    "websiteUrl": "http://www.sussex.police.uk/", 
+    "universalName": "sussex-police", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Law enforcement in the two counties of East Sussex,  West Sussex and the City of Brighton and Hove.\r\n\r\nPublic Service\r\n\u2022 In tune with Sussex communities\r\n\u2022 Customer service comes first\r\n\u2022 Providing value for the public\u2019s money\r\n\u2022 Being part of the local community\r\n\r\nCourage\r\n\u2022 Taking action to protect the public\r\n\u2022 Standing up for what is right\r\n\u2022 Not being afraid to take difficult decisions\r\n\r\nCompassion\r\n\u2022 Taking time to really understand others\u2019 point of view\r\n\u2022 Showing people who need our help that we care\r\n\u2022 Not thinking we always know bes\r\n\r\nJustice\r\n\u2022 Doing the right thing\r\n\u2022 Treating people fairly\r\n\u2022 Ensuring our actions stand up to public scrutiny\r\n\r\nInnovation\r\n\u2022 Focusing on solving problems\r\n\u2022 Being resourceful\r\n\u2022 Being open to new ideas and prepared to take some risks\r\n\u2022 Always looking for better and more affordable ways to do things\r\n\r\nPersonal Responsibility\r\n\u2022 Seeing things through\r\n\u2022 Not just following the rules\r\n\u2022 Making the effort to work with others to get results\r\n\u2022 Trusted to use discretion"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 285, 
+    "name": "Rix & Kay Solicitors LLP", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 1658 177"
+       }, 
+       "address": {
+        "postalCode": "TN22 1SL", 
+        "city": "Uckfield", 
+        "street1": "The Courtyard"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273329797"
+       }, 
+       "address": {
+        "postalCode": "BN3 3JS", 
+        "city": "Hove", 
+        "street1": "7 The Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 1658 178"
+       }, 
+       "address": {
+        "postalCode": "BN25 1RS", 
+        "city": "Seaford", 
+        "street1": "Paignton House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "TN13 1BL", 
+        "city": "Sevenoaks", 
+        "street1": "6th Floor, Suite E"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://www.rixandkay.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Employment law", 
+      "Company Commercial Law", 
+      "Commercial Property Law", 
+      "Personal Injury", 
+      "Medical Injury", 
+      "Dispute Resolution", 
+      "Family", 
+      "Wills", 
+      "Trusts", 
+      "Probate", 
+      "Tax", 
+      "Court of Protection", 
+      "Intellectual Property", 
+      "Sports Law"
+     ]
+    }, 
+    "universalName": "rix-&-kay-solicitors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Rix & Kay is a leading regional law firm with offices in Brighton & Hove, Seaford, Sevenoaks, and Uckfield.  The firm has grown significantly over the last decade which bears testament to the strength of our client relationships and progressive attitude.  We serve individuals, organisations and businesses across the South East and further afield.    \r\n\r\nRix & Kay is recognised as a leading firm in the latest editions of The Legal 500 and Chambers and Partners in thirteen and eight practice areas respectively.  We can claim significant sector expertise and thirteen of our lawyers are Leaders in their Field.    \r\n\r\nOur clients say we are proactive, accessible, tenacious, personable and that we provide sound commercial advice.  96%* say they would be prepared to recommend our services (*based on 4455 surveys since 2005).  We hope you will become one too.\r\n\r\nPlease find all our current vacancies at:  http://www.rixandkay.co.uk/who-we-are/careers/"
+   }
+  ]
+ }
+}

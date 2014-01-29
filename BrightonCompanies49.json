@@ -1,0 +1,737 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 980, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "We are a community led organisation in Brighton providing information and advice about learning and work, and a range of support activities for adults. For those who are looking to go back to work we offer careers advice, employment support and a range of tailored resources.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.whinn.org.uk", 
+    "universalName": "the-whitehawk-inn-community-learning-centre", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Whitehawk Inn community learning centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Onpromotions is a Brighton-based company producing bespoke solus and composite advertorials for national publications including:\r\n\r\n*The Sunday Telegraph\r\n*The Independent\r\n*Country & Townhouse magazine\r\n\r\nWe see the process through from concept to sale, then production to publication - providing copywriting, photography, and design.", 
+    "twitterId": "Onpromotions", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.onpromotions.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "marketing", 
+      "advertising", 
+      "design", 
+      "photography", 
+      "copywriting"
+     ]
+    }, 
+    "universalName": "onpromotions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Onpromotions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "The GuestHouse Storytellers is a non-profit performance storytelling club for adults run by volunteers that meets on the second Tuesday of each month at The Hillcrest Centre in Newhaven, East Sussex. We tell a range from traditional tales, myths and fairytales from around the world to modern and autobiographical stories. Our intention is to provide entertainment and engage the local community in sharing and exchanging stories that are meaningful to them.\r\n\r\nWe invite professional storytellers three times a year and have hosted Hugh Lupton, Rachel Rose Reid, Michael and Wendy Dacre, Duncan MacIntosh, Jamie Crawford, Ben Fairlight, Raphael Rodan and, in April 2011, Sally Pomme Clayton. We also invite exchanges with tellers from other storytelling clubs within easy travelling distance: so far we have enjoyed exchanges with Brighton Storytellers and Three Heads in a Well in Ewell, Surrey.\r\n\r\nWe also put on or sponsor performance or autobiographical storytelling courses from time to time. See our website for further details.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Performing Arts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://guesthousestorytellers.clubbz.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Performance Storytelling", 
+      "Community Engagement", 
+      "Storytelling courses", 
+      "Professional Visting Storytellers"
+     ]
+    }, 
+    "universalName": "the-guesthouse-storytellers", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The GuestHouse Storytellers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Event and PR photographer covering London providing event photographer throughout London. Conference  & PR photography for an awards ceremonies and corporate Business events.\r\n\r\nI provide complete event photography services. New website, brochure, prospectus, Exhibition or Editorial release, Ashdown Photography can supply high quality PR images for your business, with fast turn around times. I cover the UK from London to Brighton as well as the rest of the UK.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "W1", 
+        "city": "Lonodn", 
+        "street1": "London"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.eventandprphotographer.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Event photography London", 
+      "Conference Photography London", 
+      "Awards Photography Lonodon", 
+      "PR Photography London"
+     ]
+    }, 
+    "universalName": "ashdown-photography", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Ashdown Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Materialise Interiors Limited", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.materialiseinteriors.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "any commercial properties", 
+      "restaurant design", 
+      "medical, dentistry", 
+      "office design"
+     ]
+    }, 
+    "universalName": "materialise-interiors-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Materialise Interiors is a Brighton-based interior design company run by Chloe Bullock, working for clients countrywide. We have undertaken a broad range of projects; from a single fixture design, to 3D CAD models, to rebranding, to entire fit out including branding and shopfront if required. Projects are mainly corporate and commercial properties but residential interior projects can also be undertaken.\r\n\r\nWe work with a reliable network of suppliers, contractors, manufacturers and marketing professionals. Larger projects can be worked on in partnership with Goldcrest Contractors, enabling us to offer a complete planning, design and build service to our clients.\r\n\r\nThe extent of our involvement can span from a complete design and build project, to individual parts of a project:\r\n\r\nfixture design (to date \u2013 retail fixtures and reception desks)\r\n3D CAD models\r\nCAD furniture layouts\r\nCAD drawing pack for trades\r\nimplementation of rebranding to interiors and shopfront\r\npreparation of shopfront and signage planning applications\r\nlicensing drawings\r\nentire interior fit out including branding and shopfront design and build where required.\r\nProjects are mainly corporate and commercial properties but residential interior projects have also been undertaken.\r\nWe have recently worked on:\r\n\r\nschools\r\ndental practices (conversions from former offices, residential and retail unit to practices)\r\nrestaurants\r\ngolf club\r\nspa\r\noffices\r\ndepartment store caf\u00e9 concept\r\nhigh street retail interiors\r\nhigh street retail fixture concepts\r\nclinic\r\npubs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "1:1 Sailing instruction in preparation for day skipper or flotilla holiday or just confidence building.\r\n\r\nTuition is available abord the weel equipped and safe 32ft yach \"Enterprise\" or can also be arranged aboard your own boat.\r\n\r\nFeatures:\r\no Well equipped, safe - complies with safety regulations for inshore waters\r\no A day; a weekend; or longer ...\r\no Brighton; Cross Channel; or further....\r\no Reasonable rates from \u00a3100 per person per day...\r\no Own boat tuition available too...\r\no Call me or email to discuss your specific needs :-)", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 273536"
+       }, 
+       "address": {
+        "postalCode": "BN2 5UF", 
+        "city": "Brighton", 
+        "street1": "Marina Village"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.altendorff.co.uk", 
+    "universalName": "sail-experience", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Sail Experience"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Touch Fantastic", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://touchfantastic.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "iOS Development", 
+      "iPad apps", 
+      "iPhone apps"
+     ]
+    }, 
+    "universalName": "touch-fantastic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Touch Fantastic Ltd is a boutique iOS development studio, supporting entrepreneurs, creative and web agencies in Brighton and London.\r\n\r\nFounded by James Carroll in 2008, the Touch Fantastic team are experts in creating apps for iPhone and iPad and bridge the gap between expensive mobile agencies and unreliable freelancers.\r\n\r\nTheir first app, Dishy, launched in 2009 to critical praise and #1 chart success. Their app for BBC Dragons' Den star Levi Roots reached #1 in the UK lifestyle chart, headed Apple's list of the hottest cooking apps of the year and was featured in the Sunday Times' list of the world's best 500 apps (along with Dishy)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Based in Brighton, Fruitmedia consists of a highly creative team with experience in all areas of video production. We strive to create the best possible working relationships with our clients and are dedicated to producing fresh, creative media solutions that are both original and effective.", 
+    "twitterId": "http://twitter.com/ Fruitmedia", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273-609800"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GH", 
+        "city": "Brighton", 
+        "street1": "New England Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.fruitmedia.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Video Production", 
+      "DVD Authoring", 
+      "Audio Production", 
+      "Post Production"
+     ]
+    }, 
+    "universalName": "fruitmedia-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Fruitmedia Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "The G6 Group is a Brighton based Model and Talent Management Agency. We specialise in going further than standard management companies by adding value to all industries through the gift of beauty.\r\n\r\nAt G6 our aim to provide a professional service for both the talent and the client. We also host and promote a variety of events so we are quickly becoming one of the number one choices for break through music talent.\r\n\r\nDue to our extensive database of talent more and more companies are choosing G6 to help with recruitment services as beauty and commercial skills are a combination guaranteed to produce results. We work across multiple industries including Retail, Media, Events, Beauty and Fitness.\r\n\r\nIf you are looking to break into the world of Fashion or want to gain exposure for your music then G6 is the natural choice.", 
+    "twitterId": "g6models", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.g6models.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Talent Management", 
+      "Model Management"
+     ]
+    }, 
+    "universalName": "g6-models", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "G6 Models"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Piglet's has had renowned success, securing contracts with Brighton & Hove Albion Football Club, Kensington Palace, Hampton Court and the Royal Attractions, Sussex County Cricket Club, to name a few.  \r\n\r\nOur pies have won 4 Gold Awards at The British Pie Awards 2012, Silver at the Football Hospitality Awards 2012 and Highly Commended at the Business Awards. We won Cake vs. Pies and received accolades from Paul Holywood, Chris Evans and Mary Berry  in 2011.\r\n\r\nWe are the proud winners of Bronze Silver and Gold Awards in the British Pie awards 2013 - and Gold at the Football Hospitality awards 2013. \r\n\r\nOur partnership approach is successful - we work with our clients to develop products that fit their brand and their customers likes and needs.", 
+    "twitterId": "pigletspantry1", 
+    "industry": "Food Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07747 112305"
+       }, 
+       "address": {
+        "postalCode": "BN14 8NA", 
+        "city": "Worthing", 
+        "street1": "Unit 15 Hambridge Trading Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.piglets-pantry.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Pies and Baked Goods for Wholesale & Retail", 
+      "Products for PR and Events", 
+      "Stadia & Festivals", 
+      "Corporate Events, Weddings and Outside Catering", 
+      "Product design"
+     ]
+    }, 
+    "universalName": "piglets-pantry", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Piglets Pantry"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Owen Gildersleeve is a designer and illustrator currently based in London. He graduated from The University of Brighton in 2008, and has since worked for a range of international clients including The TATE, Cadbury, The Guardian and Scientific American. Owen's work explores a range of hand-crafted methods, and he finds great enjoyment in experimenting with new materials and techniques.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://owengildersleeve.tumblr.com/rss", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.owengildersleeve.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Hand-crafted Ilustration", 
+      "Typography", 
+      "Paper-cut", 
+      "Set Design"
+     ]
+    }, 
+    "universalName": "www.owengildersleeve.com", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "www.owengildersleeve.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Talking Therapies was established to provide the proven psychological therapies (including CBT) to individuals, companies and the NHS.\r\n\r\nWe have commenced in Brighton and are expanding across Kent, Sussex, Surrey and Hampshire, as well as London.\r\n\r\nIn the new NHS, with any will provider and the movement to payment by results, we are able to provide therapist network that is an assured quality to the NHS, to companies and Individuals.\r\n\r\nSee our main website for details and the more local sites for our services across the counties.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Mental Health Care", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.talking-therapies.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Cognitive Behavioural Therapy", 
+      "Counselling", 
+      "mental health", 
+      "CBT", 
+      "Dynamic Therapy", 
+      "IPT", 
+      "Humanistic Therapy"
+     ]
+    }, 
+    "universalName": "talking-therapies-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Talking Therapies Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "We are on online vehicle leasing company based in Lancing, just outside of Brighton. \r\n\r\nWe specialise in business and personal contract hire, offering customers a range of new vehicles to suit their needs.\r\n  \r\nWith over 25 years collectively in the leasing industry, we really know our stuff when it comes to contract hire and vehicle leasing. \r\n\r\nWe're passionate about providing an individual service for each of our clients and offer a professional and convenient leasing solution. For more information, visit our website or get in touch on 01903 323 003", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0844 880 82 81", 
+        "phone1": "01903 323 003"
+       }, 
+       "address": {
+        "postalCode": "BN15 8AF", 
+        "city": "Lancing", 
+        "street1": "Brooklands House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.leaseyournextcar.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Person Car Leasing", 
+      "Business Car Leasing", 
+      "Personal Contract Hire", 
+      "Business Contract Hire"
+     ]
+    }, 
+    "universalName": "lease-your-next-car", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LeaseYourNextCar.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Magnetic Works are a new, young web design and marketing agency in the heart of sunny Brighton. Working across a variety of sectors, we provide the tools that companies need to succeed in business online. From design concept to analysis of marketing campaigns, we offer a fully bespoke service, tailored to your market and customer base.", 
+    "twitterId": "magnetic_works", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 827560"
+       }, 
+       "address": {
+        "postalCode": "BN3 1AF", 
+        "city": "Hove", 
+        "street1": "2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.magneticworks.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "E-Commerce Solutions", 
+      "Online Marketing"
+     ]
+    }, 
+    "universalName": "magnetic-works-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Magnetic Works Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "I'm Sallie-ann, a freelance web developer based in North Devon with over 13 years experience. I have a passion for developing creative, inspiring websites that are accessible, standards compliant and optimised for search engines.\r\n\r\nMy professional career as a web developer started when I completed a BSc degree in Computing at the University of Brighton.  Prior to working freelance I was the senior web developer for Leicester College, managing their internal and external multimedia and a web developer at Christon Davies \u2013 a creative design agency based in Leicester.  I now develop websites and web-based applications both for my own company Hype Digital Media and also for design agencies that outsource their projects to me.\r\n\r\nI see myself as a Web Developer and general IT problem solver with the following skills;  PHP, MySQL, XHTML, CSS, jQuery, Content Management, eCommerce, Open Source Software, Object Oriented Programming, Javascript, Accessibility, Flash and Actionscript, Search Engine Optimisation and online marketing.", 
+    "twitterId": "hypeDigital", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.hypedigital.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "PHP", 
+      "MySQL", 
+      "Ecommerce", 
+      "CMS", 
+      "jQuery", 
+      "HTML5", 
+      "CSS", 
+      "Magento", 
+      "Wordpress", 
+      "W3C Validation"
+     ]
+    }, 
+    "universalName": "hype-digital-media", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Hype Digital Media"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "The consultancy specialises in creating integrated long term strategies and providing project management services for clients across the cultural/ creative industries. Four key contracts that the consultancy has managed recently are developing the market for contemporary craft in the North East, a feasibility study (for Nottingham Trent University) for a new fashion and textile centre in Nottingham, delivering the arts strategy for the Royal Parks in London and, with Susie O\u2019Reilly, the delivery of museumaker. Brigid is a lecturer in the Fashion and Textiles department at the Royal College of Art and also an external examiner in business practice in the School of Architecture and Design at Brighton University.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "London", 
+        "street1": "Southwark"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.brigidhowarth.com", 
+    "universalName": "brigid-howarth-consultancy-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brigid Howarth Consultancy Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Allergy Therapeutics is een jonge, moderne en innovatieve onderneming met een zeer duidelijke focus: het bedenken, ontwikkelen en produceren van producten voor de diagnostiek en behandeling van allergie\u00ebn. Sinds 1998 actief onder de nieuwe naam: Allergy Therapeutics, maar als Bencard met een lange historie als onderdeel van SmithKline&Beecham (nu GSK). Het hoofdkantoor van de beursgenoteerde onderneming staat in Worthing, West Sussex, vlak bij Brighton aan de Engelse zuidkust. Allergy Therapeutics is in een hoog tempo zelfstandige vestigingen aan het opzetten in heel Europa en ver daarbuiten.\r\n \r\nEen nieuwe situatie in Nederland\r\nNa een lange periode van onduidelijkheid over de vergoeding van allergievaccins (subcutaan en sublinguaal) heeft de Inspectie Gezondheidszorg (IGZ) definitief bepaald dat voor de behandeling van allergiepatienten met immunotherapie, een geregisteerd geneesmiddel de voorkeur heeft. Dit besluit komt erop neer dat alle niet-geregistreerde producten op termijn niet meer voor vergoeding in aanmerking komen. Pollinex\u00ae heeft aangetoond bewezen effectief en veilig te zijn en is geregistreerd voor de toepassing bij allergie\u00ebn en wordt volledig vergoed door alle zorgverzekeraars.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Pharmaceuticals", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.allergytherapeutics.nl", 
+    "universalName": "allergy-therapeutics-nederland-b.v", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Allergy Therapeutics Nederland B.V"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Eyenetwork Video Conferencing Services", 
+    "twitterId": "", 
+    "industry": "Telecommunications", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.eyenetwork.com", 
+    "universalName": "eyenetwork", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "\u2022\tEstablished in 1996 and Headquartered in Brighton. \r\n\u2022\tLargest provider of video conferencing room rentals globally. \r\n\u2022\tVideo bridging services  - connect multiple site, desktop PC\u2019s and mobile devices\r\n\u2022\tReseller of different services and packages such as audio conferencing, web conferencing, webcasting, video equipment, virtual rooms & telepresence, unified communication solutions etc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 43, 
+    "name": "H.H. Barnum Company", 
+    "twitterId": "", 
+    "industry": "Industrial Automation", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "2167014243"
+       }, 
+       "address": {
+        "postalCode": "44141", 
+        "city": "Brecksville", 
+        "street1": "6650 W Snowville Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.hhbarnum.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sensors and Connectivity", 
+      "Vision Inspection Systems", 
+      "Safety Controls", 
+      "Industrial Enclosures and Components"
+     ]
+    }, 
+    "universalName": "hh-barnum", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "H.H. Barnum Company takes great pride in its history, and a continued legacy of placing customers and employees as a priority for over 60 years. In 1946, Herb Barnum founded the company with operations focused on process control valves and instrumentation. After ten years, former World War II bomber pilot and University of Illinois alumnus Ken Koza joined Barnum as a salesman, bringing with him a relentless work ethic and experience as an engineer at industrial control and thermostat manufacturer, Honeywell.\r\n\r\nAfter quickly earning his place as a top salesman, Koza purchased 40 percent of Barnum, eventually taking on full ownership of the company following Mr. Barnum\u2019s retirement in 1975. Koza, soon joined by his sons, Ed and Ken Junior, refocused business efforts from control valves and instrumentation to the distribution of factory automation systems across multiple industries.\r\n\r\nAt the time of Ken Koza\u2019s retirement in 1988, Barnum stood poised for growth with 12 employees and an opportunity to provide manufacturers with thoughtful industrial solutions and a detailed knowledge of automation controls. Today the company proudly employs over 100 people, operating a 65,000 square foot facility in its Brighton, Michigan Headquarters and stocking offices in Cleveland, Ohio and Grand Rapids, Michigan.\r\n\r\nDedication to innovation and quality by both our valued customers and employees is the foundation on which Barnum is built, and has remained a driving force behind the company since its humble beginnings over six decades ago."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "At Flag Lady Gifts, we offer much more than flags & banners! Please visit us often for an ever-changing selection of handbags, accessories, and seasonal treasures for the home, including brands like Bosom Buddy, Scout by Bungalow, Byers' Choice , Nora Fleming, Julia Knight, and Luminara flameless candles. We also carry a beautiful selection of sterling silver jewelry and fashion jewelry, including Lori Bonn, Chamilia, Kameleon, Nomination, Brighton, and Kiel James Patrick. We offer in-store engraving on all of our engraveable items. We have so many wonderful items in our store that we couldn't possibly post them all on this site! Our friendly staff is always ready to help you find the right gift for any occasion, plus, we are happy to gift-wrap and ship for you.\r\n\r\nFounded in 1992, Flag Lady Gifts is located on the \u201cMain Line\u201d between Philadelphia and historic Valley Forge. The owner, Jan Hartman, began by designing and sewing decorative banners on her dining room table, which she originally sold at local holiday fairs. In 1993 she opened a charming shop in Spread Eagle Village, selling both flags and gifts. One expansion and several years later, we had outgrown the location. In 2001, we moved across the street to our current airy two-level store on the corner of Lancaster Avenue and Conestoga Road, right across from the Strafford Farmers\u2019 Market.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "610-964-9989", 
+        "phone1": "610-964-6280 x2 Flag Shop"
+       }, 
+       "address": {
+        "postalCode": "19087", 
+        "city": "Wayne", 
+        "street1": "398 W. Lancaster Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "http://www.flagladygifts.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Nora Fleming serveware", 
+      "Kameleon interchangeable jewelry", 
+      "Chamilia sterling charm bracelets", 
+      "Bosom Buddy cuffs & Ata grass handbags", 
+      "US & foreign flags", 
+      "Custom flag quotes", 
+      "Lori Bonn sterling charm bracelets"
+     ]
+    }, 
+    "universalName": "flag-lady-gifts", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Flag Lady Gifts"
+   }
+  ]
+ }
+}

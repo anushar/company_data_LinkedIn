@@ -1,0 +1,970 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1340, 
+  "values": [
+   {
+    "numFollowers": 1, 
+    "name": "Oliver Perrott Photography", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.oliverperrott.com", 
+    "universalName": "oliver-perrott-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Oliver Perrott is a photographer based in Brighton on the south coast of England. He specialises in shooting architecture, interiors and landscapes for private and commercial clients through out the UK. His background is based on traditional photographic teachings, using large format film cameras and wet processing. Now embracing the world of digital imaging he finds the perfect balance between the two to produce images that meet the high standards of his clients. Alongside his commercial work he continues to shoot personal projects and exhibits regularly. If you are interested in commissioning him for a project don't hesitate to get in contact."
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Metranet Communications", 
+    "industry": "Wireless", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4GA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.metranet.co.uk", 
+    "universalName": "metranet-communications", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Wireless Internet Service Provider in Brighton & Hove. Wireless network for transport management applications for Reading Borough Council's Transportation Department and Police: http://www.readingseedaproject.co.uk/"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Sensatus is a Brighton based company focused on the development of financial web-apps. We are a young company that is managed by a team that has taken a previous technology company from start up through to a public listing. The development team is being expanded to address a rapid growth in customer demand for our current and planned product set.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 1ED", 
+        "city": "Brighton", 
+        "street1": "St Georges House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "https://timetotrade.eu", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "finance", 
+      "stocks", 
+      "shares", 
+      "software", 
+      "webapp", 
+      "charting", 
+      "charts", 
+      "securities", 
+      "tax", 
+      "investment clubs"
+     ]
+    }, 
+    "universalName": "sensatus-uk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Sensatus UK Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 71, 
+    "description": "Plus Accounting is one of Brighton\u2019s leading firms of Chartered Accountants. We recognise that clients now want more from their accountants than the annual accounts, they want guidance, advice and a helping hand when it is needed.\r\n\r\nAt Plus Accounting, we are fully committed to 'Beyond Accounts' with our service and the Plus+ brand reflects this.\r\n\r\nEstablished for over 20 years, we are a three partner firm with a team of 20.\r\n\r\nWe deal with sole traders, partnerships and Limited Companies. Our aim is to build a long term working relationship with you so that we fully understand your business and your needs. Many of our clients see us as a trusted business partner and an integral part of their management team.\r\n\r\nWe can provide help and advise with the following:\r\n\u2022\tBusiness start ups\r\n\u2022\tAccounts preparation and audits\r\n\u2022\tAudits of funds and grants money\r\n\u2022\tPayroll services including BACS payments\r\n\u2022\tTax and VAT planning and advice\r\n\u2022\tBusiness plans and cash flow projections\r\n\u2022\tIR35 planning and support and other freelance issues\r\n\u2022\tInternational trading issues\r\n\u2022\tResearch & Development tax credits and other tax claims\r\n\r\nWe offer free initial meetings and can provide fixed fee quotes.\r\n\r\nWe recognise that clients now want more from their accountants than the annual accounts; they want guidance, advice and a helping hand when it is needed - be that with the production and interpretation of management accounts or with their personal financial planning.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 701300", 
+        "phone1": "01273 701200"
+       }, 
+       "address": {
+        "postalCode": "BN1 6SB", 
+        "city": "Brighton", 
+        "street1": "Preston Park House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.plusaccounting.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Tax & Financial Planning", 
+      "Business Management Services", 
+      "Business Consultancy", 
+      "Accountancy Services"
+     ]
+    }, 
+    "universalName": "plus-accounting-chartered-accountants", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Plus Accounting, Chartered Accountants"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 276, 
+    "description": "At Dehns our practical, commercially focussed approach to intellectual property helps us to turn inspired thinking into patents, trade marks and registered designs that are valuable commercial assets for our clients.\r\n\r\nFounded in 1920, with over 70 professional staff and offices in London, Brighton, Oxford and Munich, Dehns is one of the largest firms of patent and trade mark attorneys in Europe with an internationally established reputation and a strong network of global partnerships. From large corporations to individual private inventors, our clients benefit from our expertise in a wide range of intellectual property services, including:\r\n\r\nPreparing and filing patent, trade mark and design applications\r\nConducting opposition and cancellation actions\r\nAdvising on conflicting patents, trade marks and designs\r\nSearching and watching services\r\nPreparing and recording licences\r\nAssignments and other transactions\r\nConducting certain infringement and other proceedings in the Courts\r\nLiaising with other lawyers on both contentious and non-contentious matters\r\nRenewing patents, trade marks and designs\r\n\r\nAs an approachable, responsive and friendly team, we give our clients closely tailored advice in all aspects of British, European and international patent, design and trade mark law.\r\n\r\nThough the procedures of patenting and trade marking are often complex, we guide clients through the process without jargon, in a language they understand.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "020 7353 8895", 
+        "phone1": "020 7632 7200"
+       }, 
+       "address": {
+        "postalCode": "EC4Y 8JD", 
+        "city": "London", 
+        "street1": "St Bride's House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "020 7353 8895", 
+        "phone1": "01273 244200"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XE", 
+        "city": "Brighton", 
+        "street1": "84-87 Queens Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "020 7353 8895", 
+        "phone1": "01865 305100"
+       }, 
+       "address": {
+        "postalCode": "OX2 0JB", 
+        "city": "Oxford", 
+        "street1": "Willow Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+49 89 2422 8140", 
+        "phone1": "+49 89 2422 8130"
+       }, 
+       "address": {
+        "postalCode": "80331", 
+        "city": "Munich", 
+        "street1": "Singlspielerhaus"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1920, 
+    "websiteUrl": "www.dehns.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Patents", 
+      "Trade Marks", 
+      "Designs"
+     ]
+    }, 
+    "universalName": "dehns-patent-and-trade-mark-attorneys", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Dehns Patent and Trade Mark Attorneys"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 77, 
+    "description": "Crush is a truly integrated design agency providing creative solutions across all print, digital and moving media. We believe in a collaborative creative process and intelligent idea generation. We\u2019re passionate about our work and famed for producing standout creative for clients all over the world. We don\u2019t just want to simply make stuff look good, we want to make smart ideas look great.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 606058"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AG", 
+        "city": "Brighton", 
+        "street1": "11 Vine Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)7799 488285"
+       }, 
+       "address": {
+        "postalCode": "10013", 
+        "city": "New York", 
+        "street1": "154 Grand Studio"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.crushed.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Art Direction", 
+      "and Everything Inbetween", 
+      "Graphic Design", 
+      "Illustration", 
+      "Web Design", 
+      "Animation", 
+      "Film", 
+      "Idea Generation"
+     ]
+    }, 
+    "universalName": "crush-design", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Crush Creative Brighton, UK & New York, USA"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 221, 
+    "description": "Welcome to Stevinson Automotive, Colorado\u2019s foremost auto group offering new and used Toyota, Lexus, Chevrolet, Scion, Lexus, Hyundai, Jaguar and Porsche vehicles. With 7 Denver, Colorado locations, your new Chevrolet, Toyota, Scion, Lexus, Jaguar or Porsche is just minutes away. Stevinson Automotive serves Lakewood, Golden, Arvada, Westminster, Evergreen, Littleton, Englewood, Thornton, Boulder, Northglenn, Denver, Aurora, Commerce City, Brighton, Loveland, Longmont, Superior, Fort Collins, Fort Morgan, Frederick Littleton, Centennial, Parker and as well as all of Colorado.", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "3032322006"
+       }, 
+       "address": {
+        "postalCode": "80401", 
+        "city": "Lakewood", 
+        "street1": "1546 Cole Blvd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "3032797428", 
+        "phone1": "3032779339"
+       }, 
+       "address": {
+        "postalCode": "80401", 
+        "city": "Lakewood", 
+        "street1": "801 Indiana Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "www.stevinsonauto.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Lexus", 
+      "Toyota", 
+      "Chevrolet", 
+      "Imports", 
+      "Hyundai", 
+      "Porsche", 
+      "Jaguar", 
+      "Scion"
+     ]
+    }, 
+    "universalName": "stevinson-automotive", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Stevinson Automotive"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 155, 
+    "description": "A Michigan family business since 1954.\r\nEnglish Gardens operates seven retail stores, two seasonal Flower Markets and a full-service, landscaping company in Metro Detroit.  Each retail store has a nursery, garden center, florist, patio shop, and seasonal Christmas center featuring the best value and finest quality products and services. English Gardens also provides interior and exterior decorating for the holiday season.  \r\n\r\nEnglish Gardens is regularly named Best Garden Center in Michigan by readers of The Detroit News. Retail stores are located in Ann Arbor, Brighton, Clinton Township, Dearborn Heights, Eastpointe, Royal Oak/Troy and West Bloomfield.  Flower Markets are located in Rochester Hills & Livonia.", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 8, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "586-286-6100"
+       }, 
+       "address": {
+        "postalCode": "48038", 
+        "city": "Clinton Twp."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "810-534-5059"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "586-771-4200"
+       }, 
+       "address": {
+        "postalCode": "48021", 
+        "city": "Eastpointe"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "248-280-9500"
+       }, 
+       "address": {
+        "postalCode": "48075", 
+        "city": "Royal Oak"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "248-851-7506"
+       }, 
+       "address": {
+        "postalCode": "48322", 
+        "city": "West Bloomfield"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "734-332-7900"
+       }, 
+       "address": {
+        "postalCode": "48103", 
+        "city": "Ann Arbor"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48127"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1954, 
+    "websiteUrl": "www.EnglishGardens.com", 
+    "universalName": "english-gardens", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "English Gardens"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 260, 
+    "description": "Based in Partridge Green, West Sussex, the Dark Star Brewing Co is perhaps best known for it light, hoppy beer, Hophead, but produces over 20 different beers every year. American Pale Ale (APA) won the Golden Ale category at the Great British Beer Festival (GBBF) in 2012, with their Festival beer taking gold in the Strong Bitter category. The brewery also has two pubs: The Evening Star, Brighton and The Partridge, Partridge Green.\r\n\r\nIn 2013, the Dark Star Foundation was launched with the aim of:\r\n\r\n1. Providing funds to pubs to assist in their fundraising efforts \u2013 a recent study from PubAid shows that pubs raise over \u00a3106,000,000 for charity each year and we want to help pubs to achieve even more.\r\n\r\n2. We\u2019ll provide seed funding for tomorrow\u2019s entrepreneurs, who in-turn will be asked to \u2018pay it forward\u2019 when they have their business off the ground \u2013 assisting another enterprise.\r\n\r\n3. We\u2019ll issue funds to good causes / charities, based on their submissions and subsequent recommendation of the Foundation\u2019s panel, a team of people providing the moral compass.\r\n\r\nhttp://darkstarbrewing.co.uk/foundation/", 
+    "twitterId": "darkstarbrewco", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01403 713085"
+       }, 
+       "address": {
+        "postalCode": "RH13 8RA", 
+        "city": "Partridge Green", 
+        "street1": "The Brewery"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.darkstarbrewing.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Craft Beer", 
+      "Cask Ale", 
+      "Brewer", 
+      "Bottled Beer"
+     ]
+    }, 
+    "universalName": "dark-star-brewing-co-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dark Star Brewing Co Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 64, 
+    "description": "Experts in residential, commercial, leasing, foreclosures, short sale real estate transactions with offices in Brighton, Ann Arbor and Holt, Michigan.  We are an independent, agent-owned company.  We are ISO 9001 certified.  Our services include property management to banks for REOs.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1981, 
+    "websiteUrl": "www.previewproperties.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Experts in Real Estate"
+     ]
+    }, 
+    "universalName": "previewproperties", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "PreviewProperties"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 313, 
+    "description": "NextGen Realty offers the largest selection of real estate in the Metro Boston area. Finding a home or apartment doesn't have to be stressful. At NextGen, we'll work with you to find the property of your dreams! \r\n \r\nWe have over 115,000 potential apartment listings in our real time database, as well as many highly desirable sales listings throughout the greater Boston area \u2013 Allston, Brighton, Brookline, Charlestown, Cambridge, Fenway, Jamaica Plain, Medford,  Mission Hill, Newton, Somerville,  Watertown, as well as Boston's Back Bay, South End, Beacon Hill and many other popular suburban and city neighborhood's.\r\n \r\nWith top search engine optimization, over 90 proprietary websites, and feeds to websites all over the web, we are truly Boston's premiere full service real estate company.  Utilize the power of the largest and most advanced Boston Apartments and Boston Real Estate database to locate the next perfect place you will call home! Look for a Boston Massachusetts apartment rental through our highly helpful websites. Keep coming back frequently for all your MA real estate needs! \r\n \r\nWe are hiring agents, new or experienced, to join us as part of the most successful real estate team in New England.  To learn more about our opportunities and how you can become a top producing agent, contact HR@Nextgenrealty.com!", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "6172082100"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Allston", 
+        "street1": "1243 Commonwealth Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.nextgenrealty.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Residential Leasing", 
+      "Sales", 
+      "Property Management", 
+      "Commercial Leasing", 
+      "Snow Removal", 
+      "Corporate Relocation"
+     ]
+    }, 
+    "universalName": "nextgen-realty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nextgen Realty"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Tresdigital have progressed from a small club visuals company ten years ago in Brighton into a professional motion graphics company, specialising in promotional videos for marketing companies and post production effects and editing. They also have regualr commercial photography briefs in the film and entertianment industries.", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1DH", 
+        "city": "Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.tresdigital.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Promotional video and animation", 
+      "video editing and photography"
+     ]
+    }, 
+    "universalName": "tresdigital", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Tresdigital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "cFront Software Ltd are a Brighton based software development company, which specialises in creating web based business applications and database management solutions. As a small company we can respond quickly to our clients needs and offer a more personal service than some larger firms. cFront's clients communicate directly with developers who are actively involved in their project.", 
+    "twitterId": "cfrontsoftware", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 747 333", 
+        "phone1": "01273 200 383"
+       }, 
+       "address": {
+        "postalCode": "BN1 3LU", 
+        "city": "Brighton", 
+        "street1": "18 Guildford Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.cfront.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Website design and development", 
+      "Bespoke Windows software development", 
+      "Database solutions SQL Server & MySQL", 
+      "Web based business applications"
+     ]
+    }, 
+    "universalName": "cfront-software-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "cFront Software Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Profile is nestled in Dukes Lane in Brighton. With a total of five shops accommodating a wide range of eclectic clothing tastes.\r\nWith 30 years experience in retail, we pride ourselves on providing a totally unique and divine shopping experience. We offer exclusive clothing by the worlds finest designers for men and women.", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1BG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "http://www.profilebrighton.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Fashion", 
+      "Retail", 
+      "Designer"
+     ]
+    }, 
+    "universalName": "profile_3", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Profile"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Kirsten Chick", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN41 2HA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.connectwithnutrition.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Nutritional Therapy", 
+      "Natural Nutrition", 
+      "Cellular Awakening"
+     ]
+    }, 
+    "universalName": "kirsten-chick", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Kirsten Chick D.N.N. (formerly Kirsten Santry) is a qualified and practising nutritional therapist, and a member of the Federation of Nutritional Therapy Practitioners. She trained with Barbara Wren at the College of Natural Nutrition.\r\n\r\nKirsten Chick now lectures at the College of Natural Nutrition, and also at Sussex Downs College in Lewes. Kirsten runs her nutrition practice from Brighton & Hove, and also leads regular talks, workshops and short courses around the country. Her recipe booklet \u201cNatural Recipes\u201d is still selling well, and she also writes for local and national publications.\r\n\r\nFro more information please visit:\r\n\r\nwww.connectwithnutrition.co.uk\r\nwww.naturalrecipes.co.uk\r\nhttp://www.naturalrecipes.co.uk/goodfood.html\r\nwww.wholewoman.co.uk\r\nwww.visionofhopeclinic.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Independent documentary company based in Brighton producing innovative, entertaining documentary films on social and environmental issues. Our short films have screened at film festivals around the world as well as on online portals including MiShorts and Ethical TV.\r\n\r\nCurrently working on a feature-length documentary about the history and future of nuclear power, in partnership with Dartmouth Films, producers of successful campaigning documentaries like Black Gold, The End of the Line and The Flaw.\r\n\r\nAt Tenner Films, we rely heavily on donations from supporters to make our films - crowdfunding and grassroots participation is a core part of our ethos (the company name is actually based on an ambitious target to get 10,000 people to donate \u00a310 each to our production efforts). If you'd like to support our productions, visit http://www.tennerfilms.com and click on the Donate button - all contributions, no matter how small, are very welcome!", 
+    "twitterId": "@tennerfilms", 
+    "blogRssUrl": "", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 6SB", 
+        "city": "Brighton", 
+        "street1": "Preston Park House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.tennerfilms.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Documentary film"
+     ]
+    }, 
+    "universalName": "tenner-films", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Tenner Films"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Website design & IT solutions by Zone1 Creative based in Brighton, Sussex provide for small to medium sized enterprises. We specialise in content managed websites, e-commerce and branding.\r\n\r\nWe guarantee only the most professional service and the best results to help grow your business online.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.zone1creative.co.uk/blog/feed", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 933098"
+       }, 
+       "address": {
+        "postalCode": "BN3 5AA", 
+        "city": "Hove", 
+        "street1": "96a Coleridge Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.zone1creative.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "SEO", 
+      "E-commerce", 
+      "Content Management", 
+      "Bespoke Web Applications"
+     ]
+    }, 
+    "universalName": "zone1-creative", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Zone1 Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Women's fashion boutique featuring Handbags, Sterling Silver, Fashion Jewelry, Shoes & Accessories. Located inside the Citi Corp Ogilvie Train Station Center. Just on the river at Clinton and Canal. Brands such as Tano, Brighton, Ken Craft, Derek Alexander and soooo much more. Stop by and see the owners Chris & Rossana Papreck.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "312-575-9820"
+       }, 
+       "address": {
+        "postalCode": "60606", 
+        "city": "Chicago", 
+        "street1": "Two North Riverside Plaza"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.rcmsterling.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Women's fashion leather goods and accessories."
+     ]
+    }, 
+    "universalName": "rcm-sterling", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Rcm Sterling"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "The English Language Bookshop (ELB Brighton) was established in 1985 and is one of the leading suppliers of ELT materials in the UK. It is staffed and run by three partners, two of whom have extensive ELT backgrounds in teaching, teacher training, course design/planning and course book writing.\r\n\r\nWe supply ELT materials to schools, colleges, universities, government agencies, Ministries of Education, training organisations, teachers, teacher trainers and individual students throughout the world.\r\nWe carry extensive stocks of materials from all the leading UK ELT publishers and can usually supply all your ELT needs ex-stock. Deliveries are made by national and international carriers and discounts are available on bulk orders.", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 1RH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.elb-brighton.com", 
+    "universalName": "the-english-language-bookshop", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "The English Language Bookshop"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Caroline Serviced Apartments", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+61398685699", 
+        "phone1": "+61398685600"
+       }, 
+       "address": {
+        "postalCode": "3141", 
+        "city": "Melbourne", 
+        "street1": "47 - 49 Caroline Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+61395928577", 
+        "phone1": "+61385913333"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Melbourne", 
+        "street1": "3 Male Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.carolineservicedapartments.com", 
+    "universalName": "caroline-serviced-apartments", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Caroline Serviced Apartments specialises in short and long term accommodation for corporate relocations and leisure travellers. Consisting of two 4.5* premium properties in South Yarra and Brighton in Melbourne, Australia - with a total of 80 apartments."
+   }
+  ]
+ }
+}

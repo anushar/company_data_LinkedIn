@@ -1,0 +1,900 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1520, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Chambers Wade HR Services is a Human Resources consultancy covering London, East and West Sussex and Brighton and Hove. We work with senior HR leaders to deliver HR projects and consultancy services.\r\n\r\nExamples of assignments include HR Process Mapping, Staff and Manager's Handbooks, Employee Development Programmes and the implementation of an online performance management system.\r\n\r\nWe work either onsite or offsite depending on the client's needs.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SW4", 
+        "city": "London", 
+        "street1": "102"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.chamberswade.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Human Resources Consultancy"
+     ]
+    }, 
+    "universalName": "chambers-wade", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Chambers Wade"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "We're a dynamic and friendly Brighton-based fundraising consultancy specialising in corporate and trust fundraising management; freelance and interim support; staff coaching and mentoring; creative development and  strategic fundraising reviews. \r\n\r\nWe have a track record of working successfully with a wide range of charities and causes including Guide Dogs, the RNLI, Diabetes UK, the British Heart Foundation, Action for Kids, CSV (Community Service Volunteers), Fred Hollows Foundation (UK), Whoopsadaisy, MuchLoved, Sightsavers, the Giving Campaign, British Red Cross, Help the Aged and The Children's Society.\r\n\r\n- Member of the Institute of Fundraising (IOF) and an Approved NCVO Fundraising Consultant 2012. \r\n\r\n- Winner of the IOF Professional Fundraiser of the Year award 1997.\r\n\r\nPlease call us for an informal chat on 07971 474743 or email andrew@peelconsulting.com or helen@peelconsulting.com", 
+    "twitterId": "", 
+    "industry": "Fundraising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07971474743"
+       }, 
+       "address": {
+        "postalCode": "BN3 6EE", 
+        "city": "Hove", 
+        "street1": "Highdown Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.peelconsulting.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Corporate fundraising; trust fundraising; fundraising strategy; strategic reviews; freelance fundraising; interim support; staff development;", 
+      "staff mentoring; Charity of the Year experts; corporate fundraising and trust proposal writing."
+     ]
+    }, 
+    "universalName": "peel-consulting", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Peel Consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Sales and Lettings departmnet covering the Brighton and Hove area.\r\nEstablished since 1996, we have been Selling and Letting proerty in a friendley and professional manor,we pride ourselves on the ability to understand our clients needs and wants and to interperate them into a sucessfull and wining relationship.We have experienced staff who have been in the industry for a long time,this allows us to have a reputation for being professional and honest,taking the time to listen which so many of our competitors seem to forget.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1JE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.tingleys.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Sales", 
+      "Lettings", 
+      "Property Managment", 
+      "Negotiation", 
+      "Valuation"
+     ]
+    }, 
+    "universalName": "tingleys-estate-agents", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tingleys estate agents"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Fonant Ltd", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN15 9SY", 
+        "city": "Lancing", 
+        "street1": "31 Greentrees Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.fonant.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Drupal hosting", 
+      "Drupal website development", 
+      "Drupal consulting"
+     ]
+    }, 
+    "universalName": "fonant-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Fonant is a specialist web services company, based between Worthing and Brighton on the south coast of England. At Fonant we pride ourselves on our attention to detail and the quality of our work.\r\n\r\nFor the last five years Fonant has specialised in the Drupal open-source content management framework, allowing sophisticated websites to be built with efficiency and cost-effectiveness. Starting with Drupal 5, we now work mostly with Drupal 7."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "reactive Health is an innovative healthcare company focused on delivering high quality, cost-effective healthcare services and integrated whole-life wellness solutions to all clients across the lifespan.\r\n\r\nreactive health: STRATFORD is a full service outpatient rehabilitation facility specializing in Physiotherapy, Massage Therapy and Wellness Solutions.  Specialized yoga therapeutics, falls prevention and golf fitness programs are also available at this facility.\r\n\r\nreactive health: BRIGHTON is a full service outpatient rehabilitation facility specializing in Physiotherapy, Massage Therapy and Wellness Solutions.  Specialized wellness consulting services also available at this location.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "902-370-3870", 
+        "phone1": "902-370-7322"
+       }, 
+       "address": {
+        "postalCode": "C1B 1H7", 
+        "city": "Stratford", 
+        "street1": "252 Stratford Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(902) 370-7322"
+       }, 
+       "address": {
+        "postalCode": "C1A 1W2", 
+        "city": "Charlottetown", 
+        "street1": "78 Euston Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.reactivehealth.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Physiotherapy", 
+      "Massage Therapy", 
+      "Kinesiology", 
+      "Wellness Solutions", 
+      "Yoga Therapeutics", 
+      "Womens Health", 
+      "Senior Wellness", 
+      "Personal Training"
+     ]
+    }, 
+    "universalName": "reactive-health", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "reactive health ~ Island Owned & Operated"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Independent co-operative record label, based in Southampton with offices in London and Brighton.\r\n\r\nMember of MCPS/PRS, PPL, AIM and Co-ops UK.\r\n\r\nDistributed by Believe.\r\n\r\n\r\nCommittee / executive directors:\r\n\r\nManaging Director\r\nJoe Parker\r\n\r\nChairman\r\nOllie Austin\r\n\r\nCompany Secretary\r\nStorm Poorun\r\n\r\nFinance director\r\nAnja McCloskey\r\n\r\nEvents co-ordinator\r\nRuth Skipper\r\n\r\nWebmaster\r\nAndy Harris\r\n\r\nA&R lead\r\nDavid Miatt (with Dan Parry / Jimmy Hatherley)\r\n\r\nPublishing Director\r\nCampbell Austin\r\n\r\n\r\nOther posts / non-executive directors:\r\n\r\nPR Liason\r\nJimmy Hatherley / Anja McCloskey\r\n\r\nNon-executive directors\r\nJimmy Hatherley\r\nEmma Richardson\r\nRob Wade-Brown", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "SE4 1HP"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "SO14 7DU", 
+        "city": "Southampton", 
+        "street1": "180 Above Bar St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.sotones.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "developing and promoting musical talent in the independent sector."
+     ]
+    }, 
+    "universalName": "sotones-music-co-op", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sotones Music Co-op"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Established in 1989, Care Co-ops is a social enterprise which focuses on the most disadvantaged in the community, in particular people with learning disabilities and mental health support needs, offering meaningful occupation and choices through a range of information, advice, training and support services.\r\n\r\nThe organisation\u2019s overall mission is to enhance individual abilities and potential by facilitating personal decision making and building a sense of self-responsibility and empowerment. We offer a supportive and creative environment for people to develop their potential through a range of support services, training opportunities in our businesses, and European projects. \r\n\r\nSupport services: \r\n\r\n- Housing Support\r\n- Day Services\r\n- Community Farm\r\n- Museum Mentors\r\n- Personal Assistants\r\n- Women's Drop in\r\n\r\nBusinesses: \r\n\r\n- New Road Nurseries commercial plant nursery\r\n- Venue hire of Wagner Hall, the courtyard garden and yurt\r\n- Serviced offices for hire in Russell Place\r\n- The Big Fig Catering.\r\n\r\nEuropean projects:\r\n\r\n- New Technologies for Apprenticeship (INTERREG)\r\n- Out Of The Blue (INTERREG)\r\n- Leonardo Lifelong Learning.\r\n\r\nFor more information you can visit our website at www.careco-ops.org.uk or call us on 01273 468200.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 468200"
+       }, 
+       "address": {
+        "postalCode": "BN1 2RG", 
+        "city": "Brighton", 
+        "street1": "9 Russell Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 846577"
+       }, 
+       "address": {
+        "postalCode": "BN27 4HU", 
+        "city": "Amberstone, Hailsham", 
+        "street1": "New Road Nurseries"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.careco-ops.org.uk", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Social Enterprise", 
+      "Learning Disabilities", 
+      "Mental Health", 
+      "Marginalised Groups", 
+      "Horticulture Training", 
+      "Catering Training", 
+      "Day Services", 
+      "Housing Support", 
+      "Venue and Office Hire", 
+      "Personal Assistants", 
+      "European Projects"
+     ]
+    }, 
+    "universalName": "care-co-ops-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Care Co-ops"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Your Neighbor Magazine (YNM) is a direct mail publication that has been delivering coupons to homes in Colorado over the past 16 years. YNM has recently expanded, and is now delivering local coupons to six areas in Colorado - Thornton/Northglenn, Brighton/Commerce City, South West/Littleton, South Aurora, Broomfield/Westminster and Arvada. \r\n\r\nThe YNM publication has been working together with local businesses, small and large, to help each other grow. Local residents receive monthly coupons in an easy to view, magazine mailing that is customized and focused on the area in which they reside. \r\n\r\nAdvertising is incredibly important for a business of any size. Our direct mailing publication has proven to be a profitable and effective means of reaching local consumers. Your Neighbor Magazine offers benefits such as trackable metrics, exposure to a large audience, cost effectiveness, a reputable medium - only quality businesses are advertised within our magazine, full color advertisements and much more. Call us today to get your business growing!\r\n\r\nIf you are a company wishing to advertise within our publication, please contact sue@yourneighbormagazine.com.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "720-981-1018"
+       }, 
+       "address": {
+        "postalCode": "80127", 
+        "city": "Littleton", 
+        "street1": "P.O. Box 270186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.yourneighbormagazine.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Local direct mail magazine featuring small businesses", 
+      "Increasing sales for small businesses", 
+      "High quality monthly direct mail publication", 
+      "Target marketing."
+     ]
+    }, 
+    "universalName": "your-neighbor-magazine", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Your Neighbor Magazine"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Humanised Technology Solutions is a usability, accessibility and user experience consultancy based in Brighton, UK. We apply theory from the academic area of human-computer interaction to make digital products intuitive, effective and enjoyable.\r\n\r\nServices we offer include persona and scenario generation, expert heuristic evaluations, accessibility audits, competitor analysis and usability testing.", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN29SQ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.humanisedtechnology.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "usability", 
+      "accessibility", 
+      "user experience", 
+      "HCI", 
+      "user-centred design"
+     ]
+    }, 
+    "universalName": "humanised-technology-solutions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Humanised Technology Solutions"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "JazzMates", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02135"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.jazzmates.com", 
+    "universalName": "jazzmates", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "That versatile combo, the JAZZMATES, is well-known in the Brookline/Brighton Russian colony, having appeared at numerous local functions and celebrations for the past years. It is only now that Greater Boston is discovering the delightful musical treasure in it\u2019s midst. Comprised of core members under Roman Primak's lead,  the JAZZMATES are often supplemented by Janusz Kowalski on tenor saxophone and clarinet. As a very special guest and dear friend Yasha Kopel joins JAZZMATES on a very special occasions."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 51, 
+    "description": "Award winning greeting card publisher specializing in gorgeous handmade cards for design-led gift shops, card shops, department stores, garden centres and galleries.\r\n\r\nBased in Brighton, Blue Eyed Sun offers fast, efficient and friendly service - delivering handmade orders in an average of 5 working days. They regularly release new designs and are often quoted in the trade press as leaders in their field. All cards are made in the UK.\r\n\r\nCustomers include Harrods, Paperchase, John Lewis, House of Fraser, Fenwick and Cards Galore as well as many of the top independent retailers across the UK.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 7DX", 
+        "city": "Hove", 
+        "street1": "Unit 3, Sussex House Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.blueeyedsun.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Handmade cards", 
+      "Christmas Cards", 
+      "Greetings Cards", 
+      "Thank You Cards"
+     ]
+    }, 
+    "universalName": "blue-eyed-sun-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Blue Eyed Sun Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Jobsee is a new job advertising website where employers can advertise their vacancies and candidates can search and apply for jobs. It\u2019s as simple as that! \r\n\r\nWe don\u2019t like to over complicate things, and that\u2019s why we have made our website as user friendly as possible for everybody!\r\n\r\n\u2018Local Jobs for Local People\u2019\r\nOur website covers Crawley and the surrounding towns up to a 20 mile radius (including Brighton).", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "RH10"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.jobsee.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Staffing", 
+      "Recruiting", 
+      "Human Resources"
+     ]
+    }, 
+    "universalName": "www.jobsee.co.uk", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "www.jobsee.co.uk"
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "Silver Fox UK Ltd", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "GU23 6NG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.silverfoxuk.com", 
+    "universalName": "silver-fox-uk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Silver Fox provides coaching and training in photography and digital arts to the public. Specialising in training for seniors and children, we also provide very short coaching tours for visitors to Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Big Beach Marketing is a dynamic marketing consultancy based in Brighton, with big picture ideas on how to resolve your marketing issues.\r\n\r\nWe offer a complete range of creative outsourced marketing services primarily for the business-to-business telecommunications sector.\r\n\r\nWith over 25 years telecoms industry experience and 8 years energy industry experience, Big Beach Marketing delivers sales driven marketing that is focused on delivering real business benefits and return on marketing investment.\r\n\r\nWe provide cost effective solutions tailored to your marketing needs and offer clients expertise on commercial partnership funding.\r\n\r\nOur services include, marketing strategy and planning, creative collateral design, campaigns and lead generation, website development and management, customer retention strategies and event management.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273434552"
+       }, 
+       "address": {
+        "postalCode": "BN3 6DH", 
+        "city": "Hove", 
+        "street1": "19 Woodland Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.bigbeach.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Outsourced Marketing Director Services", 
+      "Marketing Planning and Support", 
+      "Website Development and Management", 
+      "Email, Direct Mail, Event and Search Marketing"
+     ]
+    }, 
+    "universalName": "big-beach-marketing", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Beach Marketing"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Karmic Music is a fully integrated Music Production company located in Brighton, MA. Karmic's extensive library of songs includes original compositions and sound-alike songs. Additionally, Karmic offers custom music, which can be composed, recorded and professionally produced to fit any music needs.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "163 North Beacon Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "163 North Beacon Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "myspace.com/karmicmusic", 
+    "universalName": "karmic-music", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Karmic Music"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "description": "Quadco, Inc. was established in 1966 and is recognized as a leader in sales, testing and repair of Pressure Relief Valves, Pipeline and Plant Valves, Drilling Equipment, Instrumentation, and Calibration Services. Quadco, Inc. has sales and service centers located in FARMINGTON, NM; BRIGHTON, CO; GRAND JUNCTION, CO; CASPER, WY; ANCHORAGE, AK; and PRUDHOE BAY, AK.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Oil & Energy", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303-659-4099", 
+        "phone1": "303-659-3339"
+       }, 
+       "address": {
+        "postalCode": "80603", 
+        "city": "Brighton", 
+        "street1": "802 Baseline Place Unit 2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1966, 
+    "websiteUrl": "www.quadcoinc.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Pressure Relief Valves", 
+      "Gauges", 
+      "Drilling"
+     ]
+    }, 
+    "universalName": "quadco-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Quadco, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Helping people think about, design and build digital products.\r\n\r\nWorking directly with clients and also providing contract services for large digital agencies.\r\n\r\nBased in Brighton, working in major European cities and beyond.\r\n\r\nGet in contact to find out how we can help you.", 
+    "twitterId": "@deeplysimple", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://deeplysimple.com", 
+    "universalName": "deeplysimple", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Deeplysimple"
+   }, 
+   {
+    "numFollowers": 17, 
+    "name": "Standout Agency", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "02032980102"
+       }, 
+       "address": {
+        "postalCode": "SW1E 5ER", 
+        "city": "London", 
+        "street1": "1 Warwick Row"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.standoutagency.com", 
+    "specialties": {
+     "_total": 17, 
+     "values": [
+      "Marketing", 
+      "Communications", 
+      "Recruitment", 
+      "Candidates", 
+      "CV", 
+      "Resume", 
+      "Standout", 
+      "Human Resources", 
+      "Agency", 
+      "Advertising", 
+      "London", 
+      "Brighton", 
+      "South Africa", 
+      "India", 
+      "USA", 
+      "Copywriters", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "standout-agency", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We are show-offs and like to get noticed!\r\n\r\nStandout Agency are a fixed price communications/recruitment company that have an amzingly talented (but not so modest) team of recruiters and copywriters. \r\n\r\nOur team of passionate and creative professionals work with you to get the right candidate responses to your job advertisement. \r\n\r\nCLICK \"SEE MORE\" TO GET MORE INFO.\r\n\r\n\r\n\r\n\r\nThe process is:\r\n\r\n\u2022\tProfessional copywriters prepare your job advertisement using STAND OUT techniques\r\n\r\n\u2022\tWe Post your advertisement across all major UK & European job boards (around 50 sites)\r\n\r\n\u2022\tScreen the obviously overwhelming applicant response\r\n\r\n\u2022\tSend you the cv\u2019s of all suitable applicants.\r\n\r\n****************** All for \u00a3399 ********************"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "description": "miggle.co.uk is a friendly, established web business based in Brighton & Hove, Sussex. Our clients include Air New Zealand, ITV, Museum of London, Sky and Yahoo!\r\n\r\nWe specialise in Drupal and WordPress development based content management solutions.  We also provide editorial and content management expertise and resources to media owners.\r\n\r\nWe deliver the projects you just don\u2019t have the bandwidth to tackle \u2013 on spec, to budget and with no hidden costs.\r\n\r\nWhatever you need from the Internet, with our depth of experience and clear understanding of online audiences on your side you\u2019ll be onto a winner.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 311443"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UB", 
+        "city": "Brighton", 
+        "street1": "Premier House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.miggle.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Planning", 
+      "Building", 
+      "Resourcing", 
+      "Managing", 
+      "Drupal", 
+      "WordPress"
+     ]
+    }, 
+    "universalName": "miggle.co.uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "miggle.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Dennisimo is the consulting business of Andy Dennis, a user experience designer and interface developer living in Brighton on the south coast of the United Kingdom.\r\n\r\nI help companies create websites and web applications based on user-centred design.", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 1QD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "dennisimo.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "web", 
+      "user experience design", 
+      "interface development", 
+      "user-centred design", 
+      "information architecture", 
+      "interaction design", 
+      "information design"
+     ]
+    }, 
+    "universalName": "dennisimo", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dennisimo"
+   }
+  ]
+ }
+}

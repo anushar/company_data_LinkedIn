@@ -1,0 +1,735 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 620, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 46, 
+    "name": "Liquid Air Energy Network", 
+    "twitterId": "", 
+    "industry": "Renewables & Environment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.liquidair.org.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Liquid Air as an energy vector", 
+      "Advocacy", 
+      "Education", 
+      "Member Engagement"
+     ]
+    }, 
+    "universalName": "liquid-air-energy-network", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Liquid air is a proven energy storage technology that could play a critical role in Britain\u2019s low carbon energy future, according to a major new report from business and academic experts. The use of liquid air for grid-based energy storage could increase UK energy security, cut greenhouse gas emissions and create a new industry worth at least \u00a31bn pa and 22,000 jobs to the UK, the report found.\r\n\r\nThe report, published by the Centre for Low Carbon Futures (CLCF) and launched at a joint conference with the Royal Academy of Engineering, concludes that liquid air technologies could also significantly increase the efficiency of road vehicles, particularly in Britain\u2019s fleets of buses, vans and refrigerated lorries.\r\n\r\nThe Liquid Air Energy Network (LAEN) is the new forum for the advocacy and development of liquid air as an alternative way to harness waste and surplus energy within power and transport. As a nascent industry, connecting disparate interested parties within the emerging sector will play a key role in accelerating its development.\r\n\r\nContributors to the report include Arup, Ricardo, National Grid, Poyry, Messer Group; and academics from the Universities of Leeds, Birmingham, Strathclyde, Brighton, Queen Mary University of London and Imperial College.\r\n\r\nTo learn more about LAEN, including how to become a member, liquid air as an energy vector or to download the report please visit www.liquidair.org.uk \r\n\r\nFounding Director: Toby Peters\r\nEmail: info@liquidair.org.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "The White Swan, Arundel", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903882677"
+       }, 
+       "address": {
+        "postalCode": "BN18 0AD", 
+        "city": "Arundel", 
+        "street1": "16 Chichester Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://white-swan-arundel.co.uk/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Conferences", 
+      "Meetings", 
+      "Hospitality", 
+      "Weddings", 
+      "Short breaks", 
+      "Holidays", 
+      "Parties", 
+      "Events"
+     ]
+    }, 
+    "universalName": "the-white-swan-arundel", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The White Swan is a traditional and charming pub located in the South Downs of Sussex. We have a welcoming and friendly pub and bar, 20 lovely bedrooms and special rooms for weddings, celebrations, meetings and informal conferences.\r\n\r\nWe are in easy reach of Brighton, Portsmouth and Gatwick and Arundel, with its imposing Norman castle, is on our doorstep. We\u2019re perfectly placed for walking on the Downs or lazing on the nearby beaches.\r\n\r\nOur friendly and helpful team will look after you during your stay with us whether you\u2019re dropping in for a quick bite to eat, spending a few days holidaying in the area or passing through on a business trip."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "NB Fitness Club, LLC", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.nbfitnessclub.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Group Fitness", 
+      "Personal Training", 
+      "Massage Therapy", 
+      "Pilate Reformer sessions", 
+      "Health and wellness"
+     ]
+    }, 
+    "universalName": "nb-fitness-club-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "First in fitness for those who seek a state-of-the art workout experience with first-class amenities, NB Fitness Club features the finest equipment, facilities and programs Brighton and Allston have to offer.  \r\n\r\nTest your fitness limits in our spacious workout areas.\r\n\r\n- NB Fitness Club offers state-of-the-art cardiovascular equipment with built-in TV's and Ipod docks. \r\n- Free-weight and functional training zones\r\n- An array of selectorized equipment for total body workouts\r\n\r\nWhether you prefer yoga, pilates, studio cycle, cardio or strength training, we offer energizing group fitness classes to fit your needs and schedule.\r\n\r\nEven after a hard workout, there's always room to enjoy NB Fitness Club's comforts and amenities.\r\n- The Spa is open to the public and features sports and deep tissue massages.\r\n- Complimentary towel service is available in the locker rooms and workout areas.\r\n- Relax in our well-appointed locker room and dry saunas.\r\n- Enjoy complimentary garage parking and Wi-Fi service throughout the club.\r\n\r\nAll new members receive a one-on-one personal training evaluation and a private Pilates Session with one of our certified trainers."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Original silver jewellery designed and made by Kathryn Harrison. Made using hand crafting and silversmithing techniques at both her home studios and at studios in Brighton.\r\n\r\nCurrently developing hammered texture designs and expanding my range of mixed copper and silver designs making mainly earrings,necklaces and brooches.", 
+    "twitterId": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.madebyryn.com", 
+    "universalName": "made-by-ryn", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Made by Ryn"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "OzoneSafe Pest Control", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.ozonesafepc.com", 
+    "universalName": "ozonesafe-pest-control", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "At OzoneSafe we are committed to protecting your family or business' health, food, and property. As a Colorado owned company we also take protecting the Environment extremely seriously so we use only the best, safest products on the market. By using the latest Integrated Pest Management Techniques, we at OzoneSafe will take the time to identify all potential pests and develop a plan to help manage any pest related situation and provide the best customer service that you'll ever find.\r\n\r\nWe service Denver and the surrounding communities including Arvada, Aurora, Brighton, Castle Pines, Castle Rock, Centennial, Commerce City, Englewood, Greenwood Village, Highlands Ranch, Morrison, Parker, and more."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "We provide the perfect web design solutions in Brighton and Sussex for your business through professional, clear, attractive web design, with focus on quality and usability, to ensure your online success.\r\nAs well as developing eye-catching, clean and crisp websites, our team offer some great company branding and SEO services to get those clicks happening and business flowing.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.cloud8.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Web Design", 
+      "Company Branding", 
+      "Marketing", 
+      "SeO  -  Search Engine Optimisation", 
+      "Adwords campaigns"
+     ]
+    }, 
+    "universalName": "cloud-8-", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Cloud 8 ."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Minnesota Tree Experts is your go-to tree services provider, offering tree pruning, tree removal, tree diagnostics, tree assessments, corrective pruning, tree disease control, tree trimming and more. We have a Certified Arborist on staff and pride ourselves on offering the best in customer service with a high premium on safety. We have served Brooklyn Park, Brooklyn Center, Golden Valley, Crystal, Fridley, New Brighton, Spring Lake Park, Columbia Heights, Maple Grove, Anoka, Coon Rapids, Blaine, Andover, Robinsdale, St. Louis Park, Edina, Minneapolis, Minnetonka, Plymouth, New Hope, and surrounds since 1998.", 
+    "twitterId": "", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "763 560 9616"
+       }, 
+       "address": {
+        "postalCode": "55444", 
+        "city": "Brooklyn Park", 
+        "street1": "7527 Oliver Ave North"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.minnesotatreeexperts.com", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "arborist", 
+      "tree care", 
+      "tree diagnostics", 
+      "tree disease control", 
+      "tree inspections", 
+      "tree maintenance", 
+      "tree pruning", 
+      "tree removal", 
+      "tree service", 
+      "tree trimming", 
+      "commercial tree pruning", 
+      "commercial tree removal", 
+      "commercial tree trimming"
+     ]
+    }, 
+    "universalName": "minnesota-tree-experts", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Minnesota Tree Experts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Expert Procurement Limited", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.expert-procurement.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Procurement Consultancy", 
+      "Interim Procurement Director Roles"
+     ]
+    }, 
+    "universalName": "expert-procurement-limited", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Expert Procurement Limited is a business focussing on implementing robust procurement strategies to deliver real value and true savings across multiple vertical markets. These include Healthcare, Manufacturing, FMCG & Retail.  Its principle aim is to instill professionalism and commerciality to any organisation and transform the performance of the Procurement function.  To this end, Expert Procurement has extensive experience in building best in class teams and motivating them to exceed expectation and targets to deliver true cash-releasing bottom line savings.  Since the company\u2019s incorporation, the following assignments have been successfully completed:\r\n\r\nMAY \u201913 \u2013 DEC \u201813:\tINTERIM DIRECTOR OF PROCUREMENT, HAMPSHIRE HOSPITALS NHS TRUST\r\n\r\nReporting to the Chief Financial Officer (CFO), the main achievements included:\r\n\r\n\u2022\tObtaining Board level approval to restructure & increase the size of the team \r\n\u2022\tManaging a successful restructure of the existing team (18 people) as well as leading the recruitment of the permanent Associate Director of Procurement (start date November 2013)\r\n\u2022\tDeveloping a short & medium Procurement strategy for the Trust & obtaining sign off at Board level\r\n\u2022\tIncreasing the profile of Procurement with Senior members of the Trust\r\n\u2022\tDeveloping the outline sourcing plan for FY14/15 across \u00a380m of spend\r\n\r\nFEB \u201913 - MAY \u201913:\tINTERIM HEAD OF PROCUREMENT, BRIGHTON & SUSSEX UNIVERSITY HOSPITAL\r\n\r\nReporting to the Chief Financial Officer (CFO), the main achievements included:\r\n\r\n\u2022\tDeveloping the sourcing plan for FY13/14 across c\u00a3120m spend & obtaining sign off at Board level\r\n\u2022\tPreparing a quick win sourcing strategy targeting savings from the top 20 suppliers which delivered in excess of 8%\r\n\u2022\tCompleting an interim restructure of the existing team (30 people) to focus resource to deliver the best results\r\n\u2022\tWork with senior management to increase the profile of Procurement within the organisation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Damon Libby Photography", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.damonlibbyphotography.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "photography", 
+      "interior photography", 
+      "architectural photography", 
+      "photography services", 
+      "corporate portraits", 
+      "product photography"
+     ]
+    }, 
+    "universalName": "damon-libby-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Photography services based in Brighton and Hove.  Specialising in interiors and exteriors for small businesses.  One to one service to provide the best images for your business brand.  Providing quality images and professional service.  Serving  the south of UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "The Pastoral Counseling and Family Therapy PCFT Group", 
+    "twitterId": "", 
+    "industry": "Mental Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "585-473-2678", 
+        "phone1": "585-473-2671"
+       }, 
+       "address": {
+        "postalCode": "14618", 
+        "city": "Rochester", 
+        "street1": "2000 S. Winton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.PCFTGroup.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Psychotherapy", 
+      "Couples Therapy", 
+      "Pastoral Counseling", 
+      "Mental Health Counseling"
+     ]
+    }, 
+    "universalName": "pastoral-counseling-and-family-therapy-group", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Pastoral counseling and psychotherapy provided by the Mental Health Counseling Group, PLLC & the Marriage and Family Therapy Group, PLLC.\r\nExperienced and professional psychotherapy and pastoral counseling for individuals, couples, families and groups in Brighton and Rochester, NY. Some of the therapists of PCFT also provide Spiritual Direction."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Since Tails was set-up in 2008, we have been developing\r\nand fine-tuning our innovative cocktails and\r\nbespoke packaging.\r\n\r\nAll our cocktails are made with premium spirits and\r\nliqueurs, and our ingredients are natural; with no\r\npreservatives. Expertly blended and balanced, classic\r\ncontemporary cocktails, you really can enjoy anytime,\r\nanywhere.\r\n\r\nWe have received recognition from various industry\r\nexperts, winning a range of awards for our cocktails,\r\nand to bolster our claims, we now have a selection of\r\nvery prestigious partners who proudly stock our\r\nproducts.\r\n\r\nTails is proud to be a Bristol based business.\r\nTails also has stong trading links with Brighton and\r\nLondon.", 
+    "twitterId": "", 
+    "industry": "Consumer Goods", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0117 4967755"
+       }, 
+       "address": {
+        "postalCode": "BS8 4AA", 
+        "city": "Bristol", 
+        "street1": "The Clifton Arcade"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "B5 6SN", 
+        "city": "Birmingham", 
+        "street1": "Tails Ltd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.tailscocktails.com/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Cocktail Blending", 
+      "Packaging Design"
+     ]
+    }, 
+    "universalName": "tails-cocktails-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tails Cocktails Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Wedding Party DJs", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "weddingpartydjs.co.uk", 
+    "universalName": "wedding-party-djs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We rock wedding parties.\r\n\r\nMe and Gaz have been involved with music for years, and have DJ\u2019d together since we met in 2007.  Initially we did the Brighton club circuit and released a few underground songs as producers, but we quickly discovered that we also shared a passion for playing parties for people of all ages.\r\n\r\nAt a an important party two DJs can be beneficial as it guarantees someone is always on hand,  and we can set-up all the equipment quicker saving you any additional fuss.  We do not charge any extra so our prices are not effected. With the two us there is back-up, and you get the benefit of both of our music collections. In addition if requested or appropriate we can interact with your guests and take requests while the other DJ keeps the party going."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "name": "Audio T", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1966, 
+    "websiteUrl": "www.audiot.co.uk", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "Loudspeakers", 
+      "Amplifiers", 
+      "Record Players", 
+      "CD Players", 
+      "Streamers & Network Players", 
+      "DAC", 
+      "Headphones", 
+      "Projectors & Screens", 
+      "Hi-Fi Furniture", 
+      "Home Cinema Systems", 
+      "Televisions", 
+      "Blu-ray & DVD", 
+      "Demonstration Rooms", 
+      "Home Installation", 
+      "Sound & Vision Bristol Show", 
+      "Price Promise"
+     ]
+    }, 
+    "universalName": "audio-t", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Audio T is one of the oldest and most respected hi-fi retailers in the world having been in business for over 45 years! \r\n\r\nStarted in London in 1966 the company has always been innovative - selling the best from large and small companies alike. Our reputation for offering the best products combined with the best service and advice keeps our customers returning time and time again.\r\n\r\nIn September 2008 we merged with like-minded companies, Audio Excellence and Practical Hi-Fi. \r\n\r\nWe have 15 physical stores (Brentwood, Brighton, Bristol, Cardiff, Cheltenham, Enfield, Manchester, Oxford, Portsmouth, Preston, Reading, Southampton, Swansea, Swindon, Tunbridge Wells) and with our online store we are able to offer our goods and services to customers throughout he United Kingdom.\u2028 \r\n\r\nIn July 2010 we announced plans to join forces with Sevenoaks Sound & Vision but this ultimately did not work well for us and we rebranded all our stores as Audio T again.\r\n\r\nWe offer premium hi-fi products: loudspeakers, amplifiers, turntables, streamers, CD players, Racks/Stands portable hi-fi, headphones and much more...from leading manufacturers from around the world, many of whom are British companies that offer class leading products in their own right.\r\n\r\nWe are all enthusiasts who love music and film and are passionate about sound quality!\r\n\r\nLove music and film, love Audio T!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Behind the Glass Recordings", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.behind-the-glass.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Recording", 
+      "Editing", 
+      "Mixing", 
+      "Mastering"
+     ]
+    }, 
+    "universalName": "behind-the-glass-recordings", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Quality Music and Sound recording services in the Brighton and Hove area.\r\n\r\nRecording, Editing, Mixing, Mastering and Live Sound.\r\n\r\nIf you're interesting in working together please don't hesitate to get in contact:\r\n\r\nenquiries@behind-the-glass.co.uk\r\n07588541827"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "LJE Limited , formally infrasup Ltd, is the trading company for BeaconETS, infrasup\u00ae, diycomputers.org and Elixir Remedy Brands.\r\n\r\nWe hire experienced professionals and Industry experts, across our products and services. People who feel passionate about their work. Most of our staff are Freelance or Self Employed. \r\n\r\nAs a team we aim to provide 'The Best of the Best' service across all our Services\r\n\r\nBeacon Super Yachts Electronic Trading Solutions: 'Trade Outside'  for the Trader or Banker, who wants to work at sea, land or air, well away from their normal trading floor and its restrictions. Beacon ETS offer bespoke Marine I.T solutions for traders whilst at sea or in the air or anywhere away from a standard Broadband connection, see http://www.infrasup.com/beaconets *NEW for 2013\r\n\r\ninfrasup:'infra-sup' I.T Infrastructure Support, Marketdata & Open source Specialist. Since 1990  Our staff all worked on the UK's biggest I.T Infrastructures and companies, so are used to supporting systems that require 24-7 operation. Unix Linux Open Source and Banking Specialists, we also offer unique and bespoke solutions for Small Business too, see http://www.infrasup.com\r\n\r\ndiycomputers.org: 'Not for Profit' organisation to help anyone with I.T issues who is NOT a commercial organisation, see http://www.diycomputers.org.uk\r\n\r\nElixir remedy: This is the Home of Holistic Therapy for Brighton and Eastbourne and Fresh Remedy's from South Downs National Park see http://www.elixirremedy.com *NEW for 2013", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "07770451006", 
+        "phone1": "+44 207 112 6744"
+       }, 
+       "address": {
+        "postalCode": "BN9 9BA", 
+        "city": "Newhaven", 
+        "street1": "Newhaven Enterprise Center"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 317 187"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.ljeltd.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "I.T Consultancy", 
+      "Holistic Therapies and Remedies"
+     ]
+    }, 
+    "universalName": "lje", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "LJE"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Andrew W Rae", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.andrewwrae.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Music Composition", 
+      "Audio Production", 
+      "Sound Design"
+     ]
+    }, 
+    "universalName": "andrew-w-rae", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I am Andrew W Rae and I love all things audio.\r\n\r\nI specialise in Music Composition, Audio Production & Sound Design for all types of creative audio visual projects. \r\n\r\nMy services include, but are by no means limited to, the followings applications:\r\n\r\n- Film\r\n- TV\r\n- Web\r\n- Video Games\r\n- Events\r\n\r\nI have well-grounded experience in traditional, modern and innovative domains so whatever your audio needs are, I am 100% sure that I can deliver that all important final touch that your project deserves regardless of your location, budget or timeframe. My main priority is always to produce uncompromising top quality audio to the absolute best of my ability that not only compliments your work but that you and others will love.\r\nA little more about me:\r\n\r\nI have been fortunate enough to work with some amazingly talented and reputable clients from across the globe including UEFA, Saatchi & Saatchi, AMV BBDO, Ithaca Audio, Anna Ginsburg, Epic Cinema, Brighton Dome, Lack of Afro & Happy Finish. This has allowed me to work on projects which have gained an overwhelmingly positive response including well over 1,000,000 views online, a nomination for a 2013 Webby Awards, an honourable mention at the 2012 Taipei International Digital Content Awards and features by CBS, The Atlantic, Gizmodo, Music Radar, NME, Daily Motion, Vimeo and hundreds more websites and blogs.\r\n\r\nTo get a quote, or to simply have a chat, please do not hesitate to get in touch."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Since 1993, Lighthouse Wealth Management has been helping successful people and businesses bring the pieces together. With our team of fully qualified advisors, and a strong Administrative support team, we are there to support you along the way. Through our wealth of hands-on financial experience, we bring the very best options to your home or business. \r\n\r\nLighthouse Wealth Management is a holistic financial management group that consists of four managing partners who are full time financial planners carrying various designations. As a firm we deal with a wide range of clients and specific client needs, with specialists in wealth accumulation, protection, and transition.\r\n\r\nWe are well connected to other ethical and experienced professionals which we draw on as needed to meet our client's needs including Chartered Accountants, Estate Lawyers, Mortgage Borkers, Real Estate Agents and more, however we frequently work alongside our clients' existing professional advisory team, assisting them in the optimization of the wealth management strategy.  \r\n\r\nThe Brighton branch of the organization was established by David Sharp CFP, EPC in 1993. From there it has grown to include two additional branches - one in Peterborough and one in Smiths Falls.\r\n\r\nThe Peterborough branch of the organization was established by James Hughes BBA, CFP, CLU and Matthew Aston CFP, CLU, in 2006, with the purchase and opening of the office on Aylmer Street in 2010.\r\n\r\nThe Smiths Falls branch of the organization was established by David Sharp CFP, EPC and Shaun Johnston in 2009.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(705) 874-3262", 
+        "phone1": "(705) 748-5101"
+       }, 
+       "address": {
+        "postalCode": "K9J3K7", 
+        "city": "Peterborough", 
+        "street1": "294 Aylmer Street North"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.lighthousewealth.ca", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Financial Planning and Management", 
+      "Estate Planning and Transitioning", 
+      "Probate Planning and Protection", 
+      "Tax Strategy Development and Management", 
+      "Investment Management & Pensions", 
+      "Life Insurance Solutions", 
+      "Health Insurance & Group Benefits Plans"
+     ]
+    }, 
+    "universalName": "lighthouse-wealth-management-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lighthouse Wealth Management Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "EYEdeal trading", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.eyedealtrading.co.uk", 
+    "universalName": "eyedeal-trading", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Online glasses shop, offering high quality low cost prescription spectacles, and accessories, with a repair service and mobile consultation.\r\n\r\nStarted in 1999 as a high quality, low cost, alternative to the independent and multiple opticians, EYEdeal opened it's retail studio in Camden Road, Tunbridge Wells. Here we offered an exclusive range of EYEdeal designed frames and a bespoke handmade frame service, coupled with an unprecedented customer experience. Our mission was to supply the best quality product and top notch service at a fair price. We moved our studio to Brighton in 2007 where we continued our unique service. We decided to close our retail studio in 2008 and now focus on the internet experience, where we can keep overheads low. We still offer an exclusive range of glasses only available on our website. Known as the \"Gem\" range these frames were designed by us and manufactured for us, exclusively. We also offer a repair service and a mobile consultation service. Our mission is, still, to provide a quality product for a fair price with exceptional service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Dorothy Stringer School", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273852287"
+       }, 
+       "address": {
+        "postalCode": "BN1 6PZ", 
+        "city": "Brighton", 
+        "street1": "Loder Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.dorothy-stringer.co.uk", 
+    "universalName": "dorothy-stringer-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Secondary School in Brighton & Hove\r\n\r\nDorothy Stringer is a lively, vibrant and happy comprehensive school where it is safe to learn and where everyone can play their full part both inside and outside the classroom. We have approximately 1650 students and have high expectations and are ambitious for all of them.\r\n \r\n\r\nWe are looking for all past students and staff to join our alumni group."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Big Man Films Ltd", 
+    "twitterId": "", 
+    "industry": "Motion Pictures & Film", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bigmanfilms.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Film", 
+      "Television"
+     ]
+    }, 
+    "universalName": "big-man-films-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Based in the heart of Brighton's bustling filmmaking community, Big Man Films is working with award-winning writers and directors to produce high quality, cutting edge film and television projects across a variety of genres including drama, romance, comedy, horror and thriller.\r\n\"At Big Man Films, story is at the heart of everything we do. We're passionate about original ideas and work with talented writers to help them develop their scripts into great film and television projects. We currently have a diverse slate of productions at various stages of development \u2013 from horror and action adventure to TV comedy and epic fantasy series. We're not obsessed with any one genre \u2013 we're just obsessed with great storytelling.\""
+   }
+  ]
+ }
+}

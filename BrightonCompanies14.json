@@ -1,0 +1,638 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 280, 
+  "values": [
+   {
+    "websiteUrl": "www.brightonmarathon.co.uk", 
+    "numFollowers": 27, 
+    "industry": "Sports", 
+    "universalName": "brighton-marathon", 
+    "name": "Brighton Marathon"
+   }, 
+   {
+    "websiteUrl": "www.brightonflashback.co.uk", 
+    "numFollowers": 5, 
+    "industry": "Photography", 
+    "universalName": "flashback-brighton-pier", 
+    "name": "FlashBack Brighton Pier"
+   }, 
+   {
+    "websiteUrl": "www.homeinstead.com.au", 
+    "numFollowers": 28, 
+    "industry": "Hospital & Health Care", 
+    "universalName": "home-instead-senior-care-brighton", 
+    "name": "Home Instead Senior Care Brighton"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 186, 
+    "industry": "Primary/Secondary", 
+    "universalName": "brighton-area-schools", 
+    "name": "Brighton Area Schools"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 27, 
+    "industry": "Real Estate", 
+    "universalName": "remax-platinum-brighton", 
+    "name": "Remax Platinum Brighton"
+   }, 
+   {
+    "websiteUrl": "www.brightonareafire.com", 
+    "numFollowers": 39, 
+    "industry": "Government Administration", 
+    "universalName": "brighton-area-fire-department", 
+    "name": "Brighton Area Fire Department"
+   }, 
+   {
+    "numFollowers": 11, 
+    "name": "Gymophobics Brighton & Hove", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3YH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.gymophobics.co.uk", 
+    "universalName": "gymophobics-brighton-&-hove", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Ladies only gym\r\n30 minute workout\r\nall shapes, sizes, ages and abilities"
+   }, 
+   {
+    "numFollowers": 541, 
+    "name": "Brighton & Hove Albion FC", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1YR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.seagulls.co.uk", 
+    "universalName": "brighton-&-hove-albion-fc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Football Club"
+   }, 
+   {
+    "numFollowers": 40, 
+    "name": "Holiday Inn Brighton - Seafront", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN12JF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.hibrighton.com", 
+    "universalName": "holiday-inn-brighton---seafront", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "."
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "Brighton Acupuncture & Massage", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN33JD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonacupunctureandmassage.co.uk", 
+    "universalName": "brighton-acupuncture-&-massage", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Professional clinic specializing in therapeutic and deep tissue massage and acupuncture. Located in central Hove open 6-days a week."
+   }, 
+   {
+    "numFollowers": 8, 
+    "name": "Brighton Rag Magazine", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 5AB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://brightonrag.com", 
+    "universalName": "brighton-rag-magazine", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "An online mag packed with local & world news/features updated hourly. Our mutual goal, with http://Brightonesque.com, is to promote local business and artists."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Local Business Marketing and Social Media Marketing  is primarily about acquiring customers and understanding their response to what you have to offer. Our services to help you do that include, Social Media Management, Social Media Marketing, SEO - Search Engine Optimisation, Local Business Listing, Email Campaigns, Website Design and much more.\r\n\r\nIdentity and Branding. In order to maintain a steady client base we use a variety of techniques that do the most important job out there: Keep your customers coming back for more. Our goal is to get your company properly advertised and ready to the face any opposing competition.\r\n\r\nConsulting at Affordable Prices- \r\nStrategy & Consulting\r\nGetting to know you is the best part of this journey. Since we are advertising for you we take the time to get know your business and the potential clients out there for you. Our goal is not to build a website or an ad campaign but to work out a way for you to get more customers!", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 252707"
+       }, 
+       "address": {
+        "postalCode": "BN2 0EF", 
+        "city": "Brighton", 
+        "street1": "55 Canning Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://brightononlineconsultants.net", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Social Media Consulting", 
+      "Social Media Relationship Building", 
+      "Social Media Marketing", 
+      "Local Business Marketing", 
+      "Social Media Management", 
+      "Social Media Training", 
+      "Social Media Keynote Speaker"
+     ]
+    }, 
+    "universalName": "brighton-online-consultants", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Brighton Online Consultants"
+   }, 
+   {
+    "numFollowers": 52, 
+    "name": "Porsche Centre Brighton", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.porschebrighton.com.au", 
+    "universalName": "porsche-centre-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Australia`s newest Porsche Centre"
+   }, 
+   {
+    "numFollowers": 98, 
+    "name": "Brighton Real Estate Services", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.pyramidreo.com", 
+    "universalName": "brighton-real-estate-services", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "REO Asset Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1967, 
+    "description": "BHA is an investor-driven network of global allocators and vetted and approved asset managers who connect through BHA\u2019s network of trusted relationships. We help thousands of allocators and managers source, connect and meet to quickly and efficiently identify investment partners. \r\n\r\nOur staff is made up of experienced relationship managers, marketing professionals and research analysts who help members of our network connect with one another. BHA was founded in 2007 and is headquartered in Southborough, Massachusetts with offices in San Jose, California and London, UK.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "1.866.460.6462"
+       }, 
+       "address": {
+        "postalCode": "01772", 
+        "city": "Southborough", 
+        "street1": "2 Park Central Dr."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.brightonhouseassociates.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Research", 
+      "Alternative Investments", 
+      "Investor Relations", 
+      "Marketing", 
+      "networking"
+     ]
+    }, 
+    "universalName": "brighton-house-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton House Associates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 293, 
+    "description": "BIMM Group is the leading and most successful provider of modern music education in the UK and Ireland. Highly respected and connected within the music industry, BIMMs colleges have produced a number of best-selling artists and many leading songwriters, musicians, agents, producers, A&R, journalists, broadcasters and major label managers. \r\n\r\nIts five colleges are in the dynamic cities of London, Dublin, Manchester, Bristol and Brighton, ensuring that its 3,500 students are based in areas with thriving music scenes to get the most out of their talent. \r\n\r\nFrom creating music in the studio to performing live on stage to spotting the next breakthrough act, BIMM offers a broad range of first-class FE and HE qualifications in order to get the most out of each individual student, whether they are aspiring musicians or music-industry professionals. \r\n\r\nIt covers all bases, offering a direct pathway into one of the most sought-after vocations in the world. Full-time degree-level and pre-degree courses are offered in: Guitar, Bass, Vocals, Drums, Songwriting, Music Business, Event Management and Music Production. \r\n\r\nAcross the creative hubs of each college over 200 tutors mentor the next generation of industry professionals and nearly 80% of the colleges\u2019 6,000-strong alumni are currently employed in a variety of leading roles in the music industry.", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 2 646 666"
+       }, 
+       "address": {
+        "postalCode": "BN3 1EL", 
+        "city": "Brighton", 
+        "street1": "38-42 Brunswick Street West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 2 646 666"
+       }, 
+       "address": {
+        "postalCode": "BS2 8JN", 
+        "city": "Bristol", 
+        "street1": "25 King Square"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+353 1 5133 666"
+       }, 
+       "address": {
+        "postalCode": "Dublin 8", 
+        "city": "Dublin", 
+        "street1": "62 - 64 Francis Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 2 646 666"
+       }, 
+       "address": {
+        "postalCode": "M1 IMN", 
+        "city": "Manchester", 
+        "street1": "Great Malborough Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0203 503 0001"
+       }, 
+       "address": {
+        "postalCode": "SW6", 
+        "city": "London", 
+        "street1": "Effie Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.bimm.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Professional Music Education", 
+      "Diploma, Undergraduate & Post Graduate Provision", 
+      "Guitar, Bass, Drums, Vocals, Songwriting", 
+      "Music Business, Event Management & Music Production"
+     ]
+    }, 
+    "universalName": "brighton-institute-of-modern-music", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "BIMM Group: Brighton, Bristol, Dublin, Manchester and Tech Music School London"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Brite Blinds Ltd", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273722250"
+       }, 
+       "address": {
+        "postalCode": "BN3 5QN", 
+        "city": "Brighton and Hove", 
+        "street1": "Portland Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 266663"
+       }, 
+       "address": {
+        "postalCode": "BN14 9RY", 
+        "city": "Worthing", 
+        "street1": "7 Offington Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.briteblinds.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Blinds and Awnings", 
+      "Made to measure blinds", 
+      "Venetian Blinds", 
+      "Motorised Blinds", 
+      "Markilux Awnings"
+     ]
+    }, 
+    "universalName": "brite-blinds-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Suppliers of made to measure blinds, curtains and awnings in Brighton, Hove, Worthing and surrounding areas.\r\n\r\nBrite Blinds supply and fit a wide range of quality made to measure blinds, curtains and awnings at competitive prices in Brighton, Hove, Worthing and surrounding areas. We offer free home visits, expert advice, free measuring and quotations."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "European Wealth was established in 2010. We are a fast growing wealth management boutique, providing investment management and financial planning to private clients, institutions, trustees and charities. Our goal is simple \u2013 to protect and grow our clients\u2019 wealth. We have built a team of experienced professionals and have created a culture of highly personal service based on our core values, delivering independent and institutional quality investment and financial planning services. Those core values are Consistency, Fairness, Independence, Service, Transparency, Trust, and Market leading. We have built a strong internal culture characterised by openness and a determination to deliver excellence resulting in a loyal and highly motivated team whose welfare is central to our business. We have no responsibility and have not confirmed compliance with the FCA rules for any re-tweeted information or links to pages outside this site.\r\n\r\nBrighton Office\r\nOne Jubilee Street\r\nBrighton\r\nEast Sussex BN11GE\r\n\r\nEast Malling Office\r\nPark House\r\nPark Farm\r\nEast Malling Trust Estate\r\nBradbourne Lane\r\nAylesford\r\nKent ME206SN\r\n\r\nCheltenham Office\r\nEllenborough House\r\nWellington Street\r\nCheltenham\r\nGloucestershire GL501YD\r\n\r\nWokingham Office\r\nAlbany House\r\n14 Shute End\r\nWokingham\r\nBerkshire RG401BJ\r\n\r\nWorcester Office\r\nBradley Stuart House\r\n1A Shaw Street\r\nWorcester WR13QQ\r\n\r\nEuropean Investment Management Limited is a member of the London Stock Exchange. European Wealth is a trading style of European Investment Management Limited, registered in England and Wales number 06931664, and of European Financial Planning Limited, registered in England and Wales number 01265376, which are authorised and regulated by the Financial Conduct Authority. European Wealth Management Group plc is registered in England and Wales number 06931031. Their registered office is Ellenborough House, Wellington Street, Cheltenham, Gloucestershire GL50 1YD", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "EC2N 2HG", 
+        "city": "London", 
+        "street1": "10-11 Austin Friars"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.europeanwealth.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Wealth Management", 
+      "Financial Planning", 
+      "Investments", 
+      "Financial Growth"
+     ]
+    }, 
+    "universalName": "european-wealth-management-group", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "European Wealth Management Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We want you to know that this is not just another chiropractic clinic in Brighton, MI. Lifetime Family Chiropractic is focused on wellness not only in the Brighton-Howell area, but all of Livingston County. Throughout your experience in our office you will receive a constant stream of the most current information available in chiropractic and health care today from Dr. Melissa Osborn, Danielle and Katie. We offer a unique experience that revolves around education and compassion.  We offer this open and honest information to empower you so you can make better, more informed health decisions. It is Lifetime Family Chiropractic's goal to not only improve your body, but also improve your mind, spirit and overall health.\r\n\r\n In our office we cater to families and children! Dr. Melissa Osborn offers specialized care that is tailored to each and every person who walks through our doors.\r\n\r\nAt Lifetime Family Chiropractic we promise to serve you beyond your expectations, challenge you beyond previous limitations and enlighten you with insights that will not only help you change your health, but your life as well. Dr. Melissa Osborn, Danielle and Katie look forward to meeting you and seeing how we can help you achieve your individual health goals through natural chiropractic care.\r\n\r\nOptimal Spine Equals Optimal Health!", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://brightonlfc.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Chiropractic", 
+      "Wellness", 
+      "Holistic Health", 
+      "Chronic Pain"
+     ]
+    }, 
+    "universalName": "lifetime-family-chiropractic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lifetime Family Chiropractic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "The Brass Trunk was established in August of 1985 and we've been in the same location and offering the latest fashions ever since. The Brass Trunk is a ladies boutique with a one-of-a-kind experience, including personal assistance from a friendly and knowledgeable staff.\r\n\r\nThe Brass Trunk is also well known for truly unique trunk shows with designers like Brighton, Nest Jewelry and Dian Malouf. Make sure to check our calendar of events often so you don't miss one.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "903.935.3645"
+       }, 
+       "address": {
+        "postalCode": "75670", 
+        "city": "Marshall", 
+        "street1": "111 East Travis St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "http://www.brasstrunk.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Brighton Collectibles", 
+      "Accessories", 
+      "Designer Fashions", 
+      "Shoes", 
+      "Gifts"
+     ]
+    }, 
+    "universalName": "the-brass-trunk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Brass Trunk"
+   }
+  ]
+ }
+}

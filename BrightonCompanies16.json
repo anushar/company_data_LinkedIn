@@ -1,0 +1,881 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 320, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Biggest events company in Brighton. Currently running 4 nights a week in Brighton and 1 in Eastbourne. Expanding to even more cities in 2013.\r\n#Hashtag Mondays @ Madame Giesha & LIFE\r\nC U Next Tuesday @ Digital\r\nF/Y/I Friday @ Hedkandi\r\nXXY Saturday @ Life", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Rox HQ"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Eastbourne", 
+        "street1": "Tjs NightClub"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.facebook.com/ilovebrightonrox", 
+    "universalName": "rox-pr", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "ROX PR"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "La Cave a Fromage is a lovely cheese retailer offering the very best in primarily French and British cheese at our London and Brighton shops.\r\n\r\nOur first shop in London  opened in 2007 by Eric Charriaux and Amnon Paldi,  followed by our Brighton shop in 2010. Both Eric and Amnon are  passionate about cheese. \r\n\r\nLa Cave a Fromage has a magnificent selection of cheese selected with benefit of years of experience working with UK restaurants and artisanal cheese producers. \r\n\r\nOur passion for cheese allows us to mature some cheese for up to 12 months under the brand of \"La Cave\" \r\n\r\nOur friendly and knowledgeable staff are trained to a very high level under the watchful eye of Eric and Amnon sho pass their passion on to team members. \r\n\r\nBoth shop have a tasting cafe where you can relax and enjoy  a selection of cheese, charcuterie and wine. \r\n\r\nOur tasting events gives you the opportunity to find out more about farmhouse cheese  where they are from and how they are produced. \r\n\r\nLA Cave a Fromage is a food gem to explore.", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0207 581 1804"
+       }, 
+       "address": {
+        "postalCode": "sw7 2ld", 
+        "city": "London", 
+        "street1": "24 - 25 Cromwell Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 725500"
+       }, 
+       "address": {
+        "postalCode": "BN1 2PA", 
+        "city": "Brighton and Hove", 
+        "street1": "34 - 35 Western Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.la-cave.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Cheese", 
+      "Wine", 
+      "Charcuterie"
+     ]
+    }, 
+    "universalName": "la-cave-a-fromage", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "La Cave a Fromage"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Dawson Denim", 
+    "twitterId": "", 
+    "industry": "Luxury Goods & Jewelry", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.dawsondenim.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Selvage Denim", 
+      "Design", 
+      "Workwear", 
+      "Manufacture"
+     ]
+    }, 
+    "universalName": "dawson-denim", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We make Denim Workwear in Brighton, East Sussex, UK.\r\n\r\n \r\nDawson; a City in Yukon, Canada, which was the last stop of the Gold rush also known as the Klondike Quest of the 1890\u2019s. It\u2019s also our family name. The gold rush brought the biggest boom in Denim production between 1870 and 1900.\r\n \r\nWe\u2019ve been working with Denim for over 15 years and we now feel the time has come to produce our own, all of our products are made in our own specialist workshop in Brighton, East Sussex.\r\n \r\nEach piece comes with a \u201clog book\u201d inspired by the same document from the golden age of motoring. The ideal of being built to last has long been forgotten but we are proud to be able to offer a durability guarantee with each of our products. This log book entitles the owner to a service in the first six months when any wear and tear created in this time will be repaired by hand here in the workshop. This service in no way affects the owner\u2019s statutory rights.\r\n \r\nWe use 13oz Red Selvage from Japan, red in Selvage was introduced around the 1930\u2019s to denote the highest quality. The mill we work with is family run and is over100 years old. Selvage or Self-edge is also the oldest, most authentic denim woven on the original looms.\r\n \r\nOf course you can always drop us a line for more tips or geeky history anytime, there is a handy form on this website and we\u2019ll get back to you or you can take a read of our Denim Dictionary."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Compleat Gourmet and Gifts, located at 7592 S. University Blvd, Centennial, Colorado, is a unique retail store that carries an assortment of kitchenware and tabletop items as well as well-loved products from Vera Bradley and Brighton and beautiful Fair Trade goods, made by women from Rwanda.\r\n\r\nFor over 28 years, Compleat Gourmet & Gifts has been locally owned and operated. Their knowledgeable and friendly staff has over 200 years of collective experience! Stop by and let us show you the unique gifts we have to offer and the latest in kitchen and dinnerware products.\r\n\r\nCall 800-366-9222 for phone orders.\r\n\r\nVisit at www.compleatgourmet.com.\r\n\r\nLike on Facebook at facebook.com/compleatgourmetandgifts. \r\n\r\nFollow on Twitter at @compleatgifts.\r\n\r\nPin us at Pinterest at pinterest.com/compleatgourmet.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303-290-9222"
+       }, 
+       "address": {
+        "postalCode": "80122", 
+        "city": "Centennial", 
+        "street1": "7592 S. University Blvd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "http://www.compleatgourmet.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Kitchenware", 
+      "Dinnerware", 
+      "Brighton jewelry and handbags", 
+      "Vera Bradley"
+     ]
+    }, 
+    "universalName": "compleat-gourmet-and-gifts", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Compleat Gourmet and Gifts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Silver Square Media is a Brighton-based web design and development company providing website and branding solutions to Brighton, Hove and surrounding areas of Sussex. We specialise in creating CMS-based websites and offering graphic design services to small businesses in the United Kingdom.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 929 444"
+       }, 
+       "address": {
+        "postalCode": "BN1 6SB", 
+        "city": "Brighton", 
+        "street1": "Stanford House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.silversquaremedia.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Graphic Design", 
+      "Branding", 
+      "Logo Design", 
+      "Illustration", 
+      "Artwork", 
+      "Wordpress", 
+      "Umbraco", 
+      "Sitefinity"
+     ]
+    }, 
+    "universalName": "silver-square-media-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Silver Square Media UK"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "name": "LATEST TV", 
+    "twitterId": "", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Latest TV"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thelatest.tv", 
+    "universalName": "latest-tv", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A new TV Channel launching in Brighton & Hove and surrounding areas. Available on Freeview Channel 8, Virgin & Sky in autumn 2013.\r\n\r\nMeanwhile you can enjoy Latest TV Brighton Lights on Facebook or online at www.thelatest.tv\r\n\r\n\r\n\r\nSee also: Latest Homes / Latest 7 magazine and Latest music bar"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Sussex Funeral Services", 
+    "twitterId": "", 
+    "industry": "Individual & Family Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.sussexfunerals.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Funeral Directors Brighton", 
+      "Funeral Arrangements Hove", 
+      "Celebrant Services Brighton", 
+      "Funeral Services Hove"
+     ]
+    }, 
+    "universalName": "sussex-funeral-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We are an independent Funeral Directors based in Hove, East Sussex.  We offer a complete funerary service providing all aspects of funeral care and arrangements beginning from the moment you contact us. We are able to provide services for a variety of different religions and belief systems, and will always respect your wishes."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "name": "Chichester Wedding Photographer", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01243 786319"
+       }, 
+       "address": {
+        "postalCode": "PO19 3BE", 
+        "city": "Chichester", 
+        "street1": "7 Orchard Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://chichesterweddingphotographer.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Wedding photography Sussex", 
+      "Reportage wedding photography Sussex", 
+      "Contemporary wedding photography Sussex", 
+      "Natural wedding photography Brighton", 
+      "Photojournalist Sussex"
+     ]
+    }, 
+    "universalName": "chichester-wedding-photographer", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "I have been a practicing wedding photographer for a number of years now, and still love what I do. I specialise in Reportage and Contemporary styles of wedding photography, but can still take all the traditional shot's too if that is what you wish. \r\nI am based in Chichester, West Sussex, and primarily work throughout Sussex in area's such as Chichester, Arundel, Worthing, Brighton, Lewes and Eastbourne. I am also available to work in Hampshire and Surrey if required to.\r\nPlease take a look at my web site for more information, and to see examples of my work."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Meloy Architects were established in 2008 to provide a high quality contemporary architectural service based in Brighton. The practice has already worked on a range of projects in Brighton, London and throughout Sussex and Hampshire.\r\n \u00a0\r\nThe design led practice offers a sustainable architectural design and masterplanning service. We work closely with clients and stakeholders to understand the needs of the project and undertake a rigorous analysis to develop a scheme from concept through planning to construction on site.\r\n \r\nWe are able to offer this service over a range in scales by utilising extensive experience on large commercial buildings and masterplans through to small bespoke one of houses and extensions. The practice works across this range in scale and typology to avoid a specialisation that would otherwise stagnate architectural thought. \u00a0\r\n\r\nAs a practice we are committed to delivering the highest standards of architecture within the constraints of budget and brief.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 371165", 
+        "phone1": "01273 311165"
+       }, 
+       "address": {
+        "postalCode": "BN2 9XF", 
+        "city": "Brighton", 
+        "street1": "14 Whichelo Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.meloy.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Design", 
+      "Masterplanning", 
+      "Interior Design", 
+      "Residential", 
+      "Commercial", 
+      "Public and Private Sector", 
+      "Religious buildings", 
+      "Sustainability", 
+      "Office"
+     ]
+    }, 
+    "universalName": "meloyarchitects", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "MELOYarchitects"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "name": "Entertain Wirral", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.entertainwirral.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Wedding Entertainment", 
+      "Events Entertainment", 
+      "Live Music", 
+      "Close Up Magic", 
+      "Venue up-lighting", 
+      "DJs & Discos"
+     ]
+    }, 
+    "universalName": "entertain-wirral", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "A reliable Wirral entertainment business specialising in Wedding Entertainment Packages. Special Events & Corporate Entertainment. Party Packages.\r\n\r\nDJ's & Discos/ karaoke\r\nVocalist, \r\nLive Rock & Roll Band,\r\nAcoustic Duo,\r\nSolo vocalist, \r\nClassical /Spanish Guitarist,\r\nPianist,\r\nSoprano singers,\r\nDrag artistes,\r\nClose Up Magician,\r\nVenue Up-lighting.\r\n\r\nWe are not an agency. Entertain Wirral is a team of hard working, talented individuals with one goal, to make your event the best it can be.We offer a full consultation service for all events so you can be sure we will cater to special requests.\r\n\r\nEntertain Wirral are proud to be recommended entertainment supplier for Funky Sunflower Events & The Lauries Centre, Birkenhead. \r\n\r\nEntertain Wirral are resident DJ & Disco providers for events at  the Hollins Hey Hotel, New Brighton.\r\n\r\nEntertain Wirral provides the regular weekend and special events DJs for Grosvenor G Casino, New Brighton.\r\n\r\nCredentials;\r\nA registered UK business. Member of AmpDJ. \r\nFully Insured for public liability. All audio and lighting equipment is P.A.T tested by P.W.L PAT UK & is fully legally compliant.\r\nEntertainers:\r\nDJs - Steve Lloyd, Neil Hollingworth, Danny Docherty, Dominic McClean, Shaun King, Michael Peek.\r\nClose Up Magician - John Holt.\r\nAcoustic Duo - Telegraph Road.\r\nFour Piece Rock & Roll Band - Lemon Echo.\r\nVocalist - Michael Peek.\r\nDrag Artiste - Dysney Dickson & friends.\r\nClassical /Spanish Guitarists.\r\nPianist - D Heyes"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Breckman & Company, chartered certified accountants, have specialised in the \u201cArts and Entertainment Industry\u201d for over 50 years, for both individuals and companies. We are based in the West End of London, near the heart of \u2018Theatre Land\u2019. We also have an office in Brighton (95 Ditchling Road, Brighton BN1 4ST.  # 01273 929 350).\r\n\r\nReferred to by The Stage Newspaper \"The Leading Showbusiness Accountants\" we are a leading authority in this specialist field.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.breckmanandcompany.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Self-assessment", 
+      "Limited company accounts", 
+      "Audits", 
+      "Charities"
+     ]
+    }, 
+    "universalName": "breckman-and-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Breckman and Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "Enliven Massage Therapy provides a complete fully mobile massage treatment service in the Brighton & Hove and Worthing areas.\r\n\r\nEnliven is committed to enhancing your health and wellbeing through our holistic form of massage. Based in Brighton, we are a mobile company able to bring our massage couch or massage chair to any event, convention, place of work or in the comfort of your own home.\r\n\r\nAt Enliven we are fully qualified, insured and CRB checked massage practioners, who are dedicated to delivering a highly effective, timely and affordable massage experience that fits into your busy schedule.\r\n\r\nMany people regard massage as an indulgent treat, but denying yourself the pleasure of a good rubdown means you`ll be missing out on a hugely beneficial and scientifically proven health tonic. Researchers have discovered that massage helps repair muscle and reduce inflammation after exercise, they also concluded the pain relieving benefit of massage may be comparable to the anaesthetic effects of anti-inflammatory medicine. Other health benefits include fast stress relief, lower back pain beater and boosted immunity to name but a few.\r\n\r\nEnliven can provide either specific sports / remedial massage required for a particular problem, or a relaxing and rejuvenating holistic / swedish full body massage to stimulate and calm the body.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07545 099494"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AD", 
+        "city": "Brighton", 
+        "street1": "Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.enlivenmassagetherapy.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Sports & Remedial Massage", 
+      "Holistic / Swedish Massage", 
+      "Reduce spasms / cramps / back pain", 
+      "Improve flexibility & Sleep quality"
+     ]
+    }, 
+    "universalName": "enliven-massage-therapy", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Enliven Massage Therapy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Hire and Installation of Public Address Systems, Lighting, Audio Visual and Effects equipment within Brighton and the surrounding areas.\r\nDry hire of sound and lighting equipment suitable for use for Conferences, Live events, Parties, Weddings, etc.\r\nInstallation of sound and lighting equipment suitable for use within Pubs, Clubs, Theatres, Restaurants, Schools, Houses of Worship, etc.\r\nPremises situated at:\r\n\r\n42 New England Road, Brighton, East Sussex, BN1 4GG\r\n\r\nLoading bay available and local parking nearby\r\n\r\nOpening Times: Mon-Fri 10AM-5.30PM, Sat 10AM-1PM\r\n\r\nTel: 01273 600678\r\nFax: 01273 606969\r\nEmail: mail@boathaudiovisual.co.uk\r\nWeb: www.boathaudiovisual.co.uk", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "www.boathaudiovisual.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "PA Hire", 
+      "Audio Visual Hire", 
+      "Lighting Hire"
+     ]
+    }, 
+    "universalName": "bav---boath-audio-visual", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "BAV - Boath Audio Visual"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Cleanskin Fitness offers circuit \u2013based boxing classes for both individuals and corporates, operated from two fully equipped bayside locations in Melbourne.\r\n\r\nBoxing offers a complete fitness solution for any level.  The benefits of regular boxing training include increased cardio vascular efficiency, agility and flexibility, strength and core stability, defensive techniques, sharpening reflexes, stress release, increased energy and focus.  Boxing is unique in that no matter how much you know and how much you train, you never really plateau because there\u2019s always more to learn. \r\n\r\nCleanskin Fitness currently operates from the Elwood Angling Club, Elwood Foreshore and at The Brighton Sea Scouts hall, Brighton Foreshore.  They\u2019re serious boxing workout facilities that scream, \u2018hard work in progress\u2019.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.cleanskinfitness.com.au", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Boxing training", 
+      "Personal fitness training", 
+      "Circuit-based group boxing and fitness"
+     ]
+    }, 
+    "universalName": "cleanskin-fitness", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cleanskin Fitness"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Curve IT are an IT Support Company based in Brighton. We supply IT Support in Brighton and throughout the South East. Our clients are small and medium sized businesses located mainly in the local area, but also across the south of England and within London.\r\n\r\nOur mission is to provide a reliable and responsive IT support service, taking away your IT worries and allowing you to get on with what your business does best!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 806220"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EJ", 
+        "city": "Brighton", 
+        "street1": "11 Old Steine"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.curveit.com", 
+    "universalName": "curve-it", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Curve IT"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Defining the look of a generation, denisonboston of Brighton, England, is the award-winning accessory brand for the modern man. \r\n\r\nWith its signature look of form, pattern and colour denisonboston designs and builds a distinctive array of modern accessories for modern man.  \r\n\r\nThe Company is in its 8th year and sells internationally into men\u2019s fashion and accessory speciality stores and department stores worldwide .  \r\n\r\nRecent awards include: \r\n\u2022\tUK Fashion Export Award 2008 (Winner for men\u2019s accessories)\r\n\u2022\tUK Fashion Export of the Year Award 2009 (finalist in two categories)\r\n.                Gift of the Year 2010 (Fashion accessories) \r\n\r\n \r\nThe collection\r\n\r\ndenisonboston's new season collection of accessories for the modern man draws inspiration from times gone by when accessorising was an essential part of dress.  We take traditional men\u2019s accessories and by adding key patterns and colour the collection takes on a modern twist.\r\n\r\nUnderpinned by a sense of provenance and traditionalism denisonboston colour is bold and pattern nods to our heritage.  Hand made in England ties, bow ties, pocket hanks and scarves together with the finest Italian made socks. \r\n\r\nCore products include cufflinks, tieclips, dress studs & collar stays all hand enamelled and finished in Brighton England.  Quality and purity prevail to create a modern accessories collection for the modern man", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)01273 202095"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton & Hove", 
+        "street1": "9 a/b Eaton Grove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.denisonboston.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "mens accessories"
+     ]
+    }, 
+    "universalName": "denisonboston", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "denisonboston"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "We are a dynamic privately held real estate company dedicated to helping people realize their real estate goals.  Whether that means investing in a property to live in or making real estate investing their primary investment vehicle.\r\n\r\nWe service the I-275 corridor in Western Wayne County that stretches up through Oakland County. as well as  Howell, Brighton and Livingston County down through Washtenaw County.\r\n\r\nMore specifically for you \"out of towners\", Remerica Hometown serves the Southeastern Michigan region including Livingston, Oakland, Washtenaw & Wayne Counties.  Cities and townships include: Plymouth, Canton, Northville, Novi, South Lyon, Livonia, Farmington, Farmington Hills, Commerce, Wixom, Milford, Howell, Brighton, Royal Oak, Redford, Metro Detroit, Westland, Garden City, Wayne, Salem and Belleville.\r\n\r\nWe also offer leasing and full property management services to people who have become \"Landlords by default\".  These are people who cannot sell their house in todays current economy and turn to leasing it out.\r\n\r\nPlease inquire about other addtional services offered through Remerica Hometown.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "http://www.RemericaHometown.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Residential Sales and Leasing", 
+      "Leasing and Full Property Management", 
+      "Real Estate Consulting", 
+      "Investment Property"
+     ]
+    }, 
+    "universalName": "remerica-hometown", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Remerica Hometown"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Charles River Canoe & Kayak specializes in canoe, kayak, and stand-up paddleboard rentals at five locations: in Boston (Allston/Brighton), Cambridge (Kendall Square), Newton (on Comm. Ave/Auburndale), in Nahanton Park, and Natick (in Lake Cochituate State Park). All have stable single kayaks, fun double kayaks, family-friendly canoes, and exciting stand-up paddleboards. We offer group and corporate outings, birthday parties, ten-person canoes, and much more! We also offer amazing guided tours like our Skyline & SunsetTours from Kendall Square, our Boston Harbor Tours from Kendall Square, our Barbeque Kayak Tours from Kendall Square and Allston/Brighton, and our Moonlight Canoe Tours from Newton/Auburndale. We also have a full-service Paddling Store in Newton/Auburndale and a Paddling School that offers classes and sea kayaking trips.\r\n\r\nWeston Ski Track is a cross-country ski and snowshoeing center located on the Leo J. Martin Golf Course, with natural snow, we groom 15km of trails. Snowmaking on our 2km lighted loop provides consistent snow conditions and reliable night skiing even when your lawn is green. We also host the Bill Koch league and many High School ski teams. Drop in for a beginner lesson and then warm up in our snack bar. \r\n\r\nKendall Square Community Ice Skating offers ice skating on a refrigerated and Zamboni-maintained surface, skate rentals, lessons, and a snack bar to warm any cold feet at the end of your skate. We\u2019re T accessible via the Red Line (Kendall/MIT)!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "www.PaddleBoston.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Canoeing", 
+      "Stand Up Paddling", 
+      "Kayaking", 
+      "Cross-Country Skiing", 
+      "Ice Skating"
+     ]
+    }, 
+    "universalName": "charles-river-recreation", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Charles River Recreation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 74, 
+    "description": "YourRecruit has been established for over 17 years and has a wide range of  services ranging from fully managed to advertising only services.  Over time our goal has been to develop recession proof recruitment products that don't cost the earth and provide exceptional quality staffing solutions to SME's and Blue Chip brands.\r\n\r\nWith branches across the UK in Brighton, Guildford, Horsham and Leatherhead with our Caterham office still standing as our flag ship branch we aim to service the South of England.\r\n\r\nTowards the end of 2011 we set up YourRecruit IT which, based in Brighton offers competitively priced staffing solutions to a range of clients in various specialisms.  By mid-2013 we will be opening our second branch and extending our services.\r\n\r\nOur recruitment team are exceptionally passionate about the business and we consider our staff to be unbeatable recruiters with a flair for their craft day in and day out. \r\n\r\nIf you want to find out more about us and our busines please go to www.yourrecruit.com for the commercial offices and www. yourrecruitit.com for our I.T. company.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01883 330202", 
+        "phone1": "01883 330336"
+       }, 
+       "address": {
+        "postalCode": "CR3 6PA", 
+        "city": "Surrey", 
+        "street1": "21-23 Croydon Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01483 789 813", 
+        "phone1": "01483 789 812"
+       }, 
+       "address": {
+        "postalCode": "GU2 7YB", 
+        "city": "Guildford", 
+        "street1": "3000 Cathedral Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01372 826 513", 
+        "phone1": "01372 826 512"
+       }, 
+       "address": {
+        "postalCode": "KT22 7PL", 
+        "city": "Leatherhead", 
+        "street1": "Dorset House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273  634 738", 
+        "phone1": "01273 634 737"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XF", 
+        "city": "Brighton", 
+        "street1": "Queensbury House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01403 342 307", 
+        "phone1": "01403 342 306"
+       }, 
+       "address": {
+        "postalCode": "RH12 1TL", 
+        "city": "Horsham", 
+        "street1": "2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.yourrecruit.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Nationwide Recruitment", 
+      "Commercial Recruitment", 
+      "Temporaries Recruitment", 
+      "Account Management", 
+      "I.T. Recruitment", 
+      "Recruitment advertising", 
+      "Low cost recruitment", 
+      "Contract recruitment", 
+      "Financial recruitment", 
+      "Warehouse recruitment"
+     ]
+    }, 
+    "universalName": "yourrecruit", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "YourRecruit"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Exclusive to Brighton & Hove, Original Music Knights proudly present Band of Teachers, a music tuition school specializing in a wide range of professional services in music tuition including 1 to 1 private & group lessons, Music Workshops and Music groups and clubs in primary schools around Brighton & Hove. With both classical and contemporary instruments on offer, and with a variety of course options to choose from, Band of Teachers cover everything you need to become a fantastic musician. We offer a fun and personalized learning experience that not only covers the techniques and theory to become a great musician, but also the knowledge on how to use your talents to become a successful musician.", 
+    "twitterId": "bandofteachers", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton and Hove", 
+        "street1": "0"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.bandofteachers.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Music Tuition on any instrument", 
+      "1 to 1 lessons", 
+      "Group lessons", 
+      "School visits", 
+      "Guitar"
+     ]
+    }, 
+    "universalName": "band-of-teachers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Band of Teachers"
+   }
+  ]
+ }
+}

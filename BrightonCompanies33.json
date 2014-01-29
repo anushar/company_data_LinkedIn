@@ -1,0 +1,901 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 660, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "At Parker Bathrooms we provide a personalised service designing and supplying bespoke bathrooms throughout Sussex, Surrey and London.  We are a family run business that offers an extensive selection of the world\u2019s leading brands. Located in the elegant Seven Dials area of Brighton and Hove we have been supplying tailor-made bathrooms for over 25 years.\r\n\r\nAs expert bathroom designers we collaborate with you to create the bathroom of your dreams, paying attention to even the smallest of details. Every client and every bathroom is important to us and we guarantee our bespoke service will give you the best design experience that you could wish for. \r\n\r\nWe invite you to browse our showroom or call us for more details - whether it\u2019s a stylish bathroom update or a complete remodel, we pride ourselves in offering an excellent service providing quality products at a competitive cost.\r\n\r\nWelcome to Parker Bathrooms.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3JD", 
+        "city": "Brighton, BN1 3JD", 
+        "street1": "66-70 Dyke Road,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "parkerbathrooms.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Bathroom Design", 
+      "Bathroom Supply", 
+      "Saunas & Wetrooms", 
+      "Italian Tiles", 
+      "Designer Bathrooms", 
+      "Bathroom CAD Design", 
+      "Sustainable Bathrooms", 
+      "Eco Bathrooms", 
+      "Kitchen Design", 
+      "Mosaic Tiles", 
+      "Aquaclean Showroom", 
+      "W+W showroom", 
+      "Wetroom showroom", 
+      "Bathroom flooring"
+     ]
+    }, 
+    "universalName": "parker-bathrooms", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Parker Bathrooms"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "skribita", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.skribita.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Writing courses", 
+      "Event organization and management", 
+      "Magazine articles, books and events for writers", 
+      "Consultancy for SMEs and not-for-profits"
+     ]
+    }, 
+    "universalName": "skribita", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "skribita is \u2026 all about discovering hidden talents and new skills \u2026 or finessing old ones.\r\n \r\nskribita is \u2026 an on-going series of Brighton-based workshops, weekends and events where writers share their craft, offer advice and reveal tricks of the trade. \r\n\r\nskribita is \u2026 not like having to do your homework! Our courses are accessible, illuminating, inspiring, collaborative, confidence-building \u2026 and fun!\r\n \r\nskribita is \u2026 an on-going resource for writers, both new and experienced. As a friend of skribita, you can join the writers\u2019 bloc on-line forum and find like-minded creative people, ready to share techniques, celebrate successes and help you to cut through those paralysing \u2018is-it-just-me?\u2019 confidence dips. Because we\u2019re all on the same page.\r\n \r\nskribita is \u2026 the brainchild of Sue Teddern and Edward Crask. They know that writing doesn\u2019t always have to be a solitary slog. Come and join the party!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Epicuro", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.epicuro.co.uk", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Waterproofing", 
+      "Stone Protection", 
+      "Concrete Protection", 
+      "Pavement protection", 
+      "Anti-graffiti protection", 
+      "Stone cleaners", 
+      "Granite cleaner", 
+      "Concrete cleaners", 
+      "Efflorescence removal", 
+      "Coating removers", 
+      "Silanes alternatives", 
+      "Water repellent treatments", 
+      "Hydrophobic Impregnation"
+     ]
+    }, 
+    "universalName": "epicuro", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Epicuro operates at the leading edge in the realisation of green building products that are both superior in performance and environmentally safer than others. Our products all come with high value, expert advice that ensures our customers and their clients realise the best possible outcomes from them.\r\n\r\nEpicuro manufacture products for:\r\n\r\n- Cleaning stone, render and concrete structures and pavements\r\n- Protection of rail and highway concrete structures\r\n- Protection of stone and concrete buildings and pavements\r\n- Graffiti removal and protection\r\n- Coating removal\r\n- Cement & concrete removal\r\n- Anti-carbonation\r\n- Floor screeds & coatings\r\n- Waterproofing\r\n- Grout injection\r\n- Water seepage\r\n- Damp elimination and prevention\r\n\r\nRecent projects where Epicuro products have been used include:\r\n\r\n- London Bridge Station refurbishment\r\n- Brighton Goods Bridge No.6, Battersea, London\r\n- Borough Viaduct, London\r\n- Tyne-tunnel 2, Newcastle-Upon-Tyne\r\n- New Elvet Bridge, Durham\r\n- Museum of Liverpool\r\n- Olympic Village, Stratford, London\r\n- Dunderave Castle, Argyll, Scotland"
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 2, 
+    "name": "PC Surgeons Australia Pty Limited", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.pcsurgeons.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Computer Repairs", 
+      "Computer Sales", 
+      "Website Design", 
+      "Website Hosting"
+     ]
+    }, 
+    "universalName": "pc-surgeons-australia-pty-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "PC Surgeons Australia Pty Limited was founded in 2000 and was a retail computer sales & repairs company based in Brighton, Queensland. PC Surgeons offered complete ICT solutions including Desktop and Server Sales and Support, Networks and Cabling, Website Design and Hosting and IT consultancy services."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Chris Moore Transport is an independent company with over 30 years experience in the plant hire and earth moving environment.\r\n\r\nWe have worked on many contracts since Chris Moore started the business in 1972 and just a few examples of these are listed below:\r\n\r\nOlympics, Stratford site\r\nNortholt Airfield, Gatwick Airport\r\nRoads: M1, M3, M4, M23, M25, M27, M42, A3, A23\r\nRose Bowl, HCC Cricket Ground, RAF Naphill\r\nCorby Steel Works\r\nHousing Projects: Basingstoke, Boscombe Down, Lee-on-Solent\r\nWaste sites: Brighton, Lymington, Westbury, Heathrow, Beddington Lane Croydon\r\nSainsburys Winchester\r\nChris takes a personal pride and interest in providing a first-class, professional and efficient service.\r\n\r\nSpecialising in the hire of dumptrucks with a modern fleet of Bell ADT's.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01420 23555"
+       }, 
+       "address": {
+        "postalCode": "GU34 4JF", 
+        "city": "Alton", 
+        "street1": "Mill Court Barns"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "www.dumptruckhire.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Plant Hire", 
+      "Earthmoving", 
+      "Construction"
+     ]
+    }, 
+    "universalName": "chris-moore-transport", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Chris Moore Transport"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Kor Chiro Studio is your source in Brighton, MI for vitalistic chiropractic care. We don't focus on what's wrong with you but rather what's right with you! We understand that people come in with issues but they leave with a renewed understanding of how amazing their body is and how it truly works! Our goal is to increase the life within you and allow your body to express healing and true health through chiropractic care. \r\n\r\nFor more information about transforming your life visit our website (korchirostudio.com) or call us at (810) 360-0338. We'd love to hear from you!", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-360-0338"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "455 E Grand River Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://korchirostudio.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "chiropractic", 
+      "wellness", 
+      "health", 
+      "prevention"
+     ]
+    }, 
+    "universalName": "kor-chiro-studio", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "kor chiro studio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "name": "Deans Place Hotel", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1323 870918", 
+        "phone1": "+44 (0)1323 870248"
+       }, 
+       "address": {
+        "postalCode": "BN26 5TW", 
+        "city": "Alfriston", 
+        "street1": "Seaford Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.deansplacehotel.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Hospitality", 
+      "Fine Dining", 
+      "Weddings", 
+      "Conferences", 
+      "Private Functions"
+     ]
+    }, 
+    "universalName": "deans-place-hotel", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Originally a vast farming estate, Deans Place became a private Hotel at the beginning of the 20th century.  Since then the estate has evolved into a highly regarded Alfriston Hotel and Restaurant, combining heritage charm with impeccable service and tranquility.\r\n\r\nSet on the banks of the Cuckmere River at the foot of the South Downs National Park, our  idyllic position offers exhilarating contrasts for short break in Sussex.  Enjoy the bustle of Alfriston Village, or relax with afternoon tea in our Victorian gardens. Perhaps take supper before a crackling log fire, dine alfresco on our terrace or enjoy our fine dining menu in Harcourts Restaurant.\r\n\r\nWe also pride ourselves on exquisite weddings, well organised conferences and a diary full of events.\r\n\r\nAt Deans Place Country Hotel, Sussex, all of the leading towns of the South Coast are within easy reach.  Visit the cosmopolitan city of Brighton, the County Town of Lewes, or enjoy the promenade and famous carpet gardens of Eastbourne."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "studio_campbell", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.studiocampbell.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Architecture", 
+      "Design", 
+      "Design Management", 
+      "Interior Design", 
+      "Sustainable Design", 
+      "Briefing", 
+      "Innovation", 
+      "International"
+     ]
+    }, 
+    "universalName": "studio_campbell", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "studio_campbell is architecture+ \r\n\r\nThe studio provides architectural and design consultancy services: defining the client need, identifying the optimum response and enabling the solution. \r\n\r\nOur ethos is to provide client centred design solutions at any stage of a project. Our experience comprises of a range of project types: Work; Learning; Home; Recreation; Neighbourhoods. of all scales from interior fit-outs to area masterplans. Our expertise covers Project Inception; Innovation; Facilitation through to Operation.\r\n\r\nStudio_campbell are based in Brighton, UK but have wide ranging international experience including working on projects in Asia, America, and Africa"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Based in Brighton and serving clients all around the world, Oliver Relations offers a comprehensive public relations consultancy service. We work in close partnership with our clients to identify their business needs and deliver bespoke PR and publicity campaigns. Our services include media relations, marketing & promotional consultancy and crisis management.\r\n\r\nOur creative boutique PR agency offers a carefully balanced combination of experience, enthusiasm and flair, designed to broaden horizons and stimulate more business.", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 818112"
+       }, 
+       "address": {
+        "postalCode": "BN1 4BW", 
+        "city": "Brighton", 
+        "street1": "3 Gloucester Mews"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.oliverrelations.co.uk", 
+    "universalName": "oliver-relations", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Oliver Relations"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 89, 
+    "description": "We own and operate eight of the UK\u2019s most prestigious marinas and pride ourselves on our reputation for offering exceptional facilities and customer service. \r\n\r\nOur locations include Brighton Marina, Chichester Marina, Falmouth Marina, Gosport Marina, Port Solent Marina, Southsea Marina, Sovereign Harbour Marina and Swanwick Marina.\r\n\r\nOur core business is the wet and dry berthing of leisure craft and our marinas provide a total of over 5,000 marina pontoon berths. We also provide storage ashore for up to 2,000 boats and operate boat lifting and boat moving services at all of our marinas. \r\n\r\nWe offer over 290,000 sq m of property for rent across our marina sites. Our tenants are critical to the services provided at each marina and are important partners for us. They provide complementary services such as food and beverage, marine chandlery, boat maintenance and repair, boat sales and brokerage and sail making.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01489 885000"
+       }, 
+       "address": {
+        "postalCode": "SO31 1ZL", 
+        "city": "Southampton", 
+        "street1": "Swanwick Marina"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.premiermarinas.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Marina Berthing", 
+      "Boatyard Services", 
+      "Commercial Property", 
+      "Boat Insurance"
+     ]
+    }, 
+    "universalName": "premier-marinas", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Premier Marinas"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Founded in 2004 to meet the needs of underserved residents of Chicago\u2019s Pilsen and Little Village neighborhoods. Esperanza has experienced dramatic growth while staying true to our community roots. Our primary service area now includes: Little Village (South Lawndale), Pilsen (Lower West Side), Brighton Park, Archer Heights, Gage Park and the suburb of Cicero.\r\n\r\nAt Esperanza, we are dedicated to providing high-quality medical care to all residents of our service area, regardless of their immigration status, race or ethnicity, income level or insurance status. All of our full-time providers and all of our clinical staff are bilingual and bi-cultural.  \r\n\r\nWe provide:\r\n\r\nFamily Medicine\r\nInternal Medicine\r\nPediatrics\r\nSocial Work\r\nWomen\u2019s Health/Obstetrics\r\nPediatric Allergy and Immunology\r\nPrevention and Educational Workshops \r\nLinkages to Community Resources\r\n\r\nVisit us online - esperanzachicago.org. \r\n\r\nFind us on Facebook -  facebook.com/esperanzahealthcenters", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "773-584-6200"
+       }, 
+       "address": {
+        "postalCode": "60608", 
+        "city": "Chicago", 
+        "street1": "2001 S. California"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "773-584-6200"
+       }, 
+       "address": {
+        "postalCode": "60623", 
+        "city": "Chicago", 
+        "street1": "3059 W. 26th St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "60629", 
+        "city": "Chicago", 
+        "street1": "6550 S. Richmond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.esperanzachicago.org", 
+    "universalName": "esperanza-health-centers", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Esperanza Health Centers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 108, 
+    "name": "Tokyo Industries (UK)", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.TOKYOindustries.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Nightclubs", 
+      "Live Music Venues", 
+      "Late Night Bars"
+     ]
+    }, 
+    "universalName": "tokyo-industries-uk-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Award winning owners & operators of 23 of the UKs Coolest Clubs.\r\n\r\nDIGITAL Newcastle & Brighton, FAC251 & SOUTH Club in Manchester, TUP TUP PALACE in Newcastle, FIBBERS York, THE MAGNET Liverpool & TOKYO Mansion Party venues in Newcastle, York, Hull, Lincoln, Bradford, Huddersfield, Oldham    \r\n\r\nwww.TOKYOindustries.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "NSFW is a Graphic, Web and Print Design Company based in Medway, Brighton and London. \r\n\r\nIn 2010 we started out as a small team of four creative, passionate and dedicated designers with our ears to the ground. In just three years, we have doubled in size, branched from Medway to the Sea and to the City, and built an extensive and somewhat prestigious client list, including Lydia Lunch and Small Town America Records! \r\n\r\nUniquely to NSFW, We offer BOTH high functionality as well as beautiful form. Our small team consists of an expert web designer, equipped to build complex, database driven code in the most up to date languages, styles and techniques.  As well as a highly reputable graphic designer who specializes in illustration, which allows us to offer unique and bespoke to your website to give you an extra edge over competitors and to help your website to stand out from the crowd.  \r\n\r\nOur past projects include websites for: Cherry Red Records, Lydia Lunch, Wishbone Ash, Nettwerk Records, Great Lake Swimmers, Tower Records (Ireland), Small Town America Records, ZXY Records (Germany), Talking Elephant Records, TEA Social, Black Palace Records and Hanns Salons. Sun And Air Solar Panels, Tilerite ltd, Bespoke Wedding Planning UK", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "ME11RL", 
+        "city": "Rochester", 
+        "street1": "Office 161"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.nsfwdesign.it", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Graphic design", 
+      "SEO Experts", 
+      "Visual art", 
+      "Customer service", 
+      "bespoke design"
+     ]
+    }, 
+    "universalName": "nsfwdesign", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "NSFWDesign"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Vibrabody", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(03) 9699 8110"
+       }, 
+       "address": {
+        "postalCode": "3206", 
+        "city": "Melbourne", 
+        "street1": "36-44 Mills St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(03) 9596 6605"
+       }, 
+       "address": {
+        "postalCode": "3205", 
+        "city": "Melbourne", 
+        "street1": "181 Bay St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.vibrabody.com.au", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Whole Body Vibration Training", 
+      "Personal Training", 
+      "Metabolic Jumpstart Nutrition Program", 
+      "Bio-Age Assessment", 
+      "8 Week Challenge", 
+      "Post Natal Fitness", 
+      "VibraBoxing", 
+      "VibraStretching", 
+      "Golf Conditioning Program", 
+      "Snow Fitness Program", 
+      "Bike Fitness Program", 
+      "Corporate Packages"
+     ]
+    }, 
+    "universalName": "vibrabody", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Vibrabody Personal Training studios specialise in a revolutionary new form of exercise known as Whole Body Vibration (WBV) Training.\r\n\r\nIndividually designed exercise programs are performed on state of the art VibroGym machines and supervised by a personal trainer.  Research has proven that a 20 minute workout on the VibroGym provides benefits equivalent to an hour of standard gym training.\r\n\r\nWhole Body Vibration training provides wide reaching benefits ranging from improved fitness and weight loss, reduced stress, improved circulation and balance, increased strength, flexibility and improved bone density.This type of training is very safe, and well suited to almost all people regardless of their age or fitness level.\r\n\r\n* ONE WEEK FREE TRIAL* at our Albert Park or Brighton studios."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Electrical Retailer in Brighton. We specialize in Computer, Laptop and Mobile Phone Repairs. We also offer car diagnostics using the latest Autocom setup. We also install CAT5E network Cables for both Home and Business use. If you would like more information, feel free to email us at sales@robomods.co.uk", 
+    "twitterId": "", 
+    "industry": "Computer Hardware", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 467 1337"
+       }, 
+       "address": {
+        "postalCode": "BN2 4PP", 
+        "city": "Brighton", 
+        "street1": "8 Bolney Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.robomods.co.uk", 
+    "universalName": "robomods-limited", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Robomods Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A fun women's boutique filled with stylish clothing, jewelry, and accessories to meet all your fashion impulses!!! We carry a variety of clothing by unique designers, Brighton Handbags and Jewelry, Trollbeads, Maui Jims, Michael Aram, Goodies, oodles of fabulous jewelry, gifts and accessories!\r\n\r\nOpening in Glenview, Illinois March 2013!", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "847-904-2343"
+       }, 
+       "address": {
+        "postalCode": "60025", 
+        "city": "Glenview", 
+        "street1": "1452 Waukegan Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "https://www.facebook.com/pages/Impulse-Boutique/431619293570385", 
+    "universalName": "impulse-boutique", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Impulse Boutique"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Boulder Valley Center for Dermatology", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 604-1444"
+       }, 
+       "address": {
+        "postalCode": "80303", 
+        "city": "Boulder", 
+        "street1": "4745 Arapaphoe Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 604-1444"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1606 Prairie Center Parkway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(303) 604-1444"
+       }, 
+       "address": {
+        "postalCode": "80026", 
+        "city": "Lafayette", 
+        "street1": "1140 West South Boulder Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.bvderm.com/", 
+    "universalName": "boulder-valley-center-for-dermatology", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The physicians at Boulder Valley Center for Dermatology are dedicated to the advancement of dermatologic health in the communities we serve. We have expert dermatologists in Boulder, Lafayette & Brighton. Dermatology is our passion; we offer a full range of services, include medical, cosmetic, and surgical dermatological procedures."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Company Description\r\n\r\nBlue Sky Realty is a start up real estate rental brokerage with an entrepreneurial spirit that is based on four founding principals\r\n\r\n\u2022\tHonesty & Integrity\r\n\u2022\tLocal Knowledge\r\n\u2022\tOperational efficiency\r\n\u2022\tOffice camaraderie \r\n\r\nWe have created a high quality, productive, team first environment that will work together to help clients find the best apartment possible. \r\n\r\nAreas we serve\r\n\u2022\tAllston\r\n\u2022\tBrighton\r\n\u2022\tBrookline\r\n\u2022\tFenway\r\n\u2022\tMission Hill\r\n\u2022\tOther parts of Boston Proper", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617 879 0390", 
+        "phone1": "617 879 1507"
+       }, 
+       "address": {
+        "postalCode": "02446", 
+        "city": "Brookline", 
+        "street1": "1622A Beacon st"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "BlueSkyBoston.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Rental Brokerage", 
+      "Rental Services", 
+      "Real Estate Knowledge", 
+      "Student Apartment Services"
+     ]
+    }, 
+    "universalName": "blue-sky-realty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Blue Sky Realty"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Kennedy Plumbing and Heating", 
+    "twitterId": "", 
+    "industry": "Utilities", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "http://www.kennedyplumbingdenver.com/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Plumbing", 
+      "Heating", 
+      "Air Conditioning", 
+      "Residential Plumbing Services", 
+      "Commercial Plumbing Services", 
+      "Commercial Heating", 
+      "New Construction Plumbing", 
+      "New Construction Plumbing and Heating"
+     ]
+    }, 
+    "universalName": "kennedy-plumbing-and-heating", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Greg Kennedy and his Plumbing and Heating Company has been offering personal plumbing service in Denver since the 1980s. Greg Kennedy and his team specialize in air conditioning installation, central air conditioning repair and maintenance, plugged drain service, new construction plumbing, residential plumbing, residential air conditioning service, repair and installation, and water heater replacement. Since we offer 24/7 service call us if you have a plumbing emergency. Greg Kennedy enjoys working directly with his clients and building a long term relationship that is based on quality service and a 100% satisfaction guarantee.\r\n\r\nKennedy Plumbing and Heating provides plumbing, air conditioning and heating services in the following Metro Denver areas: Arvada, Aurora, Bennett, Boulder, Brighton, Broomfield, Castle Pines, Commerce City, Denver, Englewood, Greenwood Village, Lakewood, Littleton. Lone Tree, Northglenn, Strasburg, Westminster and Wheat Ridge."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "We offer affordable, professional website design to all sizes of business. Our prices are competitive, our services are excellent, and customer service is key. No jargon, we speak plain English.\r\n\r\nWebsite prices are from as low as \u00a3290 for a static site, or from \u00a3400 for a site with content management systems (CMS) to allow you to edit content yourself.\r\n\r\nBased in Worthing, West Sussex and Brighton, East Sussex. We often work for businesses in London, and also nationwide. Founded in 2010 by Andrew Rowland, Total Website Design originally started by creating small websites for local businesses.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903609547"
+       }, 
+       "address": {
+        "postalCode": "BN11 4LL", 
+        "city": "Worthing", 
+        "street1": "Total Website Design"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.totalwebsitedesign.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Website design", 
+      "Ecommerce", 
+      "Content management systems (CMS)", 
+      "Search engine optimisation (SEO)", 
+      "Digital marketing", 
+      "Online promotion", 
+      "Brochure websites", 
+      "Commercial websites", 
+      "Personal websites", 
+      "Web development"
+     ]
+    }, 
+    "universalName": "total-website-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Total Website Design"
+   }
+  ]
+ }
+}

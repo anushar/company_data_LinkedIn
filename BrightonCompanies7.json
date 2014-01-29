@@ -1,0 +1,844 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 140, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Perche-Brighton LLC", 
+    "twitterId": "perchebrighton", 
+    "industry": "Investment Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.perchebrighton.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Investments"
+     ]
+    }, 
+    "universalName": "perche-brighton-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Perche-Brighton LLC is a private investment company focused on finding value and growth-based investments.\r\n\r\nTo do this, we combine fundamental analysis along with technological information systems to facilitate our investment practices.\r\n\r\nOur intent over time is to beat the S&P500 in both up and down years."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Brighton Spinal Group provides the best treatment of spinal and joint care, using the most up to date treatment availalable.\r\nConsisting of over 25 practitioners, ranging from musculoskeletal medicine, osteopathy, physiotherapy, clinical pilates, exercise physiology & remedial massage.\r\nTo make an appointment, please phone our reception team on 03 9596 7211", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0395967871", 
+        "phone1": "0395967211"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "441 Bay Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "0395968233"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "215 Bay Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.brightonspinal.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "musculoskeletal medicine", 
+      "physiotherapy", 
+      "osteopathy", 
+      "pilates"
+     ]
+    }, 
+    "universalName": "brighton-spinal-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Spinal Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Brighton Tax Consultancy Ltd is a recently formed company, set up by Andrew Coleman with the aim of providing excellent accountancy services at reasonable fees. BTC do not charge by the hour, instead we agree a fee for the work with you in advance.\r\n\r\nIf you are tired of poor service, or tired of high fees, call Andy today: 07809 544883.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07809 544883"
+       }, 
+       "address": {
+        "postalCode": "BN41 2FW", 
+        "city": "Brighton", 
+        "street1": "31 Dean Gardens"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "07809 544883"
+       }, 
+       "address": {
+        "postalCode": "SE1 7DR", 
+        "city": "London", 
+        "street1": "Make Space Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightontaxconsultancy.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Accounts production", 
+      "Bookkeeping", 
+      "Tax compliance", 
+      "Business advice and tax planning", 
+      "Capital gains Tax", 
+      "Inheritance Tax Planning", 
+      "Dealing with HMRC enquiries"
+     ]
+    }, 
+    "universalName": "brighton-tax-consultancy-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Tax Consultancy Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "name": "Brighton Media Centre", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.mediacentre.org", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Serviced Office Space", 
+      "Exhibition Gallery", 
+      "Film/Photo Studio", 
+      "Virtual Office Service", 
+      "Desk Space", 
+      "Meeting/Conference Rooms"
+     ]
+    }, 
+    "universalName": "brighton-media-centre", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We have two sites both fabulously located right slap bang in the heart of Brighton. Friese-Greene House is based in Middle Street within theThe Lanes and Old Steyne House is on the Old Steine. Both sites are just a 10 minute stroll from the station, a stone\u2019s throw from the sea and surrounded by a wealth of shops, bars and restaurants and other local amenities. Everything is right on your doorstep.\r\n\r\nThe BMC houses a wealthy community of industry talents, including web developers, digital marketing specialists, music and film producers, architects and many more, creating a vibrant social network of well-connected businesses.\r\n\r\nWe provide:\r\n\r\n-   Great choice of office suites from a one man suite to 20+ person room. \r\n-   Co-working desk space\r\n-   Fully staffed reception\r\n-   Meeting and Conference Rooms\r\n-   Virtual Office Options-  Client garden at Friese-Greene House, perfect for outdoor meetings or lunchbreaks in the sun!\r\n-   Onsite IT support and maintenance team.-  Parking spaces at the nearby NCP's at beautifully discounted rates.\r\n-   Media Facilities - Film/Photography Studio, Exhibition Gallery and Sound Studio\r\n-   Full alcohol & performance licence."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "The Brighton Salon is an indepenedent discussion group that meets each month to hear expert and controversial ideas from authors, journalists, academics and others. Our audiences are able to question and argue with the speakers who donate their time freely.", 
+    "twitterId": "", 
+    "blogRssUrl": "www.thebrightonsalon.com", 
+    "industry": "Think Tanks", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.thebrightonsalon.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "A challenging space for discussion", 
+      "Exchange of ideas", 
+      "Serious but sociable events", 
+      "Bringing together many different sorts of people"
+     ]
+    }, 
+    "universalName": "the-brighton-salon", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Brighton Salon"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 75, 
+    "description": "Mosaic is a full service agency based in Brighton that has been helping clients to tell their story since 1992.\r\n\r\nClients include Silverstone, London Business School, Exodus Travels, King's College London, Nissan, Bill's Restaurants, CIPD, Kensington and Chelsea College and Azores Islands Promotions Agency.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "447810373015"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AF", 
+        "city": "Brighton", 
+        "street1": "127 Gloucester Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.mosaiccreates.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Campaign & Brand Development", 
+      "Design & Art Direction", 
+      "Digital Campaigns", 
+      "Content Strategy & Creation", 
+      "Copywriting", 
+      "Publishing", 
+      "Graphic Design", 
+      "Print Management", 
+      "Photography & Video", 
+      "Advertising", 
+      "Illustration & Animation", 
+      "SEO"
+     ]
+    }, 
+    "universalName": "mosaic-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Mosaic Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Property Rescue Options\r\n\r\nWe can offer tailored solutions for your property problems.  If you think you are running out of options then give us a call as you may be suprised at some of the solutions we can offer you.\r\n\r\nWho are we?\r\nWe are a professional group of investors, specialising in discount and full price property purchases throughout England. We can consider any property in the country and give a quick and hassle-free sale.\r\n\r\nWe can complete any deal within 4 weeks or earlier as per your requirement.\r\n\r\nAll you need to do is to sign a contract, agree a timescale then sit back and relax.\r\n\r\nAre you looking for a fast sale?  We can purchase your property immediately!\r\nIt\u2019s quick, easy and free!\r\nJust get in touch and we can take care of your property issues.\r\nCircumstances do not matter to us \u2013 but people do!\r\n\r\nConventional marketing is a time consuming process and a property deal can take months to finalise.  We can complete any deal within 4 weeks!\r\nAre you broke?\r\nAre you in danger of losing your new home?\r\nAre you moving abroad and need to sell up quickly?\r\n\r\nBrighton Home Buyers can provide just the solution you\u2019re looking for.\r\n\r\nI specialise in finding solutions to seller\u2019s problems.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonhomebuyers.co.uk", 
+    "universalName": "brighton-home-buyers", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Home Buyers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Maxmatt Limited T/A Brighton Suzuki", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.maxmatt.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "New & Used Vehicle Supply", 
+      "All Make Servicing & Repair", 
+      "1/2 Price MOT Test", 
+      "Bodywork Repairs - Small Scuffs To Insurance Approved", 
+      "Virtual Car Superstore - Unique Car Finding Service", 
+      "Budget Service Plan"
+     ]
+    }, 
+    "universalName": "maxmatt-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Brighton Suzuki is a family-owned garage, widely recognised for providing first class service.\r\n\r\nWe know that above all, our customers have individual and specific needs, and recognising this is the key to our success.\r\n\r\nWe offer the complete range of Suzuki's award winning cars and 4x4's, plus a choice of quality used vehicles. Find out more about the Suzuki range at http://www.suzuki.co.uk/cars/dealers/brighton\r\n\r\nOur Aftersales department offers all-make servicing and repairs, MOT for all cars and light commercial vehilces, paint-less dent removal, small body repairs and insurance-approved accident management.\r\n\r\nFind out what our customers think of us at http://www.checkatrade.com/Maxmatt/\r\n\r\nAre you looking for a used car but don't want to waste time scouring the newspapers and internet? Want to avoid the 1 in 7 cars with hidden histories? Buying a second hand car can be tricky, but we will ensure you don't have to worry about making an expensive mistake. We estimate we have access to approximately 400,000 used cars at any one time. If we cannot find the used car you are looking for at the price you are willing to pay it probably does not exist! To give you an added peace of mind we offer a 7 day money back guarantee valid from the delivery date. \r\n\r\nVisit http://www.virtualcarsuperstore.co.uk/index.html for more details!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Brighton NC provides complete material management, machining, grinding, assembly, warehousing and distribution.  Our services start at the procurement of castings, forgings and other raw materials.  We design and build all of our machining and assembly fixtures in-house.   We have provided critical support and production to many of the most demanding customers in the world.  Some customers that we support today have been with us since our establishment in 1965.", 
+    "twitterId": "", 
+    "industry": "Machinery", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1965, 
+    "websiteUrl": "www.brightonnc.com", 
+    "universalName": "brighton-nc-machine-corporation", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton NC Machine Corporation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Are you looking to get higher in Google? Do you want the search visibility that your website deserves?\r\n\r\nAt SEO Brighton we offer Search Engine Optimisation services that can put your website in higher positions across all the major Search Engines, Google, Bing and Yahoo.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://feeds.feedburner.com/seobrighton/PMXH", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.seobrighton.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "SEO", 
+      "Link Building", 
+      "Site Audits", 
+      "Technical Onsite SEO"
+     ]
+    }, 
+    "universalName": "seo-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "SEO Brighton"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Brighton Title Company", 
+    "industry": "Insurance", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "84047"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightontitle.com", 
+    "universalName": "brighton-title-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Title has been in business for 17 years I am the title plant manager and have the duties of title reaserching and examination, recording and all the duties of a customer service person. I have a license from the State of Utah as a Resident Producer individual title searcher issued March 07, 2003"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Brightsite is a Brighton web design and internet marketing agency providing quality, professional websites at an affordable price.\r\n\r\nWhether you're looking for a simple brochure website or a complex e-commerce website and content management system (CMS), our Brighton based web design team have the technical expertise and creative flair to give you a website to be truly proud of.\r\n\r\nOur team of talented Brighton web designers, developers and internet marketing experts are based at our Shoreham-by-Sea offices, just outside of Brighton. If you would like to discuss your web design or marketing project, call Brightsite today on 01273 446644 or email info@bright-site.co.uk.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 446644"
+       }, 
+       "address": {
+        "postalCode": "BN43 5WB", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "30 Brunswick Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bright-site.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Web Design & Development", 
+      "Internet Marketing"
+     ]
+    }, 
+    "universalName": "bright-site", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bright Site"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Stay in the Heart of ... Luxury holiday vacation rental homes Brighton UK and Nice France.\r\nThese beautifully maintained, luxury Brighton and Nice holiday rental apartments sleep between 4 and 6 adults plus children are welcome. Enjoy a fun filled family holiday in Brighton or Nice, romantic vacation, or escape to a bit of luxury on your business venture. Take in wonderful seafront views and breath invigorating sea air from the balcony, and then treat yourself to any of the fantastic restaurants and bars that are only a short walk from your luxury holiday accommodation. The very best in holiday rental homes. If you have any questions, please email the owners direct or use our holiday rentals enquiry form.", 
+    "twitterId": "", 
+    "industry": "Recreational Facilities & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "06000", 
+        "city": "Nice", 
+        "street1": "1 Rue Gubernatis"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Above Holiday Inn"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.stayintheheartof.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Holiday Apartments"
+     ]
+    }, 
+    "universalName": "stay-in-the-heart-of-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Stay in the Heart of ..."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 77, 
+    "description": "Red Robin Recruitment provides a cost effective, successful and caring recruitment service in the Brighton area. \r\n\r\nWorking with Red Robin:\r\n\r\nRed Robin Recruitment values building lasting relationships. We enjoy getting to know you, your company and culture. We take the time to understand your personal recruitment requirements and ensure those requirements are met with success! \r\n\r\nWe want your company to soar, let us be your wings!\r\n\r\nFinding a new job through Red Robin:\r\n\r\nWe appreciate that seeking a new job can be stressful and daunting. Whatever your employment situation we are here to help and excited to assist you in finding a great new opportunity.\r\n\r\nWe pride ourselves on keeping you updated throughout the whole recruitment process. Our aim is to ensure you are best informed and prepared prior to interviews. We'll always give feedback or great news quickly.\ufeff\ufeff\r\n\r\nWe are always happy to help whether you are a new graduate looking for that first opportunity on the career ladder, someone returning to work, a student needing to financially support their studies with part time employment, someone from within a specialist field or of managerial level. \r\n\r\nIf you are looking for employment in the Brighton area we would be pleased to receive your CV and covering letter. We will personally respond to you within 24hrs to let you know about any current opportunities that match your skill set or arrange a time to speak with you in more detail about your job search. \ufeff", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 573809"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ST", 
+        "city": "Brighton", 
+        "street1": "95 Ditchling Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.redrobinrec.com/", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Sales Recruitment", 
+      "Property Recruitment", 
+      "Business Support Recruitment", 
+      "Recruitment in Brighton", 
+      "Customer Service Recruitment", 
+      "Marketing Recruitment", 
+      "Financial Services Recruitment", 
+      "Consultative Sales", 
+      "Insurance Recruitment", 
+      "Legal Recruitment", 
+      "Public Services"
+     ]
+    }, 
+    "universalName": "red-robin-recruitment", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Red Robin Recruitment"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "description": "CoastalWestSussexJobs.com is the local online jobs board for Coastal West Sussex area, connecting Brighton through to Chichester. \r\n\r\nCoastalWestSussexJobs.com is transporting the formula that was so successful in creating BrightonandHoveJobs.com and GatwickDiamondJobs.com, into a new catchment area. Encompassing Brighton, Hove, Portslade, Shoreham-By-Sea, Lancing, Worthing, Goring-By-Sea, Littlehampton and Chichester. The new jobs board will be responsible for advertising and creating jobs, placements and development in West Sussex in particular the coastal West Sussex area. \r\n\r\nWorking together with BrightonandHoveJobs.com and GatwickDiamondJobs.com the jobs board family cover the south East of England to promote employers jobs opportunities, education & training as well as community initiatives, to local residents and businesses in the areas. \r\n\r\nCoastalWestSussexJobs.com offers an all-encompassing approach to employment solutions, training, development and CSR (corporate social responsibility) and, what's more, it will focus purely on Brighton through to Chichester to ensure an unbeatable local service for both local and regional businesses and job-seekers alike. \r\n\r\nVisit www.CoastalWestSussexJobs.com", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN33AN", 
+        "city": "Hove", 
+        "street1": "BrightonandHoveJobs.com County Ground"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.coastalwestsussexjobs.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "jobs", 
+      "recruitment", 
+      "marketing", 
+      "advertising"
+     ]
+    }, 
+    "universalName": "coastalwestsussexjobs-com", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "CoastalWestSussexJobs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Target Five Property Consultants", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.targetfive.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Property Investment", 
+      "High Yield Property", 
+      "Below Market Value Property", 
+      "Non Status Finance", 
+      "Expat Investments"
+     ]
+    }, 
+    "universalName": "target-five-property-consultants", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Target Five are a Brighton based business that offers high yield managed property investments UK wide and Brighton development opportunity to investors and JV partners. We are entirely transparent and have a near 20 year track record in Brighton developments. Our vision is to continue to grow our network of experienced investors who we trust and who trust us. We are members of the property ombudsman and are now working in line with new FCA regulations. \r\n\r\nRegister interest  <a href=\"http://www.targetfive.co.uk\">here</a> or call 01273 930277."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Faceless Magazine", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.facelessmagazine.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Critical Review", 
+      "Brighton Creative Cultural Scene", 
+      "Film", 
+      "Music", 
+      "Events", 
+      "Culture", 
+      "Photography"
+     ]
+    }, 
+    "universalName": "faceless-magazine", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "An online, multimedia publication offering a fresh and diverse perspective into Brighton's thriving cultural and entertainment scene. We provide honest comment on events and items which we review. Our articles aim to give a critical and accurate account of the everyday creativity which occurs in Brighton, giving everyone the opportunity to be seen and heard by a wider audience."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Skin First", 
+    "twitterId": "", 
+    "industry": "Cosmetics", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0293877669"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Sydney", 
+        "street1": "Bondi Junction"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.skinfirst.com.au", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Hair Removal", 
+      "Teeth Whitening", 
+      "Cosmetic Facial services"
+     ]
+    }, 
+    "universalName": "skin-first", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Skin First Laser is setting the standards for hair removal\r\nSkin First welcomes you to experience our Sydney Bondi Junction and Brighton Le Sands Cosmetic Laser Centres. We offer clinically proven techniques, designed to deliver results. We are a multi-award winning, fresh and unique cosmetic laser centre in Sydney. Our well-known reputation is built on years of experience in the industry. Our Sydney Bondi Junction and Brighton Le sands laser clinics are perfectly equipped to handle delicate, understanding of skin and laser hair removal procedures. We offer the very latest state-of-the-art technology combined with Sydney\u2019s top doctors, Government accredited laser practitioners and Laser safety trained treatment providers. Our services are tailored to your individual needs. We also specialise in breakthrough skin energizing ingredients that dramatically repair your skin. Whether it be skin or hair removal concerns, we offer free advice and provide an array of treatments specialised for you. We also offer a comprehensive skin analysis prior to embarking on any skin treatment program and discuss a treatment option customised for your skin. Visit one of our skin care and hair removal clinics today \u2013 Our Sydney Bondi Junction or Brighton Le Sands staff look forward to meeting you"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 38, 
+    "description": "Colorado Credit Union was chartered in 1973 when about 35 Johns Manville employees gathered their funds together and started the credit union, a member owned financial cooperative. We grew rapidly, serving only employees, retirees and family members of Johns Manville. In 1998, we decided to open our membership to other employer groups and associations, realizing the need to grow and help more people with their finances.\r\n\r\nWe changed our name from Johns Manville Credit Union to Colorado Credit Union in 2005, to better reflect our diverse membership. We continue to be the bank of choice for the majority of Johns Manville employees and retirees. We've also become the primary financial institution for thousands of other people as well.\r\n\r\nIn 2009, we merged Brighton Federal Credit Union into CCU. This credit union was founded in 1954 by local teachers and continues to focus on the needs of its teacher members. This allowed us to become part of the Brighton and surrounding area communities. This change brought 1,800 new members to experience what great member service is about. This addition brought with it the 27J teachers and students, the City of Brighton, Platte Valley Medical Center and several large area churches. \r\n\r\nColorado Credit Union has nearly the highest ratio of assets and loan balances per member of any credit union our size in the U.S. We help many people with their borrowing needs as well as helping people accumulate wealth with our outstanding savings products.", 
+    "twitterId": "", 
+    "industry": "Banking", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.978.2274"
+       }, 
+       "address": {
+        "postalCode": "80127", 
+        "city": "Littleton", 
+        "street1": "8331 Continental Divide Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.978.2274"
+       }, 
+       "address": {
+        "postalCode": "80202", 
+        "city": "Denver", 
+        "street1": "717 17th Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.978-2274"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "562 N. 7th Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "http://www.ccu.org", 
+    "universalName": "colorado-credit-union", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Colorado Credit Union"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Comedy theatre partnership in Brighton. Formed in 2012, Trapped Wind will premier the new sitcom 'Housemates' the Brighton Fringe Festival in May 2013. \r\n\r\nYou can buy tickets from the official Brighton Fringe website at http://boxoffice.brightonfringe.org/event.aspx?evId=4472#container", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.trappedwind.org.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Theatre", 
+      "Comedy", 
+      "Sitcom", 
+      "New writing"
+     ]
+    }, 
+    "universalName": "trapped-wind-productions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Trapped Wind Productions"
+   }
+  ]
+ }
+}

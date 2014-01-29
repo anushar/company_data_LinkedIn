@@ -1,0 +1,847 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 80, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Call now on 01273 414144\r\nTaxis to all Uk Airports, Out of Town Destinations, Ferries & Cruise Terminals.\r\n\r\nBrighton Airport Cabs is a 24 hours airport transfer service. We specialise  in airport transfers, private hire car services TO and FROM all major London Airports. Our airports coverage are UK-wide and includes: London Heathrow, London Gatwick, London Stanstead, London Luton, London City & Southampton and Dover Ports as well as all International Train Stations. \r\n\r\n\r\nThe drivers have the latest in car technology, Flight Trackers, Emails, Credit Card Payment Facility.\r\n\r\nAt Brighton Airport Cabs office we use a Radar System to check and verify your flight status. We will nearly always be aware of any delays in your incoming flight schedule.\r\n\r\nWe offer a Credit & Debit payment facility in each and every vehicle.\r\n\r\nAlternatively, if you wish to speak to our staff in order to process your booking and payment over the phone, our dedicated team are available to take your call", 
+    "twitterId": "btnairportcabs", 
+    "blogRssUrl": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonairportcabs.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Airport Transfers less than taxi prices"
+     ]
+    }, 
+    "universalName": "brighton-airport-cabs", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Airport Cabs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Brighton Solutions is a Graphics Design and Web Development company based in Brighton. \r\nWe're passionate about marketing and deliver high quality, affordable design and marketing strategies day in day out. Its what we love.\r\n\r\nWe specialize in a range of marketing solutions be that Bespoke Brochures, Web Design, Flyering, Email Campaigns or One-Off Event Promotions. Working closely with you we can provide the very best solutions tailored to meet your tight deadlines and specific needs and we offer unlimited changes until you are 100% satisfied with the final solution at no extra cost.", 
+    "twitterId": "btonsolutions", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273385340"
+       }, 
+       "address": {
+        "postalCode": "BN2 4EL", 
+        "city": "Brighton", 
+        "street1": "2A Mafeking Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.btonsolutions.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Emarketing", 
+      "Brochure Design", 
+      "Posters and Flyering", 
+      "Web Development"
+     ]
+    }, 
+    "universalName": "brighton-solutions", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "The Brighton Pebble Museum is as irregular as the tides; an occasional project that addresses the formal beauty and abstract mystery of the pebble in all her forms through workshops, geological lectures, field trips and afternoon walks.\r\n\r\nIt is a fun and free project for everyone - from amateur enthusiasts and professional geologists to families and especially, for people who have never considered before the joy of small, smooth rocks.\r\n\r\nBrighton Pebble Museum is a not-for-profit organisation. Donations welcome. All proceeds go towards our free events programme, library and archive.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.pebblemuseum.org.uk/feeds/posts/default?alt=rss", 
+    "industry": "Museums & Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273275012"
+       }, 
+       "address": {
+        "postalCode": "BN17HB", 
+        "city": "Brighton", 
+        "street1": "19 Hollingdean Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.pebblemuseum.org.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Pebbles", 
+      "Sea Glass", 
+      "Shanties", 
+      "Driftwood"
+     ]
+    }, 
+    "universalName": "brighton-pebble-museum", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton Pebble Museum"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "We are \u2018Brighton University Design Association\u2019 and we comprise of over 140 students on Product Design based courses. BUDA is a design community; we\u2019re all about bringing students together through common ground. We are looking to hold some great new design social events, and of course our final year show, where students from Brighton University will be showing their best work over the past year, we will also be exhibiting at New Designers show Part 2: 07 July - 10 July 2011.", 
+    "twitterId": "twitter.com/buda_brighton", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "budabrighton.com", 
+    "universalName": "brighton-university-design-association-buda-", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton University Design Association (BUDA)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Brighton International is a contemporary school based on CBSE pattern aiming to provide a stimulating learning environment through comprehensive facilities and an enriching inquiry-based curriculum. Brighton International is offering the best in world class education to the students of Chattisgarh. Started in the year 2010, school has met great success in winning the trust of parents in Raipur.", 
+    "twitterId": "Brighton_Raipur", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "0771 3267670"
+       }, 
+       "address": {
+        "postalCode": "492001", 
+        "city": "Raipur", 
+        "street1": "Near Vidhan Sabha, Zero Point Post Office:GSI, Village: Nardaha"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightoninternational.in", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "K-12 Education", 
+      "Day Boarders Education", 
+      "One of Best infrastructure in Chhattisgarh"
+     ]
+    }, 
+    "universalName": "brighton-international-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton International School"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Brighton HR Ltd is an HR Consultancy providing a wide range of HR advice and support to small and medium-sized organisations in Brighton and the rest of Sussex. Jenny Holmes, the Managing Director, has experience of working in HR in both the public and private sectors and is motivated by understanding organisations and helping them to support their people in the best possible way.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Human Resources", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightonhr.co.uk", 
+    "universalName": "brighton-hr-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton HR Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Brighton Kass Capital Inc. is a private equity real estate investment company that syndicates, acquires and manages investment-grade real estate in North America.\r\n\r\nA significant amount of time, energy and know-how is needed to find property for purchase or rental.  Brighton Kass Capital brings to clients and potential investors a family background in Real Estate investment that spans decades and a proven system for finding and analyzing real property for investment potential.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "416.479.0092"
+       }, 
+       "address": {
+        "postalCode": "M5J 2S1", 
+        "city": "Toronto", 
+        "street1": "161 Bay Street, 27th Floor"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "613.234.0689"
+       }, 
+       "address": {
+        "postalCode": "K2S 0R2", 
+        "city": "Ottawa", 
+        "street1": "710 Wrangler Circle"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "702.430.7244"
+       }, 
+       "address": {
+        "postalCode": "89052", 
+        "city": "Henderson", 
+        "street1": "2850 W Horizon Ridge Pkwy"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.brightonkass.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Private equity real estate investment", 
+      "Asset management", 
+      "Real estate development", 
+      "real estate syndication"
+     ]
+    }, 
+    "universalName": "brighton-kass-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Kass Capital Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 34, 
+    "name": "Brighton Bank", 
+    "twitterId": "", 
+    "industry": "Banking", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "801-943-4406", 
+        "phone1": "801-943-6500"
+       }, 
+       "address": {
+        "postalCode": "84121", 
+        "city": "Salt Lake City", 
+        "street1": "7101 South Highland Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "801-467-5429", 
+        "phone1": "801-467-5411"
+       }, 
+       "address": {
+        "postalCode": "84115", 
+        "city": "Salt Lake City", 
+        "street1": "93 West 3300 South"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "801-484-7155", 
+        "phone1": "801-484-0300"
+       }, 
+       "address": {
+        "postalCode": "84115", 
+        "city": "Salt Lake City", 
+        "street1": "1420 South 300 West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "801-596-0110", 
+        "phone1": "801-596-2700"
+       }, 
+       "address": {
+        "postalCode": "84116", 
+        "city": "Salt Lake City", 
+        "street1": "940 West North Temple"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "801-531-8025", 
+        "phone1": "801-531-8000"
+       }, 
+       "address": {
+        "postalCode": "84111", 
+        "city": "Salt Lake City", 
+        "street1": "311 South State Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.brightonbank.com", 
+    "universalName": "brighton-bank", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Over the past 34 years the employees of Brighton Bank have worked hard providing the highest level of service to its customers. As a community bank with our foundation established in the neighborhoods we serve, we feel it is important to understand the needs of our customers. We strive to provide sound financial products with the latest in technological advances to assist in the growth of businesses and provide for the financial security of families and individuals. From our very beginning our success has been dependent upon the success of our customers. We grow and prosper together.\r\nOur dedicated employees are here to serve you. We understand how important it is to be greeted at the door, to be called by your first name and to know that your financial needs are being handled by a trusted friend. We feel this is what community banking is all about, friends serving friends. We pledge to treat you with respect, respond quickly to your requests and provide consistent, reliable service. We want to earn both your business and your friendship.  \r\nIf you haven\u2019t already, we invite you to join our Brighton Bank family."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "A small, but exceptional real estate & property management company with a strong focus on customer service ready to service all your real estate & property management needs. \r\n\r\nAt Brighton realty Simplicity, Convenience, and Affordability Converge while striving to build a solid and dependable business with \"you\" in mind. \r\n\r\nBrighton Realty will provide the best service to you with the same devotion and quality you would expect from us as we build a reputation of being \"The Best\" in the industry.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonflorida.com", 
+    "universalName": "brighton-realty-&-management-llc", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Brighton Realty & Management, LLC"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "BRIGHTON AND HOVE STUDIO LTD", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9RA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonandhovestudio.co.uk", 
+    "universalName": "brighton-and-hove-studio-ltd", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Brighton and Hove Studio LTD consists of 2 experienced and skilled photographers who specialise is press, PR, Corporate, Weddings, Studio Photography, and more. We work for the national press and do work regionally. Also the company has just opened a photographic studio in Brighton and is now doing extensive work in there from portraiture, families, children, babies, pets, models and much much more..."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "We are a nationally-acclaimed regional Indian restaurant in the heart of Brighton -  passionate about Indian culture, local produce and traditional methods.\r\n\r\nHusband and wife team Alan and Dawn Sperring returned to Brighton in 2008 to find it in the grip of an enthusiasm for Indian food. They found the perfect spot in the cobbled lanes amongst the jewellery and antique shops of Meeting House Lane.\r\n\r\nThe Chilli Pickle gradually but inexorably gained its reputation through word of mouth. As guests returned again and again, they knew that Brighton was ready for an authentic but distinctive experience of Indian cuisine. Gathering together an expert team of chefs with specialisms in a variety of Indian regional cuisines, the Chilli Pickle's own style became increasingly defined.\r\n\r\nAfter two years at Meeting House Lane an unmissable opportunity came along: a move to the myhotel premises on the bustling Jubilee Square. The Chilli Pickle is now an established presence on the Brighton culinary trail, but with a constantly evolving and seasonal menu, will surprise seasoned aficionados of Indian cuisine and delight those having their first experience.", 
+    "twitterId": "", 
+    "industry": "Restaurants", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 900 383"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "17 Jubilee Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.thechillipickle.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Regional Indian Cuisine"
+     ]
+    }, 
+    "universalName": "the-chilli-pickle", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Chilli Pickle"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 92, 
+    "description": "QualitySolicitors Howlett Clarke is a modern legal practice providing a full range of services and professional representation in all main areas of law.\r\n\r\nOur legal services offers a diverse range to satisfy Brighton and Hove's ever expanding commercial and consumer population. This can range from, large corporations to middle market companies, community matters and not-for-profit organizations to individuals and emerging businesses. \r\n\r\nAs the dynamics of business, economics, technology, and communications have become increasingly complex, so has the practice of law. To combat this we initially offer a free 30 minute meeting for any client who has a possible legal enquiry. We believe that the best results are achieved by recruiting and drawing on our lawyers exceptional talents and varied experiences.\r\n\r\nWe currently have offices in Brighton and Hove as well as Legal Access Points located in the WH Smith branch's of Brighton, Hove and Worthing. Collaboratively we assist our clients in achieving their personal and business goals, structuring, negotiating and closing transactions, and handling disputed matters.  \r\n  \r\nEven though our firm is the longest standing practice in Brighton (est 1773) we still aim to become trusted advisors that clients can depend upon to deliver excellent legal counseling. This and other factors have proven to consolidate our long-standing relationships with a vast majority of our clients, having counseled numerous businesses for decades and to affirm our dependability and dedication.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 328857", 
+        "phone1": "01273 327272"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AZ", 
+        "city": "Brighton", 
+        "street1": "Quality Solicitors Howlett Clarke"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 430193", 
+        "phone1": "01273 327272"
+       }, 
+       "address": {
+        "postalCode": "BN3 4EF", 
+        "city": "Hove", 
+        "street1": "Quality Solicitors Howlett Clarke"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1773, 
+    "websiteUrl": "http://www.qualitysolicitors.com/howlettclarke", 
+    "specialties": {
+     "_total": 15, 
+     "values": [
+      "Employment", 
+      "Family Law", 
+      "Commercial", 
+      "Conveyancing", 
+      "Private Client", 
+      "Corporate", 
+      "Personal Injury", 
+      "Landlord & Tenant", 
+      "Litigation", 
+      "Mediation", 
+      "Wealth Management", 
+      "Matrimonial & Partnerships", 
+      "Divorce", 
+      "Intellectual Property", 
+      "Internet Law"
+     ]
+    }, 
+    "universalName": "quality-solicitors-howlett-clarke", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Quality Solicitors Howlett Clarke"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Brighton Advisory Group", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "91436"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonadvisory.com", 
+    "universalName": "brighton-advisory-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Advisory Group is a firm of net worth advisors\u2026.\r\n\r\nWe assist our clients in enhancing, protecting, and preserving their wealth.\r\n\r\nWhy use Brighton Advisory Group?\r\n\r\nSince 1972 Barry Boscoe, President and Founder of Brighton Advisory Group, has been working with professionals and their clients, providing the following:\r\n\r\n\u2022Reducing complex concepts to simple explanations\r\n\u2022Analyzing strategies and products to mitigate future risks\r\n\u2022Helping clients manage their expectations\r\n\u2022Anticipating potential risks both current and future\r\n\u2022Responding to our clients and professional advisors in a timely manner\r\n\u2022Exploring proactively all of the strategies available to the client\r\n\u2022Being accessible to our clients and their professional advisors\r\n\u2022Caring personally about our clients and their needs\r\n\u2022Building personal relationships"
+   }, 
+   {
+    "numFollowers": 12, 
+    "name": "YOU GOT PAPPED", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.yougotpapped.com", 
+    "universalName": "you-got-papped", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "YOU GOT PAPPED magazine, a free Brighton based, Brighton owned magazine about Brighton events, Brighton sights and Brighton people. We cover any event in and around the City that we feel will be appealing to our readers, the focus is on pictures as we believe a photograph speaks louder than words.\r\n\r\n \r\n\r\nDistribution is our forte, we put a huge emphasis on it, because we believe it is as important as publishing a fabulous product.\r\n\r\n \r\n\r\nYOU GOT PAPPED goes out to bars, clubs, cafes, gyms, launderettes, newsagents, salons, dental surgeries, colleges, libraries, shops & takeaways.  We have a readership in excess of 40,000 and the magazine is A4, full colour and is published monthly.\r\n\r\nIf you are interested in promoting your business through an advertisement or promotional feature, please contact me on 01903 539180 or 07974 735 852. \r\n\r\n \r\n\r\nYou could be in there! Your friends could be in there! Your business could be in there!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 417, 
+    "description": "Brighton Jones, LLC is a Registered Investment Advisor providing comprehensive, fee-based wealth management services to executives, entrepreneurs and other individuals of substantial income or assets.   What sets us apart from other wealth managers?  Our approach, our expertise, the way we are compensated and the caliber of the people we hire.", 
+    "twitterId": "", 
+    "industry": "Investment Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "206-258-5005", 
+        "phone1": "206-258-5000"
+       }, 
+       "address": {
+        "postalCode": "98121", 
+        "city": "Seattle", 
+        "street1": "2030 1st Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.brightonjones.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Investments", 
+      "Tax Strategies", 
+      "Trusts & Estates", 
+      "Philanthropy", 
+      "Risk Management"
+     ]
+    }, 
+    "universalName": "brighton-jones", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Jones"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Brighton Small Business Assistance Centrer", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "303-655-2150"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "Brighton Learning & Resource Campus"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightonedc.org", 
+    "universalName": "brighton-small-business-assistance-centrer", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "The Brighton Small Business Assistance was created in partnership with the North Metro SBDC to enhance the economic viability by nurturing and strengthening the business environment in the area around Brighton, CO. \r\n\r\nThe center offers low cost training and other free services such as one-on-one counseling, research tools and other services to business owners in the Brighton area."
+   }, 
+   {
+    "numFollowers": 12, 
+    "name": "Sassco (Brighton) Ltd", 
+    "industry": "Security & Investigations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 9QA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.sassco.org", 
+    "universalName": "sassco-brighton-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Sassco Brighton Ltd is one of Brighton\u2019s biggest security companies supplying the licensed trade. At present we supply a range of services from trained door supervisors, licensee cover, key holding, parking control, static guards, a pub watch scheme, and a mobile support unit. We are offering a service which was pioneered by our management team in conjunction with the police and other authorities in the Brighton area. This is further aided by our state of the art radio system which allows you to alert our control centre of any safety issue."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 65, 
+    "name": "Brighton Windsor Group LLC", 
+    "twitterId": "wehelpcompanies", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "847-221.8241", 
+        "phone1": "847.221.8240"
+       }, 
+       "address": {
+        "postalCode": "60067", 
+        "city": "Palatine", 
+        "street1": "630 N North Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.brightonwindsor.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "business analysis", 
+      "enhance profit", 
+      "succession planning", 
+      "organization structure", 
+      "tax planning", 
+      "cash flow", 
+      "KPIs", 
+      "conflict resolution", 
+      "turnarounds", 
+      "strategic planning", 
+      "employee productivity", 
+      "facilitation"
+     ]
+    }, 
+    "universalName": "brighton-windsor-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "With over 20 years experience in the business advisory world and thousands of projects under our belt, it\u2019s safe to say we are very skilled in what we do. We\u2019ve got an amazing team of highly experienced and professional advisors that have the capacity to do it all, with the unyielding support from our corporate offices just outside of Chicago.\r\n\r\nOur advisory services focus on supporting our clients in achieving key business objectives critical of every successful business\r\n\r\nSmart business planning depends on comprehensive information and a broad overview into the business from the big picture to the smallest details. Brighton Windsor Group business advisory services assists business owners and leadership teams to see that big picture \u2013 with a razor sharp insight to help ownership see the bottom line impact of plans and decision making, including identification of profit opportunities.\r\n\r\nWe help optimize business operations, increase net revenue, and improve cash flow. Our senior analysts and business advisors have a high degree of knowledge in strategic planning, business management, organizational system implementation and optimization, and business operations.\r\n\r\nSince we specialize in companies with 10 \u2013 150 employees, we come equipped to handle almost any business challenge imaginable. \r\n\r\nWhether you are up-sizing, down-sizing, right sizing, or evaluating your firm's forward strategy, we can help."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 147, 
+    "description": "Since 1988, Brighton Ford Mercury has been the automotive leader in the Brighton community. We are a community focused, customer driven Ford-Mercury dealership.  We offer new vehicle sales for all Ford and Mercury vehicles, as well as an extensive inventory of Used Vehicles.  If you need service, we service all makes and all models.\r\n\r\nAs the World's Largest Ford-Mercury dealer, we always have a great selection of new and used cars, trucks, SUVs, and crossovers.", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "(800) 836-8206"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "8240 W Grand River"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "http://www.brightonford.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "New and Used Vehicle Sales", 
+      "Vehicle Service", 
+      "Body Work", 
+      "Auto Parts"
+     ]
+    }, 
+    "universalName": "brighton-ford-mercury", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Ford-Mercury"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 167, 
+    "description": "Roedean was established in 1885 by three entrepreneurial sisters wanting women to have the same educational opportunities as men. Those career opportunities are now as likely to be in New York as London; our expertise is in preparing girls to be global citizens with a fulfilling, happy future, wherever that may be.\r\n\r\nWe have 380 girls at our beautiful coastal campus in Brighton. Two thirds are boarders who love Roedean's close knit sense of community. A growing number of these are weekly boarders, mostly from London (the journey from Victoria/Clapham to Brighton is less than an hour and travel is escorted). \r\n\r\nIn 2013 Roedean set a new standard in UK boarding with its \u00a39m million boarding house refurbishment. \r\n\r\nIn terms of academics, Roedean has an enviable track record in maths and sciences (unusually for a girls' school) and creative and performing arts.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 5RQ", 
+        "city": "Brighton", 
+        "street1": "Roedean Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1885, 
+    "websiteUrl": "www.roedean.co.uk", 
+    "universalName": "roedean-school-brighton", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Roedean School, Brighton"
+   }
+  ]
+ }
+}

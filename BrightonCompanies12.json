@@ -1,0 +1,351 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 240, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Kinesiology encompasses holistic health disciplines, which use the  gentle art of muscle monitoring to access information about a person\u2019s well being. Originating in the 1970's, it combines Western techniques and Eastern wisdom to promote physical, emotional, energetic, and mental health, enabling the body to naturally heal itself.\r\n\r\nTreatments to assist healing may include acupressure, neuro-lymphatic massage, chakra balancing, affirmations, nutritional and lifestyle adjustments.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+61(0)407 012 436"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton East", 
+        "street1": "Regent Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "brightonkinesiology.com.au", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Stress and Relaxation Management", 
+      "Anxiety, nervousness", 
+      "Physical pain and tension", 
+      "Emotional issues", 
+      "Sleeping problems"
+     ]
+    }, 
+    "universalName": "brighton-kinesiology", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Kinesiology"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Luxury townhouse developement, providing an elegant, quality environment to come home to! Featuring granite counters, cherry stained wood cabinets throughout, tile floor in kitchen, dining, & bathrooms. Some floor plans with wood burning fire places, plus private courtyards & balconies in most homes.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.1000brighton.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Offering both aparment style and townhouse living.", 
+      "Beautiful Pool", 
+      "Fitness Center (24 hour a day)", 
+      "Modesto PD Crime Free Certified Property"
+     ]
+    }, 
+    "universalName": "1000-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "1000 Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 55, 
+    "description": "The Shorefront Y builds community, strengthens families and empowers individuals to achieve their potentials and enhance the quality of their lives. \r\n\r\nOur programs and services reflect the richness of the Shorefront Y's Jewish Community Center and Settlement House traditions. Deeply rooted in Jewish traditions and values and committed to fostering Jewish continuity and civic engagement, we reach out to and serve people of all backgrounds and abilities throughout their life spans.", 
+    "twitterId": "@shorefronty", 
+    "blogRssUrl": "", 
+    "industry": "Individual & Family Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "718-646-1444"
+       }, 
+       "address": {
+        "postalCode": "11235", 
+        "city": "Brooklyn", 
+        "street1": "3300 Coney Island Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.shorefronty.org", 
+    "universalName": "shorefront-ym-ywha-of-brighton-manhattan-beach", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Shorefront YM-YWHA of Brighton/Manhattan Beach"
+   }, 
+   {
+    "numFollowers": 1, 
+    "universalName": "web-media-brighton", 
+    "name": "Web Media Brighton"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "mortgage-brighton", 
+    "name": "Mortgage Brighton"
+   }, 
+   {
+    "numFollowers": 5, 
+    "universalName": "woodmans-construction-brighton-ltd", 
+    "name": "Woodmans Construction (Brighton) Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "I provide Rejuvanessence\u00ae, a natural approach to looking younger, that includes a very gentle form of facial massage as well as nutritional and lifestyle advice. \r\n\r\nI also provide Raynor Massage, a system of bodywork developed by Brandon Raynor that aims to eradicate residual tension in the body and can help with problems related to posture and poor flexibility. \r\n\r\nI also supply the Galvanic Spa, a patented home spa kit, and ageLOC skincare products.", 
+    "twitterId": "@tenyrsyounger", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.naturalfaceliftbrighton.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Rejuvanessence\u00ae", 
+      "Raynor Massage", 
+      "Galvanic Spa", 
+      "ageLOC"
+     ]
+    }, 
+    "universalName": "natural-facelift-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Natural Facelift Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Established in 1988. Running, sports and dance injuries assessed. Biomechanical consultation using state of the art slow-motion video analysis and pressure plate analysis. Foot and ankle pain due to wear and tear, nerve entrapments and poor biomechanics can be alleviated. Orthoses and footwear advice provided.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 327371"
+       }, 
+       "address": {
+        "postalCode": "BN3 7LS", 
+        "city": "Hove", 
+        "street1": "211 Hangleton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "wwww.brightonpodiatry.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Lower limb running and sports injuries assessed and treated using sports-specific orthoses."
+     ]
+    }, 
+    "universalName": "brighton-podiatry", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Podiatry"
+   }, 
+   {
+    "websiteUrl": "www.brightonselfcatering.com", 
+    "numFollowers": 6, 
+    "industry": "Hospitality", 
+    "universalName": "city-pad-brighton-self-catering-holiday-lets", 
+    "name": "City Pad Brighton Self Catering Holiday Lets"
+   }, 
+   {
+    "websiteUrl": "www.brightondanceacademy.com.au", 
+    "numFollowers": 6, 
+    "industry": "Education Management", 
+    "universalName": "brighton-dance-academy", 
+    "name": "Brighton Dance Academy"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 7, 
+    "industry": "Pharmaceuticals", 
+    "universalName": "brighton-research", 
+    "name": "Brighton Research"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 6, 
+    "industry": "Printing", 
+    "universalName": "wsl-brighton-limited", 
+    "name": "WSL Brighton Limited"
+   }, 
+   {
+    "websiteUrl": "http://www.townofbrighton.org", 
+    "numFollowers": 48, 
+    "industry": "Government Administration", 
+    "universalName": "town-of-brighton", 
+    "name": "Town of Brighton"
+   }, 
+   {
+    "websiteUrl": "www.brightondogphotography.co.uk", 
+    "numFollowers": 1, 
+    "industry": "Photography", 
+    "universalName": "brighton-dog-photography", 
+    "name": "Brighton Dog Photography"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 2, 
+    "industry": "Public Relations", 
+    "universalName": "the-brighton-group-c.a.", 
+    "name": "The Brighton Group C.A."
+   }, 
+   {
+    "websiteUrl": "www.invernesshomesohio.com", 
+    "numFollowers": 79, 
+    "industry": "Real Estate", 
+    "universalName": "brighton-homes", 
+    "name": "Brighton Homes"
+   }, 
+   {
+    "websiteUrl": "www.brightonschools.com", 
+    "numFollowers": 50, 
+    "industry": "Information Technology & Services", 
+    "universalName": "brighton-schools", 
+    "name": "Brighton Schools"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "How long will it take to see results from your Kettlebell Training?\r\n\r\nThe length of time you will see results depends on your initial level of fitness, diet nutrition, genetics, and your commitment. If you are committed, you can expect to see changes between 3-6 weeks.", 
+    "twitterId": "http://twitter.com/ christianvila", 
+    "blogRssUrl": "feed://brightonkettlebells.blogspot.com/feeds/posts/default", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07876558850"
+       }, 
+       "address": {
+        "city": "HOVE", 
+        "street1": "FONTHILL ROAD"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "07876558850"
+       }, 
+       "address": {
+        "postalCode": "BN3 2WW", 
+        "city": "HOVE", 
+        "street1": "KINGSWAY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.brightonkettlebells.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "WEIGHT LOSS", 
+      "BOOTCAMPS", 
+      "GROUP TRAINING", 
+      "PERSONAL TRAINING"
+     ]
+    }, 
+    "universalName": "brighton-kettlebells", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "BRIGHTON KETTLEBELLS"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 2, 
+    "industry": "Leisure & Travel", 
+    "universalName": "phuket-zone-ltd-and-the-loop-caf--bar-brighton", 
+    "name": "Phuket Zone Ltd and The Loop Caf\u00e9-Bar, Brighton"
+   }, 
+   {
+    "websiteUrl": "www.brightonsports.co.uk", 
+    "numFollowers": 3, 
+    "industry": "Sports", 
+    "universalName": "brighton-sports-co", 
+    "name": "Brighton Sports Co"
+   }
+  ]
+ }
+}

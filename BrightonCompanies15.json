@@ -1,0 +1,803 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 300, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Greedy Gull Studios", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.greedygull.co.uk", 
+    "universalName": "greedy-gull-studios", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "We are Greedy Gull Studios, a small indie developer based in Brighton formed in 2013. The studio consists of four students from the University of Brighton studying Computer Science (Games). \r\nThe idea to create a studio stemmed from the need to do an industrial placement during our third year of study. As we looked around at the various places that were available to us none of them were quite right, we wanted to be able to be creatively free and work in areas that we were passionate about, therefore we came up with the idea of creating our own company  as a placement opportunity. \r\nAnd thus Greedy Gull Studios was born!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "name": "International Cool Climate Wine Symposium 2016", 
+    "twitterId": "", 
+    "industry": "Wine & Spirits", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.iccws2016.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Viticulture", 
+      "Oenology", 
+      "Business of Wine", 
+      "Wine tasting", 
+      "Cool climate wine", 
+      "English & Welsh wine", 
+      "sustainable viticulture and winemaking"
+     ]
+    }, 
+    "universalName": "international-cool-climate-wine-symposium-2016", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "The International Cool Climate Wine Symposium is a major international forum, bringing together the world's leading figures in cool climate wine production. Held first in 1984, the last Symposia was held in 2012 in Tasmania, and its next appearance will be in Brighton, England, 26 to 28 May 2016.\r\n\r\nOver three days ideas and best practice will be shared, new and sustainable ways to produce wine will be discussed, masterclasses will be hosted and wines tasted.\r\n\r\nIn addition, there will be opportunities to visit some of England and Wales' leading wineries.\r\nA full programme of supporting consumer events will also be available, from winemaker dinners in local restaurants to the Sussex International Food & Drink Festival, held with the award-winning team behind the Brighton Food Festival.\r\n\r\nThe ICCWS 2016 is being produced with the support and endorsement of the following: \r\nthe United Kingdom Vineyards Association, English Wine Producers, The Institute of Masters of Wine, The Wine and Spirit Association. \r\n\r\nChris Foss, head of the wine department at the UK's centre of viticultural and oenological excellence, Plumpton College, is chairing the Programme Committee, in consultation with an International Advisory Committee.\r\n\r\nContact us via info@iccws2016.com with any queries, via press@iccws2016.com to be added to our press lists, or web@iccws2016.com with any web issues.\r\n\r\nStay in touch via Twitter, Facebook, LinkedIn and Google+\r\n\r\nWe look forward to seeing you in 2016"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Prominence Ltd was founded by Mehdi Jahani in 2008. From just four properties in 2009, Prominence Property now manages a number of properties across Brighton and Hove. The growth of the letting agency has been largely due to referrals, which is something we take great pride in.\r\n\r\nMehdi deals directly with the majority of our landlords and knows most of the tenants in Prominence property by name. If you have a question about renting or letting in Brighton or Hove, Mehdi is always more than happy to speak to you. Having lived and working in the city since 2003, he can give you valuable insights into the different areas and into the rental market trends.\r\n\r\nAll members of the Prominence Property team must complete a National Federation of Property Professionals (NFoPP) technical award in Residential Letting and Property Management. NFoPP works to raise standards within the letting and property management profession and its qualifications are recognised by the Office of Qualifications and Examinations Regulation (Ofqual).\r\n\r\nIf you are looking for local property rentals & management in East Sussex run by experts or want to get more information before buying your first BTL property, give us a call on 01273 724374", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 724374"
+       }, 
+       "address": {
+        "postalCode": "BN3 1DB", 
+        "city": "Hove", 
+        "street1": "124 Western Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.prominenceproperty.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Full Property Management", 
+      "Tenant Introduction", 
+      "Property Valuation", 
+      "Local Insights", 
+      "Property Inspections", 
+      "Tenant Screening"
+     ]
+    }, 
+    "universalName": "prominence-property", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Prominence Property"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Triple A Event Security", 
+    "twitterId": "", 
+    "industry": "Security & Investigations", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.aaaeventsecurity.co.uk/", 
+    "universalName": "triple-a-event-security", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Triple A Security have been delivering professional security services across a range of industries since 2008. We  pride ourself on providing trained, professional staff.\r\n\r\nWe offer a full range of event and security services:\r\nTraffic management\r\nEvent security\r\nEvent stewarding\r\nDoor supervision\r\nKey holding\r\nAlarm response\r\nRisk assessments including fire\r\nTraffic management plans\r\nEvent management plans and documentation.\r\n\r\nOur clients include Brighton & Hove City Council, Sussex County Cricket Ground and Brighton & Hove Albion."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Wedding, Creative Portraits and Commercial Photography located in Brighton Michigan.  We specialize in telling a great story, not just taking a picture!  We take the time to get to know our clients and put together a session that tells their story and captures their personality.  \r\n\r\nWe also offer a variety of print packages, albums, personalized DVD's, digital brag books and much more!\r\n\r\nWe are based in Brighton Michigan and available to travel!!!  Visit our website at www.robbmckindlesphotography.com and see the stories we like to tell!", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "612-217-4615"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "2077 Channel Dr."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.robbmckindlesphotography.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Weddings", 
+      "Creative Portraits", 
+      "Events", 
+      "High School Senior Portraits"
+     ]
+    }, 
+    "universalName": "mckindles-photography", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "McKindles Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Lakeside Service Co, Inc. is a full service heating, cooling, and comfort system company. Since 1983, our customer have trusted us to offer the highest quality heating and cooling services to customers in the Howell, Brighton, and surrounding communities. Our skilled technicians specialize in the installation, repair, and maintenance of HVAC systems and will provide you with the professional and courteous service you expect.\r\n\r\nCommercial or residential, our technicians can service any heating and cooling system. Our number one priority is customer service, getting the job done right the first time, every time. Depend on Lakeside Heating and cooling to keep you comfortable in the Brighton, Howell, and surrounding areas.", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810-227-4170", 
+        "phone1": "810-227-2719"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "4367 S Old US Hwy 23"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "www.lakesideservice.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Heating and Cooling", 
+      "GeoThermal", 
+      "Indoor Air Quality", 
+      "Energy Audits", 
+      "Duct Cleaning", 
+      "System Zoning", 
+      "Commercial Services"
+     ]
+    }, 
+    "universalName": "lakeside-service-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lakeside Service Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "PROPERTY & HOLIDAY HOME OWNERS:  \r\nWe are looking for high quality properties in Brighton, Bournemouth, Bristol, Bath and beyond. Properties with a WOW factor: sea views, close to the beach, or the country, with parking, and hotel standard presentation are of particular interest. \r\n\r\nVisit our property owner page here : http://keystay.co.uk/owner-enquiry.html  orCALL 0333 200 1233 or 07525 622 004 FOR DETAILS. \r\n\r\nFlexible holidaylet packages are available at LOW commission rates to suit YOUR particular needs, whether you are a hands on professional holidaylet home owner or a hands off property owner who wants to travel the world, we have a flexible arrangement to suit you. Call now to discuss how we can help you achieve high booking levels and keep running costs low.\r\n\r\nSelection of self catering short term rental holiday apartments, holiday homes, country cottages, large group houses, hen weekend accommodation & serviced, corporate apartments for short term lets for all occasions. Stay for a weekend, a week, a month or more or try our great value mid-week, Monday to Friday deals, romantic weekend breaks for 2, family holidays, all in great locations, close to the beach, coast or country from Brighton to Bournemouth, and Bristol to Bath. \r\n\r\nWe offer great flexible holidaylet packages to our holiday home owners, the low cost benefits of which are passed on to our discerning guests.", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0333 200 1233"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XF", 
+        "city": "Brighton", 
+        "street1": "Queensbury House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.keystay.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Self Catering Accommodation", 
+      "Short Term Rentals", 
+      "Live availability & online booking 24/7", 
+      "Large Group Accommodation", 
+      "Corporate Lets", 
+      "Weekend Breaks"
+     ]
+    }, 
+    "universalName": "keystay", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Keystay.co.uk Short term lets & holiday rentals for all occasions."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Invona is a 2013 start-up by Daniel McNaught, currently operating as a freelance senior IT specialist consulting for Apple and Microsoft solutions in small to large organisations (education and business).\r\n\r\nI'm especially eager to hear from businesses and other organisations in the Brighton area as I'm looking to provide the best solutions I can to help businesses thrive in this area. With all the creative businesses in Brighton, I'd like to make sure they are equipped well with computer systems that they enjoy using and that improve the efficiency of their business, school, university or other organisation.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)7795 380166"
+       }, 
+       "address": {
+        "postalCode": "BN3 1WQ", 
+        "city": "Brighton & Hove", 
+        "street1": "12 Bodiham House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.invona.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Apple Mac OS X and iOS networking", 
+      "Using Apple devices in a Windows environment", 
+      "IT for creative businesses", 
+      "Apple networks in large organisations (education and business)"
+     ]
+    }, 
+    "universalName": "invona-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Invona Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Corsi d'arte e spazio espositivo.\r\n\r\nLaboratorio4 nasce nel 2012 grazie ad un progetto elaborato dall'artista Barbara Cammarata insieme al compagno Felice Ferrara. Dopo 7 anni trascorsi in Inghilterra e dopo aver seguito un percorso di studi presso la Art University of Brighton ha deciso di intraprendere la carriera artistica, sviluppando una spiccata predisposizione all'insegnamento. Durante gli anni trascorsi in Inghilterra si \u00e8 specializzata nel ramo pittorico con particolare attenzione allo studio della figura umana sviluppatosi grazie all'esperienza lavorativa maturata presso il Sussex County Arts Club di Brighton ed altri college. Dopo alcune esperienze e mostre in Inghilterra e Irlanda in collaborazione con gruppi femministi ha deciso di ritornare nel suo luogo d'origine con l'obiettivo di sviluppare un nuovo portfolio e mettere il suo bagaglio culturale a disposizione degli altri, confidando nelle capacit\u00e0 artistiche dei siciliani.\r\n\r\nLaboratorio4 organizza corsi e workshop in pittura, disegno e scultura. Con i nostri corsi puoi sviluppare le tue capacit\u00e0, dando sfogo alla tua creativit\u00e0, raggiungere i tuoi obbiettivi e fare nuove amicizie, il tutto in un'atmosfera rilassante e divertente. I nostri corsi sono tenuti da artisti professionisti che condivideranno le loro conoscenze all'interno del nostro accogliente studio sito a San Cataldo.", 
+    "twitterId": "", 
+    "industry": "Fine Art", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "3275520290"
+       }, 
+       "address": {
+        "postalCode": "93100", 
+        "city": "San Cataldo", 
+        "street1": "Via Trieste, 4"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.laboratorio4.eu", 
+    "universalName": "laboratorio4", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Laboratorio4"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "name": "Fitzhugh Gates Solicitors and Notary", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 676837", 
+        "phone1": "01273 686811"
+       }, 
+       "address": {
+        "postalCode": "BN2 1RY", 
+        "city": "Brighton", 
+        "street1": "3, Pavilion Parade"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 465332", 
+        "phone1": "01273 461381"
+       }, 
+       "address": {
+        "postalCode": "BN43 5EE", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "23-25, High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.fitzhugh.co.uk", 
+    "universalName": "fitzhugh-gates", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Founded over 200 years ago, Fitzhugh Gates Solicitors are one of the longest established legal practices in the area. And, with offices in Brighton, and Shoreham-by-Sea, the firm is well positioned to service clients across Sussex.\r\n\r\nFitzhugh Gates has provided reliable advice to over eight generations of Sussex businesses and  families. Today our values are still the same; to provide up-to-date and practical advice with empathetic\r\nunderstanding. We never forget that having satisfied clients is our goal and we pride ourselves on our ability to explain the intricacies of the legal process in plain English.\r\n\r\nFitzhugh Gates recognise that both private individuals and businesses need a full range of legal services delivered in a caring, professional and efficient manner so each of our solicitors are experts in their respective fields, enabling Fitzhugh Gates to offer a broad range of legal services to exacting standards.  For more information about each of the areas of law in which we practice, please see the products and services tab.\r\n\r\nTo get in touch please email: mail@fitzhugh.co.uk or call 01273 686811 (Brighton), or 01273 461381 (Shoreham-by-Sea)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Brighton's original boutique hotel, Blanch House, is a historic Regency townhouse situated in a discreet Georgian Terrace in the heart of the vibrant Kemp Town area of the city.\r\n\r\nBlanch House is an ideal venue for conferences for up to 40 delegates, business events, special events including Weddings & Civil Partnerships, Private Dining to celebrate a business or personal occasion, or to just simply unwind and enjoy a cocktail in the relaxing hotel bar.  Exclusive use of the hotel is also available for either business or pleasure requirements.\r\n\r\nEach of Blanch House's 12 guest bedrooms are uniquely designed so guests can select a room to compliment their own preferred style.  With it's ethos to provide a high standard of stylish and restful overnight accommodation, Blanch House also serves an excellent breakfast using only the best, carefully selected local produce.  \r\n\r\nJust a short walk from Brighton's city centre and a mere stone's throw from this city's stunning Regency seafront, Blanch House is an ideally situated,  stylish, boutique haven from which to work, relax, celebrate or explore the city's delights.", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 603504"
+       }, 
+       "address": {
+        "postalCode": "BN2 1PL", 
+        "city": "Brighton", 
+        "street1": "17 Atlingworth Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.blanchhouse.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Conferences", 
+      "Weddings", 
+      "Civil Partnerships", 
+      "Private Dining", 
+      "Luxury Accommodation", 
+      "Events"
+     ]
+    }, 
+    "universalName": "blanch-house", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Blanch House"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Our goal is simple: to provide a great day out for motor vehicle enthusiasts. Whether participating in a rally, showing your vehicle, or attending as a spectator, our guests enjoy the finest locations in which to savour the many cherished vehicles on display.\r\n\r\nGE Classic Motor Events (formerly Greenwood Exhibitions) are the organisers of the famous London to Brighton Classic, Kit & Sports Car runs. A new team took over the business in March 2011 and is committed to making the London to Brighton a special day out for all enthusiasts as well as develop new runs and days out for all of our enthusiasts who like to 'GO'.", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.classicmotorevents.co.uk", 
+    "universalName": "ge-classic-events", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "GE Classic Events"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "The Blue Man", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.bluemanbrighton.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Food", 
+      "Drinks", 
+      "Live Music", 
+      "Events", 
+      "Christmas Parties", 
+      "Celebrations"
+     ]
+    }, 
+    "universalName": "the-blue-man", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Open all day, a laid back and relaxed vibe, The Blue Man is a cafe bar with a North African flavour serving tapas, main meals, fantastic coffee (the best in Brighton!), a slice of homemade cake and a variety of beers and wine.\r\n\r\nCome evening time and we have live music from across the world including flamenco, belly dancing (Tribal Cafe), local Brighton bands plus various bands of all genres.\r\n\r\nWhat do you feel like today?"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Beautiful Ink specialise in semi permanent makeup, also known as cosmetic tattooing. Lisa creates and styles eyebrows, defines eyes and colours lips using semi permanent pigments lasting 9 - 18 months before needing a top up visit. Eyebrow design for those with missing or misshapen eyebrows a speciality, separate design only bookings available. Based in Brighton city centre and mobile in Brighton & Hove.", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 987 5457"
+       }, 
+       "address": {
+        "postalCode": "BN1 3EH", 
+        "city": "Brighton", 
+        "street1": "Crown Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.beautifulink.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Semi Permanent Makeup", 
+      "Eyebrow Shape & Design"
+     ]
+    }, 
+    "universalName": "beautiful-ink", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Beautiful Ink, semi permanent makeup"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Dynasty Gallery & Gifts", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.shopdynastygallery.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Retail", 
+      "Vera Bradley", 
+      "Pandora", 
+      "Brighton"
+     ]
+    }, 
+    "universalName": "dynasty-gallery-&-gifts", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Dynasty Gallery is proud to have been part of the Orlando community for over 8 years. We carry your favorite brands Swarovski, Pandora, Brighton & Vera Bradley.  Also featuring Lladro, Mary Frances, Hobo, Lampe Berger and many more!\r\n\r\n\r\n1067 S. Clarke Road\r\nOcoee, Florida 34761\r\nShopdynastygallery.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Thompson Allen is a dedicated and friendly firm of specialist commercial lawyers based in the centre of Brighton on the South Coast of England. Our client base is spread throughout the United Kingdom, Ireland, the Channel Islands and the United States. \r\n\r\nWe specialise in all aspects of commercial and residential property law and a wide range of business law, including commercial contracts and buying and selling businesses.\r\n\r\nAt Thompson Allen we understand that good communication is key when it comes to developing client relationships and when dealing with third parties to get the job done efficiently. \r\n\r\nWe like to establish and maintain long-term relationships with our clients built on confidence and mutual trust. Brighton is sometimes affectionately referred to as 'London-on-Sea'. We feel that we offer the best of both worlds by combining the friendly, approachable attitude of a sea-side town with the attention to detail and commercial awareness of a London firm.\r\n\r\nAt Thompson Allen we are confident that we can demonstrate to prospective clients the benefits of using our specialist property and commercial law firm. As a measure of our confidence we offer prospective commercial clients a free 30 minute consultation either by telephone or in person at our offices, without obligation.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 608004", 
+        "phone1": "01273 608003"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UB", 
+        "city": "Brighton", 
+        "street1": "6 Marlborough Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.thompsonallen.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Landlord and Tenant", 
+      "Licensing", 
+      "Freehold purchases, sales and development", 
+      "Residential Property", 
+      "Commercial Contracts and Business Sales", 
+      "Charities", 
+      "Property Litigation", 
+      "Debt Recovery", 
+      "Trusts, Wills and Probate"
+     ]
+    }, 
+    "universalName": "thompson-allen-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Thompson Allen LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Bayside Mobile Vet", 
+    "twitterId": "", 
+    "industry": "Veterinary", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.baysidemobilevet.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Vet", 
+      "Mobile", 
+      "House call", 
+      "Home visit"
+     ]
+    }, 
+    "universalName": "bayside-mobile-vet", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "House Call Vet.  Melbourne.  \r\n\r\nBayside Mobile Vet was established in 2012 by husband and wife vets Dr Chris Gleeson and Dr Natasha Watts. They understand the time pressures on our lives and how stressful it can be for animals to travel to the vet.\r\n\r\nAt BMVC we are thrilled to be able to provide personalised, professional and compassionate care at the convenience of our clients, in their own home. Our aim is to provide the highest level of Veterinary care possible at affordable prices.\r\n\r\nWe routinely service the Bayside area of Melbourne; Port Melbourne, Albert Park, South Melbourne, Middle Park, St Kilda, Elwood, Brighton, South Yarra, Brighton East, Hampton, Hampton East, St Kilda East, St Kilda West, Ripponlea, Docklands, Windsor, Garden City, Southgate & Melbourne CBD.\r\n\r\nIf you would like a mobile vet visit but live out of this area a house call may still be available. Simply call us on 0488 061 444 to discuss your requirements.\r\nAt BMV we feel privileged to be able to offer excellent Veterinary to your pets in your home. This unique service is valued by owners who find it difficult to travel or transport their pets and by animals who feel anxious when travelling or visiting a veterinary clinic. Owners with multiple pets or those with young children also value the convenience of having the vet visit your home."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "HoBoJoBo likes to draw and find awesome things on the internet.\r\n\r\nWith five years marketing experience in both B2C and B2B markets and many years training and honing her illustration and design work, HoBJoBo mixes creativity with business understanding.\r\n\r\nHoBoJoBo has provided illustration for magazines, poster design for events and social media strategy for a range of business and creative projects plus much more.\r\n\r\nJo is also a founding member of the Brighton-based arts group C\u2019LECTIVE which collaborated with other local arts groups to produce Waste of Space: a series of events during the Brighton Fringe Festival in 2012 highlighting the potential alternative uses of empty spaces in the community.\r\n\r\nHoBoJoBo is always interested to hear about your project and available to work on freelance contracts across the design, media and marketing industries.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "East Sussex", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.hobojobo.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Illustration", 
+      "Social Media", 
+      "Graphic Design"
+     ]
+    }, 
+    "universalName": "hobojobo", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "HoBoJoBo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Supplying teachers and support staff to the schools of Sussex Sussex Teachers are the leading local independent supply teaching agency in Brighton & Hove, East Sussex and West Sussex. Since 2007, we have offered a reliable and cost effective local supply service specialising in the temporary and permanent recruitment of qualified teachers, teaching assistants and support staff. \r\n\r\nOur experienced consultants have a proven track record in their specialist sector having dealt with the Sussex schools and teachers for many years. We pride ourselves on our flexibility so whether you are looking for a year 5 teaching job in Lewes, a Science teaching job in Worthing, a teaching assistant job in Eastbourne, or a supply teaching job in Brighton, our experienced consultants will help find the right role for you.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 626 800"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "18 Queens Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.sussexteachers.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Supply Teaching", 
+      "Recruitment", 
+      "Education", 
+      "Secondary", 
+      "Primary", 
+      "Teaching Assistants"
+     ]
+    }, 
+    "universalName": "sussex-teachers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Sussex Teachers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Debonaire UK", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.debonairefridays.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Nightlife", 
+      "Social Media", 
+      "VIP Services", 
+      "Talent Management"
+     ]
+    }, 
+    "universalName": "debonaire-uk", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Brighton's dedicated VIP promotions company. Providing the South of England with the ultimate nightlife events at exlusive venues. \r\n\r\nLaunching 'priority card' for Brighton early 2013. Discounts and rewards in some of the city's most exclusive restaurants, bars, shops and attractions.\r\n\r\n2013 will also see Debonaire move international with events being hosted in Paris, Ibiza, Marbella, St.Tropez and Sydney."
+   }
+  ]
+ }
+}

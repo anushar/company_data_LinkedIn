@@ -1,0 +1,733 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1460, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Parker Point Capital is a registered broker dealer and wholly owned subsidiary of Brighton House Associates. PPC was founded in 2009 to assist alternative investment fund managers create and execute fixed-term marketing campaigns to raise capital from investors.  PPC broke the mold by eliminating the \"success fee / long term contract\" business model in favor of fixed term, 3 month marketing campaign subscription service. Over the years, many fund managers have asked BHA to combine its investor research and lead-generation capabilities with a hands-on, direct marketing service. Lacking the time and infrastructure to target BHA\u2019s investor leads, countless fund managers often requested PPC expand its offering.", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "01752"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.parkerpointcapital.com", 
+    "universalName": "parker-point-capital-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Parker Point Capital, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 65, 
+    "description": "Liquid Light is a Brighton based web design agency. We have over ten years experience designing award winning websites for a wide range of businesses, from small partnerships to internationally recognised PLCs. We combine creative thinking, cutting-edge design and technological know-how to deliver elegant user-centric solutions that meet your business objectives.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)8456 58 44 35", 
+        "phone1": "+44 (0)8456 58 88 35"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AJ", 
+        "city": "Brighton", 
+        "street1": "28 Kensington street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "http://www.liquidlight.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "strategy", 
+      "information architecture", 
+      "usability", 
+      "accessibilty", 
+      "user experience"
+     ]
+    }, 
+    "universalName": "liquid-light", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Liquid Light"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 536, 
+    "description": "Communion was born in the summer of 2006 at Notting Hill Arts Club. Founded by Ben Lovett (Mumford and Sons), Kevin Jones (Cherbourg) and producer Ian Grimble, it grew into a community of musicians, industry and fans alike, and provided a platform for the newest bands on London\u2019s circuit. The night has seen the likes of Noah and the Whale, Laura Marling, Mumford and Sons, JJ Pistolet and Peggy Sue grace the stage and has become closely associated with the nu-folk movement in the capital. As well as this, it helped spawn the careers of artists such as Esser, The Holloways and Example, in keeping with the eclectic ethos that Communion has come to stand for.\r\n\r\nIn 2009 after regular sell out nights, Communion was asked to be on the committee for the Camden Crawl and launched a sister night in Brighton, first at the Hanbury Ballrooms and then at The Albert. There are now also club nights at The Adelphi in Leeds and in Sydney, Australia. Communion Records was founded in September of 2009 and aims to continue the club night\u2019s all encompassing philosophy and championing of new talent.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "NW1 8NZ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.communionmusic.co.uk", 
+    "universalName": "communion-music-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Communion Music Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Website aimed at residents and visitors to Eastbourne. Writing reviews of Pubs, Clubs & Restaurants.  Giving opinions and trival news items and a general tour of the area.\r\n\r\nEastbourne Rocks! was first designed as a MySpace  page back in 2006, under the guise of \u201cEastbourne Events\u201c, devoted to the pubs and clubs of Eastbourne, where posts and posters were uploaded to the comments wall and blog spaces were added for content of special mention.\r\n\r\n\u201cEastbourne Events\u201d was quickly replaced with Eastbourne Rocks! purely for the fact that Eastbourne was so much more than a place where events happen \u2013 it\u2019s the place to be, an up and coming town \u2013 Little Brighton, as it\u2019s affectionately known, with a mainline train station right into the heart of London, we have the finest restaurants, pubs and clubs in the South East.\r\n\r\nTo put it simply, Eastbourne Rocks!\r\n\r\nEastbourne Rocks! has been designed for the visitor, and resident alike.  If you\u2019re looking for a new place to eat, drink, celebrate, hang out \u2026 whatever your reason for being in Eastbourne, get the latest news and reviews about it here.\r\n\r\nSo now, we bring to you the all new Eastbourne Rocks! website, where you find out about everything that makes Eastbourne rock!", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN20", 
+        "city": "Eastbourne", 
+        "street1": "Grange Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.eastbournerocks.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "advertising", 
+      "reviews", 
+      "opinions", 
+      "news"
+     ]
+    }, 
+    "universalName": "eastbourne-rocks-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Eastbourne Rocks!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 191, 
+    "description": "Margaret is a young, multi- faceted creative agency with an ambitious, smart and informed team. We are a creative agency in the truest sense, consisting of published writers, music producers, filmmakers, innovative promoters, fine art experts and fashion bloggers, alongside experienced marketeers, PR experts and social media enthusiasts.\r\n\r\nWe conceive and deliver innovative and impactful campaigns, events, PR, creative collaborations, content creation and social media marketing to enable our clients to reach and engage with new audiences in credible and relevant ways.\r\n\r\nWe are uniquely placed to offer a comprehensive service covering all of these elements or specialising in one area. We deliver tailor made and effective solutions according to a client\u2019s needs and can create something innovative and unique for their brand or project.\r\n\r\nOur clients include high profile arts festivals and underground cultural projects, premium brands and creative networks. With our comprehensive skill set and strong, personable team, we can create and realise projects and use our broad cultural knowledge and contacts on to our clients.\r\n\r\nCurrent and recent clients include Nintendo, Kopparberg, Auchentoshan, Bowmore, Lola&Grace, Oasis, Brighton Photo Biennial, Wales in Venice at the Venice Biennale, The Vinyl Factory, ICA, Film London, Artificial Eye, Britdoc, ICO, London Comedy Film Festival, London Korean Film Festival, Rizzoli, Hayward Gallery, Open Eye Gallery, War Child, Trees for Cities", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7923 2861"
+       }, 
+       "address": {
+        "postalCode": "E8 3QW", 
+        "city": "London", 
+        "street1": "Hothouse, 274 Richmond Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.margaretlondon.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "PR and communications", 
+      "events creation and project management", 
+      "cultural PR including film and cinema, visual arts and music", 
+      "social media management", 
+      "fashion campaigns", 
+      "creative consultancy", 
+      "content creation and documentation", 
+      "brand and commercial PR"
+     ]
+    }, 
+    "universalName": "margaret-london", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Margaret_"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Charlie & Clubbers Community, established in 2006, is known for organizing music events (dance parties), such as Amnesia Ibiza (people from ibiza / contact ibiza) in Slovakia or Le Grande House parties.\r\nIt is responsible for arranging and realization of events based on customer's needs (such as parties, festivals, open air events, firm functions or private parties). It is involved in booking national and internationals artists like DJs, live bands, singers, electro boogie and gogo dancers. It also provides sound and light equipment, as well as marketing and advertising services for events and artists.\r\n\r\nCurrently, it has many Slovakian DJs in roster and a couple of exclusive booking rights for Slovakia with foreign DJs, including Amnesia Ibiza resident Brian Cross.\r\n\r\nDJs:\r\nCharlie Clubber\r\nhttp://www.charlieclubbers.net/charlieclubber\r\nThe most noticable Slovakian DJ in house & progressive musc genres, as well as promoter and producer. First Czecho-Slovak DJ who performed at 2 best clubs in the world - Amnesia @ Ibiza (Aug 15, 2010) and Ministry od Sound @ London (Aug 21, 2010).\r\n\r\nLaddy M\r\nhttp://www.charlieclubbers.net/laddym\r\nThe most successful DJane from Slovakia, Laddy M, performed in Hurgada's Ministry of Sound Red Sea and Hed Kendi clubs (both Egypt), Bracelona and Ibiza (Spain), Brighton and London (UK), Prague and Brno (Czech Republic) and Slovakia's best clubs.\r\n\r\nFresh Clubber\r\nhttp://www.charlieclubbers.net/freshclubber\r\nPerformed in Ibiza, Czech Republic, Austria and Slovakia", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "85102", 
+        "city": "Bratislava", 
+        "street1": "Pajstunska 1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.charlieclubbers.net", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "DJs booking", 
+      "artist booking", 
+      "organizing events and parties", 
+      "marketing", 
+      "advertising"
+     ]
+    }, 
+    "universalName": "charlie-&-clubbers-community", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Charlie & Clubbers Community"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "name": "Matthew James Consulting", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": ".", 
+        "street1": "Docklands, London & Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.mj-consulting.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Front Office - Credit / Fixed Income", 
+      "Capital Markets", 
+      "Medical Communications", 
+      "Pharmaceutical"
+     ]
+    }, 
+    "universalName": "matthew-james-consulting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Matthew James Consulting Limited is a leading specialist recruitment consultancy with offices in London and Brighton. \r\n\r\nWe place candidates on a permanent, contract, freelance and interim basis in Front Office (Credit / Fixed Income), Capital Markets, Medical Communications and the Pharmaceutical market."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "name": "JC Whelan LLC", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://jcwhelan.com/michigan_Search_Engine_SEO/Brighton-Howell-Milford/SEO-Search-Marketing-companies.aspx", 
+    "universalName": "jc-whelan-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Search Engine Optimization Service and Consulting Company\r\nBrighton - Milford - Howell - Livingston and Oakland County Michigan\r\n\r\nGoogle, Yahoo, MSN and other search engines need help to discover what your site is actually saying.  Search engines do not employ an army of people to read and categorize each website they find.  To determine how your website might be a great answer in a search engine results page (SERP) they send out small programs to research (or crawl) through your website.  These programs (called robots or spiders) read every word of each page, follow all of your links and then report back to the search engine on the words they find.  Search engines then have a copy or \"index\" of your website stored away for quick reference when a search request is made.  If all goes well, there is a great match between what a users asks, and what the search engine finds on its copy of your website.\r\n\r\nImage or Flash driven websites are almost impossible to \"read\" by a search engine and therefore rarely show up as a good result when a search engine query is made.  Search engine optimization is a balance between website content, link building, and keyword research. \r\n\r\n    * Keyword Research\r\n    * Link Building Services\r\n    * Promotional and/or Search Engine Writing\r\n    * Search Engine Friendly Web Design\r\n    * Directory Submission Services"
+   }, 
+   {
+    "numFollowers": 25, 
+    "name": "Invitation Media Ltd", 
+    "industry": "Fundraising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BS3 3NU"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.invitationbook", 
+    "universalName": "invitation-media-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The Invitation Book is a discount voucher and savings directory that can help you save hundreds of pounds on going out in your area. It is published annually in 9 regional editions. Each book is packed with a multitude of significant discounts (2 for 1, 25% off, etc) for the best local leisure, entertainment and dining establishments.\r\n\r\nThe Invitation Book and all associated products are produced by Invitation Media Ltd., with head offices based in Bristol.\r\n\r\nThe company was set up in 2003 by publishers Scott Davidson, Sam Oliphant, Dougal Templeton and Jo Kennedy, with the aim of raising over \u00a31 million for good causes in every region that has an Invitation book. A secondary target was to have a book established in every major city and region throughout the UK and in 2008 there were books in the following areas:\r\n\r\nBristol, Bath & West \r\nCoventry & Warwickshire \r\nBirmingham, Solihull & West Midlands \r\nCardiff, Newport & South Wales \r\nNottingham & Derby \r\nThe Black Country \r\nIn 2009, the following editions are available:\r\n\r\nSouthampton & Portsmouth \r\nBrighton, Hove & West Sussex \r\nReading, Oxford & The Thames Valley \r\nAs with anything new, it does take time for people to get used to the idea that you really can buy \u00a31,000's worth of fantastic offers and savings for less than \u00a330\u2026 but believe us, there are no catches, no hidden costs or prohibitive terms and conditions.\r\n\r\nWe would love to claim this as an original concept. But like all great ideas, it's inspired by others. There are many similar books around the world but it's 'Entertainment' founded in Detroit, USA by Hughes and Sheila Potiker in 1962, which is the most successful. It's now published in more than 200 markets across Canada, USA, Australia, New Zealand and Asia with more than 8 million books sold in 2004. As well as each book delivering $1,000's in voucher and dining savings, it also works as a community fundraiser - $90 million was raised last year for local good causes from the sale of USA 'Entertainment' books alone.\r\n\r\nHaving recently moved to larger offices in Bristol and with a dedicated and hardworking team, Invitation Media Ltd. continues to expand its client database of members, discount promotion partners and fundraisers, always with the clear aim of helping make a difference in the local community.\r\n\r\nIf you are interested in the book, or ways in which we can help you, why don't you make an appointment and come have a coffee and chat, we would be more than happy to see you."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 90, 
+    "description": "Founded in 1920 Dehns has grown to become one of Europe's largest firms of patent and trade mark attorneys, with people in London, Brighton, Oxford and Munich. \r\n\r\nSpecialist practice groups serve clients in the fields of Chemistry and Biotechnology, Engineering and Electronics and Trade Marks. \r\n\r\nDehns is dedicated to providing high quality, creative solutions to clients' intellectual property needs.", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "London", 
+        "street1": "St Bride's House, 10 Salisbury Square"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1920, 
+    "websiteUrl": "www.dehns.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Patent and Trademark Attorneys."
+     ]
+    }, 
+    "universalName": "dehns_82302", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Dehns"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "I am a freelance motion designer based in Brighton, UK.  \r\n\r\nI specialise in Motion Graphics, Motion Design, 2D / 2.5D / 3D Animation, and Stop-motion Animation for broadcast and the web.\r\n\r\nMy main software programs of choice are After Effects, Cinema 4D and Dragonframe.", 
+    "twitterId": "", 
+    "industry": "Animation", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07828 705100"
+       }, 
+       "address": {
+        "postalCode": "BN3 3TE", 
+        "city": "Hove", 
+        "street1": "Flat 6, 70 Wilbury Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.richardgladman.co.uk", 
+    "universalName": "richard-gladman-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Richard Gladman Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Senlac Tours B.V.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.senlactours.nl", 
+    "universalName": "senlac-tours-b.v.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "UK SPECIALIST\r\nDenk je aan een schoolreis naar Engeland, dan denk je aan Senlac Tours. Wij zijn de UK specialist bij uitstek. De Britse eilanden met populaire bestemmingen als Hastings, Brighton en Londen, vormen de kern van ons reisaanbod. Onze deskundige en betrokken medewerkers zijn regelmatig ter plaatse en kennen de bestemmingen als geen ander. Ook hebben wij goede plaatselijke contacten en zelfs een eigen kantoor in Battle, vlakbij Hastings. Graag leveren wij een bijdrage aan jullie reis."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 142, 
+    "description": "For more than 20 years, the Hugos Group has owned and operated\r\nsome of Australia\u2019s most recognised and awarded venues.\r\nHugos Lounge & Hugos Bar Pizza in Kings Cross, Hugos Manly, Hugos\r\nBondi and Brighton\u2019s Pantry are renowned venues in Sydney\r\nand Melbourne.\r\n\r\nThese uniquely designed spaces are perfect for our relaxed Australian\r\nlifestyle, fusing urban sophistication with comfort and simply beautiful\r\nfood. The Hugos Group has expanded to include Hugos Catering and\r\nHugos Team Building Events, catering for the corporate and high-end\r\nprivate sectors.\r\n\r\nOwners, David Evans, Daniel Vaughan and David Corsi, all have a\r\npassion and dedication for providing extraordinary food and service in\r\nunforgettable venues.\r\n\r\nThe trio met each other while working in the Melbourne restaurant\r\nscene back in 1986. Dave Evans and Daniel were both chefs and\r\nDave Corsi was the front of house manager. After two years of working\r\ntogether and becoming best mates, they teamed up to open their first\r\nvenue, The Lager Bar in Fitzroy Street, St Kilda and the rest is history.\r\n\r\nThe Hugos Group has been consistently recognised by its peers over\r\nthe years claiming some of the most prestigious bar and restaurant\r\naccolades, including seven Sydney Morning Herald chef\u2019s hats, Best\r\nRestaurant in Australia, Best Nightclub in Australia, Best Small Caterer\r\nin Australia & Best Bar in Australia.", 
+    "twitterId": "", 
+    "industry": "Online Publishing", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.hugos.com.au", 
+    "universalName": "hugos-group", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Hugos Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Peter Jarman + Company are an award winning firm of ACCA qualified Chartered Certified Accountants based in Shoreham-by-Sea, West Sussex between Brighton and Worthing, offering practical business, tax planning and accountancy advice to companies and individuals and have been doing so for over twenty years.\r\n\r\nWe are ACCA Approved Employers and offer training contracts to really good graduates that want a career in Accountancy and Tax. Have a look at our Recruitment and Careers on our website.\r\n\r\nBy having good quality ACCA qualified staff who are keen to learn and adapt to clients needs, we aim to exceed client expectations and if we fail, then we dont expect to get paid !!  Thats one way that we are different from the stereotype Accountancy Practice so whether you are a prospective client or prospective employee, take a look at our website and if you think we fit your profile then please get in contact.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 441 185", 
+        "phone1": "01273 441 187"
+       }, 
+       "address": {
+        "postalCode": "BN43 5HZ", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "1-2 Harbour House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.peterjarman.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Accountancy", 
+      "Tax planning"
+     ]
+    }, 
+    "universalName": "peter-jarman-&-company", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Peter Jarman & Company"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Emma North Make-up Artist", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.emma-north.co.uk", 
+    "universalName": "emma-north-make-up-artist", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Freelance Make-up Artist based in Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 342, 
+    "description": "Be At One was founded in 1998 by three well-seasoned bar tenders who were determined to bring back fantastic customer service and consistency to the cocktail bar trade, particularly after the arrival of design rather than customer-led style bars.\r\n\r\nBe At One understood the need for something a little bit different; somewhere the guests could rely on a warm greeting, great drinks and a place where a handshake and classic tunes were more important than a design feature.\r\n\r\nIn May 1998 Be At One, Battersea opened its doors, situated on Battersea Rise just near the Northcote Road Junction. The bar was an instant success, offering something new to the area and providing an inviting and friendly atmosphere for the buzzing twenty-something's to let their hair down.\r\n\r\nOver the past fifteen years, the Be At One chain has gone from strength to strength opening a further 19 bars across London, Reading and Brighton with further expansion taking place in Bristol and Milton Keynes.", 
+    "twitterId": "www.twitter.com/BeAtOneBar", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7738 9055"
+       }, 
+       "address": {
+        "postalCode": "SW11 1TR", 
+        "city": "London", 
+        "street1": "7-11 St John's Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.beatone.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Cocktail Bartending", 
+      "Bartender Training"
+     ]
+    }, 
+    "universalName": "be-at-one", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Be At One"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "\u201cIconic\u201d (The Metro)\r\n\u201cThe kings of the capital\u2019s Hip-Hop scene\u201d (Time Out)\r\n\r\nSince 2005 we have thrown parties for music fans that care more about feeling good than anything else. We have hosted some of the world's best DJs and MCs throughout the finest venues in London, Brighton and Manchester.\r\n\r\nSpin Doctor promoted his first party back in 2000, before launching the regular 'Indelible Marker at The Key. The Doctor's Orders was launched at Herbal in 2005 with DJ Cash Money as the special guest. This created the blueprint for quality parties focused on quality of guests, music, sound, service and atmosphere that has been followed ever since.\r\n\r\nWe host regular events at Scala, Fabric and The Jazz Cafe to name a few. Some of the guests to date include De La Soul, Erykah Badu, Kenny Dope, Just Blaze, DJ Jazzy Jeff, DJ Premier, KRS-One, EPMD, Marley Marl, Dilated Peoples, Tim Westwood, Jazzie B (Soul II Soul), Phife Dawg & Ali Shaheed Muhammed (A Tribe  Called Quest), DJ Format. These names have always provided sterling-quality performances, giving us the title of the 'kings' of London's Hip-Hop scene.\r\n\r\nAs with all long running parties the residents provide the backbone of everything that happens and in our squad of Spin Doctor, Mr Thing, Chris P Cuts (since 2010) and Mo Fingaz (since 2012) always make sure maintain our reputation as the UK's No.1 Hip-Hop Party.\r\n\r\nFor bookings please contact yo@thedoctorsorders.com / +44 (0)207-833-9544", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.thedoctorsorders.com", 
+    "universalName": "the-doctor's-orders", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "The Doctor's Orders"
+   }, 
+   {
+    "numFollowers": 1, 
+    "name": "Moss Copywriting", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.mosscopywriting.co.uk", 
+    "universalName": "moss-copywriting", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I'm a freelance copywriter, copyeditor and proofreader based in Brighton, East Sussex."
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Frisbee LTD", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn11ut"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.frisbeeuk.com", 
+    "universalName": "frisbee-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Frisbee LTD is Web Development and Web Design company based in Brighton & Hove, Sussex."
+   }, 
+   {
+    "numFollowers": 22, 
+    "name": "Crosby & Moore", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.crosbymooresolicitors.co.uk", 
+    "universalName": "crosby-&-moore", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Solicitors in Brighton and Hove"
+   }
+  ]
+ }
+}

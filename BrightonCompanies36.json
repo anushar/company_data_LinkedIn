@@ -1,0 +1,895 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 720, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "3Phase Events", 
+    "twitterId": "", 
+    "industry": "Performing Arts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.3phaseevents.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Lighting Design", 
+      "Sound Design", 
+      "Theatre"
+     ]
+    }, 
+    "universalName": "3phase-events", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Live events production company specialising in producing and promoting theatre and music shows, and providing lighting design, sound design and technical support. \r\n\r\nCurrently producing shows for The Brighton Fringe in 2013, plus related preview shows.\r\n\r\nwww.facebook.com/3PhaseEvents"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 113, 
+    "description": "O\u2019Neal Flat Rolled Metals is a leading supplier of stainless, aluminum, and carbon flat rolled products. With headquarters in Brighton, CO, OFR Metals has 15 locations nationwide that serve customers in diverse markets including food service, transportation, HVAC, sheet metal fabrication, construction, automotive and many others. \r\n\r\nO\u2019Neal Flat Rolled Metals is one of more than a dozen companies that comprise O'Neal Industries, the U.S.'s largest family-owned group of metals service centers. O'Neal Industries is based in Birmingham, Alabama, and has more than 90 specialized facilities throughout North America, South America, Europe, and Asia.\r\n\r\nTo find a location near year, please visit our website!", 
+    "twitterId": "", 
+    "industry": "Mining & Metals", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "800.336.3365"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1229 S. Fulton Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "www.ofrmetals.com", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Aluminum", 
+      "Galvanized", 
+      "Stainless Steel", 
+      "Galvannealed", 
+      "Hot Rolled P&O", 
+      "Electro-Galvanized", 
+      "Cold Rolled", 
+      "GalXC", 
+      "Leveling/Cut-to-Length", 
+      "Slitting", 
+      "Blanking", 
+      "Shearing", 
+      "Value-Added Services"
+     ]
+    }, 
+    "universalName": "o'neal-flat-rolled-metals", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "O'Neal Flat Rolled Metals"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Added Bytes", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.addedbytes.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "PHP", 
+      "Magento", 
+      "MODX", 
+      "Drupal", 
+      "OpenCart", 
+      "Wordpress", 
+      "SEO", 
+      "Hosting", 
+      "Marketing"
+     ]
+    }, 
+    "universalName": "added-bytes", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Based in Brighton and Hove, UK, Added Bytes are specialists in web development, as happy planning and building you a system from the ground up as adding a module to one of the Open Source platforms we work with every day. \r\n\r\nWe take care of all parts of the website building process, including planning and wireframes, branding and design, development, marketing, testing, deployment, hosting and website management.\r\n\r\nWe have buckets of experience with the major open source e-commerce and CMS platforms, including Magento, MODX, Drupal, OpenCart, Prestashop and Wordpress, and including installation, themeing, custom module development, hosting and even platform upgrades.  \r\n\r\nGet in touch to find out more!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "With over 10 years experience we are one of Brighton's favourite decorating companies.  \r\n\r\nWe have a medium sized team of dedicated professionals who are trained to ensure that our customers are kept happy at all times.  To ensure this we first and foremost select people who our customers are happy to have in their houses or workplaces.  Then we make sure that everyone who works for us is a qualified decorator who is committed to the profession.  \r\n\r\nWe are happy to come and have a look at any work you might have for us.  We have extensive experience of both commercial and residential projects.  \r\n\r\nPlease call us now.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 602 831"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AY", 
+        "city": "Brighton", 
+        "street1": "42 Argus Lofts"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.decoratorinbrighton.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Painting and Decorating", 
+      "Wallpapering", 
+      "Interior and Exterior", 
+      "Plastering"
+     ]
+    }, 
+    "universalName": "mike-moody-decorating", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Mike Moody Decorating"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "description": "Yesco Electrical Supply Inc. is a locally owned and operated company that was established in 1987. Lee DeRose opened his first location in a small building on Marshall Street in Youngstown, Ohio. He used the experience he gained from working as an electrician at the General Motors Lordstown Assembly Plant and applied it to an entirely different aspect of the business - representing manufacturers of electrical supplies. Yesco serves customers in a variety of segments, from Industrial, Institutional, Residential and Contractors to Security, Alarm and Computer industries.\r\n\r\nIn 1990, Yesco moved to its current location on Marshall Street to an expanded storage facility allowing additional product to be kept in stock. Yesco currently stocks and resells 165,000 products from over 400 manufacturers. This growth was just the beginning as we have grown by an additional four locations since that time. Yesco opened its Columbiana, Ohio location in 1996, purchased the assets of the wholesale division of Bruce and Merrilee Electric Co in New Castle, Pennsylvania in 2004, and acquired the assets of Elliott Electric Supply Co and lighting showroom located in New Brighton, Pennsylvania in 2005.\r\n\r\nToday, Yesco has grown to 60 employees, maintaining over 50,000 square feet of location space, serving over 6000 customers while stocking and re-selling 165,000 products from over 400 manufacturers. Yesco's territory covers a 12 county region in Western Pennsylvania and Eastern Ohio.", 
+    "twitterId": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(330) 482-5199", 
+        "phone1": "(330) 482-8593"
+       }, 
+       "address": {
+        "postalCode": "44408", 
+        "city": "Columbiana", 
+        "street1": "44612 St Rt 14"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(330) 482-5199", 
+        "phone1": "(330) 482-8593"
+       }, 
+       "address": {
+        "postalCode": "44502", 
+        "city": "Youngstown", 
+        "street1": "648 Marshall St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(724) 656-0351", 
+        "phone1": "(724) 656-0911"
+       }, 
+       "address": {
+        "postalCode": "16101", 
+        "city": "New Caslte", 
+        "street1": "218 Old Youngstown Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(724) 847-9350", 
+        "phone1": "(724) 847-2820"
+       }, 
+       "address": {
+        "postalCode": "15066", 
+        "city": "New Brighton", 
+        "street1": "2230 Third Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.yeselectric.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Security Cameras", 
+      "Wholesale Electrical Supplies", 
+      "Generators", 
+      "Panels", 
+      "Benders", 
+      "Lighting Supplies"
+     ]
+    }, 
+    "universalName": "yesco-electrical-supply", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "YESCO Electrical Supply"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 97, 
+    "description": "Stafford House is a member of the Cambridge Education Group and has been successfully running EFL programmes for more than 60 years. Stafford House School of English is a year round school offering a range of English Language programmes to adult and junior students in London, Brighton and Canterbury.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "WC1A 2DA", 
+        "city": "London", 
+        "street1": "2 Southampton Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 1JD", 
+        "city": "Brighton and Hove", 
+        "street1": "61 Western Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "CT1 3AH", 
+        "city": "Canterbury", 
+        "street1": "19 New Dover Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1952, 
+    "websiteUrl": "www.staffordhouse.com", 
+    "universalName": "stafford-house-school-of-english", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Stafford House School of English"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "The Entertainment Guide is the best source for all that's happening across the United Kingdom. We have scoured the country to bring you the latest British and International cuisine, music venues, accomodation and days out from Aberdeenshire to Brighton.\r\n\r\nOur printed guides divide The United Kingdom into numerous areas (Aberdeen, Tayside, Edinburgh, Glasgow, Stirling and Falkirk, Ayrshire, Perth, Lanarkshire and Manchester), making it easy to plan your trip if you're a first-time visitor or have a change of scene if you're a local. You can find our printed guides in outlets nationwide; of course, the Entertainment Guide website brings all these are...as together, giving you literally hundreds of restaurants, bars, nightclubs and hotels to choose from.\r\n\r\nWhile we update our website on on a regular basis, we accept no responsibility for incorrect information regarding prices, services or amenities held on the Entertainment Guide. We provide contact details where possible and strongly recommend ensuring businesses meet with your requirements prior to your visit.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.theentertainmentguide.co.uk", 
+    "universalName": "the-entertainment-guide", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Entertainment Guide"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 58, 
+    "name": "Bournemouth Symphony Orchestra", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BH15 1UF", 
+        "city": "Poole", 
+        "street1": "2 Seldown Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.bsolive.com", 
+    "universalName": "bournemouth-symphony-orchestra", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The BSO is one of the UK's top symphony orchestras with an illustrious history spanning over 120 years. Serving the South and South-West, we give over 130 concerts a year in Poole, Bournemouth, Bristol, Exeter, Portsmouth, Basingstoke, Brighton, Cheltenham and many other venues throughout the world.\r\n\r\nWe have appeared on over 350 recordings so far with an incredible array of artists including current Principal Conductor Kirill Karabits, Paavo Berglund, Marin Alsop, Sir Simon Rattle, Sir Dan Godfrey, Constantin Silvestri and many others."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "Who are we? \r\n\r\nTalbot Fashions LLP was established in 1980 by twin brothers Anthony and Robert Talbot, and the company has grown to become one of the UK\u2019s leading suppliers of fashion accessories to the trade.\r\n\r\nWe operate from a modern warehousing facility which is based on the South Coast in the happening seaside city of Brighton and Hove, from where we despatch our products throughout the UK, Europe and the rest of the world. All orders are despatched from our large stocks and usually reach their destination within 1-2 working days of receiving the order. (UK)\r\n\r\nIf you would like to visit our warehouse, then please call us in advance to arrange on 01273 776415. Parking is available. \r\n  \r\nWhat do we do? \r\n\r\nWe specialise in the sourcing and wholesaling of fashion jewellery and accessories for all age groups and both sexes. We currently hold almost 1000 different product lines, which are customised, packaged and bar-coded.\r\n\r\nWe supply independent fashion retailers, gift shops, multiple chain stores, party planners, wholesalers, online sellers, market traders and others.\r\n\r\nOur team of nationwide sales representatives are able to present and give advice on our entire range, including any new additions that might otherwise not be viewed until the next catalogue.\r\n\r\nWe produce 2 colour catalogues a year, laid out in an easy to order format.\r\n\r\nAll orders are processed and despatched usually within 1 working day of receipt of your order.", 
+    "twitterId": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 776415"
+       }, 
+       "address": {
+        "postalCode": "BN1 3TR", 
+        "city": "Brighton", 
+        "street1": "7-8 Howard Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "http://www.talbotfashions.co.uk/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Costume Jewellery", 
+      "Giftware", 
+      "Teen Fashion", 
+      "Children's Accessories and Toys", 
+      "Men's and Boy's Accessories"
+     ]
+    }, 
+    "universalName": "talbot-fashions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Talbot Fashions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Web Cycle", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.website-cycle.co.uk/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Web Design", 
+      "Search Engine Optimisation", 
+      "Logo Design", 
+      "Corporate Identity", 
+      "Online Marketing", 
+      "Graphic Design & Print", 
+      "Web Hosting", 
+      "Domain Registration"
+     ]
+    }, 
+    "universalName": "web-cycle", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Web Design company based in Brighton who have a down to earth attitude, cutting edge designs, professional etiquette & friendly staff without the inflated price tag!\r\n\r\nWe believe in a more client friendly, jargon free web design company who will make sure you get exactly what you want and need to move your business or hobby forward in the right direction."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 92, 
+    "description": "Apartments of London is offering short term and holiday lets market with quality apartments right in the heart of London, for corporate or leisure purposes.\r\n\r\nFinding suitable accommodation in the centre of London can be tricky and you could find yourself limited to large, impersonal hotel chains. We pride ourselves on offering visitors high quality, opulent apartments which look out onto many of London's top landmarks such as the Houses of Parliament, London Eye, Tower of London, Hyde Park and more\r\n\r\nOur properties are conveniently located in London's Victoria district, from where you can get a direct train to and from Gatwick and Heathrow Airports. Victoria Train Station has regular services to Brighton and the underground will take you anywhere within London, although with most major London attractions right on your doorstep you won't have to travel far to see the sights.\r\n\r\nApartments are self-catering and fully equipped with all mod cons including Wi-Fi, digital TV, washing machine, dishwashers and fully fitted modern kitchens. Whether it's a business trip or a city break, you can relax in comfort and style without the fear of any interruptions, and knowing that you can come and go as you please.\r\n\r\nApartments of London are also happy to provide you with a brief guide of the major London attractions, including some local knowledge that will you find invaluable during your stay.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02078219996"
+       }, 
+       "address": {
+        "postalCode": "SW1V 1DN", 
+        "city": "London, United Kingdom", 
+        "street1": "89 Wilton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.apartmentsoflondon.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Serviced Apartments in London", 
+      "Short and Long term lettings", 
+      "Luxury apartments", 
+      "Holiday lets", 
+      "Business and Corporate lettings"
+     ]
+    }, 
+    "universalName": "apartments-of-london", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Apartments of London"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Business Grade I.T Support.\r\n\r\nAll of our Technicians have many years of Experience. Call us on 03 91088990 for more Info.\r\nWe provide Onsite support, Remote Support and Managed Support.\r\n\r\nOur portfolio includes many Substantial Projects, Our Clients have included: Audi Centre Brighton, Intrax Consulting Engineers, Quality Pharmacy, Education Access Australia, etc.\r\n\r\nWe provice I.T Support to Sectors such as, Health, Engineering, Education, Professional Services, etc.\r\n\r\nSundeep Shergill\r\nITBASEMENT\r\n0488990100", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "03 9018 8990"
+       }, 
+       "address": {
+        "postalCode": "3003", 
+        "city": "West Melbourne", 
+        "street1": "52-58 Chetwynd St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.itbasement.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "IT Support", 
+      "Servers", 
+      "Computers", 
+      "Webhosting"
+     ]
+    }, 
+    "universalName": "it-basement", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "IT Basement"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Image Plan Surveys specialise in stunning professional photography, accurate scaled floorplans and Energy Performance Certificates for the property industry.\r\n\r\nWorking closely with estate agents, developers, solicitors and individual clients in order to offer a bespoke professional property marketing service.\r\n\r\nIn addition to this we offer further services which include surveying, conveyancing, financial services, gas safety certificates, inventories, building and design services, based in Brighton but covering Sussex and areas up to Central London.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 279 453"
+       }, 
+       "address": {
+        "postalCode": "BN1 5AH", 
+        "city": "Brighton", 
+        "street1": "60 Reigate Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.imageplansurveys.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Energy Performance Certificates", 
+      "Floor Plans", 
+      "Photography", 
+      "Surveying"
+     ]
+    }, 
+    "universalName": "image-plan-surveys", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Image Plan Surveys"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Stonehurst Estates is an independent development and investment company with more than 40 years' experience in residential and commercial property projects.\r\n \r\nThe privately owned company has an enviable track record of restoring historic buildings and creating innovative new-build projects on prestigious sites throughout the UK and abroad, valued at more than \u00a3100 million.\r\n \r\nIts diverse and imaginative development programme includes high-profile projects in London, Barbados, Manchester, Dover and Sussex worth in excess of \u00a375 million, working with renowned international architects and designers.\r\n \r\nRecent projects include:\r\n \u2022The Light ApartHotel, Manchester's first Boutique ApartHotel\r\n \u2022The transformation of the historic Greenwich Promenade\r\n \u2022A major regeneration of Dover town centre as the preferred partner of Dover District Council\r\n \u2022The conversion of a 250-year-old Barbados plantation house into a private home with pool, in two acres of grounds\r\n \u2022The redevelopment of Temple Grove, a 30-acre estate in East Sussex, into fourteen luxury apartments and office suites\r\n \u2022The refurbishment and completion of St George's Mill, Leicester to provide 22 new penthouse apartments, within an existing residential mill building (92 flats). The spacious 2 and 3 bedroom penthouses and two retail/restaurant units will be available for sale or rent\r\n \u2022The Light ApartHotel, Brighton", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.stonehurst-estates.co.uk", 
+    "universalName": "stonehurst-estates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Stonehurst Estates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Dumpster Design", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.dumpsterdesign.co.uk", 
+    "universalName": "dumpster-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Dumpster Design specialises in the design and creation of bespoke couture pieces, made entirely from recycled materials. Producing one off commissions for special occasions, and branded dresses for PR campaigns. Dumpster Design has been featured in Vogue, Marie Clare magazine and been named as 'the one to watch' in the international Radical Designer Awards, held in Monte Carlo.\r\n\r\nCompany collaborations include: \r\n-Benefit Cosmetics\r\n-Suzuki\r\n-The Royal Navy\r\n-Waitrose\r\n-Brighton Fashion Week\r\n-Veolia\r\n-Delicious Magazine\r\n-Goodwood motor circuit"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "From modest and humble beginnings in early 2000, Riviera Health has grown steadily to its present configuration of 313 aged care places, spread across the wider Sydney basin. \r\n\r\nComprising five unique, boutique-style aged care residences, all now individually restored to ensure they complement their own particular localities. Riviera is  justifiably proud of its reputation for the provision of high quality care in a carefully tailored living environment.\r\n\r\nAs a long-term, family-owned organisation, Riviera is currently planning a new flagship residence in Western Sydney, together with a long awaited refurbishment  of its existing Brighton-Le-Sands residence. \r\n\r\nRiviera has long believed in the importance of a highly skilled and caring staff, as the basis of ensuring high quality residential care is provided to the elderly.  Importantly, the Riviera Board and Best Practice Committee\u2019s are charged with ensuring this focus is both nurtured and sustained over the longer term.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0294115969", 
+        "phone1": "0294197260"
+       }, 
+       "address": {
+        "postalCode": "2067", 
+        "city": "Chatswood", 
+        "street1": "2 Tessa St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0295973125", 
+        "phone1": "0295992219"
+       }, 
+       "address": {
+        "postalCode": "2216", 
+        "city": "Brighton-Le-Sands", 
+        "street1": "13 Henson St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0243521296", 
+        "phone1": "0243531733"
+       }, 
+       "address": {
+        "postalCode": "2259", 
+        "city": "Wyong", 
+        "street1": "35 McPherson Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0243964052", 
+        "phone1": "0243963111"
+       }, 
+       "address": {
+        "postalCode": "2263", 
+        "city": "Toukley", 
+        "street1": "51 Peel St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0296767897", 
+        "phone1": "0296223606"
+       }, 
+       "address": {
+        "postalCode": "2767", 
+        "city": "Doonside", 
+        "street1": "84 Earle St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.rivierahealth.com.au", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Aged Care Services", 
+      "Management Consulting Services"
+     ]
+    }, 
+    "universalName": "riviera-health-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Riviera Health Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Rockstone Bike Alley", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.rockstonebikealley.org", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Cycling instruction & training", 
+      "Health & well being", 
+      "Sports and coaching education", 
+      "Mentoring", 
+      "Sports Medicine", 
+      "Bike maintenance & repair", 
+      "Bike building and customization"
+     ]
+    }, 
+    "universalName": "rockstone-bike-alley", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Rock Stone Bike Alley was established seven years ago by Rockford Copeland and is a workshop in Tottenham.  Individuals can come and learn how to fix, repair bikes, as well as bike maintenance.  Also it runs a social inclusion activity that called the \u2018postcode rides\u2019 where young people from different postcode areas and estates, will ride in groups from one rival postcode area to another.  Under supervision these young people will engage and meet others from these other neighbourhoods\u2019 and they eventually progress to go out and ride with each other on trips further afield to go to other estates and areas.  Every summer Rock Stone Bike Alley, assembles these young people for the annual London to Brighton Bike ride.  Another aspect of the project is to train young cyclists to become competitive bike riders for various competitions.  Many young people have gone on to cycle in 10 km cycle rides and ride for charity and compete in amateur rides throughout the UK.\r\n\r\nOur workshop carries out repairs and maintenance work sells bikes accessories, brand new and 2nd hand bikes customise bikes to your specifications.  We offer cycling instruction, coach education and training, deliver fitness training, provide sports science support & injury management, and nutritional advice, for cycling and other sports. We also offer GP refferals, and mental health support/workshops."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Stadimax", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.stadimax.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Corporate hospitality product definition", 
+      "Corporate hospitality sales", 
+      "Stadium sponsorship appraisal", 
+      "Stadium sponsorship sales", 
+      "Real estate", 
+      "Fund raising", 
+      "Venue content development", 
+      "Advice about planning consent", 
+      "Advice about venue design", 
+      "Development management"
+     ]
+    }, 
+    "universalName": "stadimax", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Stadimax is a newly formed partnership that uniquely combines feasibility, capital, development, revenue generation and management services specific to stadia and arena development, into an integrated offering.\r\n\r\nThe team's past experience includes, but is not limited to:\r\n\r\n- Wembley Stadium, London, UK;\r\n- Etihad Stadium, Melbourne, Australia;\r\n- American Express Community Stadium, Brighton, UK;\r\n- Reebok Stadium, Bolton, UK;\r\n- Ricoh Arena, Coventry, UK;\r\n- KC Stadium, Hull, UK;\r\n- John Smith Stadium, Huddersfield, UK.\r\n\r\nWe offer a wide range of services to enable development of sports venues in the UK, Australia and elsewhere globally, with the aim of offering high value services that will ensure commercially successful stadia and arenas.  We work on both new build and refurbishments."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Specialists in health and fitness.  One-to-one personal bespoke service or group training.  Qualified in many forms of health and exercise training such as Kettlebells, weight training, boxing, weight loss etc.  Qualified body biomechanic specialists for correcting muscular or skeletal problems.\r\n\r\nFor more information: \r\n\r\nJoin our discussion group \r\n             http://www.linkedin.com/groups?gid=4770285&trk=hb_side_g   \r\nContact us via our web site\r\n             http://www.thepersonaltrainingco.co.uk/contactus.html\r\nTalk to us on Facebook   \r\n             http://www.facebook.com/pages/THE-PERSONAL-TRAINING-COMPANY/370086475333\r\n\r\nLatest news\r\n\r\nOne of our trainers Olly Jones is now available for personal training sessions in Brighton as well.  Contact us for infomation.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "UK  07886 967349"
+       }, 
+       "address": {
+        "postalCode": "SL7 1LU", 
+        "city": "Marlow", 
+        "street1": "Globe Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.thepersonaltrainingco.co.uk/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "One-to-one personal bespoke training", 
+      "Weight management", 
+      "Biomechanic correction", 
+      "Kettlebell Training", 
+      "Weight Training", 
+      "Health and Nutrition advice", 
+      "Injury and illness rehabilitation", 
+      "Specialist sport training"
+     ]
+    }, 
+    "universalName": "the-personal-training-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Personal Training Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Peter Christian is a family owned business based in the hamlet of Small Dole tucked away in the South Downs about 10 miles from Brighton. Classic, well tailored gentleman\u2019s clothing is getting harder and more expensive to find these days but Peter Christian is widely acknowledged as the first choice online gentleman\u2019s outfitter.\r\n\r\nAs with the outfitters of old; personal service, sensible advice and courtesy are all included in the shopping experience. Peter Christian aim to provide classic British clothing with a distinctive style and quality of tailoring to add a smart touch to your wardrobe.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 491 774", 
+        "phone1": "01273 495 723"
+       }, 
+       "address": {
+        "postalCode": "BN5 9XR", 
+        "city": "Small Dole", 
+        "street1": "25-26 Mackley Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.peterchristian.co.uk", 
+    "universalName": "peter-christian", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Peter Christian"
+   }
+  ]
+ }
+}

@@ -1,0 +1,750 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 420, 
+  "values": [
+   {
+    "numFollowers": 5, 
+    "name": "Brighton Capital Inc.", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightoncapital.com", 
+    "universalName": "brighton-capital-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "IPO\r\nRTO\r\nIR"
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Mail Boxes Etc., Brighton", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 2NW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.mbebrighton.co.uk", 
+    "universalName": "mail-boxes-etc.-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "To be updated"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "A perfect way to start your day!\r\n\r\nBonjour Breakfast is the first and only Brighton based company to bring the finest breakfast produce directly to your door.\r\n\r\nWhether you have guests, wish to celebrate in a holiday rental or impress work colleagues - our eco-friendly breakfast boxes will hit the spot. From superb pastries, tarts and porridge to Champagne, juice and hand-made, organic chocolates. \r\n\r\nThink of Bonjour Breakfast as posh hotel room service, delivered to your house, hotel room or place of work \u2013 no fuss, no preparation. Each of our breakfast boxes arrive tied with beautiful ribbon and contain recycled spoons, knives and napkins.\r\n\r\nWe supply local produce wherever possible. Stockists include Cocoa, an award winning French Patisserie, Payne\u2019s Sussex honey, Chocoholly Chocolates and award winning EllesBelles sausages. We also supply Grasshopper Porridge which is eco friendly, organic and delicious.\r\n\r\nThe menu is constantly changing and seasonal so please continue to check the website. \r\nwww.bonjourbreakfast.com", 
+    "twitterId": "bonbreakfast", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.bonjourbreakfast.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Regular deliveries, special occasions, hens & weekends away", 
+      "Food Festivals", 
+      "Bespoke boxes holiday rentals and myhotel Brighton", 
+      "Corporates, Weddings"
+     ]
+    }, 
+    "universalName": "bonjour-breakfast", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bonjour Breakfast"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "I work on positions in engineering, product management, marketing, executive and creative roles. Companies range from gaming to enterprise software to the Web 2.0 space. \r\n\r\nIf I don't have an opening or candidate to fit you today, there is a good chance I will later, or I can find it. Tell me your story and I will begin my search. I have 15+ years experience networking in the Bay Area I know A LOT of people and I always run my business ethically and with integrity.", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "94044"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.brightonsearchgroup.com/", 
+    "universalName": "brighton-search-group", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Search Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 54, 
+    "name": "CS Partners", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-229-5145"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "869 S. Old US 23, Suite 500"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.charterschoolpartners.com", 
+    "universalName": "cs-partners", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "CS Partners is a company composed of experienced educational service providers. We are a hands on, service oriented company made up of educators with over 200 combined years of experience in public schools, who have been working for charter schools in Michigan from the beginning! The CS Partners staff has been intimately involved with the formation and ongoing operation of Charyl Stockwell Academy in Hartland and Brighton, FlexTech High School in Brighton, Crescent Academy  in Southfield and nine other charter schools and two day care centers. Since their inception, these schools have consistently maintained rising enrollment, balanced budgets and boast effective school reform programs.\r\n \r\nOur focus is educational reform. We believe that educational service providers should be led by professional educators with experience in multiple forms of education. We also believe that a particular school reform or school model is not as important as professional leadership and the use of research-tested methods and structures. We believe that professional educators know how to be successful in teaching children, but they need to escape the oppressive bureaucracy of the traditional system. With that in mind we have created a School Services Team to assist our school leaders in every aspect of school operations from curriculum, assessment, school climate and culture, special education, leadership development and support, compliance, facilities, marketing, fiscal service, human resources and more. Educators in charter schools need a clear mission, a strategy to implement that mission, the freedom to work, and the time needed to focus on students, teachers and parents. It\u2019s our job as educational service providers to help them every step of the way.\r\n \r\nWe are a results-driven management firm, made up of highly regarded educators from the traditional and charter school systems. Our size and our location allow us the flexibility to be responsive and hands-on."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 276, 
+    "description": "OLM Group consists of: OLM Systems, Hytec and Pavilion. Together we deliver integrated solutions for the health and social care markets:\r\n\r\n- Software solutions / software applications \r\n- Technology and infrastructure expertise \r\n- Consultancy \r\n- Media and communication services \r\n\r\nHeadquartered in Teddington, Middlesex, OLM Group employs over 240 staff with local offices in Brighton, Cwmbran, Glasgow and Oxford.  A Deloitte & Touche Technology Fast 50 winner 6 years in succession, the company has grown from a first year turnover of \u00a370k in 1992 to a turnover of \u00a320m in 2009.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 8973 1100"
+       }, 
+       "address": {
+        "postalCode": "TW11 9AA", 
+        "city": "Teddington", 
+        "street1": "Cairns House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.olmgroup.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Software solutions / software applications", 
+      "technology and infrastructure expertise", 
+      "consultancy", 
+      "media and communication services for health and social care markets"
+     ]
+    }, 
+    "universalName": "olm-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "OLM Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "A Healthy Day.org", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.ahealthyday.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Food", 
+      "Social Betterness", 
+      "Cooking", 
+      "Skills for Life"
+     ]
+    }, 
+    "universalName": "a-healthy-day-everyday", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "We are a social enterprise working to create healthier lives for families in Brighton.\r\n\r\nOur vision is to provide an affordable and healthy food delivery service, along with the resources families need to help them make better food choices.\r\n\r\n\r\nWhat we do:\r\n\r\n- Weekly deliveries of affordable and healthy food directly to your door\r\n\r\n- Weekly meal planning guides to help you get the most out of your food\r\n\r\n- Simple recipes and meal ideas to make for you and your family\r\n\r\n- Regular cooking workshops and community kitchen events\r\n\r\n- Personal advice on healthy eating and food choices"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "An independent, nonprofit elementary school for gifted, academically talented, and above average boys and girls in grades Pre-K through 6.\r\n\r\nThe Brighton School of Framingham\r\n360 Water Street\r\n(at Brook & Water Streets)\r\nFramingham MA  01705\r\n\r\n (508) 877-8200", 
+    "twitterId": "", 
+    "industry": "Primary/Secondary", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "01705", 
+        "city": "Framingham", 
+        "street1": "360 Water Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "brightonschoolofma.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "preschool", 
+      "kindergarten", 
+      "elementary school", 
+      "gifted children"
+     ]
+    }, 
+    "universalName": "wayland-academy-of-framingham", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Brighton School of Framingham"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Brighton Communications", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "TN21 0RT"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightoncommunications.co.uk", 
+    "universalName": "brighton-communications", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Telecommunications and IT\r\nDesign, implement and support modern solutions to integrate telephony and IT and provide cost effective support for small to medium businesses"
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "Brighton Eye Associates", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "10023"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "Brightoneye.com", 
+    "universalName": "brighton-eye-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We are an ophthalmology private practice that treats Glaucoma, Retina, Macular Degeneration and Corneal problems.  We perform cataract surgery, LASIK, PRK, and glaucoma and retinal lasers."
+   }, 
+   {
+    "numFollowers": 6, 
+    "name": "Allston Brighton Arts Bridge", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.abartsbridge.org", 
+    "universalName": "allston-brighton-arts-bridge", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Our mission is to bridge social, economic, and cultural divisions by offering the means to build community, strengthen identity and develop work skills through artistic programs in new creative media."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Community Bible Church, Brighton, MI", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48114"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.communitybible.net", 
+    "universalName": "community-bible-church-brighton-mi", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "CBC is a contemporary, evangelical, non-denominational church that exists to be a family of maturing Christ followers who engage our friends and neighbors in the adventure of following Jesus Christ.  Our growing church is made up of individuals and families who live throughout Livingston County."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1657, 
+    "name": "NaturalMotion", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1865 250 577", 
+        "phone1": "+44 1865 250 575"
+       }, 
+       "address": {
+        "postalCode": "OX1 1TP", 
+        "city": "Oxford", 
+        "street1": "NaturalMotion Ltd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+1 415-840-0452", 
+        "phone1": "+1 415-418-3117"
+       }, 
+       "address": {
+        "postalCode": "94105", 
+        "city": "San Francisco", 
+        "street1": "NaturalMotion Inc"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://www.naturalmotion.com", 
+    "universalName": "naturalmotion", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "NaturalMotion Ltd is a leading games and technology company based in Oxford, London, San Francisco, and Brighton. Its high-end mobile games label, NaturalMotion Games, is one of the most successful and fastest growing mobile gaming companies in the UK.\r\n\r\nThe company creates ultra-high quality free-to-play games that combine polished gameplay with high-end 3D graphics.\r\n\r\nNaturalMotion Games\u2019 released CSR Racing for iOS in July 2012. It reached number 1 in the Top Free and Top Grossing charts in over 70 countries worldwide and was the only title featured on stage during Apple\u2019s WWDC 2012 conference. The company announced that the game generated more than $12 million revenue a month\r\nThe company\u2019s next title, Clumsy Ninja, was revealed during Apple\u2019s iPhone 5 keynote. \r\n\r\nNaturalMotion Technology produces leading animation software products such as the award-winning euphoria engine -  a break-through in real-time character animation, and used in games such as GTA IV, Red Dead Redemption and Max Payne 3. NaturalMotion\u2019s other run-time animation product, Morpheme, is the industry\u2019s first graphically authorable animation engine. Morpheme is the most widely used animation engine in the console and PC games industry."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Brighton Naturally", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 0FG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightonnaturally.com", 
+    "universalName": "brighton-naturally", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Homeopath"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "When you choose to work with us, you get an approachable, creative team with more than 20 years experience in graphic design and video production. We come equipped with the latest cameras, technology, hardware and software - some of which is more common to a large feature film set than a video production company in London.\r\n\r\nWe can't help it. When it comes to making engaging, compelling videos, we're a bit obsessed... Give us a ring to chat about your project on 020 3286 4570.", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 782 399"
+       }, 
+       "address": {
+        "postalCode": "BN27BE", 
+        "city": "Brighton", 
+        "street1": "flycreative"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)20 3286 4570"
+       }, 
+       "address": {
+        "postalCode": "WC2H 8AL", 
+        "city": "Greater London", 
+        "street1": "151 Shaftesbury Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.flycreative.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Video Production London", 
+      "Video Production Brighton", 
+      "Video Editing London", 
+      "Video Editing Brighton", 
+      "Corporate Video", 
+      "Motion Graphics", 
+      "Training Video", 
+      "Web Video", 
+      "Motion Graphics", 
+      "Live Streaming Events"
+     ]
+    }, 
+    "universalName": "flycreative-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "flycreative ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "A new entertainment and club listings print magazine based in Brighton, UK. This free-to-read monthly is distributed in hundreds of bars, cafes and clubs throughout the city of Brighton and has a print run of 5000 copies. Founded by Chris Sadler and partners, the company has a number of skilled and talented contributors that regularly provide unique content on entertainment, lifestyle, reviews, technology, local events and venue listings.", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.bn1magazine.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Journalism", 
+      "Listings", 
+      "Reviews", 
+      "Features"
+     ]
+    }, 
+    "universalName": "bn1", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bn1"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "name": "Madame Geisha", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 770874"
+       }, 
+       "address": {
+        "postalCode": "BN1 1NF", 
+        "city": "Brighton", 
+        "street1": "75 East Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.madamegeisha.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "pan asian food", 
+      "nightclub", 
+      "karaoke", 
+      "hen parties", 
+      "cocktail masterclass", 
+      "private hire", 
+      "christmas parties", 
+      "outdoor terrace"
+     ]
+    }, 
+    "universalName": "madame-geisha", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Welcome to Madame Geisha, a unique urban playground for drinking, dancing, dining and entertaining. Located in the heart of Brighton\u2019s boutique quarter, just a stone\u2019s throw away from the City\u2019s world famous seafront, we cater for all occasions; so whether you want a night out partying with friends, a swanky location to entertain clients or the perfect setting for your event or celebration, Madame Geisha is the place in Brighton to have fun."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "flymedia is an exciting media company in Brighton.\r\n\r\nWe are a dynamic and exciting digital media company based in Brighton.\r\n\r\nWith a fully skilled team working behind us. as our portfolio gets more impressive so do we. \r\n\r\nGraphic design, web design, photography, video production and motion graphics.", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN31TH"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.flymedia.me", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "graphic design", 
+      "web design", 
+      "photography", 
+      "video production and motion graphice"
+     ]
+    }, 
+    "universalName": "flymedia", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "flymedia"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "GraphicNation is Mia Brignull\u2019s online portfolio. I am a Brighton-based digital illustrator and graphic designer.\r\n\r\nAs a graphic artist, I have an enthusiasm for all things visual: online and printed. I aim to provide solutions that are perfectly suited to the client\u2019s needs, and that always push the boundaries of creativity. Some of my freelance clients include Sky, CNet, Virgin Media, Digital Brain and the Metropolitan Police.\r\n\r\nBefore I became a freelancer, I worked at CNet UK as a Senior Graphic Designer. I created many of their internal promotion banners and article images that are still used on their site today. Prior to that I produced animations, infographics and visual assets for elearning programs at Digital Brain and Epic in Brighton.\r\n\r\nIf you have a project in mind, contact me today. I can discuss your requirements and provide a detailed quote, with no obligations.", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 6dj"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.graphicnation.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Illustration", 
+      "digital art", 
+      "graphic design", 
+      "branding", 
+      "logo design", 
+      "flash advert design"
+     ]
+    }, 
+    "universalName": "graphicnation", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "GraphicNation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 49, 
+    "description": "Brighton and Hove's only unique one-stop shop of wedding services, a collaboration of the City's independent wedding service specialists from photography, florists, bespoke wedding dresses, cakes, jewellery, and much more.\r\n\r\nEach of the services are experienced with weddings and we know just how important it is that the day is perfect for all fianc\u00e9's and bride's to be.  The directory of services has been handpicked by the Wedding Boutique to bring the very best that the City of Brighton and Hove has to offer.\r\n\r\nThe exciting bit is that in addition to the exclusive directory of services, the Wedding Boutique will be hosting regular Wedding Events and show casing these services allowing couples and their families to indulge in a unique wedding style experience at each event that we hold.", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN41 1UY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.weddings-brighton-hove.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Unique Wedding Service Providers"
+     ]
+    }, 
+    "universalName": "wedding-boutique", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Wedding Boutique"
+   }
+  ]
+ }
+}

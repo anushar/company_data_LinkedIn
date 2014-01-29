@@ -1,0 +1,800 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 100, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 558, 
+    "name": "City College Brighton and Hove", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 667788"
+       }, 
+       "address": {
+        "postalCode": "BN1 4FA", 
+        "city": "Brighton", 
+        "street1": "City College Brighton and Hove"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 667703", 
+        "phone1": "01273 667788"
+       }, 
+       "address": {
+        "postalCode": "BN2 5PB", 
+        "city": "Brighton", 
+        "street1": "City College East Campus"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.ccb.ac.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "training", 
+      "education", 
+      "skills", 
+      "vocational"
+     ]
+    }, 
+    "universalName": "city-college-brighton-and-hove", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "City College Brighton and Hove is a vocational training and skills college set in the heart of Brighton.\r\n\r\nThe College offers hundreds of full time and part time courses including entry level, Foundation and Adult learning, accreditation and professional training options.\r\n\r\nOur College is one of the most diverse in the country, attracting students from all ages and backgrounds, from 14 years to 80 and beyond, attracting nearly 9,000 students.\r\n\r\nIn addition to this, we also specialise in offering professional training to companies and employers of all sizes. Many of our courses are either subsidised or you can access financing for an affordable learning solution.\r\n\r\nAside from being a successful College, we promise you a great learning experience. We are committed to supporting and helping you throughout your time with us."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "Radio Free Brighton broad\u00adcast music, news and dis\u00adcus\u00adsion live from 10am to 8pm Monday to Friday.\r\n\r\nSee our schedule: http://radiofreebrighton.org.uk/schedule/\r\n\r\nAt the week\u00adends Brighton\u2019s best new bands take over the staion. They\u2019ll treat you to a 2 hour set of live per\u00adform\u00adance mixed their influ\u00adences, requests and whatever else they decide you\u2019ll enjoy.\r\n\r\nIf your band wants to join in, apply here: http://radiofreebrighton.org.uk/about-us/weekends/", 
+    "twitterId": "", 
+    "blogRssUrl": "http://radiofreebrighton.org.uk/feed/", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 4QJ", 
+        "city": "Brighton", 
+        "street1": "Under the Bridge Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://radiofreebrighton.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "music", 
+      "news", 
+      "discussion"
+     ]
+    }, 
+    "universalName": "radio-free-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Radio Free Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 351, 
+    "description": "Choosing the right agent is a tough one and deciding on the right one will probably be  one of the most important decisions you make. At Lanes Lettings they realise that their business is not just properties, it is much more, Landlords and tenants alike know that local knowledge and a personal touch can go a long way. Lanes Lettings have worked in Brighton and Hove for many years, so not only do they have vast experience of the property business but they also have huge knowledge of this unique city and properties both within it and surrounding areas. Feel free to call Ben and his team on  01273 600068 or simply drop them an email.\r\n\r\nWe come recommended:\r\n\r\n\"I am very pleased with the service I received from Lanes Lettings. They had potential tenants to show round my property within 24 hours of instruction. It was let very quickly, and I was impressed they wanted to get the right tenants,with the best references for my property. The whole process has been quick and stress free. I would recommend Lanes Lettings\"\r\n\r\nMs W Dumelow - Brighton Landlord \r\n\r\n\"Lanes Lettings, Brighton - I was pleased and impressed by the efforts of Lanes Lettings. The team made the letting process so much easier. They were enthusiastic, pro-active and helpful. I happily recommend them for their professional, customer friendly approach\"\r\n\r\nMr C Runmble - Brighton Landlord", 
+    "twitterId": "@laneslettings", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 600068"
+       }, 
+       "address": {
+        "postalCode": "BN1 4JN", 
+        "city": "Brighton", 
+        "street1": "42 Baker Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.laneslettings.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Residential Property letting and management"
+     ]
+    }, 
+    "universalName": "lanes-lettings", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lanes Lettings"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 170, 
+    "description": "Brighton Securities is a local, independently owned stock brokerage and financial services firm that was established in 1969. For over forty years, we\u2019ve worked with thousands of clients and are delighted by the number of our clients\u2019 children and even grandchildren who choose Brighton Securities for their financial needs. \r\n\r\nFor all our investors\u2014both individuals and corporations\u2014we offer the full complement of financial services and products. Our focus is on building financial programs that serve the unique needs of each client.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "585.473.3590"
+       }, 
+       "address": {
+        "postalCode": "14618", 
+        "city": "Rochester", 
+        "street1": "1703 Monroe Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "585.344.1850"
+       }, 
+       "address": {
+        "postalCode": "14020", 
+        "city": "Batavia", 
+        "street1": "212 Main Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1969, 
+    "websiteUrl": "http://www.brightonsecurities.com/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Comprehensive financial planning", 
+      "investment advice", 
+      "financial services", 
+      "retirement planning", 
+      "personal and business income tax preparation", 
+      "corporate payroll services"
+     ]
+    }, 
+    "universalName": "brighton-securities", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Securities"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 123, 
+    "description": "Brighton Education creates opportunities through its education project management, consultancy and education services. \r\n\r\nEstablished in in 2008 by five British/Irish and Malaysian partners with extensive international and Southeast Asian education experience. Brighton currently works in partnership with the Malaysian government and manages international schools and preschool in Malaysia and China.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0060362770443", 
+        "phone1": "0060362772226"
+       }, 
+       "address": {
+        "postalCode": "52200", 
+        "city": "Kuala Lumpur", 
+        "street1": "Lot No.3, Jalan Kuang Bulan"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.brightoneducation.org", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Education", 
+      "School", 
+      "Pre-School", 
+      "Training", 
+      "E-Learning", 
+      "Learning Service"
+     ]
+    }, 
+    "universalName": "brighton-education-group-sdn-bhd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Education Group Sdn Bhd"
+   }, 
+   {
+    "numFollowers": 13, 
+    "name": "Municipality of Brighton", 
+    "industry": "Executive Office", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "K0K1H0"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.brighton.ca", 
+    "universalName": "municipality-of-brighton", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Brighton will continue to progress responsibly, respecting our unique rural and urban heritage. We will maintain our small town charm and be a friendly host to all who choose to live, work and visit our welcoming community.\r\n\r\nThe Municipality of Brighton strives to provide its residents and visitor with superior customer service. Our friendly staff will be glad to assist in any way they can to make your experience pleasant."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Brighton Design", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "55446"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightondesign.net", 
+    "universalName": "brighton-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Brighton Design can handle the small jobs to the large jobs.  Internet to print.  With a 25 year career and the flexibility to move with technological changes Brighton Design can get the job done on time, on budget and to expectation.  Clients have included Commodores, 38 Special, Hennepin County - MN, National American University and thousands of other smaller clients.  Big to small we are an added asset to all."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 61, 
+    "description": "Taxis, Buses, mercedes, Bentleys all for hire,\r\nairports seaports,sporting events, theatres trips,weddings,golf trips,cricket trips, football matches\r\nClients include Goverment,local goverment,Police, NHS,RBS,Clydesdale,The Grand Hotel,Seattle Hotel,My Hotel,Jurys Inn,Air port Transfers speciality.Preferred Supplier to University of Sussex and University of Brighton, Brighton's Only Taxi and Small Bus firm to be ISO 9000/9001.", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3xd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "www.205205.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Taxis", 
+      "Buses", 
+      "Executive Hire.Airports"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-city-cabs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton & hove city cabs"
+   }, 
+   {
+    "numFollowers": 28, 
+    "name": "Brighton Electric Recording Co. Ltd.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 4AD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonelectric.co.uk", 
+    "universalName": "brighton-electric-recording-co.-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Electric is the South's leading studio complex. We provide recording, mixing & rehearsal services to the music industry.\r\n\r\nSituated just a mile from Brighton seafront, our large detached Victorian property offers 2 recording studios & 10 rehearsal suites.\r\n\r\nWe believe in positive artist development so offer services to suit a good range of specs & budgets.\r\n\r\nWe offer equipment storage and maintenance services. We also show contemporary art in a comfortable, relaxed setting."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Independent Caffe based in Brighton serving our own blend of Coffee roasted in Brighton, delicious cakes, cookies & Savoury delights all baked and made on site. We also provide catering for events.\r\nMoksha has a new mobile coffee kart located at Brighton Station and it will also be at various festivals around the City throughout the year.", 
+    "twitterId": "mokshacaffe", 
+    "blogRssUrl": "", 
+    "industry": "Restaurants", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273248890"
+       }, 
+       "address": {
+        "postalCode": "bn1 4gu", 
+        "city": "Brighton", 
+        "street1": "4-5 york place"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3xp", 
+        "city": "Brighton", 
+        "street1": "Brighton Station"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.mokshacaffe.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Coffee", 
+      "cakes", 
+      "Catering Services", 
+      "Sandwiches"
+     ]
+    }, 
+    "universalName": "moksha-caffe", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Moksha Caffe"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Artista Studio and Gallery Brighton", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://artistastudio.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Photography", 
+      "Studio Hire", 
+      "Workshops", 
+      "Model Days"
+     ]
+    }, 
+    "universalName": "artista-studio-and-gallery", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Artista Studio and Gallery is a brand new studio space in the heart of Brighton\u2019s famous Seven Dials. \r\nInspired by our beautiful city and its inhabitants, Artista is inspired by the creativity of Brighton and we like to think of our studio as a Space to Create.\r\nSet up in 2012, Artista is predominantly a working photographic studio and is run by Chris, Alex and Andy.   Working out of Artista we service a broad selection of clients and assignments \u2013 look-books for local designers, model portfolios, portraits), product, event and lifestyle photography.  \r\nThe studio itself is 1,000 sq. foot and absolutely full of character \u2013 we love our space and, if you haven\u2019t seen it yet, we know you will as well.  \r\nWe have 2 main areas with beautiful polished concrete floors, exposed brickwork and heaps of space.\r\nThe space is big enough and versatile enough to accommodate all sorts of events \u2013 in the past we have had hen parties, art classes and pop-up exhibitions.  So, if you are inspired by our space and how you would like to use it then get it touch."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "About Us\r\nWe are a small dedicated team of skilled joiners mainly specializing in Accoya wood and Oak joinery products\r\n\r\nOur workshop is set in the heart of sussex and we pride ourselves on offering you first class customer service, we manufacture high end quality  joinery products for Architects, Developers, Construction trades and of course Private Clients.\r\n\r\nAll our joinery is made to measure for you here in our workshop, we do not stock pre manufactured joinery so every item is manufactured just for you\r\n\r\nI believe that customer service is equally important as the products and when good products are combined with a good service than a good relationship is formed, this is the basis on which i like to work and how the company builds a great name\r\n\r\nBy combining our knowledge with the latest innovative products we can cater for almost any project you have and i am personally involved in the manufacturing of your joinery from the point of enquiry to the finished product\r\n\r\nWe absolutely love Accoya wood and our mission is to rid all homes of UPVC windows and convert to Accoya.\r\n\r\nI have been involved in joinery for over 15 years and within our small team we have a skilled combined experience of over 50 years. Brighton Bespoke Joinery Ltd was formed in March 2008 and was a year in the making. We have been supplying trade joinery for a majority of the years but have now expanded into supplying and installing factory finished windows and doors for both private and trade clients.\r\nWe are proud members of Check A Trade holding mainly 10/10 accreditations so most of our work is repeat business and referals.", 
+    "twitterId": "", 
+    "industry": "Furniture", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.bbjoinery.info/", 
+    "universalName": "brighton-bespoke-joinery", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Bespoke Joinery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "At Creatively Brighton we Believe in pushing the boundaries of technology and the real world, we understand that every businesses need is different, whether your a start up, or an established tech savvy brand, we're not here to sell you a product, we are here to provide you with an actionable solution.\r\n\r\nSo along with getting to know how your business operates, we believe that we can offer ideas that no other agency would think of and to create a bespoke output at less than our competitors. How do we do this? We utilise the wealth of information around and pass our savings on to you.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(+44) 1273 252 940"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GF", 
+        "city": "Brighton", 
+        "street1": "London Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.creativelybrighton.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Social Media", 
+      "3D Scanning", 
+      "Marketing", 
+      "Video Production", 
+      "Custom Web Content"
+     ]
+    }, 
+    "universalName": "creatively-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Creatively Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Brighton Creative", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://brightoncreativellc.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "marketing", 
+      "web design", 
+      "print design", 
+      "strategy"
+     ]
+    }, 
+    "universalName": "brighton-creative", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Creative provides marketing and design services to small and mid-sized businesses. We support your marketing efforts with services such as marketing strategy development, branding, website design and print design. Our goal is make your business more successful. We serve clients in a variety of industries including health care, education, legal services, real estate and manufacturing."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Brighton IT Services", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "http://www.brightonitservices.com", 
+    "universalName": "brighton-it-services", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton IT services provides planning, implementation, and support for home and business computers. We believe computers should be easy, getting them to do what you want can be easy with the right support. We\u2019re here to help. Simply get in touch, and our Apple\u00ae & PC technician will listen to your troubles and talk you through what comes next. Our fully experienced repairs and  support available in shot notice, whether for a cracked iPod screen or recovering your invaluable work files or personal photos from a damaged laptop. Need a PC speedup? We can help!\r\n\r\nOur fast and friendly professional services is available to assist you in any of your computer needs. No problem is too big or too small. Give us a call for reliable home and business service. hosting & support solutions for all systems."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "As a creative branding agency we help clients grow their business through innovative graphic design & digital marketing solutions. Working with clients in London and across the south coast our services include branding, responsive website design & build, user experience, marketing and print management.\r\n\r\nWe\u2019re an approachable team with a creative passion that envelops all projects. As a full service agency we are big enough to respond to all brand and marketing requirements and small enough to deliver on detail.\r\n\r\nWe\u2019ve been keeping our clients happy and their customers engaged since we were established in Brighton back in 2005. Working together we develop a solution that not only meets your needs but exceeds expectations. It is clear to us that the more we can help with the success of your business; the more you will request from us, developing a strong relationship of mutual benefit.\r\n\r\nOur client range is diverse; we focus on working with companies that offer interesting challenges rather than just one industry sector type. This ranges from new startup companies needing help with their initial logo & brand identity, through to established organisations requiring assistance with business development & growth. We really enjoy the mix, it keeps our ideas fresh and varied which ultimately leads to greater results.", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273604050"
+       }, 
+       "address": {
+        "postalCode": "BN2 9QB", 
+        "city": "Brighton", 
+        "street1": "23 Grand Parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.vividbrighton.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Brand Development", 
+      "Website Design & Build", 
+      "Print Design", 
+      "User Experience", 
+      "Print Management", 
+      "Marketing", 
+      "Graphic Design"
+     ]
+    }, 
+    "universalName": "vivid-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Vivid Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Seminole Casino Brighton", 
+    "twitterId": "", 
+    "industry": "Gambling & Casinos", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "863-467-9998"
+       }, 
+       "address": {
+        "postalCode": "34974", 
+        "city": "Okeechobee", 
+        "street1": "17735 Reservation Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "http://www.seminolecasinobrighton.com", 
+    "universalName": "seminole-casino-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Seminole Casino Brighton is a 27,000-square-foot casino with 375-slot and gaming machines, a seven-table poker room, and high-stake bingo seats, with full service restaurant and lounge. Its warm and friendly staff, ultra-modern air-conditioning system, clean atmosphere, and rewarding casino promotions are a welcome alternative to big city gaming."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Brighton Web Design", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.brightonwd.co.uk", 
+    "universalName": "brighton-web-design", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We're an Independent web development agency based in Brighton in East Sussex, We're growing our business because we're experts in our chosen field and we support our delivery with great one-to-one customer service.\r\n\r\nWe're passionate in helping our clients deliver outstanding customer experiences online.\r\n\r\nWe're fortunate to be working with a portfolio of clients who understand and value the importance of customer experience to their businesses.\r\n\r\nOur bespoke website design's are built to order. Offering unrivalled design and motion - they are created to impress. Each project is completely unique and tailor made to your needs.\r\n\r\nIf you have any special requirements or extra services that you would like to discuss, feel free to contact us, we\u2019re here to make your website design come true\u2026\r\n\r\nQuotations and advice are provided for free so please don't hesitate to get in touch.\r\n\r\nOur team will provide you with the highest levels of customer service. We will keep you fully updated of your websites progress throughout.\r\n\r\nWe are pleased to be a member of the UK\u2019s Web Design Agency.\r\n\r\nSet up in 2001, the UKWDA brings together more than 10,000 British web industry professionals under one supportive umbrella organisation.\r\n\r\nWe are also a member of the UK\u2019s web standards group!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Brighton Baptist is a member church of the Baptist Union of Victoria. We are diverse in age, background, and culture, but united in our commitment to God and to each other, with strong networks of support and friendship within our fellowship.\r\n\r\nOur Vision Statement is:\r\n\r\n    \"To know God better, and to make Him better known.\"\r\n\r\nOur Mission Statement is:\r\n\r\n    Serve God - through worship, prayer, and dedication of our lives to His Kingdom\r\n    Serve each other - by mutual care and support, to encourage everyone to fulfil their God-given potential\r\n    Serve the community - by making known the good news about Jesus and the love of God by word and deed\r\n    Serve the wider church - through prayer and practical support to help spread the good news about Jesus throughout the world", 
+    "twitterId": "", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(+613) 95964486"
+       }, 
+       "address": {
+        "postalCode": "3186", 
+        "city": "Brighton", 
+        "street1": "164 Bay St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1851, 
+    "websiteUrl": "http://brightonbaptist.org.au", 
+    "universalName": "brighton-baptist-church", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton Baptist Church"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Brighton & Hove Training Services provides a range of services to trainers, small businesses, charities and social enterprises throughout Sussex.\r\n\r\nWith fifteen years of experience across the private, public and third sectors, we can tailor all of our services to meet your needs.\r\n\r\nWith a flexible pricing structure designed to be accessible to people from all backgrounds, not only will our services save you valuable time and resources, but they will save you money too.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.bhtraining.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Training administration", 
+      "Trainer support", 
+      "Social enterprise", 
+      "IT tutoring"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-training-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton & Hove Training Services"
+   }
+  ]
+ }
+}

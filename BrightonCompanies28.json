@@ -1,0 +1,811 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 560, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "New and innovative Greetings Card & Gift store opening soon in the heart of the South Lanes in Brighton during November.   The store will bring a unique and distinctive collection of products together including locally related and produced cards and gifts from both established and up and coming artists/photographers.  \r\n\r\nLaunching on the www during December with a full e-commerce solution, plus - our second store already planned for mid-2014.\r\n\r\nFollow our company for updates on opening and for more details on our various USPs which will make us unique in the marketplace!", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "TBC"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.creasedcards.co.uk", 
+    "universalName": "creased-cards", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Creased Cards"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Saltdean Lido CIC has been established to safeguard and provide a sustainable future to the Grade II* listed lido situated in Brighton, East Sussex. The CIC will embark on a multi-million pound refurbishment programme to restore the building to its former glory to become an all-year-round community facility and visitor destination.", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Saltdean Park Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.saltdeanlido.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Social Enterprise", 
+      "Lido", 
+      "Community", 
+      "Leisure"
+     ]
+    }, 
+    "universalName": "saltdean-lido-community-interest-company", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Saltdean Lido Community Interest Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Eurogamer.cz", 
+    "twitterId": "", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.eurogamer.cz", 
+    "universalName": "eurogamer-cz", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Founded in 1999 by brothers Rupert and Nick Loman, Brighton-based Eurogamer Network is the publisher of Europe\u2019s most popular independent videogames website, Eurogamer.net. The company also publishes a video site, Eurogamer TV, and a social network for gamers, Eurogamers. Eurogamer is available in German, French, Spanish, Italian, Dutch and Portuguese editions. The company also operates live events such as the Eurogamer Expo and the GamesIndustry.biz Career Fair, and publishes the world's market-leading industry resource, GamesIndustry.biz. See www.eurogamer.biz for more information on the company\u2019s products and services."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "Hosts International", 
+    "twitterId": "", 
+    "industry": "Individual & Family Services", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "http://www.hosts-international.com/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Homestay", 
+      "Accomodation"
+     ]
+    }, 
+    "universalName": "hosts-international", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Hosts International is a provider of high-quality homestay accommodation in London. Homestay accommodation with a host family is a competitively-priced alternative to flats or student residences. The company was set up in 1988 and its main function is to provide quality home stays to visiting foreign students, direct and from colleges and agents. We now also operate in Bristol, Brighton, Canterbury and Cambridge. Our main aim is to ensure that every student is placed in a good family environment, which we strongly believe leads to a faster improvement in the language and a happier stay. We achieve this by demanding a high standard of accommodation and selecting only the best families. We aim to ensure that all enquiries and quotes are answered promptly. We also aim to confirm most bookings within eight working hours, helping to make our service more efficient."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "ABE Media", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.abemedia.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Web Development", 
+      "Joomla Development", 
+      "Custom CMS Development", 
+      "HTM5 + CSS3", 
+      "E-commerce", 
+      "Responsive Web Design", 
+      "UX"
+     ]
+    }, 
+    "universalName": "abe-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "ABE Media are a small, yet highly innovative web design and development company based in Brighton & Hove, East Sussex.\r\n\r\nSince its incorporation in 2005, ABE Media have been at the forefront of new technology, shaping the future of web design with each and every project."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Founded in 1978, Cook & Pagano, P.C. is dedicated to protecting the rights of individuals who have been injured or wronged.  We provide individualized attention to our clients in Boulder, Longmont, Golden, Brighton, Loveland, Thronton, Broomfield, Louisville, Lafayette, Superior, Westminster, Arvada, the Greater Denver Area and most of the Colorado Front Range.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303-543-8582", 
+        "phone1": "303-543-1000"
+       }, 
+       "address": {
+        "postalCode": "80303", 
+        "city": "Boulder", 
+        "street1": "5390 Manhattan Circle, 2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1978, 
+    "websiteUrl": "www.cookinjurylaw.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Personal Injury", 
+      "Medical Malpractice"
+     ]
+    }, 
+    "universalName": "cook-&-pagano-p-c-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cook & Pagano, P.C."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Build14Me", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273670100"
+       }, 
+       "address": {
+        "postalCode": "BN2 6BA", 
+        "city": "Brighton", 
+        "street1": "58 Warren Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.build14me.com/index.php", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Website development", 
+      "marketing", 
+      "website design", 
+      "social media"
+     ]
+    }, 
+    "universalName": "build14me", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We build websites. Simple easy to navigate sites that help you promote your business.\r\n\r\nYou provide your contact details, the copy, the images and tell us how you want the site to look and then we do what we do best \u2013 we build the site for you (do you see what we have done there!?). We then set up your e-mail accounts and host your site for the first year. Costs start at \u00a3240 plus VAT for a basic site \u2013 but if you want all the fancy stuff we can do that too.\r\n\r\nWe can:\r\n\r\ncreate a content managed site - meaning you can change the content whenever you want\r\nmake your site ipad/tablet and mobile friendly\r\ninclude galleries, portfolios or videos\r\ncreate your logo\r\nwrite your copy\r\nand add flying widgets \u2013 if that is your thing\r\n\r\nEach of these features will cost a little bit more \u2013 but if you feel they are important to you and your business, then they are worth it. If you want to know more about costs either send us an email hello@build14me.com or phone Sophie Mower or James Wallen-Jones on 01273 670 100\r\n\r\nBuild14me.com is cheeky little brother to Frank! Communication Solutions www.frankontheweb.com a Brighton based communications agency that specialises in helping clients to talk to the people that matter to their business."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Remus is a specialist Independent firm of Managing Agents, managing blocks flats and estates of flats and houses throughout England and Wales.\r\n\r\nWith offices in Southern England (Salisbury), South East England (Brighton), Central England (Birmingham), Eastern England & Thames Gateway (Chelmsford), Prime Central London, Wales & West of England (Cardiff) and South West England (Plymouth) we presently provide services to more than 18,000 homes, including homes in retirement housing schemes and mixed use developments.\r\n\r\nOur clients are Right to Manage Companies, Tenant Management Companies, Developers and Freehold Investors.\r\n\r\nOur staff are trained in all aspects of property management, based on both good practice and current legislation. Our Property Managers have either qualified with the Institute of Residential Property Management (IRPM) or are studying to attain membership.\r\n\r\nRemus Management is a member of the Association of Retirement Housing Managers (ARHM) and abides by the Code of Practice of that Association and that of The Royal Institute of Chartered surveyors (RICS). Both Codes of Practice have received approval from The Secretary of State.\r\n\r\nWe are regulated by the FCA in relation to the conduct of our insurance activities (previously the FSA).\r\n\r\nRemus are members of the Ombudsman Services to ensure that any issues raised, that cannot be resolved via our in-house systems, can be resolved quickly and fairly to all parties satisfaction.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SP2 7QY", 
+        "city": "Salisbury", 
+        "street1": "Fisher House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "Remus.uk.com", 
+    "universalName": "remus-management", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Remus Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Logic Project Solutions", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.logicprojectsolutions.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Training", 
+      "Project Management", 
+      "Coaching", 
+      "Mentoring", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "logic-project-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Logic Project Solutions is a Brighton based Project Management Training provider offering courses for business focused individuals seeking personnel development and companies and organisation\u2019s needing high quality effective training for their staff.\r\n\r\nWe specialize in Project Management Training and associated courses and our core strength is our in-depth knowledge of the techniques and methods needed to design, implement and deliver successful projects in todays increasingly more competitive & complex industries. Our real world experience, from the small, low level to the high profile, risk heavy programmes, coupled with a relaxed, informative & approachable teaching method, enables us to provide courses that simply put, succeed!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We are always adding to our range online with a wide range of properties available, from small flats and homes for first time buyers right through to larger family homes and luxury apartments.\r\n\r\nWith our office located on Brighton Road, Surbiton, we are in a great location for you to pop by and see what we have to offer you.\r\n\r\nWhether you are looking to buy, sell or rent, Mahadeo & Co offer a high quality bespoke service committed to getting the best results for our customers. We will offer our honest advice and help you to find the right solution. \r\n\r\nFor more information, or if you have any questions about how we can sell or let your home in the local area please call us today.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0208 390 8500"
+       }, 
+       "address": {
+        "postalCode": "Kt6 5LX", 
+        "city": "Surbiton", 
+        "street1": "11 Brighton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.mahadeos.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Residential Sales", 
+      "Residential Lettings", 
+      "Independant Mortgage Advice", 
+      "Insurance"
+     ]
+    }, 
+    "universalName": "mahadeo-&-co", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mahadeo & Co Estate Agents"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "1108 Studios was founded by two computing graduates in 2011 in Brighton, UK. They both have a number of years experience in the industry, and always keep up to date with the latest research and innovations: testing, evaluating and improving them, in order to help small businesses succeed in this ever-expanding world of technology. The World Wide Web is the fastest growing market for advertising businesses, and 1108 Studios use their understanding of this to create professional, efficient and competitive digital media product, aspiring to achieve exceptional client satisfaction, as well as expanding their portfolio.", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 270 147"
+       }, 
+       "address": {
+        "postalCode": "BN2 1AU", 
+        "city": "Brighton", 
+        "street1": "15 Burlington Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.1108studios.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design & Development", 
+      "Graphic Design", 
+      "Website Maintenance", 
+      "Search Engine Optimisation (SEO)"
+     ]
+    }, 
+    "universalName": "1108-studios", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "1108 Studios"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Migraine Relief Center", 
+    "twitterId": "", 
+    "industry": "Medical Practice", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "713-522-5111"
+       }, 
+       "address": {
+        "postalCode": "77019", 
+        "city": "Houston", 
+        "street1": "1355 West Gray Ste B"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "702-749-4359"
+       }, 
+       "address": {
+        "postalCode": "89117", 
+        "city": "Las Vegas", 
+        "street1": "8660 Spring Mountain Rd. Ste 101"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "310-299-7573"
+       }, 
+       "address": {
+        "postalCode": "90210", 
+        "city": "Beverly Hills", 
+        "street1": "9615 Brighton Way Ste 303"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.themigrainereliefcenter.com/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Migraine Relief", 
+      "Headache Relief", 
+      "Septoplasty"
+     ]
+    }, 
+    "universalName": "migraine-relief-center", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The Migraine Relief Center is dedicated to helping its patients alleviate and reduce the often debilitating pain caused by headaches, most notably the severe effects of migraines. We believe that unrelieved pain and suffering is far too costly to patients, their families, even their employers. Our board-certified physicians are trained to provide the utmost in patient care and comfort.\r\n\r\nWe have three locations in Houston, Las Vegas and Beverly Hills. \r\n\r\n1355 West Gray Ste B\r\nHouston, Texas 77019\r\n\r\n8660 Spring Mountain Rd. Ste 101\r\nLas Vegas, Nevada 89117\r\n\r\n9615 Brighton Way Ste 303\r\nBeverly Hills, California 90210"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Pixel Debris", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.pixeldebris.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Web Design", 
+      "Graphic Design", 
+      "Brand Consultancy", 
+      "Email Marketing Design", 
+      "E-commerce Design", 
+      "Social Media Profile Design", 
+      "Banner Design", 
+      "Photography", 
+      "Information Architecture", 
+      "Responsive Web Design", 
+      "Magento", 
+      "WordPress"
+     ]
+    }, 
+    "universalName": "pixel-debris", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Pixel Debris is the brainchild of Victoria Alexander, a freelance creative web and graphic designer based in the vibrant city of Brighton & Hove who has been working in the online industry for over 10 years on a diverse range of projects for small to medium-sized businesses, particularly in the e-commerce sector.\r\n\r\nPassionate about good design and typography, through effective planning and consultation I offer bespoke design solutions to help you engage with your customers and enhance your online presence. \r\n\r\nSo if your start-up business in need of a new brand strategy or an agency in need of an extra pair of hands please get in touch. Thank you."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Lyndon Rescue Inc., formally Lyndon State Rescue Squad, was founded in 1972 and became a full time ambulance service in 1996. We are located in the Northeast Kingdom of Vermont with one station in Lyndonville and the other in Brighton. Lyndon Rescue has four ambulances, seven full time members, and over two dozen part time members. In 2009 Lyndon Rescue was named the Vermont Ambulance Service of the Year.\r\n\r\nFollow us on Twitter https://twitter.com/LyndonRescue and Like Us on Facebook https://www.facebook.com/pages/Lyndon-Rescue-Inc/60909877707 for information on upcoming events, classes and other news!", 
+    "twitterId": "", 
+    "industry": "Public Safety", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "1.802.626.1101", 
+        "phone1": "1.802.626.1101"
+       }, 
+       "address": {
+        "postalCode": "05851", 
+        "city": "Lyndonville", 
+        "street1": "114 Vail Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "www.lyndonrescue.net", 
+    "universalName": "lyndon-rescue-inc-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Lyndon Rescue, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Soundsmiths", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.soundsmiths.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Audio Dubbing", 
+      "Music Production", 
+      "Sound Design", 
+      "Location Recording"
+     ]
+    }, 
+    "universalName": "soundsmiths", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "About\r\n\r\nWe are a team of creative individuals based in the London and Brighton areas working on creative projects world wide. \r\n\r\nWe specialise in the realms of audio dubbing, electronic music production, and sound design.\r\n\r\nServices\r\n\r\nSound Design \r\nElectronic Music Production\r\nComposition\r\nLocation Recording\r\nAudio Editing\r\nFoley \r\nAudio ID\r\nSample Creation \r\n\r\nWorked With \r\n\r\nUniversal Music\r\nChannel 4\r\nNHS\r\nHarrods\r\nNokia\r\nRed Bull \r\nCourvoisier\r\nKorg\r\nGEOX\r\nBurning Reel\r\nToy Box Entertainment\r\nAtticus Finch\r\nCreative Immortal\r\nID Arena\r\nWing Productions\r\nMajor Minor Media \r\nRebirth\r\nSuicide Dub\r\nRankin Audio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "DnA PR Ltd", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.dna-pr.com/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Public Relations", 
+      "Home Entertainment"
+     ]
+    }, 
+    "universalName": "dna-pr-ltd", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Set up in 2001 by Darren Whittaker and Alice Hammond. \r\nDnA PR is a small but busy Public Relations agency specialising in home entertainment and film releases. Based in Brighton.\r\nCurrent clients include Sony Pictures Home Entertainment, Entertainment One and Lionsgate Home Entertainment."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "About Us: North Coast Wireless Communications has been serving Ohio's North Central counties for over 10 years. We are a local business built from the ground up by providing quality services to our customers at a fair price. Our subscriber base is made up of residential customers, small to large businesses, local government, churches and healthcare providers.\r\n\r\nOur Network: Our datacenter sits on multiple fiber-optic backbones with hot standby generators, battery backup and redundant servers. Our towers are interconnected with high speed microwave or fiber-optic links. The network is always growing to ensure comprehensive coverage to businesses and homes in our coverage area. We are constantly expanding and improving our network to bring out customers the most reliable service possible at an exceptional value. \r\n\r\nOur Guarantee: NO CONTRACTS, NO HIDDEN FEES, and a 30 DAY SATISFACTION GUARANTEE for Internet and Digital Phone services means you can rest assure that the price you see is the price you pay and we're not happy until you're happy. \r\n\r\nAreas Serviced: Amherst, Avon*, Bellevue, Berlin Heights, Brighton*, Castalia*, Clarksfield, Clyde, Collins, Elyria, Fitchville, Grafton, Greenwich, Henrietta*, Kelley's Island, Kipton*, Litchfield, Lorain, Mansfield*, Milan, Medina, Monroeville, New London, North Fairfield, Norwalk, Nova, Oberlin*, Polk*, Port Clinton, Rochester*, Sandusky, Sheffield, Shiloh, Wakeman*, Wellington*, Willard, Widowville* (Ashland), Vickery. Not all areas are completely covered. Coverage is available in these and surrounding areas. Coverage is constantly growing. GenX coverage is noted with an asterisk.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.ncwcom.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Internet Service Provider", 
+      "VoIP", 
+      "Computer Repair", 
+      "Dish Authorized Retailer"
+     ]
+    }, 
+    "universalName": "north-coast-wireless-communications-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "North Coast Wireless Communications, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Nutrakarma is an Holistic company founded in 2011 and is located in Brighton and London.\r\n\r\nNutrakarma provides an Ayurvedic range of treatment:\r\n- Ayurvedic consultation: Pulse diagnosis, Tongue diagnosis, Lifestyle approach and advice for the 3 doshas, Dietary guidelines according to Ayurveda, Ayurvedic detoxification, Ayurvedic herbs.\r\n- Ayurvedic body treatment: Abhyanga, Shiroabhyanga, Udvartana, Mukhabhyanga.", 
+    "twitterId": "", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 2HD", 
+        "city": "Brighton", 
+        "street1": "25 Castle street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "W1U 2RG", 
+        "city": "London", 
+        "street1": "98 Crawford Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.nutrakarma.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Ayurveda", 
+      "Naturopathy", 
+      "Applied Kinesiology", 
+      "Massage"
+     ]
+    }, 
+    "universalName": "nutrakarma", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Nutrakarma"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Mint Media LLC", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "get@mymediamint.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Cinematography", 
+      "Web Development", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "mint-media-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Mint exists to refresh digital and print media for all kinds of businesses. We lead in consumer experience, without gouging wallets. Not only do we specialize in video, but we do in design, and web development as well. You could say we host an unmatched spectrum of interactive and visual delivery.\r\n\r\nAt Mint, we breathe cost efficient time management, and have quick turn arounds without losing the quality of the work. We produce video/design that responds with the lifestyle evolving how we move, making it very accessible with a desktop, tablet, and even your smartphone. \r\n\r\nWe tend to keep our roots planted, but our reach global, by acquiring great clients such as; Skullcandy, Nixon Watches,Brighton Resort, and Soon to be, Nike Snowboarding."
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 18, 
+    "description": "Doublet: Createur d'enthousiasme!\r\n \r\nSuppliers of flags, signage and sports equipment to London 2012 Olympic Games\r\n \r\nWith over 100 years of expertise, Doublet are industry leaders in event branding and have a proud history providing impactful identity to events such as the Tour de France and to the London 2012 Olympic and Paralympic Games. \r\n\r\nFrom conception and design to manufacture, installation and removal, our team will ensure you have the best advice and most efficient services to make the look of your event exceptional. \r\n\r\nWe have a vast range of products and we strive to ensure that no request is too big! For both indoor or outdoor events, Doublet offers branding solutions such as arches, banners, tents, inflatables, barrier covers, event flags, bespoke structures and much more! \r\n \r\nBring your project to life with Doublet\r\n\r\nOur clients include: The LOCOG, Bell & Ross, London Design Festival, Aviva, The Accor group,  The Connaught, Somerset House,  Saatchi Gallery, UEFA Euro 2012,  Upsolut, Brighton Marathon, Harlequins, Saracens, Limelight Sports,  Warrior, New Balance, Pepsi, Goodwood, Guiness...", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02089401777"
+       }, 
+       "address": {
+        "postalCode": "TW9 2PN", 
+        "city": "Richmond", 
+        "street1": "97-99 Kew Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.doublet.com/en/UK/", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "branding", 
+      "event consultancy", 
+      "flags", 
+      "banners", 
+      "tents", 
+      "indoor and outdoor display", 
+      "signage", 
+      "inflatables", 
+      "pop up tent", 
+      "festival branding", 
+      "mass participation sports branding"
+     ]
+    }, 
+    "universalName": "doublet-uk", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Doublet UK"
+   }
+  ]
+ }
+}

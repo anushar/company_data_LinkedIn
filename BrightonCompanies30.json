@@ -1,0 +1,768 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 600, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Starting from our first hand experience studying law in the UK, Future Project was built to provide you with everything we would have appreciated during our time as law students.\r\n\r\nWe make your UK law school application simpler and easier. We make your journey more informed and successful.\r\n\r\nAlso, our services cost you nothing! Each of our University Partners believes in the value of our services and has agreed to cover the cost.\r\n\r\nBy choosing to attend one of our University Partners, you will gain access to Future Project's exclusive scholarships, academic achievement awards, summer legal placement, preferred currency exchange rate, academic resources, transition support and much more!\r\n\r\nWe are here for you throughout your degree. We succeeded and are here to ensure you do as well!\r\n\r\nWhat Is The Process?\r\n\r\n1. SIGN UP - You will receive our Application Guide that covers everything you need to know.\r\n\r\n2. APPLY - We help you select Universities and submit the best application.\r\n\r\n3. PREPARE - Obtain your student visa, secure financing, book flights and begin packing.\r\n\r\n4. BEGIN JOURNEY - Congratulations, you are a law student! Any other questions, just ask.\r\n\r\nIN SHORT, WE PROVIDE:\r\n\r\n*University Selection\r\n*Application Guidance\r\n*Personal Statement Advice\r\n*First Hand Experience\r\n*Transition Support\r\n*Preferred Currency Exchange Rate\r\n*Entrance Scholarships\r\n*Achievement Awards\r\n*Academic Resources\r\n*Summer Legal Placement\r\n\r\nWE PROUDLY REPRESENT:\r\n\r\n*Queen\u2019s University Belfast\r\n*University of Sussex\r\n*The University of Northampton\r\n*The University of Law\r\n*Brighton University\r\n*UWE Bristol\r\n*University of Sunderland\r\n\r\nIf you are considering UK law school, sign up today to receive all Future Project's benefits: www.futureproject.ca", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "1-888-506-2257", 
+        "phone1": "1-888-506-2257"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Toronto", 
+        "street1": "Eastern Canada Office"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "1-888-506-2257", 
+        "phone1": "1-888-506-2257"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Vancouver", 
+        "street1": "Western Canada Office"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.futureproject.ca", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "University selection & application", 
+      "Legal Networking", 
+      "Personal Atatement Advice", 
+      "Summer Legal Placement", 
+      "Preferred Currency Exchange", 
+      "Academic Resources", 
+      "Scholarships & Academic Achievement Awards", 
+      "Career Guidance", 
+      "Transition support"
+     ]
+    }, 
+    "universalName": "future-project---legal-education-agent", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Future Project - Law is our language"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "OneKindLife", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.OneKindLife.com", 
+    "universalName": "onekind-25", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "OneKindLife (under OneKind.25 LLC) is a distributor of U.S. natural, organic, and specialty consumer products to Asia. Our company mission is to provide trustworthy and quality food, beverage, and personal care products to families around the globe. Our customers include health food chains, natural and organic stores, supermarkets, online retailers, and distributors in Hong Kong, China, Japan, Taiwan, and other regions in Asia. We work with our importer partners to develop strong marketing programs that bring awareness to U.S. brands - ultimately helping consumers make smarter and more confident purchasing decisions. We also provide solutions for U.S. manufacturers or Asian retailers on logistics, consolidation, labeling, and import regulatory requirements, and we consult growing companies on finding financial or strategic partners across the world.\r\n\r\nOur company takes pride in supporting some of the most creative entrepreneurs and small businesses in the U.S. while making Asia a healthier place for children and parents. We are a family-owned business that is headquartered in Brighton, Michigan, and we operate warehouses in both Michigan and California."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "A palavra STOMP refere-se a um subg\u00eanero distinto de teatro f\u00edsico, onde o corpo INCORPORA-SE a outros objetos como meio de PRODUZIR percuss\u00e3o e movimento que ECOA nas dan\u00e7as tribais.\r\n\r\nSTOMP \u00e9 tamb\u00e9m um famoso grupo de percuss\u00e3o de rock que se utiliza da dan\u00e7a e da dramatiza\u00e7\u00e3o de filmes\r\nem seus espet\u00e1culos. \r\nOriundo de Brighton, Reino Unido, seus integrantes usam o corpo e objetos comuns para criar performances teatrais f\u00edsicas e percussivas.\r\n\r\nA STOMP! COMUNICA\u00c7\u00c3O foi inspirada nos processos criativos deste grupo, trazendo estes conceitos para sua\r\nforma de trabalhar e pensar a comunica\u00e7\u00e3o.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "31 36534511"
+       }, 
+       "address": {
+        "postalCode": "30150220", 
+        "city": "Belo Horizonte", 
+        "street1": "Av. Francisco Sales, 469 - Floresta"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.agenciastomp.com.br", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Comunica\u00e7\u00e3o", 
+      "Marketing", 
+      "Branding", 
+      "Desenvolvimento de sites"
+     ]
+    }, 
+    "universalName": "stomp-branding-e-comunica-o", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "STOMP! Branding e Comunica\u00e7\u00e3o"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "For over 40 years, Pavilion Electrics has been serving customers in Brighton, Hove and Sussex. An NICEIC Approved Contractor and Domestic Installer, the company has worked on some of the biggest commercial and industrial projects in the South East, at the same time serving its loyal customer base of homeowners and local businesses\r\n\r\nLighting design, LED lighting and much more\r\n\r\nNot only does Pavilion Electrics offer the full range of electrical services from fault finding and repair to major rewires and installation. The company's years of experience and expertise across lighting and electrical allows it to suggest energy-saving lighting and power solutions, as well as offer a lighting design service. Allow Pavilion Electrics to help transform your home, office or retail space with the latest in lighting technology and design.\r\n\r\nReliable and trusted electricians\r\n\r\nPavilion Electrics prides itself on its reputation over its 40 years built by keeping the customer the focus in everything it does. The company places the customer's needs first and foremost and aims to work around them and the highest standards of customer service and after-care are paramount. Of course, all Pavilion Electrics work is fully insured and guaranteed, and the company's engineers will work hard to minimise disruption to your home or office leaving it as clean and tidy as they found it.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 844060", 
+        "phone1": "01273 842776"
+       }, 
+       "address": {
+        "postalCode": "BN6 8AR", 
+        "city": "Hassocks", 
+        "street1": "58 Keymer Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.pavilionelectrics.co.uk", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "LED Lighting", 
+      "Lighting Installation", 
+      "Power Installations", 
+      "3-Phase Installation", 
+      "PAT testing", 
+      "Testing & Inspection", 
+      "Lighting Design", 
+      "Home Electrics", 
+      "Office Lighting and Power", 
+      "Electrical Safety Services", 
+      "Landlord Services", 
+      "Maintenance Contracts", 
+      "Fault-finding & Repair"
+     ]
+    }, 
+    "universalName": "pavilion-electrics", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pavilion Electrics"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We are a London based creative agency with clients in London, Manchester, Liverpool, Leeds, Huddersfield, and Brighton. We believe in a integrated platform through all forms of social media and offline marketing strategies.\r\n\r\nAt Creative Victory we believe that good social strategy can work for all business, regardless of the sector. We work alongside our clients to create campaigns that target new consumers and meet their business objectives.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02082653591"
+       }, 
+       "address": {
+        "postalCode": "SE10 0ew", 
+        "city": "London", 
+        "street1": "6 Penrose Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://creativevictory.co.uk/", 
+    "universalName": "creative-victory", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Creative Victory"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Brighton and Hove's first short term house sitting service. Individuals frustrated with the inconveniences placed on them to wait at home for a delivery or tradesperson/engineers arrival can book The Home Cover Company by the hour to instead wait for them. \r\n\r\nWaiting at home causes disruptions at work, loss of earnings and time wasted. Most individuals resort to using valuable holiday, or unpaid leave - now a simple solution is in place where a short term house sitter can be used. All sitters are police checked, employed directly by us, insured and fully vetted/referenced.\r\n\r\nBusinesses and companies employees lose over 13 million days holidays each year waiting at home for deliveries and workpersons. The Home Cover Company can act as a signal of a companies investment in its staff and their well being by simply endorsing the service. Companies productivity and structures can be affected by this time away as well so the positives for both employee and employer can clearly be seen.\r\n\r\nBusinesses which rely on deliveing to customers or those that need to carry out work at the home of their customers will also benefit by either using The Home Cover Company to add value for their customer or by aiding in overcoming the difficulties associated with finding a convenient time for both parties.\r\n\r\nThe Home Cover Company also will enable private landlords to use the service for enabling all their access needs. So when the landlord can not be at the home then The Home Cover Company can.", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 730 205"
+       }, 
+       "address": {
+        "postalCode": "BN3 2PL", 
+        "city": "Hove", 
+        "street1": "11 Fourth Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 730205"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "11 Fourth Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.thehomecoverco.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "house sitting", 
+      "house sitter", 
+      "lifestyle", 
+      "concierge", 
+      "property management"
+     ]
+    }, 
+    "universalName": "the-home-cover-company", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "The Home Cover Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 271, 
+    "description": "The Seminole Tribe has long been recognized for innovation in its gaming and other businesses. It opened the first high-stakes bingo hall and casino in the United States in 1979. That facility was the forerunner of the Indian Gaming movement throughout North America.  Analysts believe today\u2019s Seminole Tribe operates one of the most profitable gaming enterprises in the world. In March 2007, the Seminole Tribe of Florida acquired Hard Rock International, the first transaction of its kind by an Indian tribe.\r\n\r\nHard Rock International is one of the most globally recognized music, entertainment, leisure and dining brands with a network of signature Hard Rock Cafes, hotels and casinos in 50 countries, it includes the world\u2019s largest collection of authentic music memorabilia.  Also in their portfolio is the finest restaurant at any ballpark in America. NYY Steak at Yankee Stadium is a joint venture of the New York Yankees LLC and Seminole Hard Rock Entertainment, parent company of Hard Rock International.\r\n\r\nIn addition to its two Seminole Hard Rock Hotels & Casinos, the Seminole Tribe owns and operates five other Seminole Casinos; in Coconut Creek and Hollywood on the Southeast coast, in Immokalee near Naples, on the Brighton Reservation north of Lake Okeechobee and on the Big Cypress Reservation south of Lake Okeechobee.", 
+    "twitterId": "", 
+    "industry": "Gambling & Casinos", 
+    "employeeCountRange": {
+     "code": "I", 
+     "name": "10001+"
+    }, 
+    "websiteUrl": "http://stofcasinos.com/", 
+    "universalName": "seminole-gaming", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Seminole Gaming"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Kutter Walters Legal Costs Ltd is based on a friendly and approachable structure and aims to be considered an extension of your firm rather than simply an outsourced service at the conclusion of a matter. In order to do this the team provides advice and guidance on costs to clients throughout their cases. This enables you to concentrate on your area of expertise without the worry of losing out financially. A high quality service is provided, which achieves the best outcome in terms of costs.\r\n\r\nThe company is based in offices in Shoreham-by-Sea, near Brighton and undertakes work for a number of firms in the South East and has recently acquired the DX in order to expand its client-base.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 569650"
+       }, 
+       "address": {
+        "postalCode": "BN3 2AF", 
+        "city": "Hove", 
+        "street1": "115a Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.kutterwalters.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "legal costs", 
+      "legal cost draftsmen"
+     ]
+    }, 
+    "universalName": "kutter-walters-legal-costs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kutter Walters Legal Costs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "name": "Seagull Savers", 
+    "twitterId": "", 
+    "industry": "Information Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.seagullsavers.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Business Directory"
+     ]
+    }, 
+    "universalName": "seagull-savers", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "A brand new website for fans of Brighton and Hove Albion.\r\n\r\nThe site has been designed for two reasons:\r\n\r\nTo offer business owners the chance to advertise to 1000\u2032s of Albion fans.\r\nTo offer Albion fans the opportunity to find a trader they can trust.\r\n\r\nIf you would like to advertise your business on the site we\u2019d love to have you! We intend to launch in August with as many businesses on board as possible. From that point on we will do our best to make Seagull Savers the first place any Albion fans goes when the need a service provider."
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 0, 
+    "name": "Concept 64, Inc.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "concept64.com", 
+    "universalName": "concept-64-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Concept 64 designed and developed websites for small to medium-sized businesses, non-profit organizations, artists, musicians, and web agencies. Completely referral-based, within 2 years, the company grew from a local client base to managing accounts in Philadelphia, Pittsburgh, Washington DC, New York City, Chicago, Toronto, and Brighton, UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Just A Pixel", 
+    "twitterId": "", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.justapixel.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Unity", 
+      "Web", 
+      "Development"
+     ]
+    }, 
+    "universalName": "just-a-pixel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Just A Pixel is a collection of developers and designers focused on creating quality applications for both web and mobile. \r\nWe are a new startup based in Brighton that specialize in the creation of Unity based applications along with HTML5 websites."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "We are a UK recruiting agency based in Brighton. If you are looking for high calibre nurses from Spain and Portugal, please contact us.\r\n\r\nWe know how stressful it can be finding good nurses with the right level of English. Our friendly and professional team aims to take that stress from you. We have a rigorous screening process and only offer you quality and motivated candidates.\r\n\r\nPlease contact info@internursing.co.uk to discuss your needs.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.internursing.co.uk", 
+    "universalName": "internursing-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Internursing Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "St Peters Cricket Club", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1883, 
+    "websiteUrl": "http://stpeters.play-cricket.com", 
+    "universalName": "st-peters-cricket-club", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "St Peters Cricket Club are the most progressive club in the city of Brighton and Hove. Based in the heart of the City, it's home at Preston Park is one of the best urban cricket locations in Sussex. The club has 5 mens teams, 12 boys teams, 1 ladies team and 3 girls teams. Our doors are always open to new players regardless of ability."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 134, 
+    "description": "Reflex Nutrition was founded in 1996 with the sole aim of producing the finest supplements available; in our eyes that means perfection with no equal.\r\n\r\nTo achieve perfection is extremely challenging and it is a word that cannot be casually used unless it is supported in the real world. In our industry perfection requires both intimate knowledge of the nutraceutical world and exacting manufacturing standards. Reflex Nutrition\u2019s sheer determination to lead the market in both innovation and quality resulted in the design and manufacture of the Reflex Science Park on the outskirts of Brighton. The two acre site provides exceptional manufacturing facilities for the production of the following full range of extremely high quality sports nutrition supplements.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+441273 303 025", 
+        "phone1": "+441273 303 817"
+       }, 
+       "address": {
+        "postalCode": "BN2 6NT", 
+        "city": "Brighton", 
+        "street1": "The Science Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "http://www.reflex-nutrition.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Sports Nutrition"
+     ]
+    }, 
+    "universalName": "reflex-nutrition", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Reflex Nutrition"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "HR McNeilly, LLC.\r\n8891 Brighton Ln, Ste 103. Bonita Springs, FL 34135 \r\nPh: (239) 478-7409\r\nWebsite: www.hrmcneilly.com \r\nE-Mail to: bob@hrmcneilly.com \r\nFollow on Twitter: @HRMcNeillyllc\r\n\r\nA Veteran Owned Business, the \"HR McNeilly LLC\" company was formed in May 2013 following a career spanning 17 years of human resources and recruiting. \r\n\r\nDesigned with the client's needs in mind, HR McNeilly LLC offers valuable insight from both HR and Executive Recruiting standings; combined with a consultative approach, clients benefit from an experienced recruiting professional.\r\n\r\nExperience in manufacturing, nuclear, semi-conductors, electrical/electronic, industrial automation, field service, utilities/energy, steel, automotive, and military.\r\n\r\nCandidates never pay a fee for my services.  Companies (clients) pay me to find great candidtes.\r\n\r\nManufacturing & Industrial\r\n\u2022General Manufacturing\r\n\u2022Automotive\r\n\u2022Steel\r\n\u2022Food Production\r\n\u2022Distribution\r\n\u2022Energy and Utilities\r\n\r\nEngineering Related Positions\r\n\u2022Project Engineers\r\n\u2022Controls Engineers\r\n\u2022Design Engineers\r\n\u2022Quality Engineers\r\n\u2022Sales Engineers\r\n\u2022Field Service Technicians\r\n\u2022Skilled Trades\r\n\r\nManagement Positions\r\n\u2022General Management\r\n\u2022Finance\r\n\u2022Human Resources\r\n\u2022Production\r\n\u2022Quality\r\n\u2022Plant Management\r\n\r\nHiriing Managers:\r\n \r\nTimes are tough and many CEO\u2019s look for opportunities to cut and save whenever they can.  \r\n\r\nWhy then are you willing to keep paying for higher recruiting fees?\r\n \r\nHere\u2019s an opportunity for you to demonstrate your cost saving efforts by measurable means in actual dollar amounts.  \r\n\r\nIn your next performance review, you could be noticed for saving your company thousands of dollars per hire just by making this simple change.\r\n\r\nWhile other recruiters try to avoid your HR team, I reach out to them.\r\nIn some instances a flat fee makes better business sense. \r\nIn others, my clients sometimes prefer contract recruiting.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(239) 478-7409"
+       }, 
+       "address": {
+        "postalCode": "34135", 
+        "city": "Bonita Springs", 
+        "street1": "8891 Brighton Ln., Ste 103"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.hrmcneilly.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Executive Recruiting", 
+      "Professional Recruiting", 
+      "Technical Recruiting", 
+      "Veterans", 
+      "Manufacturing", 
+      "Energy & Utilities", 
+      "Nuclear & Alternative Energy", 
+      "Food Production", 
+      "Skilled Trades", 
+      "Engineers"
+     ]
+    }, 
+    "universalName": "hr-mcneilly-llc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "HR McNeilly, LLC."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Linda is the co-author of the best selling book in grief support and education, \r\nGrieving Forward: Death Happened, Now What?  A Practical Guide for Healing & Understanding the Grief Process.  (Cathy Clough & Linda Pouliot, Tate Publishing & Enterprises, 2011)  \r\n\r\nSince January of 2012 Linda has offered Grieving Forward Workshops.  The Now What? workshop is targeted to the griever and provides information and hope for healing.  The griever leaves understanding that even though it doesn't feel like, healing is possible.  \r\n\r\nThe Good Grief: Let's Talk About Grief workshop is targeted to those who want to understand and encourage the griever. Learn what grief is.  What grief does.  And how to support someone who is grieving.   \r\n\r\nSee www.lindapouliot.org \r\n\r\n\r\nLinda volunteered as a facilitator and workshop speaker at New Hope Center for Grief Support, Northville, Michigan for over twelve years.  She is a former foster parent (Livingston County, Michigan) and a graduate of Ann Arbor Institute of Massage Therapy, Ann Arbor, Michigan.  Linda is a former member of Insights Toastmasters, Brighton, Michigan. She is pursuing a degree in Professional Communication at Siena Heights University.", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://lindapouliot.org/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Book", 
+      "Workshops", 
+      "Speaking Engagements", 
+      "Grief Support"
+     ]
+    }, 
+    "universalName": "cobblestone-ministries", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Linda Pouliot, Author & Educator"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "Experienced creatives, John Griffin and Dominic Port have joined forces to create Wolfcub Digital, a small but perfectly formed design agency located in the heart of Brighton. \r\n\r\nOur experience in the industry includes years of producing bespoke digital material to a consistently high standard for platforms including mobile, web, games and print, for clients of all shapes and sizes\r\n\r\nWhen you work with Wolfcub Digital, you're one of us; with a friendly and open approach to our work, we pride ourselves on fostering positive and meaningful relationships between ourselves and all our clients. \r\n\r\nWe keep things lean by working with small teams of people we know and trust. We are forever hungry for the new, the brave and the bold. \r\n\r\nWe are Wolfcub Digital.\r\n\r\nCome join the pack!", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 1AU", 
+        "city": "Hove", 
+        "street1": "29"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.wolfcubdigital.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Graphic Design", 
+      "UI Design", 
+      "Art Direction", 
+      "Branding", 
+      "Creative Direction", 
+      "Animation", 
+      "Illustration", 
+      "Print Design", 
+      "Design for Mobile"
+     ]
+    }, 
+    "universalName": "wolfcub-digital", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wolfcub Digital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "description": "ShowStaff Event Staffing\r\n\r\nWith over a 10 Years of experience, Showstaff  source and provide reliable staff for organisers of all manner of events within the UK.\r\n\r\nShowStaff have a wealth of history in supplying staff to a number of major events throughout the UK.  Over the years we have supplied staff to Creamfields, Bestival, Camp Bestival, Lounge on the Farm, Green Man Festival, Kendal Calling, Beat Herder, Rewind Scotland, Inverness Live, Rewind Henley, Henley Regatta, MFest, Festival Number 6, Event City, Nation, Parklife, Warehouse Project, Rockness, Brighton Pride, Love Supreme, Dockber Farm, Lytham Proms, Live from Jodrell Bank, Leefest, Falkirk Rock the Stadium, Inverness Black Isle Showground, Liverpool Sound City and Salford City Stadium.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "M1 1JG", 
+        "city": "Manchester", 
+        "street1": "21-31 Oldham St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.show-staff.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Event Staffing"
+     ]
+    }, 
+    "universalName": "showstaff", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ShowStaff Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 11, 
+    "description": "An exclusive members only service providing access to high quality certificated diamonds. Diamond Intel has been created to bring the convenience of the wider diamond market to an established clientele who favour a luxury and knowledgeable service at a trade price.\r\n\r\nOur primary objective is to bring to our favored clients a wider choice of quality diamonds to select from, as well as the option to meet at our family established business location (Est. 1986), so we can share with them our expertise and passion for diamonds. \r\n\r\nWe are based in Brighton and often source diamonds for engagement rings and collectors however we offer a concierge based service and frequently travel to other parts of the country. \r\n\r\nThis service is by invitation only.", 
+    "twitterId": "", 
+    "industry": "Luxury Goods & Jewelry", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.diamondintel.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "certificated loose diamond", 
+      "diamond engagement ring", 
+      "platinum", 
+      "gemstone"
+     ]
+    }, 
+    "universalName": "diamond-intel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Diamond Intel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "SOL Media UK", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.solmediauk.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Design", 
+      "Print", 
+      "Marketing", 
+      "Web", 
+      "Strategic Planning"
+     ]
+    }, 
+    "universalName": "sol-media-group-ltd-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Media & Design Agency based in Brighton. Providing our clients with the most professional yet affordable service tailored to their specific individual needs in the design, print, marketing and web sectors. Get the most out of your business with SOL Media UK."
+   }
+  ]
+ }
+}

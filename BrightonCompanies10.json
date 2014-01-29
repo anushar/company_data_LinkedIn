@@ -1,0 +1,618 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 200, 
+  "values": [
+   {
+    "numFollowers": 6, 
+    "name": "Jo Offer Creative Services", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.jooffer.co.uk", 
+    "universalName": "jo-offer-creative-services", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "My own art practice combines the use of digital skills with hand-rendered type, pattern, collage and print-making to create illustrative images and graphic design solutions for a broad range of clients.\r\n\r\nCommissions include Brighton & Hove Council, Brighton & Hove Primary Care trust, Brighton & Hove buses and Simon Carter Accessories. \r\n\r\nVisualisation of ideas and concepts\r\nStoryboarding and narrative illustration\r\nCharacterisation\r\nBrand development and application.\r\nPrint pricing and production"
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "Max Crisfield", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.maxcrisfield.co.uk", 
+    "universalName": "max-crisfield", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Max Crisfield is a freelance writer/editor with over 15 years experience as a manager in publishing and the arts. He started out in the publishing sector with Penguin Books before embarking on a successful arts marketing career, including marketing manager of the largest multi-arts festival in England, Brighton Festival. Since 2003, he has worked as a freelance writer and copy-editor, specialising in the arts and culture sectors. He is a qualified copy-editor (accredited by the Publishing Training Centre at Book House), with a first-class BA in English and History and an MA in English Literature.  His clients include: Brighton Festival, NESTA, Book Trust, Dublin Writers Festival, ZAP Arts, The Arts Depot, Frances Lincoln Publishing, and London Sinfonietta Orchestra. He also runs Brighton's annual big read project, City Reads"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Our vision is to create a society in which the most vulnerable people are valued and have the opportunity to achieve quality of life and well-being. \r\n\r\nImpetus uses volunteers and volunteering as a way to provides direct support services to local people experiencing disability and/or disadvantage. We currently work primarily with older people and adults with learning disability providing befriending services, advocacy, and representation on issues relating to health and wellbeing. \r\n\r\nWe also provide infrastructure support to organisations within the voluntary sector through the Volunteer Centre and the Performance Development Service.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://bhimpetus.wordpress.com/feed/", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 2JQ", 
+        "city": "Hove", 
+        "street1": "First Floor, Intergen House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.bh-impetus.org", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Mentoring & befriending services for older people", 
+      "Advocacy & support for people with learning difficulties", 
+      "Representation & voice on health & wellbeing issues"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-impetus", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Impetus"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Billy's PA Hire (Brighton)", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2LJ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.brightonsoundsystem.co.uk/", 
+    "universalName": "billy's-pa-hire-brighton-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "PA and soundsystem hire with free delivery, set up and collection around Brighton and Sussex."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Brighton Ventures is a privately held consulting firm specializing in assisting businesses of all size explore the options of expanding internationally.  \r\n\r\nIn today's world of financial uncertainty, it is important for businesses to have a clear idea of what stability involves for their company. One concept that more and more businesses are exploring is one of taking their business to a global level.  In a virtually borderless world, many companies need to compete on a global level in order to succeed.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "International Trade & Development", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "84065", 
+        "city": "Salt Lake City", 
+        "street1": "Brighton Ventures, LLC"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.BrightonVentures.com", 
+    "universalName": "brighton-ventures-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Ventures, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 343, 
+    "description": "When you join the Brighton & Hove Chamber of Commerce you become part of one of the City\u2019s most effective business groups, and by joining you add another business with which others can engage. You can share your knowledge and expertise, and in turn you get access to a new business network from which you can benefit. \r\n\r\nWhat does the Chamber do?\r\nThe Chamber is the voice of the City\u2019s business people, and it\u2019s a voice that really helps its members build successful businesses. We have a reputation for providing high-quality networking opportunities and delivering a wide-ranging syllabus of inspirational advice and effective training.\r\n\r\nAs well as helping local businesses to grow and prosper, we represent our members on the larger political and economic stage too, working closely with local agencies, including the Council, on issues like business legislation, building programmes and regional transport.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.businessinbrighton.org.uk", 
+    "universalName": "brighton-and-hove-chamber-of-commerce", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton and Hove Chamber of Commerce"
+   }, 
+   {
+    "numFollowers": 168, 
+    "name": "Brighton Center", 
+    "industry": "Individual & Family Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "universalName": "brighton-center", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }
+   }, 
+   {
+    "numFollowers": 7, 
+    "universalName": "brighton-argus", 
+    "name": "Brighton Argus"
+   }, 
+   {
+    "websiteUrl": "www.brightonsource.co.uk", 
+    "numFollowers": 21, 
+    "industry": "Music", 
+    "universalName": "brighton-source-magazine", 
+    "name": "Brighton SOURCE magazine"
+   }, 
+   {
+    "websiteUrl": "www.brightonenergy.org.uk", 
+    "numFollowers": 20, 
+    "industry": "Environmental Services", 
+    "universalName": "brighton-energy-co-op", 
+    "name": "Brighton Energy Co-op"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Meaning Conference", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.meaningconference.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Events"
+     ]
+    }, 
+    "universalName": "meaning-conference", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Meaning conference is the annual gathering for people who believe business can and must be better in the 21st century.\r\n\r\nThe purpose of Meaning is to build awareness and community around the practical possibilities of progressive business so that the world becomes a better place.\r\n\r\nOur speakers are international thinkers and doers from business, academia and activism, each bringing their view of the challenges and opportunities available to us.\r\n\r\nThe first Meaning conference happened in Brighton, UK on 01 October 2012. It was attended by over 250 people from UK, Netherlands, Australia and beyond. \r\n\r\nMeaning is curated with love by NixonMcInnes, a social business consultancy based in Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 64, 
+    "description": "Welcome to Knill James\r\n\r\nKnill James is a modern and progressive firm of accountants, providing services to businesses in the Brighton and Lewes area and throughout the South East.\r\n\r\nA long established and highly respected partnership founded in 1887, we provide a concentrated central source of financial expertise for individuals, owner managed businesses, both large and small and professional practices in Brighton, Sussex and the surrounding area all provided with a personal touch that is hard to match.\r\n\r\nAt Knill James our aim is to provide you with all the financial advice you require to make the very best of your finances.\r\n\r\nWe take care of core accountancy needs, such as audit, tax and payroll, as well as providing the kind of specialist services that are often difficult to find under one roof.  Beyond that, we have the experience and skills to help you and your team your quest for business growth and development to build a sustainable and successful future.\r\n\r\nOur specialist sector teams provide professional support to:\r\nCharities/Not for Profits; Schools and Academies; Agriculture, Food & Drink; Health & Care; Legal Professionals & Practices; Manufacturing; Mumpreneurs; Property & Construction\r\n\r\nOur experienced teams provide expert advice to individuals and businesses based in Sussex, Brighton, and the South of England on key areas including financial accounting, company tax, tax planning, payroll, corporate finance, business strategy, management accounts and audit assurance.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN7 1Ju", 
+        "city": "Lewes, Brighton", 
+        "street1": "1 Bell Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1887, 
+    "websiteUrl": "www.knilljames.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Accountancy", 
+      "Tax Planning & Tax Returns", 
+      "Payroll", 
+      "Corporate Finance", 
+      "Business Strategy & Consultancy"
+     ]
+    }, 
+    "universalName": "knill-james", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Knill James"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Altitude Volvo Cars Brighton is Australia's newest Volvo retailer.  Our contemporary boutique sales environment will showcase the entire Volvo model range which will ensure your visit will be a relaxed and enjoyable experience.  For more information please see our website or contact us via info@altitudevolvocars.com.au", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+613 9557 7127", 
+        "phone1": "+613 9576 5399"
+       }, 
+       "address": {
+        "postalCode": "3204", 
+        "city": "Brighton", 
+        "street1": "913 Nepean Highway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.altitudevolvocars.com.au", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Volvo Dealership - Automotive Sales & Services"
+     ]
+    }, 
+    "universalName": "altitude-volvo-cars-brighton", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Altitude Volvo Cars Brighton"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Brighton Print and Media House", 
+    "industry": "Printing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1AL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.bpmh.co.uk", 
+    "universalName": "brighton-print-and-media-house", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Print and Media House, one of the UK\u2019s leading print, design and media companies.\r\n\r\nIf you\u2019ve not used us before, pick up the phone and talk to us \u2013 you\u2019ll find us to be friendly, straight talking and professional.\r\n\r\nOur prices for print and design are among the most competitive in the south east.\r\n\r\nCombined with our true focus on customer service, we can promise that our lower prices do not compromise on our ability to deliver a quality product - on time, all the time.\r\n\r\nPlease feel free to call us anytime if you have any questions - we'd be very happy to help you!\r\n\r\nMany thanks from the BPMH team."
+   }, 
+   {
+    "numFollowers": 8, 
+    "name": "Brighton Food Co-Op", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.brightonfoodcoop.com", 
+    "universalName": "brighton-food-co-op", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Food Co\u00b7op (BFC) is a non-profit cooperative buying club owned and run by and for its members. Membership is open to anyone, regardless of race, religious affiliation, political persuasion, etc. In fact, membership is limited in only two ways:\r\n\r\n1)  For manageability, the size of the co\u00b7op is limited to about 60 families. \r\n2)  Members must be willing to work cooperatively for the benefit of the co\u00b7op. \r\n\r\nBFC buys food and other products in bulk or large lots from United Natural Foods Inc. (UNFI), Frontier Co\u00b7op, and various other suppliers then distributes them to its members. In effect, members exchange their distribution labor for cost savings on the products (i.e. prices close to wholesale)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "name": "Noisy Communications", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.noisycommunications.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "public relations", 
+      "events", 
+      "marketing", 
+      "communications", 
+      "social media", 
+      "video games", 
+      "strategy and planning", 
+      "self-publishing"
+     ]
+    }, 
+    "universalName": "noisy-communications", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Noisy Communications is a Brighton based integrated PR, communications and social media agency run by Helen Jones who has more than 15 years experience in PR and communications initially gained in financial services and most recently spent nurturing and loving video games and bringing them to the masses. \r\n\r\nAt Noisy, we want to do things differently, we want to be part of your team so if you'd like us to come and sit in your office, work in your restaurant or sell your products we will (but we won't be offended if you don't).  We'll do anything to understand you better.  We believe that to be effective we must really live your business objectives otherwise we're just that additional expense coming off your bottom line.  And we want to help you increase your profits.\r\n\r\nServices include; public relations; events; social media marketing; strategy and planning and marketing for video game self-publishers\r\n\r\nWe're also passionate about supporting our local industries, especially game developers and digital businesses in Brighton .\r\n\r\nSo if you need a bit of help or a lot of help, we can help. Our services are flexible and designed to suit you on a hourly, weekly, monthly, project or retainer basis - we can find a relationship that suits your needs."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Furry Friends Pet Services", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.furryfriendspetservices.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Dog walking", 
+      "Dog boarding", 
+      "Dog day care", 
+      "Pet feeding"
+     ]
+    }, 
+    "universalName": "furry-friends-pet-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Furry Friends Pet Services provide friendly, professional and reliable dog walking, dog day care, dog boarding and pet feeding service in and arond Brighton and Hove, Sussex, England.\r\n\r\nFurry Friends Pet Services is a Brighton-based family business run by owners (and lifelong animal lovers) Sam and Billie-Jo since 2007.\r\n\r\nHaving tried to juggle pet care for our own dog for many years whilst working out of town, we understand how important it is to know that your beloved furry family member is properly looked after when you can\u2019t be there.\r\n\r\nSpending time with and caring for animals is our livelihood, so with Furry Friends Pet Services you can be sure that your pet is being loved and cared for as if he/she were our own.\r\n\r\nSam and Billie are both CRB (police) checked and in previous careers have worked extensively with children and vulnerable adults.\r\n\r\nWe have 40 combined years\u2019 experience of handling and living with dogs and other pets. We are qualified dog trainers and behaviourists through the Institute of Modern Dog Trainers and provide ethical, modern, reward-based training and control methods.\r\n\r\nWe are fully insured and animal first aid trained in case of an emergency involving your pet. We drive professionally customised, air conditioned dog and pet-carrying vans for your pet\u2019s safety and comfort."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 86, 
+    "description": "Ideal Networks is an independently owned, rapidly growing network infrastructure company based in Brighton.\r\n\r\nWe provide cutting edge Cisco technologies to a host of household name customers.\r\n\r\nOur Customer Collaboration Centre is designed to help customers identify challenges, find solutions and embrace the opportunities generated by the new world of unified communication. Through the interactive demonstration of our collaboration solutions customers can experience for themselves how Cisco voice and video technologies can transform how they do business. \r\n\r\nIdeal Networks is a certified ATP - Cisco TelePresence Video Advanced Partner. We are one of the UK's leading companies providing high quality video conferencing solutions. Customers can also use our state of the art video conferencing suite at our Brighton HQ. \r\n\r\nOur borderless network experts help organisations get the most from their IT infrastructure and can design BYOD solutions to ensure customers can securely allow their employees to bring their own devices to work, increasing productivity and employee happiness.\r\n\r\nFrom new solutions, to professional & technical services and maintenance & support, we work hard to bespoke solutions to help our customers make their working environment more efficient, flexible, secure and reliable.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 957500"
+       }, 
+       "address": {
+        "postalCode": "BN2 1GD", 
+        "city": "Brighton", 
+        "street1": "8 Arundel Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.idealnetworks.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Cisco TelePresence Advanced", 
+      "Cisco Advanced Collaboration Architecture", 
+      "Flexible maintenance & managed services", 
+      "Cisco Advanced Routing/Switching", 
+      "Meraki specialists", 
+      "Cisco Advanced Wireless LAN", 
+      "Palo Alto Networks Gold Partner", 
+      "Cisco Advanced UCT"
+     ]
+    }, 
+    "universalName": "ideal-networks-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ideal Networks Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 446, 
+    "name": "Smart Training and Recruitment", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.smarttar.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Work Based Training", 
+      "Government Funded", 
+      "Apprenticeships", 
+      "Free Apprenticeship Recruitment", 
+      "Foundation Learning Programmes", 
+      "Information, Advice and Guidance", 
+      "Partnership working", 
+      "National Company"
+     ]
+    }, 
+    "universalName": "smart-training-and-recruitment", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Welcome to Smart Training and Recruitment Limited \u2013 a National Training Company with training centre\u2019s established in, Leeds, Manchester, Birmingham, Winchester, the Isle of Wight, Brighton, Bournemouth and Bath.\r\nThe company was established in 2003 on the Isle of Wight delivering Apprenticeship programmes mainly in the Hospitality Sector.  Since then it has expanded across the country in terms of geographical areas and is now delivering in the following sectors:\r\n\u2022         Hospitality and Catering              \r\n\u2022         Business Administration\r\n\u2022         Customer Service\r\n\u2022         Cleaning and Support\r\n\u2022         Sales\r\n\u2022         Retail\r\n\u2022         I.T.\r\nIn addition to Apprenticeships we also have a Foundation Learning Programme \u2013 with highly equipped and resourced Training Centre\u2019s in Brighton and the Isle of Wight.  The company currently employs over 150 employees working with 2500 learners within an employer base of over 750.\r\nOur Mission Statement \u201cWorking Together To Enrich Life\u201d is at the heart of all that we do to ensure that our learners, employers and staff fulfill their aims, aspirations and career ambitions. Smart Training and Recruitment is committed to equality of opportunity and treatment, both as a provider of training and as an employer.  The company is committed to the production, implementation, review and monitoring of policies for all those who train and work within the organisation. \r\nSmart Training and Recruitment works in partnership with E.D.I. \u2013 City and Guilds, N.C.F.E., B.I.I. awarding organisations who assist us with ensuring that our training provision is fit for purpose, of the highest quality and is learner focused, to ensure that our learners enjoy and achieve an enriching learning activity that meets the business needs of our employers and aspirations of our learners."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "The Kitchen Store is a designer and installer of beautiful kitchens throughout Sussex.. We have two flagship showrooms one in Brighton & Hove and the other at our manufacturing plant in Lancing, Sussex.\r\n\r\nEstablished in 2004, we are UK retail Distributor for Manhattan Furniture and Paula Rosa kitchens supplying customers throughout the South and nationwide.\r\n\r\nAs experts in the Manhattan and Paula Rosa current and back catalogues, we also sell furniture parts, accessories and appliances to existing kitchen owners throughout the UK who wish to add, extend, upgrade or renew their existing kitchens.\r\n\r\nIn 2013 we were proud to be Finalists in the Brighton and Hove Business Awards\r\n\r\n*Best Customer Service\r\n*Best Independent Retailer\r\n*Managing Director of the Year", 
+    "twitterId": "", 
+    "industry": "Furniture", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 524343"
+       }, 
+       "address": {
+        "postalCode": "BN15 8UH", 
+        "city": "Lancing", 
+        "street1": "Blenheim Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 7BD", 
+        "city": "Hove", 
+        "street1": "Adj Goldstone Retail Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.thekitchenstore.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Kitchen Design", 
+      "Kitchen Installation", 
+      "Mail and Online Order", 
+      "Personal Service"
+     ]
+    }, 
+    "universalName": "the-kitchen-store-retail-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Kitchen Store (Retail) Ltd."
+   }
+  ]
+ }
+}

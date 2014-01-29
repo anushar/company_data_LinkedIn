@@ -1,0 +1,785 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1180, 
+  "values": [
+   {
+    "numFollowers": 39, 
+    "name": "Destiny Christian School & Preschool", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "14620"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.destinyschool.com", 
+    "universalName": "destiny-christian-school-&-preschool", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Destiny Christian School & Preschool is a private Christian school located in Brighton NY.  They have grades PreK 3 & 4 through Grade 9 and will be adding one grade per year through Grade 12."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "A Digital Marketing Agency, Search Engine Optimisation & Link Building and Social media service based in Brighton UK.  Helping Businesses stay ahead of their competition in the search engine rankings is our primary goal for all of our clients.\r\n\r\nWeather it's a PR Company, Pest Control, Florist or Fashion Boutique we do the very best for them and improve their search engine rankings in Google and Bing.\r\n\r\nCreating engaging web content that drives your business goals by creating new leads right on your own website. Reporting hot lea visitors in minutes so that you can capture the opportunity before it cools off.\r\n\r\nOn Page SEO with guaranteed results\r\nLink Building that Penguin friendly\r\nGuest Blogging\r\nArticle Writing and Distribution\r\nPress Release Creation and distribution\r\nSEO Friendly Website Creation from \u00a3600", 
+    "twitterId": "segmentseo", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 447777"
+       }, 
+       "address": {
+        "postalCode": "BN1 3TD", 
+        "city": "Brighton", 
+        "street1": "Ground Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.segmentdigital.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "SEO", 
+      "Internet Marketing", 
+      "SEO PR", 
+      "email marketing", 
+      "Website Design", 
+      "Social Media Marketing", 
+      "Digital Marketing", 
+      "Link Building"
+     ]
+    }, 
+    "universalName": "segment-marketing", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Segment Digital"
+   }, 
+   {
+    "numFollowers": 14, 
+    "name": "Artist Residence Hotel", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.artistresidence.co.uk/", 
+    "universalName": "artist-residence-hotel", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Artist Hotel in the heart of Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Our company has 35 years experience in both commercial and residential work, and prompt quality service. We have done specialty wiring in Medical Clinics, Lasik Eye Surgery equipment, Restaurants, and many other tenant finishes along with Design Build Electrical Projects.\r\n\r\nWe also have 35 Years of experience in installing and maintaining Civil Defense/Tornado Sirens we have done siren work for New Brighton, East Bethel, Lino Lakes, Moundsview plus many other City\u2019s in Metro Area and through out Minnesota.\r\n\r\nBased in Ramsey, we can offer our services anywhere in the Metro Area, 24 hours day.", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.rwe.com", 
+    "universalName": "ready-watt-electric", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Ready Watt Electric"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Gold Eagle Enterprises Ltd", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.goldeagleconsulting.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Recruitment", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "gold-eagle-enterprises-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Gold Eagle Consulting Brighton is one of the only Companies in Sussex to offer JobSearch Support in addition to our professional CV writing services. We also provide Recruitment Solutions to a range of businesses stretching from Eastbourne to Hove, Worthing and Crawley.\r\n\r\nGold Eagle Consulting offers extensive support to customers in their job search so it is our mission to make you stand out from the crowd by writing a CV or Resume that will not only market you more effectively but will make a professional first impression.\r\n\r\nOur mission at Gold Eagle Consulting is to give every candidate the best possible chance of being recognised for their skills and achievements at every stage of the process. Whether you need help with covering letters, a professionally written CV, refocused Job Search support or with interview techniques then we are here to help.\r\n\r\nWe are passionate at helping employers retain staff either through effective training or through the recruitment supply chain. Our consultancy services will drive through improved efficiencies within your recruitment processes and recruitment procedures which will result in direct and indirect cost savings."
+   }, 
+   {
+    "numFollowers": 2430, 
+    "name": "Vertigo Films", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.vertigofilms.com", 
+    "universalName": "vertigo-films_2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Vertigo Films is a UK Media company founded in 2002 to create and distribute commercially driven independent cinema.\r\n\r\nrom their first film - Nick Love's The Football Factory (the biggest selling independent UK DVD with 1.3M units to date) through such genre films as The Business, Shrooms and The Children to multi award winning films such as Its All Gone Pete Tong, London to Brighton, In Search of A Midnight Kiss and Bronson, Vertigo has used innovative new technology, meticulous attention to budget and great care of its audience to produce and distribute thirty films to date with an unprecedented string of commercial success.\r\n\r\nIn 2009 Vertigo have released the critically acclaimed The Firm (Nick Love) and Bronson (Nicholas Widing Refn), One Day (the UK's first hip hop musical), The Cove (2009 Sundance Audience Award Winner) and Humpday (2009 Sundance Special Jury Prize Winner).\r\n\r\n2010 has been a sensational year for Vertigo with Europe's first 3D live action movie, Streetdance 3D, entering the UK Box Office charts at No.1 beating Disney's Prince of Persia and becoming one of the most successful UK independent films of all time as it opened around the world. Vertigo's AJAMI was nominated for Best Foreign Film and THE COVE won the Oscar for Best Documentary Feature. Around the world from October will see the release of the much anticipated sci-fi film MONSTERS which has been getting exceptional buzz and acclaim on the festival circuit and finding such fans as Peter Jackson and Quentin Tarantino.\r\n\r\nIn addition to its production and distribution activity, Vertigo also owns The Post Republic, a state of the art post production company based in Berlin and is a partner in Protagonist Pictures, the international sales company joint venture with Film Four and Ingenious Media. Earlier this year, with LA based 3D experts Paradise FX, Vertigo set up PFXE, Europe's most experience 3D facilities company."
+   }, 
+   {
+    "numFollowers": 48, 
+    "name": "I Work Safe", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "L1 5JW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.iworksafe.co.uk", 
+    "universalName": "i-work-safe", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Health & Safety Equipment Specialists \r\n\r\nWe specialise in selling health and safety products and equipment in the UK. We have over 23,000 products online that make your job safer. \r\n\r\nStay compliant with the law and keep you and your workers safe. \r\n\r\nIf you're not sure what you need you can use our online chat box to speak to a sales operative. \r\n\r\nWe recommend you read keep up to date with legislation by reading the HSE website.\r\n\r\nSafety Equipment For All \r\n\r\nMany of our products can also make your home life safer. Many needles accidents happen in the home. \r\n\r\nWe often supply first aid kits, step ladders, dust masks, cleaning equipment and more to home users. So if you want to work safe or stay safe at home \u2013 we can help!\r\n\r\nOrder online & have delivered or collect from:\r\n\r\nAshford, Barnsley, Birmingham, Brighton, Bristol, Burton, Cannock, Canterbury, Cardiff, Chesterfield, Coalville, Colchester, Coventry, Dartford, Derby, Durham, Edinburgh, Edinburgh West, Exeter, Folkestone, Gateshead, Gillingham, Glasgow, Great Dunmow, Huddersfield, Hull, Leeds, Leicester, Lincoln, Liverpool, Livingston, London (Central), London (East), London (West), Long Eaton, Loughborough, Maidstone, Manchester, Mansfield, Margate, Melton Mowbray, Middlesbrough, Newcastle, Northfleet, Norwich, Nottingham (Central), Peterborough, Plymouth, Poole, Rugeley, Sheffield, Shrewsbury, Sittingbourne, Skipton, Southampton, Stoke-on-Trent, Strood, Tamworth, Telford, Tonbridge, Warrington, West Bromwich & more"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Turtlehut, INC has been providing Internet marketing services to Michigan businesses since 1999. One of the best ways to learn about search engine optimization is to watch how Google reacts to site changes over a period of time, and boy do we have the period of time part down. With over a decade of experience, Turtlehut has been refining search engine optimization for our customers based on results.\r\n\r\nBased in Brighton, Michigan, we are able to serve businesses in Metro Detroit and beyond, providing Internet marketing services to companies just like yours. Contact us to schedule an Internet marketing consultation and to hear more about the incredible return on investment our clients are achieving.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-360-0180"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "4763 S. Old US 23"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.turtlehut.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Search engine optimization", 
+      "Internet marketing", 
+      "online advertising", 
+      "email marketing", 
+      "web development", 
+      "and e-commerce solutions"
+     ]
+    }, 
+    "universalName": "turtlehut-internet-marketing", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Turtlehut Internet Marketing"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 186, 
+    "name": "Big Hire", 
+    "industry": "Business Supplies & Equipment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "L1 5JW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.bighire.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Tool Hire", 
+      "Mini Digger Hire", 
+      "Garden Equipment hire", 
+      "plant hire"
+     ]
+    }, 
+    "universalName": "big-hire", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "National Tool & Plant Hire - over 90 hire shops\r\n\r\nBIG HIRE is one of the UK's leading tool & equipment hire companies. We offer a range of thousands of products to choose from including mini diggers, cement mixers, dumpers, Cranes, telehandlerss, forklifts, survey equipment and more. Whatever tools and equipment the job requires, anywhere in the UK, BIG HIRE can help. \r\n\r\nQuick & Easy - call, email, chat online, request a call back\r\n\r\nIf you're not sure what equipment you need or you have any questions, the Hire Team are more than happy to help - just get in touch via telephone, email, live chat or request a call back. We don't expect you to know everything about tool and plant hire - that's our job.\r\n\r\nLocations in:\r\n\r\nAshford, Barnsley, Birmingham, Brighton, Bristol, Burton, Cannock, Canterbury, Cardiff, Chesterfield, Coalville, Colchester, Coventry, Dartford, Derby, Durham, Edinburgh, Edinburgh West, Exeter, Folkestone, Gateshead, Gillingham, Glasgow, Great Dunmow, Huddersfield, Hull, Leeds, Leicester, Lincoln, Liverpool, Livingston, London (Central), London (East), London (West), Long Eaton, Loughborough, Maidstone, Manchester, Mansfield, Margate, Melton Mowbray, Middlesbrough, Newcastle, Northfleet, Norwich, Nottingham (Central), Peterborough, Plymouth, Poole, Rugeley, Sheffield, Shrewsbury, Sittingbourne, Skipton, Southampton, Stoke-on-Trent, Strood, Tamworth, Telford, Tonbridge, Warrington, West Bromwich & more"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 36, 
+    "description": "Washington County is located in Southeast Iowa and covers 556.75 square miles in the richest of America's agricultural region. The population of the county was 21,704 people according to the 2010 census. The nine incorporated cities in the county are Ainsworth, Brighton, Coppock, Crawfordsville, Kalona, Riverside, Washington, Wellman, and West Chester.\r\n\r\nWashington City is the county seat of Washington County and county business has been conducted at the courthouse, 222 West Main Street, since 1887.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(319) 653-7780", 
+        "phone1": "(319) 653-7711"
+       }, 
+       "address": {
+        "postalCode": "52353", 
+        "city": "Washington", 
+        "street1": "222 West Main Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1839, 
+    "websiteUrl": "http://co.washington.ia.us/", 
+    "universalName": "washington-county-iowa", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Washington County, Iowa"
+   }, 
+   {
+    "numFollowers": 13, 
+    "name": "Bullit Courier Company", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4AN"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bullitcouriers.com", 
+    "universalName": "bullit-courier-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Bullit Couriers are an established and dynamic company based in central Brighton.\r\n\r\nWe provide all the services one would expect from 'Brightons favourite courier company' such as:\r\n\r\nSame day: Local, National & European\r\nOvernight economy services: delivered next working day.\r\nInternational import & Export\r\nSecure storage facilities.\r\n\r\nOur city centre Box Shop sells boxes, bubblewrap, parcel tape and all other packaging supplies.\r\n\r\nPlease call us for any information..."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Horse and Carriage is a partnership between Wayne Matthews-Stroud and James Allwright offering high-end wedding photography and design solutions.\r\n\r\nWe draw our influence from the fashion industry, strengthened by working with clients such as Joanne Fleming Design and providing photography at the Brighton Fashion Week. \r\n\r\nWe have extensive experience in wedding photography and with clients in the commercial sector, and our unique fusion of photography and design skills means our clients benefit from a complete service, from start to final delivery.", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2JB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.horseandcarriage.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "wedding photography", 
+      "fashion photography", 
+      "wedding design"
+     ]
+    }, 
+    "universalName": "horse-and-carriage", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Horse and Carriage"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Just Web Design is a creative design agency offering bespoke website design, search engine optimisation, content management systems, e-commerce, web hosting, domain names, wordpress, mobile websites, PHP and much more in Brighton and Burgess Hill East Sussex.", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "0844 357 2530"
+       }, 
+       "address": {
+        "postalCode": "RH15 8LP", 
+        "city": "Burgess Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.just-webdesign.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Search Engine Optimisation", 
+      "Content Management Systems", 
+      "Web Hosting & Domain Names", 
+      "WordPress", 
+      "PHP."
+     ]
+    }, 
+    "universalName": "just-web-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Just Web Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "name": "Dixon Hurst Kemp", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "07243 787180", 
+        "phone1": "01243 787888"
+       }, 
+       "address": {
+        "postalCode": "PO19 7GD", 
+        "city": "Chichester", 
+        "street1": "Suite 2/3 Victoria Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01403 261995", 
+        "phone1": "01403 261999"
+       }, 
+       "address": {
+        "postalCode": "RH13 5QH", 
+        "city": "Horsham", 
+        "street1": "5 Genesis Business Centre"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 420008", 
+        "phone1": "01273 421444"
+       }, 
+       "address": {
+        "postalCode": "BN3 4LW", 
+        "city": "Hove", 
+        "street1": "336 Kingsway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.dhk.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Structural Design of multi-storey buildings", 
+      "Estate roads and junctions", 
+      "Flood Risk Assessments", 
+      "Sewers, foul & stormwater drainage design", 
+      "Commercial & Industrial Buildings", 
+      "Alterations to buildings and residential dwellings", 
+      "Prestige single dwellings"
+     ]
+    }, 
+    "universalName": "dixon-hurst-kemp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "We are Consulting Civil and Structural Engineers. We work with people designing and altering buildings to develop appropriate economic structural solutions, stability and specification of details. We specialise in quality, cost effective engineering on every project and we are proud of our reputation for providing fast, responsive and reliable service on large and small projects.\r\n\r\nWe are committed to partnering and forming long term relationships with our Clients. Repeat appointments are highly valued and we like to think that our Clients needs are fulfilled in a pro-active, innovative but sound manner. We do however temper innovation with practical experience.\r\n\r\nIt is part of our overall promise of quality to keep up to date with current developments within the structural and civil engineering industry. In doing so, we make certain that our Clients benefit from the technical advances in the field. We also ensure that our technical staff are supported by up to date computer and information technology facilities\r\n\r\nWe have offices in Chichester, Horsham and Brighton."
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "The Packman", 
+    "industry": "Individual & Family Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn41 1de"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.thepackman.co.uk", 
+    "universalName": "the-packman", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I am a dog trainer to Brighton and have been working with dogs for most of my life. My father and uncle work with dogs,it's a family thing.  I use a kind and gentle approch to training, praise and reward will get you a lot further than rollled up newspapers ever will. Some dogs change overnight and some take a few weeks but all get there in the end. I will even walk your dog combining a dog trainer and walker in one."
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Association Orane", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.marsatac.com", 
+    "universalName": "association-orane", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Cr\u00e9\u00e9 en 1999, Marsatac est aujourd\u2019hui le plus important festival de musiques actuelles \u00e0 Marseille et dans toute la r\u00e9gion PACA. Sa notori\u00e9t\u00e9 nationale le positionne comme l'un des festivals leader sur les musiques \u00e9lectro en France et en Europe.\r\n\r\nIl se d\u00e9roule en trois soir\u00e9es (du 23 au 25 septembre 2010) et attire un public fid\u00e8le en qu\u00eate de nouveaut\u00e9s musicales.\r\n\r\nMarsatac a vu son nombre de spectateurs augmenter de mani\u00e8re exceptionnelle passant de 2 000 en 1999 \u00e0 30 000 attendus pour cette ann\u00e9e.\r\nL\u2019association Orane, porteuse du projet Marsatac, est \u00e9galement \u00e0 l\u2019initiative de la programmation et co-production de plusieurs op\u00e9rations \u00e0 Marseille et dans la R\u00e9gion PACA. L\u2019association d\u00e9veloppe parall\u00e8lement une s\u00e9rie d\u2019\u00e9changes internationaux (Glasgow, Brighton, Manchester...), des cr\u00e9ations (Bamako, Beyrouth) ainsi que de nombreuses collaborations avec les acteurs de la sc\u00e8ne des musiques actuelles (salles, collectifs etc...).\r\n\r\nLe 26 et 27 f\u00e9vrier 2010, Marsatac a lanc\u00e9 sa premi\u00e8re session d'hiver \u00e0 l\u2019Espace Julien, la salle qui l\u2019a vu d\u00e9buter."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "The ultimate circus entertainment experience. \t \r\n\r\nWe are Entertainers based in the heart of Brighton, we specialise in children's parties and events.\r\n\r\nOur aim is to entertain and perform leaving you with a show to remember, we offer a range of activities and games for our children's parties, as well as amazing tricks in our fire shows including fire eating and breathing, (where suitably safe).\r\n\r\nWe can create 20ft human Cathrine wheels, Rings of fire and customised flame images for that spectacular effect, We will get you noticed.\r\n\r\nWe also have glow shows that will leave you amazed and comedy acts that will make you laugh no matter what age you are.\r\n\r\nWe have a range of staff, a bigger range of toys and a even bigger range of ideas, we have what you want!\r\n\r\nWe customise all our shows to be as interactive as desired.\r\n\r\nFun for ALL\r\nWe have a no exclusion policy, believing everyone should have a go in some way, we will take the skills they have and improve and master them.\r\nThere is nothing that cannot be achieved with simple patience and understanding, our job is to make that leaning path as fun as possible It is the supreme art of our teachers to awaken joy in creative expression and knowledge.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0772 713 4163"
+       }, 
+       "address": {
+        "postalCode": "bn2", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.juggletastic.com", 
+    "specialties": {
+     "_total": 22, 
+     "values": [
+      "wedding shows", 
+      "fire shows", 
+      "poi", 
+      "staff", 
+      "circus entertainment", 
+      "fire", 
+      "poi", 
+      "staff", 
+      "entertainment", 
+      "shows", 
+      "juggling acts", 
+      "clowns", 
+      "face painting", 
+      "fire show", 
+      "wedding", 
+      "circus", 
+      "workshops", 
+      "parties", 
+      "event entertainment", 
+      "crowd entertainer", 
+      "fire acts", 
+      "dangerous stunts"
+     ]
+    }, 
+    "universalName": "juggletastic", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Juggletastic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "AGENCIA DE ESTUDIOS EN EL EXTERIOR\r\n\r\nIDIOMAS:INGLES, FRANCES, ALEMAN, ITALIANO, MANDARIN Y ARABE, EN LONDRES, BRIGHTON, DEVON, ESTADOS UNIDOS, NIZA, MALTA, FRANKFURT, DUSSELDORF, ROMA, FLORENCIA, VANCOUVER, TORONTO, MONTREAL, MELBOURNE, SYDNEY, PEKIN Y RABAT\r\n\r\nPREGRADOS POSGRADOS Y MAESTRIAS EN AUSTRALIA, CANADA Y ESTADOS UNIDOS.\r\nINGLES PARA EJECUTIVOS.\r\nCAMPAMENTOS DE VERANO.\r\nINGLES PARA DOCENTES.\r\n\r\nVIAJES DE TURISMO:\r\nDISE\u00d1AMOS SU VIAJE DE TURISMO A LA MEDIDA, ELABORAMOS EL ITINERARIO DE ACUERDO CON SU INTERES, TIQUETES, ESPECTACULOS, VISITAS EN LAS CIUDADES, ALOJAMIENTO EN HOTELES O APARTAMENTOS, HACIENDO DE SU VIAJE UNA EXPERIENCIA DE CULTURA, CONOCIMIENTO Y DIVERSION, MANEJANDO USTED MISMO SU TIEMPO Y PREFERENCIAS.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "5743345925"
+       }, 
+       "address": {
+        "postalCode": "TEL.3345925  310 425 5557", 
+        "city": "MEDELLIN", 
+        "street1": "CARRERA 27 # 7B 180 INTERIOR 9908"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.fexinternational.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "ESTUDIOS DE IDIOMAS", 
+      "PREGRADOS Y POSGRADOS EN EL EXTERIOR", 
+      "VIAJES DE TURISMO A LA MEDIDA"
+     ]
+    }, 
+    "universalName": "fex-international", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "FEX INTERNATIONAL"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 921, 
+    "description": "We service our clients with everything they need to get fashion online and in-store. Talk to us about any part of the fashion supply chain and let FDS be your helping hands. With years of industry experience, clients use our services in a myriad of ways; from brand strategy and creative direction, design and sample development, product sourcing and manufacture - right the way through to delivery in-store.  It's time to take fashion further.\r\n\r\nWe're a privately owned fashion design, sourcing and manufacturing company. With years of industry experience, FDS specialises in the whole fashion supply chain process,  including product sourcing and manufacture, strategic direction, creative direction and garment development, all backed up with years of industry experience. We help start-up retailers & brands make their visions into reality, and design and manufacture fashion for household names. Our head office is based in Shoreham-by-Sea, a stone's throw from Brighton, and with our merchandise & QC satellite office in Istanbul, Turkey, we're able to service fashion clients on an international scale.", 
+    "twitterId": "fdsltd", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0044 (0) 7951 921 597"
+       }, 
+       "address": {
+        "postalCode": "BN43 5EG.", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "The Ropetackle Building, Adur Business Centre,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.fashiondesignsolutions.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Strategic Direction", 
+      "Sourcing", 
+      "Creative Design & Direction", 
+      "Mens, Womens & Childrenswear", 
+      "Garment Development", 
+      "From a helping hand to a complete solution"
+     ]
+    }, 
+    "universalName": "fashion-design-solutions-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Fashion Design Solutions Ltd."
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Go Ahead Events", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.goaheadevents.com", 
+    "universalName": "go-ahead-events", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "What we do:\r\nTOAST Festivals\r\nToast Festival is the northern hemisphere's largest celebration of South African, New Zealand and Australian food, wine, polo, live music and culture. It takes place in London over three days and 2010 celebrates the 10th anniversary of this iconic event. www.toastfestivals.com\r\n\r\nHOVE CHAMPAGNE FESTIVAL\r\nA sensational day out discovering and learning more about champagne with a showcase of over 50 champagnes and sparkling wines to try from some of the best champagne houses and suppliers in the world. This festival takes place on the beautiful hove seafront with the English Channel as the backdrop. The day out is complimented by delicious food and fine entertainment. www.hovechampagnefestival.com\r\n\r\nBRIGHTON WINE AND POLO FESTIVAL\r\nLaunching in 2011 is a fantastic extravaganza of over 100 wines from around the world to try by the glass along with fine and fabulous food to taste and take home. A wonderful setting to enjoy an action packed polo match, one of Britain's most dynamic sports. www.brightonwineandpolo.com"
+   }
+  ]
+ }
+}

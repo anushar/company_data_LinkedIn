@@ -1,0 +1,820 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 360, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "The Hanover Christmas Tree Company delivers luxury, locally grown real Christmas trees directly to homes and offices in Brighton & Hove.\r\n\r\nSelling only the highest quality, non-needle drop Nordmann fir Christmas trees, our aim is to make buying a real Christmas tree as convenient and sustainable as possible. We deliver in Brighton and Hove throughout the Christmas period. We offer a Christmas tree installation service and we can collect it in the new year for recycling.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273 672439"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "United Kingdom", 
+        "phone1": "07950576933"
+       }, 
+       "address": {
+        "postalCode": "BN2 9PA", 
+        "city": "Brighton", 
+        "street1": "88 Albion Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.hanoverchristmastrees.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Christmas trees", 
+      "Christmas tree delivery"
+     ]
+    }, 
+    "universalName": "the-hanover-christmas-tree-company", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "The Hanover Christmas Tree Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Callaways are based in Sussex on the south coast with brand new offices in Worthing, and further along the coast in Hove. Our property team provides knowledge and experience to help build lasting and profitable relationships with both developers and house buying clients. We combine a wealth of experience and expertise across the fields of new and re-sale homes, letting properties, overseas property sales and marketing services.\r\n\r\nWe pride ourselves on having the ability to differentiate ourselves from other Brighton & Hove Estate Agents by offering services direct from our sister company, Land & Brand New Homes. Callaways also strides ahead in front of Brighton & Hove Letting Agents by offering unique packages for Landlords and Tenants with the aim of providing the highest level of service possible. By achieving these high standards Callaways are proud winners of the UK Residential Property Award for best estate agency service.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1935, 
+    "websiteUrl": "www.callaways.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Residential Sales", 
+      "Residential Lettings", 
+      "Land and new homes"
+     ]
+    }, 
+    "universalName": "callaways-estate-and-lettings-agent", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Callaways Estate and Lettings Agent"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "name": "8 Track Music Solutions", 
+    "twitterId": "8trackmusic", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.8trackmusicsolutions.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Music Consultancy", 
+      "Background Music", 
+      "Business Audio Solutions", 
+      "Sound Design", 
+      "Music For Bars", 
+      "Music For Retail", 
+      "Music For Hotels", 
+      "Music for Restaurants", 
+      "Music For Gyms & Spas"
+     ]
+    }, 
+    "universalName": "8-track-music-solutions", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "8track Music is one of the UKs leading music suppliers to the hospitality industry. \r\nWe supply bespoke playlists to a wide range of bars and restaurants around the UK and globally. \r\n\r\nWe take great pride in digging deep to create a unique soundtrack for each establishment that matches design, menu, area, clientele and concept. \r\n\r\nSome of our current UK clients include: \r\n\r\nAqua Spirit & Kyoto\r\nArt Republic (Brighton)\r\nAveda (London)\r\nBarrio Bars\r\nB@1 Bars\r\nCabana Restaurants\r\nColebrooke Row (Bar with no name)\r\nETM Group\r\nGiraffe Restaurants \r\nGordon Ramsay Group\r\nHawksmoor Restaurants\r\nHilton Hotel, Park Lane\r\nThe Ivy, London\r\nMoshi Moshi\r\nMyHotel London / Brighton \r\nNovikov\r\nPing Pong \r\nRadisson Hotels\r\nRoka & Shochu Lounge\r\nSanctum Hotel\r\nUrban Leisure Group  \r\nZetter Town House"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "name": "Edward Harte LLP", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 662755", 
+        "phone1": "01273 662750"
+       }, 
+       "address": {
+        "postalCode": "BN2 1RA", 
+        "city": "Brighton", 
+        "street1": "6 Pavilion Parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.edward-harte.co.uk", 
+    "universalName": "edward-harte-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Edward Harte LLP is a well established and highly respected Brighton firm of Solicitors and Collaborative Lawyers conveniently situated close to Brighton Pavilion and to the local courts, offering a very full range of legal services.\r\n\r\nThrough our dedicated team of experienced law professionals, we aim to provide a friendly, efficient and practical legal service satisfying the needs of all our clients.\r\n\r\nWe offer guidance and legal services to the community as a whole and to the widest range of clients including individuals, companies and businesses whether based locally within the county or nationally.\r\n\r\nEdward Harte LLP (company Reg No. OC345859) is authorised and regulated by The Solicitors Regulation Authority (No. 517527).\r\nThe Solicitors Code of Conduct is accessible from http://www.sra.org.uk<http://www.sra.org.uk/>."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "I-Xperience is a business consultancy established in 2006 specialising in the leisure, tourism and the arts. We work with visitor attractions, museums and galleries from the private, charitable and public sectors to generate more income and achieve more visitors. \r\n\r\nWork undertaken includes: \r\n- new business development particularly in the areas of functions/ events / conferencing, travel trade & groups, 'second gate attractions', ticketing systems, sales & marketing, retail, catering, sponsorship.\r\n- Feasibility studies for new attractions covering market analysis, industry benchmarking, visitor number projections, business cases, financial modelling, risk analyses\r\n- Audience development covering the entire customer journey\r\n- Project management from the initial concept through to delivery\r\n\r\nI-Xperience was established in 2006. Clients have included the London Eye, Anschutz Entertainment Group (AEG)/ 02, Royal Pavilion and Brighton Museums, Turner Contemporary Gallery, Mercedes-Benz-World, Brighton i360 tower and the London Zoo.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.i-xperience.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "new business development / income generation / sales & marketing", 
+      "functions/ events / conferencing", 
+      "travel trade & groups", 
+      "'second gate attractions'"
+     ]
+    }, 
+    "universalName": "i-xperience-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "I-Xperience Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 25, 
+    "name": "Carapace Homes", 
+    "twitterId": "carapacehomes", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.carapacehomes.com", 
+    "universalName": "carapace-homes", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Carapace Homes is a locally owned and operated homebuilder in the Denver Metro area offering semi custom homes starting in the $190s.  With communites currently at The Conservatory, Tollgate Crossing in Aurora, Turnberry Meadows, Outlook Pointe and Buffalo Run in Commerce City, Woodfork and Independence Ridge in Arvada, Brighton East Farms in Brighton, and Lincoln Creek Village in Parker, Carapace Homes is excited to show how we are changing the homebuilding business in Colorado.  Come visit our models www.carapacehomes.com or call 303-900-2929 for more information"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Why Bother Lifestyle is a first class domestic cleaning and concierge services company serving the Brighton and Hove area. Offering an extensive range of services including: domestic cleaning, ironing, errand running, pet sitting and lifestyle management.\r\n\r\nDomestic cleaning - an individual cleaner is assigned and is regularly monitored and assessed through close communication with the customer enabling a long term solution to taking care of those mundane domestic chores. All staff are fully employed, screened, referenced and insured.\r\n\r\nThe company was formed following the realisation that Brighton and Hove needed a first class domestic cleaning company people could rely upon. They strive to give customers time to do things they like to do rather than the tasks they have to do.\r\n\r\nCall us today to find out how we can help.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 776 056"
+       }, 
+       "address": {
+        "postalCode": "BN3 3GA", 
+        "city": "Hove", 
+        "street1": "19 Palmeira Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.why-bother.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Domestic cleaning", 
+      "Office cleaning", 
+      "Spring cleaning", 
+      "End of tenancy cleaning"
+     ]
+    }, 
+    "universalName": "why-bother-lifestyle-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Why Bother Lifestyle Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "BRIGHTON LANGUAGE SOLUTIONS es un instituto dedicado principalmente a la capacitaci\u00f3n idiom\u00e1tica en empresas. Dictamos cursos de ingl\u00e9s, portugu\u00e9s y espa\u00f1ol para extranjeros.\r\nBRIGHTON LANGUAGE SOLUTIONS est\u00e1 conformado por un equipo de profesionales con amplia experiencia y gran vocaci\u00f3n de servicio.\r\nNuestro objetivo es brindar el asesoramiento necesario y adecuado a nuestros clientes, ofreci\u00e9ndoles soluciones integrales de excelencia.\r\n\r\nNuestros servicios en empresas son los siguientes:\r\n- Cursos regulares e intensivos.\r\n- Clases individuales, semi-individuales (2 personas) o grupales (grupos reducidos), dise\u00f1ados en base a las necesidades de capacitaci\u00f3n de la empresa y los alumnos.\r\n-- Cursos de ingl\u00e9s general o con fines espec\u00edficos (negocios, jur\u00eddico, turismo y hoteler\u00eda, medicina, secretarias, etc.).\r\n- Talleres de Capacitaci\u00f3n a Gerentes y empleados seg\u00fan las necesidades (viajes, presentaciones, redacci\u00f3n de e-mails o informes).\r\n- Traducciones (p\u00e1ginas web, t\u00e9cnicas-cient\u00edficas o literarias, o jur\u00eddicas).\r\n- Preparaci\u00f3n de ex\u00e1menes internacionales (FCE, CAE, BEC- Ingl\u00e9s de negocios-, ILEC- Certificado de Ingl\u00e9s para abogados-, TOEIC, TOEFL).\r\n \r\nIngl\u00e9s Jur\u00eddico. Cursos especialmente dise\u00f1ado para abogados y estudiantes de Abogac\u00eda. Preparaci\u00f3n para el ex\u00e1men internacional ILEC. Vocabulario espec\u00edfico, material audiovisual relacionado con la carrera, an\u00e1lisis de casos.\r\n \r\nModalidad de trabajo:\r\n- Clases comunicativas y din\u00e1micas.\r\n- En nuestras clases el alumno practica las 4 habilidades lingu\u00edsticas (escritura, lectura, pr\u00e1ctica auditiva y conversaci\u00f3n).\r\n- Antes de comenzar se toma un ex\u00e1men de nivelaci\u00f3n a cada alumno.\r\n- Se eval\u00faa a los alumnos en forma peri\u00f3dica para conocer sus avances.\r\n- Informes peri\u00f3dicos a la empresa sobre la asistencia y progreso de cada uno de los alumnos\r\n- Comunicaci\u00f3n abierta y cont\u00ednua con RRHH.\r\n- Supervisi\u00f3n cont\u00ednua de los cursos.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonsolutions.com.ar", 
+    "universalName": "brightn-language-solutions", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brightn Language Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "SilentManager started life in 2002 from the back of a bedroom in Brighton, UK. Today, with two offices based in Brighton (UK) and Sydney (Australia), we are industry specialists producing and running online and mobile \u2018white label\u2019 real-time sport games for media, sporting federations and brands across the globe.\r\n\r\nOur clients use the games as an engagement tool with their respective audiences. We have had huge success within a variety of different sports targeting: Consumers, Trade Audience and Staff.\r\n\r\nAs Fantasy Sport and Predictor Game Specialists we're not just nuts about sport but passionate about marketing excellence too. Our team is dedicated to using our 'white label' products to help you deliver your marketing objectives.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://twitter.com/#!/silentmanager", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 916 140"
+       }, 
+       "address": {
+        "postalCode": "BN2 0QW", 
+        "city": "Brighton", 
+        "street1": "Queens Park Villa"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+61 (0)2 9954 4455"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "North Sydney", 
+        "street1": "SilentManager (Australia)"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "www.silentmanager.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fantasy & Predictor Games", 
+      "Community Building", 
+      "Data Capture", 
+      "Acquisition and Retention"
+     ]
+    }, 
+    "universalName": "silentmanager", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "SilentManager"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Whether searching for property lettings in Brighton & Hove for the first time, or contemplating a move to a new area, our extensive coverage and in-depth knowledge of every part of the city means that we are perfectly equipped to assist your search, whatever your requirements. \r\n\r\nIf you are a Landlord looking for a letting agent, Harringtons have built a solid reputation for successfully letting property in the Brighton & Hove area. Contact us for independent, impartial advice and competitive rates for landlords.", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1FA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.harringtonslettings.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Property Lettings"
+     ]
+    }, 
+    "universalName": "harringtons-lettings", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Harringtons Lettings"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 90, 
+    "description": "Rockinghorse is a Brighton-based children\u2019s charity which helps sick and disabled children across Sussex and Surrey.  \r\n\r\nIt was set up in 1967 by Dr Trevor Mann, who recognised there was a real need for additional resources, to improve healthcare services for sick children and babies. The charity successfully raised enough money to ensure that Brighton was one of the first places in the country to have a ventilator designed for premature babies.\r\n\r\nWe are best known today for our work with the new Royal Alexandra Children\u2019s Hospital and our continued support of the Trevor Mann Baby Unit. However, we also raise money for life-saving medical equipment in a number of local hospitals, as well as providing much-needed sensory play areas for children with disabilities.  \r\n\r\nWe do not receive any government funding and so we rely on the generous support of individuals, community groups, companies and trusts.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Fundraising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "(01273) 330045", 
+        "phone1": "(01273) 330044"
+       }, 
+       "address": {
+        "postalCode": "BN1 6AG", 
+        "city": "Brighton", 
+        "street1": "Unison House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1967, 
+    "websiteUrl": "http://www.rockinghorse.org.uk/", 
+    "universalName": "rockinghorse", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Rockinghorse"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 40, 
+    "name": "Bonetts Estate Agents", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "BONETTS ESTATE AGENTS LTD", 
+        "phone1": "441273 677365"
+       }, 
+       "address": {
+        "postalCode": "BN2 1EF", 
+        "city": "Brighton", 
+        "street1": "78"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bonetts.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Estate agency Sales", 
+      "Lettings", 
+      "Property management", 
+      "valuations"
+     ]
+    }, 
+    "universalName": "bonett's-estate-agents", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Bonett\u2019s Estate Agents in Kemp Town are well known in Brighton & Hove for our honest, friendly and professional service.\r\n\r\n\u2018The City is our Office\u2019 \u2122 \u2013 we are open and approachable with solid local knowledge in sales and lettings.\r\n\r\nBonett\u2019s are members of the team network of estate agents, enabling your property to be marketed automatically with hundreds of estate agents all over the country \u2013 including London, thereby bringing your sales or letting property in Brighton & Hove to a local, national and international audience. When you contact us by email or on the telephone, you will find a very focused and invariably enthusiastic team.\r\n\r\nWe want you to walk out of our office with a smile on your face!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "The Bombay Jazz Caf\u00e9 is an Indian inspired monthly music event in Brighton.\r\n\r\nThe fast approaching launch night on Thursday 2nd September will feature Tina Grace (Nitin Sawhney vocalist), Mystic Warrior (Tablas and sitar) and DJ Snitkin. We'll be dishing up music to caress your ears and sounds to soothe your Soul, followed by tunes that will get your feet kicking to the beat.                    \r\n\r\nALL PROFITS FROM THE BOMBAY JAZZ CAFE LAUNCH NIGHT WILL BE DONATED TO GIVEINDIA.ORG TO HELP THE VICTIMS OF THE FLOODS IN PAKISTAN & UNDERPRIVILEGED CHILDREN IN  INDIA, MANY THANKS FOR YOUR SUPPORT! \r\n\r\n\u00a38/\u00a37 in advance or \u00a310 on the door\r\n\r\nTickets are on sale at Rounder records, Resident music and the Brighton Dome box office.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 2LR"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.bombayjazzcafe.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Promoting", 
+      "advertising", 
+      "marketing", 
+      "music events management"
+     ]
+    }, 
+    "universalName": "the-bombay-jazz-cafe", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "The Bombay Jazz Cafe"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 57, 
+    "name": "Manse and Garret", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44(0)2079237564"
+       }, 
+       "address": {
+        "postalCode": "W1J 5DU", 
+        "city": "London", 
+        "street1": "18b Charles Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.manseandgarret.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Property Search agents", 
+      "property management"
+     ]
+    }, 
+    "universalName": "manse-and-garret", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "London Property Search Agents - Property Finder\r\n\r\n\r\nWhether you are looking for a family home, a project or your first flat, our professional UK Property Finders will help you find the right property, in the right area, at the right price, saving you time, money and stress.\r\n\r\nWe know how difficult it is to juggle a busy career with calling estate agents every day and how time consuming it can be to ensure your sale or rental proceeds in the time frame required. We understand that people in public life don't want to reveal their identities or intentions and we are committed to maintaining the privacy of our clients. Unlike most Property Finders and Relocation Agents, our background is in property development and site sourcing for developers so we can advise on adding value and levering ROI on what is for many people one of the biggest investments they will ever make. \r\n\r\nOur London Property Search Consultants are in contact with other property professionals every day and have close relationships with agents and developers throughout London. We explore all avenues to ensure your property search is successful and that the conveyancing process moves swiftly. \r\n\r\nWe are a privately owned company based in London and Brighton. We owe no duty of care to the vendor or estate agents therefore our advice to our clients is impartial, objective and based on our up-to-the-minute extensive knowledge of the property market. So when we tell you we are working exclusively for you, we really are! We look forward to hearing from you soon. We operate throughout the London area and the Home Counties. Our Brighton office deals with parts of Kent, Surrey and Sussex. Call us now on 020 7923 7564."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "KoHorts is an LLC company Headquartered in Brighton, Michigan with development resources located in London, UK, Cape Town, South Africa and Brighton, MI.\r\n\r\nKohorts provides attorneys and other billable professionals software solutions to mobile devices.\r\n\r\nProtect your practice and clients privacy using KoHorts Patented privacy protection service. United States Patent #US 8,406,740 B2.\r\n\r\nWe provide mobile device solutions to attorneys and other billable professionals both locally and internationally through our online service and partners.\r\n\r\nWe encourage the practice of embedding our technology services in our partners offerings to generate additional revenue for themselves and added value for their clients.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "9864 E. Grand River, Ste 110"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.kohorts-it.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Cellular Marketing and Monitoring", 
+      "Mobile Device Solutions for Law Firms"
+     ]
+    }, 
+    "universalName": "kohorts-it-services-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kohorts IT Services LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Edible Magazine is a local Brighton and Hove publication covering all aspects of fine dining and drinking.\r\nA free magazine distributed around selected restaurants, pubs, coffee shops, bars, hotels and most of the local food and drink events happening in the city. \r\nOur distribution network ensures the quality magazine reaches a certain demographic of people who enjoy eating and drinking, at home and out, around Brighton and Hove.\r\nA quarterly publication ensures the emphasis on seasonal foods and strives to be informative, interesting and helpful.", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 5DA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.ediblemagazine.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Food and Drink Publication"
+     ]
+    }, 
+    "universalName": "edible-magazine-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Edible Magazine Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Browntree Design are a web design agency based in Brighton, East Sussex. Specialising in designing and building bespoke websites for individuals and small businesses tailoring websites to suit clients needs. Offering SEO, graphic design, hosting, domain names and support. For a free quote email sales@browntreedesign.com", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 3LB", 
+        "city": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.browntreedesign.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Website Design", 
+      "SEO", 
+      "Hosting", 
+      "Support", 
+      "Graphic Design", 
+      "Logo Design", 
+      "Brighton", 
+      "East Sussex"
+     ]
+    }, 
+    "universalName": "browntree-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Browntree Design"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "www.michellecobbin.co.uk", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.michellecobbin.co.uk", 
+    "universalName": "www.michellecobbin.co.uk", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I teach yoga from a mindfulness perspective.  Classes in Brighton, and retreats, workshops and holidays in Sussex and Internationally.  I also practice reflexology in Brighton."
+   }, 
+   {
+    "numFollowers": 20, 
+    "name": "Qleisure", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN6 9BQ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.qleisure.co.uk", 
+    "universalName": "qleisure", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Qleisure - Corporate Event Entertainment\r\n\r\nEstablished in 1993, Q Leisure has grown to become one of the countries leading activity centres. We own and maintain a wide selection of equipment, which enable us to offer excellent value for money and can guarantee reliability and safety. Qleisure is based just 6 miles north of Brighton, West Sussex which makes the site a great success for corporate event entertainment, stag parties and hen weekends. Children's activities are also available which include go karts and quad bikes.\r\n\r\nAmong other activities Qleisure is also the host to a state of the art go kart track that can cater for up to 50 drivers in a grand prix format. The go kart track was purpose built for fast fun racing and is the top kart track in Brighton, Sussex. No driver has left the track unsatisfied and even the most experienced go kart racers find the track an exciting challenge.\r\n\r\nThe other corporate event activities at Qleisure include quad bikes, 4x4 off road driving, clay pigeon, archery and target shooting. Each of these activities has a purpose built area to make your experience safe and truly unforgettable.\r\n\r\nActivities can be arranged for an afternoons incentive or a full days hospitality. We feel the key to a successful event is to choose a variety of activities and to keep everyone fully occupied. We are happy to advise you on suitable combinations to maximise enjoyment within your budget.\r\n\r\nIf you require a free quotation for any event arranged by professionals, please fill in the quotation form, email it to us and we will do the rest. There are no standard packages so the possibilities are endless.\r\n\r\nAt Qleisure we pride ourselves on a safe, professional attitude, and attention to detail given to all our activities. You are welcome to view our facilities before you book. Please call for an appointment."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 162, 
+    "description": "Brighton's busiest independent music, film and book shop. Originally starting off as a small store in Brighton, it now has a larger shop in its home-town and is online at http://thisisape.com Ape provides a friendly independent record shop feel, offering staff suggestions, hot offers and undiscovered classics both in store and online.", 
+    "twitterId": "thisisape", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1AH", 
+        "city": "Brighton", 
+        "street1": "25 North Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://thisisape.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Music", 
+      "Film", 
+      "Books", 
+      "Independent Retail"
+     ]
+    }, 
+    "universalName": "ape", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ape"
+   }
+  ]
+ }
+}

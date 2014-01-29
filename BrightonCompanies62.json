@@ -1,0 +1,1402 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1240, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 853, 
+    "description": "Launched in the mid 70s with a single store in Leeds, Moda in Pelle is now a national boutique brand with 28 stores across the UK in key locations including London, Manchester, Leeds and Brighton, offering a huge selection of ladies shoes, sandals and boots. \r\n    \r\nThe Moda in Pelle brand continues to serve its loyal female fan base with its bold, fresh and unashamedly feminine styles. The signature look is glitzy, glamorous, high heeled, high impact shoes with a point of difference! \r\n\r\nAs well as providing fashion followers with the most recent trends in ladies shoes, Moda In Pelle also have a range of accessories including belts, jewellery and a range of shoe care products to keep your new ladies boots or shoes in prime condition. \r\n\r\nModa in Pelle\u2019s light airy boutique style stores always carry a range of stylish shoes, bags and jewellery, presented beautifully in striking hot pink and black packaging. Friendly in-store staff are committed to helping customers find the right shoe.\r\n\r\nPlease call into either one of our friendly, stylish boutique stores or visit our website to take advantage of our many great offers and styles which are bang up to date with the current trends.", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 20, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "LS7 2AL", 
+        "city": "Leeds"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "GU1 3DP", 
+        "city": "Guildford"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "YO1 7HT", 
+        "city": "York"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "M1 1PT", 
+        "city": "Manchester"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "W1K 5QF", 
+        "city": "London", 
+        "street1": "South Molton Street"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "LS29 9NG", 
+        "city": "Ilkley"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "NE61 1NB", 
+        "city": "Morpeth"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "LS1 6BD", 
+        "city": "Leeds"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BA1 1BA", 
+        "city": "Bath"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "HG1 1BJ", 
+        "city": "Harrogate"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "G1 3JN", 
+        "city": "Glasgow"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "S11 8PF", 
+        "city": "Sheffield"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "NG1 2GN", 
+        "city": "Nottingham"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1AG", 
+        "city": "Brighton"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BS34 5DG", 
+        "city": "Bristol", 
+        "street1": "Cribbs Causeway"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "PO19 1QD", 
+        "city": "Chichester"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "FY8 2AB", 
+        "city": "St Anne's"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "CH1 1NG", 
+        "city": "Chester"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "HD1 2PZ", 
+        "city": "Huddersfield"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "NE1 5AF", 
+        "city": "Newcastle"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1975, 
+    "websiteUrl": "www.modainpelle.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Bold", 
+      "fresh and feminine shoes", 
+      "belts", 
+      "jewellery and accessories. The look is glitzy and glamourous with varying heel hights to suit your own personality!"
+     ]
+    }, 
+    "universalName": "moda-in-pelle", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Moda in Pelle"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 516, 
+    "description": "DiningIn.com is an innovative online ordering and restaurant delivery service based in Brighton, Massachusetts. \r\n\r\nSince 1988, DiningIn has given back time to busy people. Partnering with local neighborhood favorites and national brands, such as California Pizza Kitchen, PF Chang's, and Maggiano\u2019s Little Italy, DiningIn provides residential and corporate customers with convenient, high-quality meals in Boston, Chicago, Dallas, Philadelphia, and now servicing Twin Cities.\r\n\r\nMichael Hackel is the founder and CEO of DiningIn.com, Inc.\r\n\r\n\r\nStay up to date with our latest in social media:\r\n*Facebook: Facebook.com/DiningIn\r\n*Pinterest: Pinterest.com/DiningIncom\r\n*Blog: Blog.DiningIn.com", 
+    "twitterId": "diningin", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "1660 Soldiers Field Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "215-923-1126"
+       }, 
+       "address": {
+        "postalCode": "19107", 
+        "city": "Philadelphia", 
+        "street1": "1100 Vine Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "214-635-4462"
+       }, 
+       "address": {
+        "postalCode": "75001", 
+        "city": "Addison", 
+        "street1": "4901 Keller Springs Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "312-291-3300"
+       }, 
+       "address": {
+        "postalCode": "60607", 
+        "city": "Chicago", 
+        "street1": "115 North Morgan Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "http://www.DiningIn.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "customer service", 
+      "catering", 
+      "corporate meals", 
+      "group orders", 
+      "restaurant delivery service", 
+      "customized orders", 
+      "catering event planning", 
+      "online food ordering"
+     ]
+    }, 
+    "universalName": "diningin", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "DiningIn.com"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 393, 
+    "description": "We're a company of great scale and capability. Formed in 1946, we currently sit among the top five steel fabrication companies in the UK. We employ over 200 people, 50% of whom possess over 10 years' service. And while our comprehensive workshop is extremely accomplished, it's our engineering excellence that drives our business and an exceptional management skill that ensures we deliver.\r\nIn the last decade alone, we've designed, manufactured and installed structures for over 380 projects including pre-eminent buildings such as the Brighton Dome, The Guildhall, London and Wembley Arena. It's a level of expertise that places us at the forefront of the construction industry shaping, not just our track record, but landscapes across the world.\r\n\r\nWe specialise in the construction of gas-fired power stations. In fact, we're responsible for 14 of 23 built throughout the UK in the 1990s. This experience has seen us master the core skills required in the sector. And, as demand for energy grows ever more acute, leaves us ideally positioned as the next generation of power and waste to energy plants materialise. With power stations we're also able to realise our desire to work in an integrated style. We consider integration to be the ideal way for the construction industry to move forward. It requires openness, honesty and trust, qualities we've nurtured and attach great importance to.\r\n\r\nOur experience has led us to build something of a philosophy, too. We believe a correlation exists between the quality of relationship our project team, our suppliers and customers share and the quality of service and product we deliver. It means our people are of paramount importance. And given repeat business stands at over 90%, our customers must be in agreement.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01202 746666"
+       }, 
+       "address": {
+        "postalCode": "BH12 4GP", 
+        "city": "Poole", 
+        "street1": "St Clements House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1946, 
+    "websiteUrl": "www.bournegroup.eu", 
+    "universalName": "bourne-steel-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bourne Steel Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 271, 
+    "description": "Nystrom Building Products (www.nystrom.com) is a global supplier of complementary products and services to the commercial construction market.   Company headquarters are located in suburban Minneapolis MN, with manufacturing facilities in Brooklyn Park and New Brighton MN.\r\n\r\nNystrom Building Products is a customer centric organization as demonstrated by our commitment to \u201cRight to Site.\u201d Products are configured to customer requirements, and delivered to job sites when and where needed.\r\n\r\nExpertise\r\nNystrom is a member of the Associated General Contractors of America (AGC), U.S Green Building Council (USGBC), and the Modular Building Institute.  The company shares its expertise with architects and engineers by offering courses on expansion control and Building Information Modeling (BIM) as part of the American Association of Architects Continuing Education program.\r\n\r\nSpecialties\r\nExpansion joints, roof hatches, entrance flooring systems, louvers, smoke vents, stair treads, floor doors, wall and door protection, access doors, and fire safety.", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "55428", 
+        "city": "Minneapolis", 
+        "street1": "9300 73rd Ave N"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1957, 
+    "websiteUrl": "www.nystrom.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Complementary Building Products"
+     ]
+    }, 
+    "universalName": "nystrom", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nystrom"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 330, 
+    "description": "We make life better for our clients and their customers.\r\n\r\nOur clients enjoy a competitive advantage that delivers sustainable business growth ahead of key players. \r\n\r\nTheir customers get the information however, wherever  and whenever they need it to take decisions and share experiences.\r\n\r\nWe\u2019re also a search marketing and social media agency, with additional expertise in content marketing, conversion optimisation and lots of other stuff too.\r\n\r\nAnd we specialise in travel, retail, fashion, finance and B2B (although we do help ambitious clients in other markets).\r\n\r\nBut, most importantly, we\u2019re on a journey to make life better.\r\n\r\nJoin us on that journey.\r\n\r\nRecent award wins include:\r\n\r\n- Best Agency | European Search Awards 2013\r\n- Best Pan European Campaign | European Search Awards 2013\r\n- Young Search Professional of the Year | European Search Awards 2013\r\n- Best Small Workplace in the UK | Great Places To Work 2013\r\n- MD of the Year | Brighton and Hove Business Awards 2013", 
+    "twitterId": "propellernet", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 207225"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EG", 
+        "city": "Brighton", 
+        "street1": "Castle Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "http://www.propellernet.co.uk", 
+    "specialties": {
+     "_total": 17, 
+     "values": [
+      "search marketing", 
+      "natural search", 
+      "paid search", 
+      "SEO", 
+      "PPC", 
+      "online PR", 
+      "social media", 
+      "link building", 
+      "search personas", 
+      "authentic search", 
+      "conversion optimisation", 
+      "content optimisation", 
+      "analytics", 
+      "reputation management", 
+      "brand monitoring", 
+      "digital insight", 
+      "content marketing"
+     ]
+    }, 
+    "universalName": "propellernet", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Propellernet"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 404, 
+    "description": "FastTrack Management Services Ltd has established itself as a leading recruitment company working within the construction, engineering, automotive and aviation industries. We are suppliers of contract, permanent and temporary staffing solutions over a variety of sectors.\r\n\r\nIncorporated in 1993 and with over 40 years of combined experience, we have a solid understanding of the nature of our industry sectors. FastTrack is a robust and thriving recruitment company, and we pride ourselves on providing our customers with a consistently excellent service. \r\n\r\nWe have dedicated teams of consultants who specialise in their specific areas of expertise. Our consultants are committed to supplying our clients with a competitive and reliable service as well as providing our candidates with jobs specific to their needs and experience. \r\n\r\nFastTrack Management Services operates through a network of offices based in Watford, London, Birmingham, Brighton, Cardiff and Heathrow.", 
+    "twitterId": "http://twitter.com/#!/FTrack1993", 
+    "blogRssUrl": "http://ftrack.wordpress.com/", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01923 813131/  0845 0656666/ 01923 813121", 
+        "phone1": "0845 065 8888"
+       }, 
+       "address": {
+        "postalCode": "WD18 9RS", 
+        "city": "Watford", 
+        "street1": "4 Century Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 420 470", 
+        "phone1": "0845 210 4444"
+       }, 
+       "address": {
+        "postalCode": "B72 1TX", 
+        "city": "Sutton Coldfield", 
+        "street1": "Rowan Suite, 2nd Floor"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 420 470", 
+        "phone1": "0845 065 3333"
+       }, 
+       "address": {
+        "postalCode": "BN41 1PH", 
+        "city": "West Sussex", 
+        "street1": "New Sussex House,  Fishersgate Terrace"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "02920 448137", 
+        "phone1": "0845 123 2111"
+       }, 
+       "address": {
+        "postalCode": "CF24 2SA", 
+        "city": "Cardiff", 
+        "street1": "2 Alexandra Gate"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 256 7574", 
+        "phone1": "0845 210 7777"
+       }, 
+       "address": {
+        "postalCode": "EC2M 1QP", 
+        "city": "London", 
+        "street1": "2nd Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://www.ftrack.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Construction", 
+      "Aviation", 
+      "Rail", 
+      "Maintenance and Facilities", 
+      "Automotive", 
+      "Engineering", 
+      "Fire and Safety", 
+      "Management"
+     ]
+    }, 
+    "universalName": "fasttrack-management-services", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "FastTrack Management Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "description": "Clicked - Engaging your customers online.\r\n\r\nFrom websites to social media and mobile platforms, digital media has changed the way that businesses interact with their customers. To be successful you need a clear strategy that ties your online activity together to help achieve your business objectives. But that\u2019s only part of the story. You also need to be able to execute this strategy cost-effectively in a fast paced, constantly evolving digital landscape. This is what we do at Clicked.\r\n\r\nFounded in 2007 with offices in London & Brighton. Clients include: Kiss, Carphone Warehouse, Bauer Media, Betfair, The Body Shop, Vonage, RICS, Dorling Kindersley, Moonpig & Magic 105.4", 
+    "twitterId": "clickedcreative", 
+    "blogRssUrl": "http://www.clickedcreative.com/feed", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 207 471 0550"
+       }, 
+       "address": {
+        "postalCode": "W69HA", 
+        "city": "London", 
+        "street1": "First Floor, Block 1, Thames Wharf Studios"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 748 317"
+       }, 
+       "address": {
+        "postalCode": "BN3 1HN", 
+        "city": "Brighton", 
+        "street1": "Angel House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.clickedcreative.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Strategic thinking", 
+      "Big ideas", 
+      "Expert implementation", 
+      "Marketing", 
+      "Advertising", 
+      "Promotions", 
+      "Websites"
+     ]
+    }, 
+    "universalName": "clicked", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Clicked"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 820, 
+    "description": "Clearleft is a multi-award winning user experience and web design consultancy based in Brighton, UK.\r\n\r\nWe create user-centred websites which give organisations a serious competitive edge. By understanding your business and listening to your customers, we create beautiful interactive experiences that deliver.\r\n\r\nWe are a team of 14 specialists: designers, developers, authors, thinkers and web afficionados, with a reputation for user-centred design, accessibility and web standards.", 
+    "twitterId": "clearleft", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 838 6163"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AJ", 
+        "city": "Brighton", 
+        "street1": "Studio 2"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://clearleft.com/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "web design", 
+      "user experience", 
+      "front-end development", 
+      "responsive design", 
+      "typography", 
+      "usability"
+     ]
+    }, 
+    "universalName": "clearleft-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Clearleft Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 958, 
+    "description": "Headquartered in Rochester, NY  the DelMonte Hotel Group has 17 Marriott Brand hotels throughout \r\nNew York State. The current portfolio includes: \r\n\r\nROCHESTER, NY  \r\n The Del Monte Lodge, A Renaissance Hotel & Spa \r\n The Spa At The Del Monte \r\n Rochester Marriott Airport  \r\n Rochester/Brighton Courtyard by Marriott  \r\n Rochester East/Penfield Courtyard by Marriott  \r\n Rochester West/Greece Courtyard by Marriott  \r\n Rochester Airport Fairfield Inn by Marriott  \r\n Rochester East/Webster Fairfield Inn by Marriott \r\n Rochester South/Henrietta Fairfield Inn by Marriott \r\n Rochester West/Greece Residence Inn by Marriott \r\n  \r\nALBANY, NY \r\nAlbany Airport Courtyard by Marriott \r\nAlbany Thruway Courtyard by Marriott \r\n \r\nBINGHAMTON, NY  \r\nBinghamton/Vestal Courtyard by Marriott \r\nBinghamton Fairfield Inn by Marriott \r\n \r\nBUFFALO, NY\r\nBuffalo/Amherst Courtyard by Marriott \r\n \r\nCORNING, NY\r\nCorning/Riverside Fairfield Inn by Marriott \r\n \r\nITHACA, NY\r\nIthaca Courtyard by Marriott \r\n \r\nNEWBURGH, NY\r\nStewart/Newburgh Courtyard by Marriott", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14625", 
+        "city": "Rochester", 
+        "street1": "Corporate Office"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14534", 
+        "city": "Pittsford", 
+        "street1": "41 N Main St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14623", 
+        "city": "Rochester", 
+        "street1": "33 Corporate Woods"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14615", 
+        "city": "Rochester", 
+        "street1": "1890 West Ridge Rd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14221", 
+        "city": "Buffalo", 
+        "street1": "4100 Sheridan Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1953, 
+    "websiteUrl": "www.delmontehotels.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Hotel", 
+      "Hospitality", 
+      "Hotel Management", 
+      "Spa", 
+      "Hotel Development"
+     ]
+    }, 
+    "universalName": "ej-del-monte-corporation-marriott-hotels", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "DelMonte Hotel Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 208, 
+    "description": "We design and manufacture innovative and intelligent embedded video image processing and transmission solutions. From our UK Headquarter near Brighton, our team of experienced software and hardware engineers develop the next-generation of robust vision & video analytics solutions (Video Smoke and Fire, Behaviour, Object/Tracking detection, etc\u2026) embedded into our unique edge devices, serving the CCTV and Automotive markets. We also provide engineering design services across various markets (medical, industrial, consumer...)\r\n\r\nASL Vision has gained leadership over the last decade as #1 Expert/Innovator in Video Processing aimed at the automotive market, delivering over 100,000 units of drivers' assistance solutions (such as 360 vehicle surround  view). Please visit www.asl360.co.uk, www.asl-vision.co.uk for more information", 
+    "twitterId": "", 
+    "industry": "Electrical & Electronic Manufacturing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN72AQ", 
+        "city": "Lewes", 
+        "street1": "The Riverside Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.asl-vision.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Video camera signal processing", 
+      "Video analytics", 
+      "Edge devices", 
+      "Vehicle cameras systems", 
+      "Video Smoke & Fire Detection", 
+      "Wireless"
+     ]
+    }, 
+    "universalName": "asl-vision", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ASL Vision"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1402, 
+    "description": "Higgins Construction is a major UK construction company that puts the community at the core of its business.\r\n\r\nFor 50 years, Higgins Construction has built a strong track-record as the leading name in community construction in London and the South East. From Cambridge in the East Midlands to Brighton the Sussex coast, the quality and scale of our construction projects is unrivalled.\r\n\r\nWith our public sector housing, education and healthcare projects, innovation has been central to our success. With Higgins Construction, you\u2019re safe in the knowledge that we have the expertise and experience to provide a turn-key service for every type and size of construction project.\r\n\r\nClients choose to work with Higgins Construction time and again because of our unique approach to community regeneration and affordable housing.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "020 8508 7078", 
+        "phone1": "020 8508 5555"
+       }, 
+       "address": {
+        "postalCode": "IG10 3SD", 
+        "city": "Loughton", 
+        "street1": "Higgins Construction PLC"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "www.higginsconstruction.co.uk", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Estate Regeneration", 
+      "New Build Housing (all tenures)", 
+      "Decent Homes and Refurbishment", 
+      "High Rise Housing", 
+      "PFI", 
+      "Older People and Special Needs Housing", 
+      "Joint Ventures", 
+      "Community", 
+      "Education", 
+      "Commercial", 
+      "Health Care"
+     ]
+    }, 
+    "universalName": "higgins-construction-plc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Higgins Construction PLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 299, 
+    "description": "SiteVisibility is a search engine optimisation (SEO), social media and pay per click agency located in Brighton, London and Gatwick. We make your website easier to find in search engines and help build your online presence so you can attract more targeted visitors.\r\n\r\nWe\u2019ve work with a wide range of companies in various sectors including travel, publishers, financial services, start up e-commerce websites and major charities promoting their businesses on Google, Yahoo, Bing & Facebook using our integrated approach to search engine optimisation, paid search and social media marketing.\r\n\r\nJoin Us On:\r\n\r\nLinkedIn Group - http://bit.ly/joinourgroup\r\nTwitter - @sitevisibility\r\nYouTube - http://www.youtube.com/user/SiteVisibility\r\nGoogle+ - http://bit.ly/sitevisibilitygoogleplus\r\nFacebook - https://www.facebook.com/SiteVisibility", 
+    "twitterId": "http://twitter.com/sitevisibility", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 733433"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GA", 
+        "city": "Brighton", 
+        "street1": "King Place Suite"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 3008 4388"
+       }, 
+       "address": {
+        "postalCode": "EC1N 8SS", 
+        "city": "London", 
+        "street1": "24 Greville Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.sitevisibility.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Online Marketing", 
+      "Digital Marketing", 
+      "Social Search", 
+      "Pay Per Click (PPC)", 
+      "Search Engine Optimisation (SEO)", 
+      "Social Media", 
+      "Display Advertising", 
+      "Conversion Optimisation"
+     ]
+    }, 
+    "universalName": "sitevisibility-a-division-of-ai-digital-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "SiteVisibility"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 573, 
+    "description": "Founded in 2008, Commodity Search Partners is an international search firm focusing on the global energy and commodity markets.  With offices in Brighton, London, New York and Singapore we are offering clients access to leading talent across the globe. \r\n\r\nAt Commodity Search Partners our aim is to create a bespoke service that is flexible to meet the individual needs of each client we partner with. To achieve this, every one of our consultants has a niche area of the market which they focus their attention to. This not only allows for a thorough understanding of this market but also enables our consultants to develop stronger and more comprehensive networks in their chosen field.\r\n\r\nFrom front to back office, our practices include: Trading & Analysis  | Origination & Sales | Project Finance & Advisory | Structuring & Valuation | Risk Management | Legal & Regulatory | Finance & Treasury | Operations & Logistics | Technology & Infrastructure | Marine Shipping | Commodity Procurement \r\n\r\nWe cover all energy & commodity products including: Oil & Products; Gas, Power & LNG; Coal & Freight; Metals; Softs & Agricultural Products.\r\n\r\nOur sister company, Commodity Interim People www.commodityip.com , specialises in placing senior interim managers in to the global commodity markets.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+ 44 (0) 207 759 2050"
+       }, 
+       "address": {
+        "postalCode": "EC3M 1EB", 
+        "city": "London", 
+        "street1": "Peek House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+ 65 6632 3431"
+       }, 
+       "address": {
+        "postalCode": "048623", 
+        "city": "Singapore", 
+        "street1": "50 Raffles Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 203 2811 810"
+       }, 
+       "address": {
+        "postalCode": "BN1 3XE", 
+        "city": "Brighton", 
+        "street1": "Claremont House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "001 646 461 9190"
+       }, 
+       "address": {
+        "postalCode": "10167", 
+        "city": "New York", 
+        "street1": "245 Park Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.commoditysp.com", 
+    "specialties": {
+     "_total": 20, 
+     "values": [
+      "Trading", 
+      "Origination", 
+      "Structuring", 
+      "Analysis", 
+      "Quantitative", 
+      "Risk Management", 
+      "Legal & Regulatory", 
+      "Finance & Accounting", 
+      "Interim Management", 
+      "Technology", 
+      "ETRM", 
+      "Power", 
+      "Coal", 
+      "Carbon", 
+      "LNG", 
+      "Oil & Products", 
+      "Gas", 
+      "Softs", 
+      "Agricultural Products", 
+      "Metals"
+     ]
+    }, 
+    "universalName": "commodity-search-partners", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Commodity Search Partners"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1419, 
+    "name": "London Philharmonic Orchestra", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1932, 
+    "websiteUrl": "www.lpo.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "concerts", 
+      "performances", 
+      "recordings"
+     ]
+    }, 
+    "universalName": "london-philharmonic-orchestra", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The London Philharmonic Orchestra is an internationally acclaimed symphony orchestra based at Southbank Centre's Royal Festival Hall.  In summer months the Orchestra is Resident at Glyndebourne Festival Opera.  \r\n\r\nThe London Philharmonic Orchestra is recognised as one of the world's great orchestras, and following Sir Thomas Beecham's founding tenure the ensemble's Principal Conductorship has been passed from one celebrated musician to another. The current Principal Conductor is Vladimir Jurowski.\r\n\r\nIn addition to its concert series in London, Brighton and Eastbourne, the Orchestra has an international touring schedule which in recent years has taken it to the USA, China, Taiwan, Dubai and across Europe.\r\n\r\nThe London Philharmonic Orchestra has long been embraced by the recording, broadcasting and film industries. It enjoys strong relationships with major record labels and in 2005 began releasing live, studio and archive recordings on its own label CDs which are distributed worldwide and are also available as downloads. The Orchestra has broadcast regularly on domestic and international television and radio from both the concert hall and the opera house, and has worked extensively with both Hollywood and the UK film industries, recording soundtracks for blockbuster motion pictures including the Oscar-winning score for The Lord of the Rings trilogy and scores for Lawrence of Arabia, The Mission, East is East and In the Name of the Father.\r\n\r\nThe London Philharmonic Orchestra's international reputation is matched by a steadfast and unflinching commitment to the communities of its local London boroughs of Lambeth, Southwark and Lewisham. The Orchestra reaches thousands through its varied and extensive programme of education work, both community and school-based."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 558, 
+    "description": "ICP Search is a specialist international recruitment organisation. Established in 2001, we have been providing bespoke solutions to the advanced and emerging technology markets worldwide for more than a decade. \r\n\r\nWe have specialist divisions dedicated to the following technology markets - Electronics, Semiconductors, Satellite Communications, Space, Digital TV & Video, Content Delivery, Cloud, SaaS, Broadband, Cable and IP Networks and Defence.\r\n\r\nWith over 10 year\u2019s industry experience we have an extensive network across each of our sectors. We specialise in finding Technical, Commercial, Operational, Managerial and Board-Level candidates for Permanent, Contract and Interim jobs.\r\n\r\nICP Search has offices in the UK (London and Brighton), Germany (Munich) and Hong Kong, staffed with multi-lingual consultants and research specialists. Languages include German, French, Spanish, Portuguese, Polish, Swedish and Russian to name a few, making it possible for us to discretely and efficiently find, and locate the right people for our clients.\r\n\r\nFor more information, or for help with your recruitment needs, please contact one of our experienced market specialist consultants on +44 (0) 1273 87 22 60 or email info@icpsearch.com.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1273 684 255", 
+        "phone1": "+44 (0) 1273 872 260"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "First Floor"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "80336", 
+        "city": "M\u00fcnchen", 
+        "street1": "Beethovenplatz 2"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "EC1V 2NX", 
+        "city": "London", 
+        "street1": "Kemp House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "Kowloon", 
+        "city": "Kwun Tong", 
+        "street1": "32/F, Tower 1, Millennium City 1"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.icpsearch.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Electronics, Semiconductors and Advanced Technologies", 
+      "Satellite Communications", 
+      "Digital TV and Video", 
+      "Space", 
+      "Energy", 
+      "Contracting", 
+      "Broadband, Cable and IP Networks", 
+      "Defence"
+     ]
+    }, 
+    "universalName": "icp-search", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ICP Search"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 149, 
+    "description": "Each of our boutique hotels in London and Brighton, delicately balances award-winning design with a distinctive local flavour. Add the warmth and dedication of myhotels openhearted team and the result is a harmonious synergy between people and place. That\u2019s why we\u2019ve become known as the \u2018feng shui\u2019 hotel group.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 3004 6000"
+       }, 
+       "address": {
+        "postalCode": "WC1B3HD", 
+        "city": "London", 
+        "street1": "11-13 Bayley Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.myhotels.com", 
+    "universalName": "myhotels", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "myhotels"
+   }, 
+   {
+    "numFollowers": 534, 
+    "name": "Community Reach Center", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "303-853-3456"
+       }, 
+       "address": {
+        "postalCode": "80022", 
+        "city": "Commerce City", 
+        "street1": "4371 E. 72nd Ave."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "303-853-3400"
+       }, 
+       "address": {
+        "postalCode": "80233", 
+        "city": "Northglenn", 
+        "street1": "11285 Highline Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "303-853-3600"
+       }, 
+       "address": {
+        "postalCode": "80260", 
+        "city": "Brighton", 
+        "street1": "1850 Egbert St., Ste 200"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "303-853-3654"
+       }, 
+       "address": {
+        "postalCode": "80260", 
+        "city": "Thornton", 
+        "street1": "8931 Huron St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.CommunityReachCenter.org", 
+    "universalName": "community-reach-center", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Community Reach Center, a 501[c][3] non-profit organization, is a premier mental health provider in the north metro Denver area, and the designated mental health provider for individuals eligible for Medicaid in Adams County. Since 1957, Community Reach Center has provided life-changing services to more than 127,000 children, adolescents, adults and seniors.  Each year the Center serves more than 8,000 unduplicated clients at outpatient offices located in Brighton, Commerce City, Northglenn, Thornton and Westminster, as well as in homes, schools and emergency rooms.\r\n\r\nThe Center provides individual and group therapy for virtually all ages, couples counseling, substance abuse treatment, play therapy, crisis intervention, emergency services, psychological testing, residential treatment, therapeutic support groups for a variety of life challenges, and more. Community Reach Center is committed to providing integrated care that marries mental healthcare with primary healthcare, in order to support the overall health and recovery of its clients to the best of its ability."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 607, 
+    "description": "Loylogic is a global exchange and clearinghouse for virtual currencies (e.g., points or miles). We build turnkey e-commerce and e-payment solutions for the largest, fastest-growing and most innovative loyalty programs in the world. Our award-winning innovations, leading web and mobile technology platform and global content network of more than 1,500 merchants offering over 10 million products and services help programs to boost company sales, steer points liabilities and drive member engagement.\r\n \r\nLoylogic is headquartered in Zurich, Switzerland with international offices in Atlanta/USA, Brighton/UK, Dubai/UAE, Riga/LAT and Pune/IND.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+41 43 500 51 55"
+       }, 
+       "address": {
+        "postalCode": "8700", 
+        "city": "Kuesnacht", 
+        "street1": "Freihofstrasse 22"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+1 770 353 07 22"
+       }, 
+       "address": {
+        "postalCode": "30328", 
+        "city": "Atlanta", 
+        "street1": "Five Concourse Parkway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+971 4 2045 999"
+       }, 
+       "address": {
+        "postalCode": "00000", 
+        "city": "Dubai", 
+        "street1": "Dubai Airport Free Zone Authority"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3XF", 
+        "city": "Brighton", 
+        "street1": "Queensbury House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Pune", 
+        "street1": "Pride Purple Accord"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.loylogic.com", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "loyalty", 
+      "rewards", 
+      "loyalty solutions", 
+      "merchant funded rewards", 
+      "engagement", 
+      "frequent guest programs", 
+      "frequent flyer programs", 
+      "coalition loyalty programs", 
+      "global earn and burn", 
+      "customer relationship management", 
+      "CRM", 
+      "incentives", 
+      "miles", 
+      "points"
+     ]
+    }, 
+    "universalName": "loylogic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Loylogic"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 879, 
+    "description": "Cactus Language Training is one of the world\u2019s leading face to face language training companies. We specialise in providing language tuition for companies, organisations and private individuals. We offer Corporate Training, Private Tuition, Evening Classes, Courses Worldwide and School Groups Abroad in over 30 languages and in more than 50 countries across the globe.\r\n\r\nFounded in 1998, our expert team helps over 15,000 people learn a language whenever and wherever it suits them. We have permanent offices in Brighton (UK) and New York (USA) and operate a global network of approved schools and qualified teachers. \r\n\r\nCactus Language Training understands that learning a language is a personal journey and no one solution fits all. That is why we offer a range of tuition options that we can tailor to your needs. We also understand that the best way to learn a language is with native speaking teachers and with varied course content, to inspire as well as educate. \r\n\r\nHere at Cactus Language Training, we are committed to consistently meeting and exceeding the needs of our customers from around the world.", 
+    "twitterId": "cactuslanguage", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 130 4775"
+       }, 
+       "address": {
+        "postalCode": "BN3 3EL", 
+        "city": "Hove", 
+        "street1": "103 Lorna Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "1-888-577-8451"
+       }, 
+       "address": {
+        "postalCode": "10013", 
+        "city": "New York", 
+        "street1": "154 Grand Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "http://www.cactuslanguagetraining.com/en/", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Language Training", 
+      "Intercultural Training", 
+      "School Groups Abroad", 
+      "Private Tuition", 
+      "Corporate Training", 
+      "Private Tuition via Skype", 
+      "Flexability on time & location", 
+      "Native teachers", 
+      "Efficient customer service", 
+      "Wide range of languages", 
+      "Centrally located schools"
+     ]
+    }, 
+    "universalName": "cactus-language-training", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cactus Language Training"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 87, 
+    "description": "NetDev is an independent telecoms software developer, specialising in the development and integration of next-generation, carrier-grade applications and services for fixed and mobile network operators and service providers.  \r\n\r\nDrum HQ is a division of NetDev Limited, a Brighton based Telecom consultancy providing carrier-grade voice applications to global communications service providers.\r\n\r\nDrum is NetDev\u2019s innovative web meeting solution which combines a HTML5 browser-based meeting application with carrier-grade VOIP/Webrtc audio conferencing.\r\nDrum enables service providers to grow small business and enterprise revenues with a disruptive, viral audio and web meeting service.", 
+    "twitterId": "", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 731198", 
+        "phone1": "01273 773661"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton", 
+        "street1": "47 Middle Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "NP44 3SW", 
+        "city": "Cwmbran", 
+        "street1": "Unit 38 Technium Springboard"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.netdev.co.uk", 
+    "universalName": "netdev-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "NetDev Ltd"
+   }
+  ]
+ }
+}

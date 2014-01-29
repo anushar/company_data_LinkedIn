@@ -1,0 +1,980 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1300, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 283, 
+    "description": "St George International (SGI) is a language school in London, which has provided thousands of students with high quality English and foreign language courses for nearly 50 years. Based in the West End, the school provides group and private tuition language courses to meet all students\u2019 requirements, whether they be social/general, business or academic. Courses take place throughout the day and evening and there is also an accommodation service and social programme. The school also enjoys a good reputation as a provider of good-value high-quality teacher training courses. SGI also works closely with a number of partner schools in the UK (Cambridge, Oxford and Brighton) and Europe ( Paris, Rome, Berlin, Madrid ) where you can study the local language.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.stgeorges.co.uk/blog/feed/", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "44 20 7299 1711", 
+        "phone1": "44 20 72991700"
+       }, 
+       "address": {
+        "postalCode": "W1W 8TA", 
+        "city": "London", 
+        "street1": "Kenilworth House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "www.stgeorges.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "English Courses", 
+      "Language Courses", 
+      "Business English", 
+      "Private Tuition"
+     ]
+    }, 
+    "universalName": "st-george-international", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "St George International"
+   }, 
+   {
+    "numFollowers": 62, 
+    "name": "Environmental Protection UK", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2  9QA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.environmental-protection.org.uk/", 
+    "universalName": "environmental-protection-uk", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Environmental Protection UK's vision is of a cleaner, quieter, healthier world.\r\n\r\nWe seek changes in policy and practice to minimise air, noise and land pollution, bringing together stakeholders to inform debate and influence decision making. We educate, influence and work in partnership with policy makers, environmental professionals, industry, academics and the public by:\r\n\r\nDeveloping policy\r\n\r\nPromoting innovation\r\n\r\nRunning campaigns and raising awareness\r\n\r\nProviding training and resources\r\n\r\nPromoting effective enforcement\r\n\r\n\r\nWe are a national membership based charity and have been playing a leading role in environmental protection in the UK since 1898. Our head office is in Brighton and we also have ten regional divisions throughout the UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 179, 
+    "description": "First Recruitment Services is a highly respected, independent employment agency providing office and warehouse staff throughout Sussex, Surrey, Kent & London.\r\n\r\nEstablished in 1999, the Company has offices in Brighton, Bromley, Haywards Heath & Horsham supplying both temporary and permanent staff at all levels, including a Management & Executive Division which caters for senior roles.\r\n\r\nFirst Recruitment Services employs the best Recruitment Consultants and Support Staff around.  The majority of our Management Team and Consultants are long serving and many are award winners.  Our local knowledge is second to none.  \r\n\r\nwww.firstrecruitment.co.uk\r\n\r\nSpecialities\r\n\r\nPA/Secretary, Administration, Data Entry, Call Centre, Telemarketing, Customer Services, IT Support, Accounts, Finance, PR & Marketing, Legal Support, Business Development & Sales, Multilingual, HR, Reception, Warehouse", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "02084661871", 
+        "phone1": "02084601824"
+       }, 
+       "address": {
+        "postalCode": "BR1 1DG", 
+        "city": "Bromley", 
+        "street1": "29 London Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 719222", 
+        "phone1": "01273 772555"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "33 Bond Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "02084661155", 
+        "phone1": "02084660066"
+       }, 
+       "address": {
+        "postalCode": "BR1 1DG", 
+        "city": "Bromley", 
+        "street1": "29 London Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01444 417799", 
+        "phone1": "01444 477766"
+       }, 
+       "address": {
+        "postalCode": "RH16 3DP", 
+        "city": "Haywards Heath", 
+        "street1": "3-5 Clair Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01403 248992", 
+        "phone1": "01403 248148"
+       }, 
+       "address": {
+        "postalCode": "RH12 1PB", 
+        "city": "Horsham", 
+        "street1": "26-27 West Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.firstrecruitment.co.uk", 
+    "universalName": "first-recruitment-services", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "First Recruitment Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 172, 
+    "description": "A medium - large sized charity offering services for children, young people and families. We are based in Hove but provide services throughout Sussex. Previously known as Hove YMCA we now incorporate the work of Mid-Sussex and Horsham YMCAs and shortly Lewes YMCA. We also work closely with our partner YMCAs in Sussex (Brighton, Eastbourne and Hastings) and are part of the national federation of YMCAs.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3", 
+        "city": "Hove", 
+        "street1": "Reed House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1919, 
+    "websiteUrl": "www.sussexcentralymca.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "housing", 
+      "advice", 
+      "education"
+     ]
+    }, 
+    "universalName": "sussex-central-ymca", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sussex Central YMCA"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 63, 
+    "description": "Barchester Green Investment LLP is the UK's largest specialist ethical and environmental Independent Financial Advice (IFA) firm. We offer a wide range of services to private individuals, charities, trustees and private individuals.\r\n\r\nOur head office is in Salisbury and we have offices in London, Brighton and Exeter.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01722 331241"
+       }, 
+       "address": {
+        "postalCode": "SP1 2DH", 
+        "city": "Salisbury", 
+        "street1": "45-49 Catherine St"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "London", 
+        "street1": "1, London Bridge"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.barchestergreen.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Ethical and environmental investment", 
+      "Advising trustees", 
+      "Portfolio management", 
+      "Insurance"
+     ]
+    }, 
+    "universalName": "barchester-green-investment", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Barchester Green Investment"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 78, 
+    "description": "Low prices, coupled with outstanding customer service have been our heritage for the last 70 years.  The original business, known as Sussex Stationers, started selling stationery in Haywards Heath in the 1930\u2019s.  In the 1990\u2019s the business was selling discounted books and moved the centre of operations to Brighton.\r\n\r\nUnfortunately British Bookshops & Stationers went into Administration during 2011.  All employees were dedicated in their efforts to make the business a success, tough trading conditions during the the last quarter of 2010 impacted on the performance of the business.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BH1 8AF", 
+        "city": "Brighton", 
+        "street1": "6 Crowhurst Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1938, 
+    "websiteUrl": "www.britishbookshops.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Books", 
+      "Stationery"
+     ]
+    }, 
+    "universalName": "british-bookshops-and-stationers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "British Bookshops and Stationers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 88, 
+    "description": "Long established solicitors in Brighton East Grinstead and Worthing.\r\n\r\nWe offer high quality service at a fair price to individuals, SMEs, Charities, Schools and a University. \r\n\r\nWe specialise in:\r\n\r\nproperty work, residential and commercial, \r\nfamily and wealth protection (including wills, trusts, care for the elderly, probate) \r\ndivorce and separation\r\nemployment disputes\r\ncontract disputes\r\npersonal injury\r\n\r\nFor more information visit our website or contact one of our linked-in members.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 604123"
+       }, 
+       "address": {
+        "postalCode": "BN1 1FL", 
+        "city": "Brighton", 
+        "street1": "30 Old Steyne"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1893, 
+    "websiteUrl": "www.bbc-law.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Property", 
+      "Wills Probate and Trusts", 
+      "Employment", 
+      "Personal Injury", 
+      "Family Law", 
+      "Commercial Property", 
+      "Mediation"
+     ]
+    }, 
+    "universalName": "burt-brill-and-cardens", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Burt Brill & Cardens"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 146, 
+    "description": "Vanguard Realty is a boutique brokerage with offices in Brookline Village and Brighton Center serving buyers and sellers in through out Greater Boston.\r\n\r\nOur mission is to provide professional real estate services with integrity and passion using the best available technology and practices in the industry.  Without corporate bureaucracy, we have the freedom to innovate, delivering better results with ingenuity and hard work.\r\n\r\nFrom our extensive online partnerships to our renovated loft-style offices, we offer our customers the infrastructure and marketing know-how of a big corporate office with the flexibility and individual attention of a small business.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(617) 730-8200"
+       }, 
+       "address": {
+        "postalCode": "02445", 
+        "city": "Brookline", 
+        "street1": "54 Harvard St."
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(617) 789-5500"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "317 Washington St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.vanguard-realty.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Residential Real Estate Sales", 
+      "Residential Leasing", 
+      "Commercial Sales & Leasing"
+     ]
+    }, 
+    "universalName": "vanguard-realty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Vanguard Realty"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 147, 
+    "description": "Picturehouse Cinemas, the UK\u2019s leading independent cinema operator, is a stand-alone entity within Cineworld Group plc, its acquisition having been announced in early December 2012.  \r\n\r\nFormed in 1989, Picturehouse provides cinemas in city-centre locations to serve local communities and offer a broader range of films. Picturehouse now owns and operates 21 cinemas; the most recent openings were the Hackney Picturehouse and Brighton\u2019s Dukes @ Komedia.  The company also programmes an additional 36 independently operated venues throughout the UK. \r\n\r\nPicturehouse draws on more than 18 years\u2019 experience in tailoring diverse and commercially successful programmes, spanning art-house and independent features, world cinema and quality mainstream titles, as well as short films and touring seasons. The company prides itself on being at the forefront of digital cinema and other business and technical developments, such as pioneering a wide variety of live Screen Arts cinecasts of performance arts events, including from the National Theatre, the New York Metropolitan Opera and the Royal Opera House, as well as regular filmmaker Q&As. \r\n\r\nSister company Picturehouse Entertainment launched in 2010. Recent releases include BAFTA-winning The Imposter, Shane Meadows\u2019 The Stone Roses: Made of Stone and Ben Wheatley\u2019s A Field in England.", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02077344342"
+       }, 
+       "address": {
+        "postalCode": "WC2H 7HH", 
+        "city": "London", 
+        "street1": "7th Floor, St Vincent House, 30 Orange Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01473785026"
+       }, 
+       "address": {
+        "postalCode": "IP6 9JD", 
+        "city": "Witnesham", 
+        "street1": "The Coach House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.picturehouses.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Cinemas", 
+      "Film Programming", 
+      "Film & Alternative Content Distribution", 
+      "Design & Consultancy", 
+      "Event Production"
+     ]
+    }, 
+    "universalName": "cinema-city-norwich", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Picturehouse Cinemas Ltd"
+   }, 
+   {
+    "numFollowers": 53, 
+    "name": "Lace Mamba Global", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1HD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.mamba-games.co.uk", 
+    "universalName": "lace-mamba-global", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "About LACE Mamba GLOBAL\r\n\r\nMamba Games are excited to announce that they have formed a partnership with the UK's leading DVD distribution company Lace Group (DVD and game publishing, sales and distribution business) to create a multi global video games publishing company.\r\n\r\nThe new company, trading as Lace Mamba Global (LMG), will combine all areas of expertise including acquisition, product development, in-house development, UK and global sales/distribution, marketing and PR. All global sales will be handled in-house along with games acquisitions and marketing. The adventure brand Odyssia will fall under the LMG umbrella and the group will continue to drive forward and bring high level and highly anticipated adventure games to the market.\r\n\r\nLace Mamba Group head office will be based in Brighton East Sussex with already established offices in London, LA and Paris.\r\n\r\nThe formation of the new company signals the ambition of the new group to accelerate the move into the next generation market with development already in progress on the Xbox360 console and discussions with various development houses in progress for Playstation 3."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "name": "Contracting Resources, Inc", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810/229-4371", 
+        "phone1": "810/229-4320"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "403 E Grand River"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.contractingresources.net", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Creative", 
+      "Reliable", 
+      "Competitive and Safe resources for Construction Management", 
+      "Design/Build", 
+      "Program Management", 
+      "and Real Estate Development"
+     ]
+    }, 
+    "universalName": "contracting-resources-inc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Contracting Resources, Inc. is a full service design/build, construction management, and real estate development company located in Brighton, Michigan.  We are organized to develop a high level of expertise in the markets we serve and offer a full range of integrated services, completing projects in Michigan and Ohio from planning to occupancy. Some of the markets that we serve are:\r\nHealthcare \r\nRetail \r\nOffice \r\nEducational \r\nCommercial \r\nIndustrial \r\nMedical Office\r\nFor more information see our website at www.contractingresources.net"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 135, 
+    "name": "Huron Valley Financial, Inc.", 
+    "twitterId": "", 
+    "industry": "Financial Services", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.huronvalleyfinancial.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "1-4 Family Residental Mortgage Lending", 
+      "FHA, VA, and USDA Rural Development Loans", 
+      "Reverse Mortgages", 
+      "FHA 203(k) Rehabilitation Loans"
+     ]
+    }, 
+    "universalName": "huron-valley-financial-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "At Huron Valley Financial, Inc. (HVF) we understand that you, our customers are the number one priority.  Our licensed Loan Originators will take the time to listen to your needs and work to tailor a loan that fits like a glove!  We understand life can be complicated, hence our motto \u201cloans for the business of life\u201d.  We are a full service mortgage banker offering Conventional and Jumbo financing as well as FHA, Rural Development and Renovation loans.  We also provide Home Equity loans, Construction loans and Reverse mortgages for seniors.  Whether you are purchasing or refinancing don\u2019t make a choice before you contact a lender who will meet with you in person and actually shake your hand!\r\n\r\nWhen we say local, we mean it!  Huron Valley Financial is locally owned and operated right here in Michigan.  Our shareholders, board of directors and employees all work and live right here in your communities.   So while others say they are local but have directors and executives living in other states, we truly are 100% local and recognize that our health is directly related to the health of the communities we serve.\r\n\r\nHuron Valley Financial, Inc. was founded in 1997 by Eric Bradley and Bill Roberts with one small office and seven employees.  Since that time Bradley and Roberts carefully and methodically grew the company into a regional leader in mortgage lending with five locations including Ann Arbor, Clarkston, Birmingham, Brighton and Fenton.  As the company grew."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 533, 
+    "description": "OST Energy is a wholly independent technical consultancy specialising in advising upon commercial and technical risk for solar, wind and biomass projects. OST is at the cutting edge of multi MW solar PV and CSP development having advised investors and developers on over 5GW of under construction and operational plants and over 500MW of pipeline plant.\r\n\r\nOST Energy also provides asset management services for renewable energy plants including technical, commercial and administrative management.\r\n\r\nOST Energy have offices in Brighton (UK), Milan (Italy), Cape Town (South Africa), Sydney (Australia) and Porto Seguro (Brazil).", 
+    "twitterId": "", 
+    "industry": "Renewables & Environment", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 819429"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YR", 
+        "city": "Brighton", 
+        "street1": "Tower Point"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+390284567034"
+       }, 
+       "address": {
+        "postalCode": "20159", 
+        "city": "Milano", 
+        "street1": "Via Ugo Bassi, 3"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+27 (0) 71 639 4462"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Cape Town", 
+        "street1": "4th floor, West Tower Nelson Mandela Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.ostenergy.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Renewable Energy Technical Advisory Services", 
+      "Asset Management", 
+      "Lender's Engineer", 
+      "Owner's Engineer", 
+      "Solar Energy", 
+      "Wind Energy", 
+      "Bioenergy", 
+      "Environmental Services", 
+      "Factory Audits", 
+      "Technical Due Diligence"
+     ]
+    }, 
+    "universalName": "ost-energy", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "OST Energy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 62, 
+    "description": "The recent upturn in the market has seen Kalcrest begin to move from a \"holding\" positon to a return to growth....\r\n\r\nEstablished since 2003, Kaclrest supply temporay construction and engineering trades and general labour to the construction and engineering industries across Yorkshire and the UK.  With exceptional coverage across Yorkshire and Manchester, we supply companies and sites anywhere from Brighton to Glasgow.\r\n\r\nWe can supply almost any discipline from  Joiners, Plasterers, Bricklayers, Plumbers, Electricians, Pipefitters, Mechanical Fitters, Plant/Machine Drivers, Groundworkers, Semi-skilled labourers/mates, general site Labourers, Machine Minders and Welders, right through to Site Managers and Supervisors/Gangers.\r\n\r\nAll labour is supplied at competitve rates and all have been subject to stringent checks to ensure they have the relevant skills, qualifications and recent industry relevant references to undertake your work.\r\n\r\nCommitted and motivated, our team hard to make sure our service is delivered to an exceptionally high level.  \r\nCall us today to find out why our clients come to us time and time again, and why we have managed to secure some of the most prestigious sole supply agreements in the industry.", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01709 720348"
+       }, 
+       "address": {
+        "postalCode": "S60 2AB", 
+        "city": "Rotherham", 
+        "street1": "4 Nightingale Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.kalcrest.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Construction", 
+      "Trades", 
+      "General Labour", 
+      "Technical/Site Management", 
+      "Temproary Labour", 
+      "UK wide coverage"
+     ]
+    }, 
+    "universalName": "kalcrest", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Kalcrest"
+   }, 
+   {
+    "numFollowers": 1701, 
+    "name": "Taylor & Francis India", 
+    "industry": "Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "110001"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.informaworld.com", 
+    "universalName": "taylor-&-francis-india", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Building on two centuries' experience, Taylor & Francis has grown rapidly over the last two decades to become a leading international academic publisher. With offices in London, Brighton, Basingstoke and Abingdon in the UK, New York and Philadelphia in the USA and Singapore and Melbourne in the Pacific Rim, the Taylor & Francis Group publishes more than 1000 journals and around 1,800 new books each year, with a books backlist in excess of 20,000 specialist titles.\r\n\r\nWe are providers of quality information and knowledge that enable our customers to perform their jobs efficiently, continue their education, and help contribute to the advancement of their chosen markets. Our customers are researchers, students, academics and increasingly professionals.\r\n\r\nTaylor & Francis Group is an Informa business (www.informa.com). Informa plc is the global information provider for the academic, professional and commercial markets."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 427, 
+    "description": "The Peldon Rose Group is a commercial interior workplace consultancy and main contractor formed in 1986 offering a highly professional and flexible  approach to all your workplace requirements. Made up of 5 wholly owned operating divisions, our core values are based upon building \u2018client for life\u2019 partnerships by delivering high quality, professionally managed solutions.\r\nBased in Wimbledon, we not only work with clients in London and its surrounding areas, we also cover the regions with recent projects in Cirencester, York, The Midlands, Brighton, Manchester, Cambridge and Slough.\r\nOur dedicated Team of workplace specialists provide all the professional disciplines you will need to deliver your project from initial feasibility through to the design and management  of the construction  and selection and installation of the furniture and equipment.\r\nThis approach can be in the form of a design and build project, a traditional solution alongside a Team of consultants or as a main contractor  working to a specified design and scope.\r\n\r\nWhat we do:\r\n\u2022\t  Feasibility Studies and workplace assessments\r\n\u2022\t  Conceptual  Design and Visualisation\r\n\u2022\t  Technical  Design, space planning and statutory submissions\r\n\u2022\t  Cost Consultancy\r\n\u2022\t  Project Management\r\n\u2022\t  CDM Coordinator and all statutory and landlord approvals\r\n\u2022\t  Mechanical and Electrical Services design and management\r\n\u2022\t  Furniture Consultancy\r\n\u2022\t  Maintenance (reactive and PPM)\r\n\u2022\t  Full time site Management", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0208 971 7777"
+       }, 
+       "address": {
+        "postalCode": "SW19 4EQ", 
+        "city": "London", 
+        "street1": "Sterling House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "www.peldonrose.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Project Management", 
+      "Office Design & Fit Out", 
+      "Mechanical and Electrical Consultants", 
+      "Turn-key Solution Contracting under Design & Build", 
+      "Design Consultancy"
+     ]
+    }, 
+    "universalName": "peldon-rose-group-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Peldon Rose Group Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 514, 
+    "description": "Haileybury is one of the leading independent schools in the Asia-Pacific region with campuses at Brighton, Berwick and Keysborough. The School is acclaimed for its outstanding academic achievements, small class sizes, broad range of co-curricular activities, and state-of-the-art facilities. From the Early Learning Centre to the Senior School, learning is student-centred and based on the different learning styles of students, and on their gender, age, interests and potential. \r\n\r\nEvery year Haileybury achieves outstanding national testing and VCE results, placing it in the leading group of academic schools in the country. \r\nSmall classes enable students to be treated as individuals and to be given individual attention.  Haileybury\u2019s commitment to small class sizes extends to all stages of schooling.   \r\n\r\n\r\nHaileybury\u2019s parallel education is an enlightened method of teaching that recognizes the diverse education needs to boys and girls. While boys and girls benefit from learning together in their early years, better educational outcomes are derived through single-gender classes in their middle and senior years. At Haileybury, boys and girls learn together until Year 4. From Year 5 to 12, boys and girls attend separate schools on the same campus. Girls first started at Haileybury in 2000 and Haileybury Girls College is now one of the largest independent girls' schools in Victoria.", 
+    "twitterId": "", 
+    "industry": "Primary/Secondary", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+61 3 9213 2295", 
+        "phone1": "+61 3 9213 2222"
+       }, 
+       "address": {
+        "postalCode": "3173", 
+        "city": "Keysborough", 
+        "street1": "855 Springvale Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+61 3 8599 2444"
+       }, 
+       "address": {
+        "postalCode": "3183", 
+        "city": "Brighton East", 
+        "street1": "120 South Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+61 3 8768 2300"
+       }, 
+       "address": {
+        "postalCode": "3806", 
+        "city": "Berwick", 
+        "street1": "138 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1892, 
+    "websiteUrl": "http://www.haileybury.vic.edu.au", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Parallel Education", 
+      "Small Class Sizes"
+     ]
+    }, 
+    "universalName": "haileybury_2", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Haileybury"
+   }, 
+   {
+    "numFollowers": 59, 
+    "name": "Diocese of Chichester", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "PO19 1PY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.diochi.org.uk", 
+    "universalName": "diocese-of-chichester", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Church of England in Sussex and Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 57, 
+    "description": "Interactive Red is a leading web design company in the South East. From our head office in Kent and our web design studio in Brighton, we consistently deliver first class digital solutions for our clients. We are passionate about building beautiful websites that exceed our clients expectations. \r\n\r\nIt's not just about great web design... Through our three core areas - Design, Develop & Engage - we ensure that our clients engage with their  customers and build their business through measurable results.\r\n\r\nOur commercial awareness and our industry leading design skills mean that not only do we build beautiful websites, we offer solutions for identity, branding, advertising, print, Facebook & iPhone applications, content management systems, website hosting SEO, social media integration and social media management.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0845 468 0801", 
+        "phone1": "01273 803 220"
+       }, 
+       "address": {
+        "postalCode": "BN1 1US", 
+        "city": "Brighton", 
+        "street1": "9 Church Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0845 468 0801", 
+        "phone1": "01227 490 220"
+       }, 
+       "address": {
+        "postalCode": "CT2 7EG", 
+        "city": "Canterbury", 
+        "street1": "Unit 2 Roper Yard"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.interactivered.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Marketing", 
+      "SEO", 
+      "Social Media", 
+      "Mobile Applications"
+     ]
+    }, 
+    "universalName": "interactive-red", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Interactive Red"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 62, 
+    "description": "Eastbourne UnLtd Chamber of Commerce is a business-led membership organisation, owned by East Sussex businesses through their membership and run for Members by Members.\r\n\r\nWe have a wide variety of events to help you network with the business people you would want to meet.  While we are the largest town Chamber in the south with over 600 members, we also network with other Chambers across East Sussex, so join us to meet people from outside your normal sphere of contacts.\r\n\r\nRunning a successful business and networking with other like-minded business people shouldn\u2019t be hard work. Now that the economy is beginning to grow, come and put the fun back into business; join us and put the socialising back into enterprising. Share best practice and realise your goals.\r\n\r\nWith a population of 100,000 people, Eastbourne is the 2nd fastest growing seaside town in the UK and is the economic driver of one of the fastest growing counties in the country! There are 24,000 businesses in East Sussex outside Brighton employing more than 160,000 people with around a further 35,000 self-employed individuals.\r\n\r\nVia ACES, (the Alliance of Chambers in East Sussex) Eastbourne UnLtd Chamber of Commerce works closely with all the other Chambers in East Sussex and with ESCC, local councils, Locate East Sussex, the FSB and the IoD to promote East Sussex as an active and successful business destination.", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 641144"
+       }, 
+       "address": {
+        "postalCode": "BN21 4PN", 
+        "city": "Eastbourne", 
+        "street1": "7 Hyde Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1892, 
+    "websiteUrl": "www.eastbournechamber.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Enterprising", 
+      "Realising", 
+      "Socialising", 
+      "Networking", 
+      "Lobbying"
+     ]
+    }, 
+    "universalName": "eastbourne-and-district-chamber-of-commerce", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Eastbourne UnLtd Chamber of Commerce"
+   }
+  ]
+ }
+}

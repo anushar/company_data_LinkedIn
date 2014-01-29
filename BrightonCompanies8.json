@@ -1,0 +1,853 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 160, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Bishops Group is an established and reputable company located in Brighton and Hove, Sussex.  Our dedicated teams include Gas Safe Brighton plumbers, electricians, builders, locksmith, handymen and rubbish/waste clearance specialists serving the greater Brighton & Hove area including Sussex, Surrey and Kent.", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 6BD", 
+        "city": "Hove", 
+        "street1": "165 Goldstone Crescent."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.bishops-group.com", 
+    "universalName": "bishops-property-services", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bishops Property Services"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "The Cavalaire is an Award winning Four Star Guest House with a friendly informal atmosphere, one of Brighton\u2019s premier B&B\u2019s. Recently refurbished to a very high standard combining Victoriana with a contemporary style and finish. Gold and Breakfast Awards given by VisitBritain for the past 5 years.\r\n\r\nWe provide excellent bed and breakfast to guests on business trips, short breaks and longer stays, offering accommodation in a choice of en suite double and twin rooms. Our most luxurious rooms, perfect for a special occasion, have gorgeous four poster beds. Our customer service is second to none and our rates include a first class breakfast, wireless internet access and the use of our cosy lounge. Parking and late checkout are available by arrangement. \r\n\r\nCentrally located, our guest house is easy to find by public transport or car. We are a pebble\u2019s throw from Brighton\u2019s famous beaches and a short walk from the Royal Pavilion, the Pier, the Lanes and Brighton\u2019s thriving bars, restaurants and conference venues.", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.cavalaire.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Bed & Breakfast", 
+      "Customer Service", 
+      "Award Winning", 
+      "Boutique Hotel", 
+      "Seaside Retreat", 
+      "Friendly & Welcoming"
+     ]
+    }, 
+    "universalName": "cavalaire-guest-house-hotel", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Cavalaire Guest House Hotel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Cobb Electrical Limited", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.cobbelectrical.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Domestic wiring", 
+      "NICEIC testing", 
+      "Commercial wiring", 
+      "Property maintainence"
+     ]
+    }, 
+    "universalName": "cobb-electrical-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Cobb Electrical is a family run business based in Brighton, established in 1980 offering years of experience and knowledge to our clients. From an initial one man company, Mr. Cobb now has three sons, who are all fully qualified senior electricians. One daughter in law, who runs the office side of the business. In addition to this we have other fully qualified and trainee staff. All staff receive ongoing training while working to ensure they are meeting current regulatory standards.\r\n\r\nWe are a well established local company with a vast proportion of our work coming from regular customers and recommendation. We take great pride in the existing customer base we have built up over the years and work hard to create a friendly and professional environment for our clients throughout Brighton, Hove and Sussex.\r\n\r\nCobb Electrical is fully insured and complies with all current health and safety legislation. We are able to carry out all electrical works from replacing light bulbs to a full rewire to suit your needs.\r\n\r\nWe offer a comprehensive service to domestic, commercial and industrial customers from minor repairs to full servicing of your electrical installation. We Also offer free estimates and advice.\r\n\r\nWe cover Brighton, Hove, Lewes, Shoreham, Worthing, Eastbourne, Hastings Haywards Heath, Hassocks, Seaford, Uckfield, Burgess Hill and all areas in Sussex.\r\n\r\nWe are always happy to discuss your requirements and use our experience and knowledge to offer advice regarding your inquiries."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "BiGiAM is a small but beautifully formed promotions company; a merging of four industry professionals\u2019 experience and expertise contribute to the companies continuing success and every-growing profile. We are based in Brighton and our resources, contacts and influence spread much further afield\u2026\r\n\r\nWe promote, advise and manage businesses, events and personal creativity linked to music and the arts. Our portfolio is relatively wide and relatively varied; we play a significant role in the development, project management, marketing/promotions and sponsorship of a number of Brighton area based events.\r\n\r\nDirector\u2019s Experience includes:\r\n- Former Corporate Director of multi-million, multi-national blue chip company\r\n- Founder of the Brighton Fringe Festival\r\n- Radio station Director\r\n- Music editor\r\n- Venue booker\r\n- Manager of prestigious live music venue\r\n- Social media expert\r\n- Wide ranging general experience of the music industry, including artist management as well as promoting literally thousands of gigs over the years and booking hundreds of acts a year.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bigiam.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Sponsorship", 
+      "PR", 
+      "Marketing", 
+      "Social Media consultancy", 
+      "Artist Management"
+     ]
+    }, 
+    "universalName": "bigiam-promotions-&-management", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "BiGiAM Promotions & Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 69, 
+    "description": "UniTV is an award-winning student-led television station and media production facility based at the University of Sussex. UniTV provides high-quality video and photographic coverage of events held by the university, the Students' Union and other related organisations.\r\n\r\nUniTV was the first student television in the UK to win an award for university's Freshers Week coverage and to produce a video report about a students' union activity. For two consecutive years (2011-2012) the station won the University of Sussex student award for Innovation in Student Media and also won several NaSTA (National Student Television Association) awards.\r\n\r\nIn July 2012, UniTV was officially recognised as UK's leading enterprising student group winning the RBS ESSA runner-up Gold Award.\r\n\r\nUniTV members produced work at and for Brighton Racecourse, Brighton Dome, Cine-City Film Festival, Brighton AmEx, TEDx and BBC North. Reports made by UniTV presenters were featured on the 360 Community Channel. The station has also contributed to various University of Sussex films (including graduation films). UniTV presenters have interviewed and filmed a number of high-profile people and celebrities, such as David Miliband (MP), Fatboy Slim (DJ & producer) and Clement Marfo (musician).", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 87 3574"
+       }, 
+       "address": {
+        "postalCode": "BN1 9RG", 
+        "city": "Brighton", 
+        "street1": "Silverstone Building"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.unitvlive.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Video Production", 
+      "Design", 
+      "Motion Graphics", 
+      "Animation", 
+      "Live Broadcasting", 
+      "Video Editing", 
+      "Events Coverage", 
+      "Entertainment"
+     ]
+    }, 
+    "universalName": "unitv", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "UniTV"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "Centurion Group is an active property firm encompassing all areas of the real estate industry, serving it's own portfolio holdings, whilst also providing services and ongoing advice to retained UK and international clients.\r\n\r\nThe group is Brighton based and owns The Brighton Square Portfolio, in addition to various other property assets within the city of Brighton & Hove and the South-East of England. The team is engaged in strategic advice and consultancy for clients, particularly in regard to Asset Management, Project Management, Acquisition & Disposal and Development & Investment matters. Centurion also operates in North America, with offices in Vancouver (BC), Canada.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 434111", 
+        "phone1": "+44 (0)1273 434100"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HE", 
+        "city": "Brighton", 
+        "street1": "Centurion House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "V7T 1B8", 
+        "city": "West Vancouver", 
+        "street1": "Centurion Pacific"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "http://www.centuriongroupuk.com/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Acquisition & Disposals", 
+      "Proactive Asset Management", 
+      "Consultancy & Strategic Advice", 
+      "Development", 
+      "Investment", 
+      "Private Equity", 
+      "Holiday Homes", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "centurion-group-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Centurion Group."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "Launched in 2003, Arlingsworth Solicitors caters to clients in Brighton, London and their surrounding areas. They have offices in Brighton and London and can also arrange home visits whenever necessary. \r\n\r\nThey are specialists in the following areas of law but can also provide for others, so please do feel free to contact them:\r\n\r\nCommercial Law Litigation (Suing and Defending).\r\nFamily Law.\r\nImmigration and Human Rights.\r\nEmployment Law.\r\nPersonal Injury Claims - 'no win, no fee'\r\n\r\nOffice hours are Monday - Friday 10am - 7pm.\r\n\r\nWith offices in London and Brighton and fully qualified staff, the company is able to offer a professional legal advice to businesses and individuals. The service is intended to be incredibly informative and relevant, enabling clients to completely resolve their legal woes.", 
+    "twitterId": "Arlingsworth", 
+    "blogRssUrl": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273682705", 
+        "phone1": "01273696962"
+       }, 
+       "address": {
+        "postalCode": "BN2 9SH", 
+        "city": "Brighton", 
+        "street1": "145 Islingword Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.Arlingsworth.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Immigration Law", 
+      "Employment Law", 
+      "Commercial Law", 
+      "Family Law"
+     ]
+    }, 
+    "universalName": "arlingsworth-solicitors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Arlingsworth Solicitors"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Nimbus Accounting, Accountants in Brighton & Hove - www.nimbusaccounting.com\r\n\r\nWe provide a bespoke accounting service to our clients in Brighton & Hove, Sussex and beyond.  Our specialist knowledge is specifically focused on small businesses. We deliver our clients an excellent service and keep them up to date with the current legislation which may impact their business. \r\n\r\nAt our core is a dedicated team of qualified accountants who strive for customer satisfaction and delivering the best tax planning strategies for our clients.\r\n\r\nWe have developed a robust system to keep in constant contact with our clients, ensuring no deadlines are missed. We take personal pride in working with our clients and will ensure as we continue to grow that this culture remains.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07717753073"
+       }, 
+       "address": {
+        "postalCode": "BN3 2FN", 
+        "city": "Hove", 
+        "street1": "32 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.nimbusaccounting.com", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "Contractors", 
+      "Freelancers", 
+      "Small Business", 
+      "Property owners", 
+      "Accountant Hove", 
+      "Accountant Brighton", 
+      "Accountant London", 
+      "Landlords", 
+      "IR35", 
+      "FreeAgent", 
+      "Xero", 
+      "Clearbooks", 
+      "Online accounting software", 
+      "Tax Planning", 
+      "Limited Companies", 
+      "IT Contractors"
+     ]
+    }, 
+    "universalName": "nimbus-accounting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Nimbus Accounting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Soul Damn Funky first started life as a club event in Brighton and was one of the only parties in town playing sophisticated & uplifting vocal U.S house music with headliners which included DJ Romain, CJ Mackintosh & Paul Trouble Anderson.\r\n\r\nSoul Damn Funky is now forming a Brighton based DJ collective and we've just got a weekly show on Brighton's very own dance music radio station Code South 99.1fm, every Sunday 12pm till 2pm GMT.\r\n\r\nWe also have lots of music online available to download from live events, radio shows and mix tapes from ours DJ's.", 
+    "twitterId": "souldamnfunky", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.souldamnfunky.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Club Events", 
+      "DJ Collective", 
+      "Radio Shows", 
+      "Podcasts"
+     ]
+    }, 
+    "universalName": "soul-damn-funky", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Soul Damn Funky"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "The name 4one4 came from the business location at 414 Main Road Glenorchy. 4one4 Real Estate opened for business in March 2006 and was created by like minded people with one goal in mind, which was to provide a unique agency that would exceed our client\u2019s expectations in every way.\r\n\r\n4one4 Real Estate soon gathered an enthusiastic team of consultants with AQ Berry lending his years of real estate experience to become a mentor to the business. Paul and Robyn Berry welcomed their son Patrick into the family business, who looks destined to make real estate his career for life as his father did, and his father before him.\r\n\r\nThe success of 4one4 Real Estate encouraged Paul to open a second branch in 2007 located in Brighton. With the help of well known real estate agent Damien Hollingsworth, the office has proven to be another success story, with Brighton now one of the fastest growing areas north of Hobart. 4one4 Real Estate is now a household name in the northern suburbs and Brighton communities. The organisation is known for offering creative marketing ideas matched with strong family values. This has proven to be a point of difference, other large corporate real estate agencies find difficult to match. In just five years, 4one4 Real Estate has grown from three staff at one location, to 14 staff in two locations, and is still continuing to grow.", 
+    "twitterId": "4one4", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0362 737 400", 
+        "phone1": "0362 737 414"
+       }, 
+       "address": {
+        "postalCode": "7010", 
+        "city": "Glenorchy", 
+        "street1": "414 Main Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0362 681 211", 
+        "phone1": "03620 680 100"
+       }, 
+       "address": {
+        "postalCode": "7030", 
+        "city": "Brighton", 
+        "street1": "36 Midland Highway"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.4one4.com.au", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Real Estate", 
+      "Property Management", 
+      "Auctions", 
+      "Strata Management"
+     ]
+    }, 
+    "universalName": "4one4-real-estate", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "4one4 Real Estate"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "name": "Cardens Accountants & Business Advisors", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.cardensaccountants.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Audit & accounts", 
+      "Saving tax", 
+      "Fixed fees, not fat fees - however long it takes", 
+      "Guaranteed turnaround times", 
+      "Accounting in plain english", 
+      "Interreg audits"
+     ]
+    }, 
+    "universalName": "cardens-accountants-&-business-advisers", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Cardens Accountants are a leading professional accounting firm based in Brighton & Hove, providing trusted accountant services, financial and tax advice to both business and private clients in the Sussex area.\r\n\r\nIf you're looking for help with your accounting and financial affairs and live in or around Brighton, your search for accountants you can trust is over. Cardens Accountants can help you with personal accounting and the management of your tax affairs, or give you the information and advice you need to succeed in your business, whether you are running a successful company or are just starting out.\r\n\r\nEvery accountant at Cardens' office in Brighton is friendly, helpful, and has a wealth of experience in accountancy, tax planning, and other financial matters. When you've got a Cardens accountant working for you, you can relax in the knowledge that your financial affairs will be taken care of professionally and efficiently - with no sudden nasty surprises!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "Wellness Professionals at Work, based in Brighton, Sussex, offers :\r\ncareer coaching\r\nwellness coaching courses\r\nbusiness start up courses\r\nstress management coaching courses\r\nlife coaching courses\r\n\r\nWe help those wanting to get into the wellness industry and those already working in it who would like to improve best practice.  WPAW offer accredited qualifications - our stress management courses, wellness coaching and business start up courses cover certificate to Diploma level and earn CPD points for individuals,  businesses and organisations.\r\n\r\nRun by Laurel Alexander in Brighton, Sussex, Wellness Professionals at Work is born from 25 years of passion for health and wellness - Laurel Alexander runs Wellbeing for Life offering complementary therapy and coaching and Wellness Professionals at Work. Laurel is a seasoned career coach, wellness coach and therapist with huge experience in business start up and branched out into stress management training via her stress management services.\r\n\r\nCourses are offered via face to face, distance learning, email and even facetime/skype video at times to suit each individual.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 6LW", 
+        "city": "Brighton", 
+        "street1": "Brighton, United Kingdom"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.wellnessprofessionalsatwork.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Wellness coaching courses", 
+      "Stress management coaching courses", 
+      "Business start up courses", 
+      "Life coaching courses", 
+      "Career coaching", 
+      "CPD", 
+      "Brighton based courses", 
+      "Distance learning", 
+      "Energy healing courses", 
+      "Mindbody courses", 
+      "Reflexology workshops", 
+      "One day workshops"
+     ]
+    }, 
+    "universalName": "wellness-for-life", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Wellness Professionals at Work"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "name": "Paul Fletcher Photography", 
+    "twitterId": "Fletchpix", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.paulfletcherphotography.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Reportage and Dynamic Wedding Photography", 
+      "Commercial Photography", 
+      "Prospectuses and brochures", 
+      "Event photography", 
+      "Product Photography"
+     ]
+    }, 
+    "universalName": "paul-fletcher-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "My corporate clients benefit from my diverse skills and a wealth of experience as a freelance photographer. I can complement your conference or event with exceptional vibrant and dynamic images, further enhance your business profile with a corporate portrait or an entire company portrait session, or simply work with you to create stunning images of your products and services that will give your clients a comprehensive understanding of your business.\r\n\r\nMy wedding clients benefit from my boundless energy, modern style and sense of fun, working together to create atmospheric and exciting images by combining my documentary and dynamic wedding photography style. I'd love to set the scene for you with a fun and enjoyable pre wedding or engagement shoot or maybe follow up the wedding with a family lifestyle or portrait session.\r\n\r\nWhy not give me a call or connect with me to find out how we can work together to ensure your business images and wedding images are exceptional!      \r\n\r\nA few of my recent projects include watch product photography for the Classic Watch Company in Brighton, images for marketing and website for London bespoke tailors Eveleigh and Read, corporate portraiture for Cardens Accountants in Hove and JRJ Group in London, plus events for IMLPO, Tourism South East and the Brighton Business Curry Club and food photography for the Coal Shed, the Sylvan Oak and Restaurants Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "We are Faith Christian Reformed Church of New Brighton. You'll find that our name says a lot about who we are and what we believe as a church:\r\n\r\nFaith \u2013 We hope that each person we meet develops a growing relationship with Jesus Christ\r\n\r\nChristian \u2013 We are reminded that our focus in life is on Jesus Christ and our relationship with Him\r\n\r\nReformed \u2013 We believe that every area of life has significance to God.  We are always changing and \"reforming\" ourselves and our world as God leads us to be what He wants us to be.\r\n\r\nChurch \u2013 We are not isolated as believers.  Instead, we are called to worship and serve God together as believers, supporting one another in love.\r\n\r\nNew Brighton \u2013 We are located in the city of New Brighton, Minnesota which is just north of Minneapolis.  We hope to make a difference in our neighborhood and the world around us.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Religious Institutions", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.faithcrcmn.org", 
+    "universalName": "faith-christian-reformed-church", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Faith Christian Reformed Church"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 129, 
+    "name": "Komedia", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.komedia.co.uk/brighton", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Comedy", 
+      "Music"
+     ]
+    }, 
+    "universalName": "komedia", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Presenting a large and diverse arts and entertainment programme, Komedia Brighton features international and national performers, and also plays host to a unique range of Komedia-grown resident shows such as the Krater Comedy Club and Comic Boom.\r\n\r\nWith two venues under one roof, we hold comedy and music events throughout the year, and participate in both the Brighton Fringe Festival and Brighton Comedy Festival.\r\n\r\nKomedia is available to book for shows and private hire; for more information please contact our Programmer Marina Kobler at marina@komedia.co.uk.\r\n\r\nFor general enquiries please call us on 01273 647 101"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "UK provider of interview and research transcription services, based in Brighton UK,  with particular expertise in academic, financial, research and business related subject matter. We transcribe tens of thousands of minutes each and every month for clients of all shapes and sizes.\r\n\r\n-100% UK Staff: No work is outsourced overseas.  \r\n-Quality assurance: We employ dedicated, full-time proofreaders, whose sole responsibility is raising the standard of our transcriptions. \r\n-Highly educated transcribers: A significant proportion of our work is academic in nature, and many of our transcribers are degree qualified. \r\n-Dedicated Offices: Our office, located in central Brighton just a couple of minutes from Brighton Railway Station, is based in a self-contained, fully registered, comprehensively insured commercial property, and secured with a industrial grade alarm system. Visitors are welcome by appointment.\r\n-Audited Security: Security is a critical concern. All data that flows through the site is SSL encrypted. The website undergoes a quarterly audit by a 3rd party security firm, who are specialists in online security standards.\r\n-Full Customer Support 9.30am - 5.30pm Monday to Friday: A key differentiator of UK Transcription is our full time support staff. Customer support is a key aspect of our service - there is always someone on hand to answer your queries.", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "5 St George's Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.uktranscription.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "transcription"
+     ]
+    }, 
+    "universalName": "uk-transcription", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "UK Transcription"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "Onyx Facilities Services provides Cleaning and Facilities Services to the public & private sectors, with offices based in London, Brighton and Crawley we are ideally situated to cover London and the South East.\r\n\r\nThe company\u2019s values are:\r\n\r\n\u2022\tTo provide the highest standard of service\r\n\u2022\tTo build long-term relationships with our customers\r\n\u2022\tTo maintain integrity and initiative by taking a fresh approach to our industry\r\n\u2022\tTo maintain professionalism and pride in becoming a market leader\r\n\u2022\tTo achieve long-term stability for our highly trained and motivated staff\r\n\r\nSample Contracts:\r\n\r\n\u2022\tJubilee Library, Brighton\r\n\u2022\tAmex Community Stadium, Brighton & Hove FC\r\n\u2022\tLewes Grammar School\r\n\u2022\tBarclays Bank HQ, Canary Wharf\r\n\u2022\tBOXPARK Shopping Centre, Shoreditch, London\r\n\u2022\tRSPCA Headquarters, Horsham\r\n\u2022\tLingfield Racecourse \r\n\u2022\tHoliday Inn\r\n\u2022\tMarriott Hotel Group\r\n\u2022\tKier Group\r\n\u2022\tMears Group\r\n\u2022\tPrimark\r\n\u2022\tBest Western Hotels\r\n\u2022\tBrighton & Hove Council\r\n\u2022\tPDR Construction", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 092 2989"
+       }, 
+       "address": {
+        "postalCode": "BN1 4JF", 
+        "city": "Brighton", 
+        "street1": "Office Suite 2"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0207 205 2126"
+       }, 
+       "address": {
+        "postalCode": "EC2M 4NS", 
+        "city": "London", 
+        "street1": "Longcroft House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 769 952"
+       }, 
+       "address": {
+        "postalCode": "RH11", 
+        "city": "Crawley", 
+        "street1": "Office Suite 1"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 092 2989"
+       }, 
+       "address": {
+        "postalCode": "SW16 1BN", 
+        "city": "London", 
+        "street1": "Lower Ground, 136 Streatham High Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.onyxservices.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fire & Flood Restoration", 
+      "Cleaning & Hygiene Services", 
+      "Rope Access & Working at Heights", 
+      "Air Conditioning &Ventilation Systems Cleaning & Maintenance"
+     ]
+    }, 
+    "universalName": "mr-gleam-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Onyx Facilities Services Ltd (we have re-branded from Mr Gleam Ltd)"
+   }, 
+   {
+    "numFollowers": 148, 
+    "name": "NHS Brighton and Hove", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "http://www.brightonhovecitypct.nhs.uk/", 
+    "universalName": "nhs-brighton-and-hove", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "NHS Brighton and Hove is the new name we use instead of Brighton and Hove City Teaching Primary Care Trust, as it\u2019s a more accurate description of us as an organisation.\r\n\r\nAlthough much of our work still concerns primary care practitioners (GPs, pharmacists, optometrists and dentists) we do a lot of other things too, as we explain below.\r\n\r\nPut simply, we aim to help people live healthily and stay well, and make sure that high quality care is provided for them when they become unwell."
+   }, 
+   {
+    "numFollowers": 22, 
+    "name": "Absolute Brighton", 
+    "industry": "Broadcast Media", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.absolutebrighton.tv", 
+    "universalName": "absolute-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "ABSOLUTE brighton TV, internet TV / video channel and online magazine. A guide to Brighton and Hove, East Sussex, UK with listings of bars, hotels, clubs, shops, restaurants and videos of exclusive events."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 605, 
+    "description": "- Brighton is a company founded in 2009 dedicated to Real Estate development, site selection, building and renting out retail bank branches;\r\n- Our professionals have large expertise in real estate development, retail expansion, banking, and management consulting;\r\n- Our track record shows 40 projects signed until December 2012, generating over R$ 180 MM investment opportunities;\r\n- We are open to contacts with local and foreign real estate investment funds, private investors and retail bank executives willing to know our value proposition.\r\n\r\nxxxxxxxx\r\n- A Brighton foi fundada em 2009 e \u00e9 uma empresa dedicada ao desenvolvimento imobili\u00e1rio, busca de im\u00f3veis, constru\u00e7\u00e3o e loca\u00e7\u00e3o para ag\u00eancias banc\u00e1rias;\r\n- Nossos profissionais possuem larga experi\u00eancia em desenvolvimento imobili\u00e1rio, expans\u00e3o imobili\u00e1ria, varejo banc\u00e1rio e consultoria de gest\u00e3o;\r\n- Nosso hist\u00f3rio conta com 40 projetos contratados at\u00e9 Dezembro de 2012, gerando oportunidades de investimento avaliadas em mais de R$ 180 milh\u00f5es;\r\n- Estamos abertos a contatos com investidores, fundos de investimentos, e executivos de varejo banc\u00e1rio interessados em conhecer nossa proposta de atua\u00e7\u00e3o.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+55 11 2478-5777"
+       }, 
+       "address": {
+        "postalCode": "05406-00", 
+        "city": "S\u00e3o Paulo", 
+        "street1": "Rua Teodoro Sampaio 744 cj 133"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brighton.adm.br", 
+    "universalName": "brighton-investimentos-e-participa-es", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Brighton Investimentos e Participa\u00e7\u00f5es"
+   }
+  ]
+ }
+}

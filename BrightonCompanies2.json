@@ -1,0 +1,819 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 40, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Brighton USA was started in 1966 by Robert Skeele to service the Janitorial and Paper Supply customers of Staten Island. Over the years our organization has grown to service the needsof the New York, New Jersey Metro Area. The steady growth and stability through the years has ensured a high level of Customer Satisfaction.\r\n\r\nOur highly qualified Sales Representatives, supported by a dedicated force of inside sales and service personnel, make up our Customer Sales Department. Your support and confidence has greatly contributed to our growth and success. On behalf of our management and employees we extend our deepest appreciation.\r\n\r\nBrighton USA is proud to be serving the Staten Island community for more than forty years. Please take some time to find out more about us and become familiar with our various product lines. If you have any questions or don\u2019t see something that you are interested in please contact us via phone, e-mail or just stop in at our modern showroom to see our quality products on display.\r\n\r\nBrighton can offer custom solutions designed to fit your individual needs. Call us today for a free consultation or demonstration and let us talk to you.", 
+    "twitterId": "BrightonUSASI", 
+    "blogRssUrl": "http://brightonusa.biz/news/", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "718-876-0862", 
+        "phone1": "718.447.2000"
+       }, 
+       "address": {
+        "postalCode": "10301", 
+        "city": "Staten Island", 
+        "street1": "814 Richmond Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1966, 
+    "websiteUrl": "www.brightonusa.biz", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Green Cleaning Products", 
+      "Energy Efficient Lighting", 
+      "Janitorial Supplies", 
+      "Soaps & Sanitizers", 
+      "Floor Care Products", 
+      "Carpet Cleaning Products", 
+      "Vacuum Cleaners", 
+      "Seasonal Products"
+     ]
+    }, 
+    "universalName": "brighton-usa", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton, USA"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "name": "Brighton cookery school", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightoncookeryschool.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "teams building events", 
+      "hen parties", 
+      "Birthday celebration", 
+      "cookery classes", 
+      "stag parties"
+     ]
+    }, 
+    "universalName": "brighton-cookery-school", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton cookery school is an innovative and creative cookery school located in the heart of Brighton.\r\n\r\nWe specialize in recreating the total \u201cRestaurant \u201cexperience!\r\n\r\nBrighton cookery school specializes parties ranging from Birthday celebrations, Hen parties, and dinner parties to corporate and teams building events.\r\n\r\nGuests are welcomed with drinks and canap\u00e9s as they arrive and then proceed to cook their own delicious meal supported by our team."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 169, 
+    "description": "Internship in Brighton is a Sussex based British company which welcomes students studying vocationally from all European Union countries, & especially those from within the Leonardo da Vinci & Erasmus programmes. \r\nWe organise work placements for students in a wide range of vocational areas, along with related social/cultural events as part of our 'Classic package'. Our 'Business package 'offers specialist seminars and internships for  students currently studying at European Business colleges whilst our 'Cultural conections' package enables groups to experience a wide range of sporting and cultural activities & connections with a wide range of communities throughout Brighton & Hove.   \r\n\r\nWe are based in Brighton on the south coast of England just  50 minutes by train from London. The city benefits from a wide variety of  activities along with its beach and two universities, giving the city a vibrant working environment. and atmosphere. We provide for our partners the following services:\r\n\r\n\u2022 Organisation of quality work placements\r\n  Organisation of business seninars & related placements\r\n  Organisation of cultural & sports related programmes \r\n\u2022 In house & school based English language courses \r\n\u2022 Mentoring & follow-up with final report & certificates\r\n\u2022 Organisation of accommodation \r\n\u2022 Meet and greet transfers from and to the nearest rail/airport.\r\n\r\nWe also arrange individual internships for EU students with a full support programme of the above elements as well.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)1273 251271"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GQ", 
+        "city": "Brighton", 
+        "street1": "IIB @ Brighton Junction,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.internshipinbrighton.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Educational & cultural 'one stop shop' packages for groups"
+     ]
+    }, 
+    "universalName": "internship-in-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Internship in Brighton"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 12, 
+    "description": "Specialising in mortgages and protection.\r\nBrighton and Hove Mortgages\r\nT: 01903 879912  M: 07802 619215 \r\nmike@brightonandhovemortgages.com\r\nwww.brightonandhovemortgages.com \r\nAlbany Villa, Station Road, Steyning BN44 3YL\r\nRegistered Office. Brighton & Hove Mortgages Limited, 12 Station Road, Portslade, East Sussex BN41 1GA. Registered in England, Company No.07467148. Brighton & Hove Mortgages Limited is an appointed representative of Legal & General Partnership Services Limited which is authorised and regulated by the Financial Services Authority for advising on and arranging mortgages and insurance", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01903 815641"
+       }, 
+       "address": {
+        "postalCode": "BN44 3YL", 
+        "city": "Steyning", 
+        "street1": "Alabny Villa"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "brightonandhovemortgages.com", 
+    "universalName": "brighton-and-hove-mortgages", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton and Hove Mortgages"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Zhoosh! Connecting LGBTQ people in Brighton & Hove. \r\nZhoosh offers an alternative and  non-scene guide to LGBTQ life in the city. \r\nIt's a hub containing: \r\na directory of Brighton listings of lesbian, gay, bisexual and trans groups, organisations and services - updated regularly so it's always accurate. \r\na blog - reflecting and commenting on LGBTQ life in Brighton & Hove.  \r\nevens guide - not just another pub & club guide, Zhoosh promotes alternative local group & charity fundraising events.\r\nnetwork - here you can create your own profile, join lesbian, gay, bisexual and trans groups, chat with friends and meet new people.\r\n\r\nZhoosh' purpose is to contribute to reducing isolation someone may feel because they identify as LGBT and improving their physical & mental well-being.'\r\n\r\nBecome a fan of Zhoosh! on Facebook: http://www.facebook.com/Zhooshbrighton\r\nYou can also follow us on Twitter: http://twitter.com/zhooshbrighton", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Brighton & Hove", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.zhoosh.co.uk", 
+    "universalName": "zhoosh-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Zhoosh Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Buzz Brighton is the best resource for getting underneath the roots of Brighton's best undiscovered creative talent. A platform for local photographers, writers and bands and of course a one stop resource for the best nights out in Brighton.\r\n\r\nOur aim is simple: to showcase the best local talent and provide a platform to voice their work. Contact us for more information.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.buzzbrighton.co.uk", 
+    "universalName": "buzz-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Buzz Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "St. Nicholas Church Brighton is the oldest building in the city. It has seen the history of Brighton and Britain develop over nearly 1000 years. The Friends mission is to restore the building and to dramatise the history it has experienced from the Domesday Book to its 12th century font to the Frech sacking of Brighton in the 16th century to Dr. Johnson and the Duke of Welllington who worshipped here in the 18th century. \r\nThe building  through funds rsaised has already been significantly restored - Lady Chapel, Victorian wall decorations and chancel ceiling, 15th century Rood Screen and now the Tower - parts of which date back to Norman times.\r\nAs Trustees our job is to raise the money to make St. Nicholas an even more exciting and rewarding place to visit.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Museums & Institutions", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://friendsofstnicholas.sm4.biz", 
+    "universalName": "the-friends-of-st.-nicholas-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Friends of St. Nicholas Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Unconventional and vintage wedding photography in Brighton and the UK by Heather Shuker. \r\n\r\nI was awarded a PG Photography from Central St Martins in 2009 and I am currently working (part-time) on my MA in photography at Brighton University; I am continuing to study photography because I love it and I am totally submerged in photography and art every day...well other than a friday when I am \"supposed\" to do my accounts!\r\n\r\nBased in my attic, by the sea in Brighton, I am free to work anywhere in the UK, in fact anywhere in the world \u2013 as long as it's warm!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brighton-photo.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "wedding photography", 
+      "portraits"
+     ]
+    }, 
+    "universalName": "brighton-photo", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Brighton Photo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "Brighton Active", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightonactive.com", 
+    "universalName": "brighton-active", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "BRIGHTON ACTIVE is Brighton's number one FREE Health, Fitness & Sport magazine targeted at both men and women. Distributed across Brighton & Hove to local Leisure Centres and Health Clubs, Sports Clubs and Sports Stores, Swimming Pools, Health Food Stores, City Council Offices, Cafes, Restaurants and more. The magazine can also be viewed online. Each issue runs for 2 months providing maximum exposure and superb value for all our partners."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 49, 
+    "description": "The Brighton Fire Department serves the communities of Brighton and northern Pittsford in Monroe County, New York.  We border the City of Rochester to the northwest, Penfield to the northeast, East Rochester to the east, Pittsford to the southeast, and West Brighton to the southwest.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Public Safety", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(585) 381-3200 (non-emergency)"
+       }, 
+       "address": {
+        "postalCode": "14610", 
+        "city": "Rochester", 
+        "street1": "3100 East Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14618", 
+        "city": "Rochester", 
+        "street1": "2605 Elmwood Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "14610", 
+        "city": "Rochester", 
+        "street1": "429 Clover Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1925, 
+    "websiteUrl": "www.brightonfd.org", 
+    "universalName": "brighton-fire-department", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Brighton Fire Department"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "The monthly Brighton Business Curry Club networking event has been attracting businesses from Brighton and beyond for more than two years. Now the event is firmly established as one of the most informal, cost effective and fun networking events held in the city of Brighton and Hove.", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightonbusinesscurryclub.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Business Networking"
+     ]
+    }, 
+    "universalName": "the-brighton-business-curry-club", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Brighton Business Curry Club"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 78, 
+    "description": "Brighton Management Consulting LLC provides a broad spectrum of management consulting services for both public and private sector enterprises, ranging from developing sound strategies to aligning the organization with its objectives. We address the strategic questions that relate to the entire enterprise. \r\n\r\nBeyond strategy, the challenge of improving organizational performance while adapting to driving changes in the workforce, markets, customers, and technology, requires new management approaches, processes, and practices. Brighton management services provide clients with state-of-the-art management approaches and tools to achieve measurable improvements in defining and reaching their goals, while conserving resources.\r\n\r\nBrighton proffisional team has a large experience supporting the region for the follwoing topics: \r\n\r\n- Strategic Planning \r\n- Balance scorcard and KPIs design \r\n- Excellence Programs by EFQM\r\n- BPR/BPI/BPM\r\n- ISO 9000\r\n- TQM & 6-Segma\r\n- Organization Re-structuring", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+962 6 55 43 669", 
+        "phone1": "+962 6 55 43 668"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Amman", 
+        "street1": "Al Madina Al Munawara"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.brighton-consulting.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Strategic Planning", 
+      "BSC", 
+      "KPIs", 
+      "BPR", 
+      "BPM", 
+      "EFQM", 
+      "6-Segma", 
+      "TQM", 
+      "Excellence Assessment", 
+      "ISO 9000"
+     ]
+    }, 
+    "universalName": "brighton-management-consulting", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Management Consulting"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 65, 
+    "description": "Saxon's New Brighton Ford is your local Minneapolis Ford Dealer serving New Brighton, Fridley, Blaine, Brooklyn Park, Columbia Heights, St. Anthony, and more cities!\r\n\r\nNew Brighton Ford had been operating since 2002, but is a third generation family owned and operated buiness. The Saxon Family has been in the automotive industry since 1936!", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "6516339010"
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "1100 Silver Lake Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1936, 
+    "websiteUrl": "www.newbrightonford.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "New Ford Vehicle Sales", 
+      "Pre-Owned Car Lot", 
+      "Tire Dealer", 
+      "Ford Dealer", 
+      "Car Repair Shop"
+     ]
+    }, 
+    "universalName": "new-brighton-ford", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "New Brighton Ford"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 136, 
+    "description": "Located 11 kilometres south-west of the Adelaide Central Business District, the City of Holdfast Bay is regarded as a progressive and lively seaside community, and its rich heritage, sandy beaches, and exciting attractions have earned it the reputation as Adelaide\u2019s favourite coastal destination.\r\n\r\nWith a footprint of just under 14 square kilometres, the City includes the suburbs of Brighton, North Brighton, South Brighton,Glenelg, Glenelg East, Glenelg North, Glenelg South, Hove,Kingston Park, Seacliff, Seacliff Park and Somerton Park.\r\n\r\nThe City is predominantly residential, with thriving retail precincts in Glenelg, Brighton and along Brighton Road\r\nand a light industrial base at Somerton Park. The 2011 Commonwealth Census data shows a residential population of 34,606, of which 21.6% were over the age of 65, and 36.9% are under the age of 34. Comparisons with the 2006\r\nCensus shows a slight decline in the number of older residents and an increase in the numbers of younger residents.", 
+    "twitterId": "", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08 82984561", 
+        "phone1": "08 8229 9999"
+       }, 
+       "address": {
+        "postalCode": "5048", 
+        "city": "Brighton", 
+        "street1": "24  Jetty Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.holdfastbay.sa.gov.au", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Local Government", 
+      "Glenelg, South Australia", 
+      "Council"
+     ]
+    }, 
+    "universalName": "city-of-holdfast-bay", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "City of Holdfast Bay"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "GIRAFFE Magazine is a new monthly mini-mag based and distributed in Brighton.\r\nOur magazine is written by local comedians and features interviews, artwork and articles.\r\nWe also provide comedy listings for Brighton & Hove.\r\n\r\nGIRAFFE promotes Brighton comedians and local businesses. \r\nAd space is available at great rates. \r\nHere are some reasons to advertise with us:\r\n\r\nGIRAFFE is Brighton\u2019s only FREE Stand-up comedy magazine\r\nGIRAFFE is distributed throughout the whole of Brighton \r\nGIRAFFE has an estimated readership of 40,000 every month!\r\nGIRAFFE is written and produced by local comedians and supports local comedy\r\nGIRAFFE offers a discount for multiple month advertising space\r\nGIRAFFE offers free inclusion in the online version of our magazine\r\nGIRAFFE can provide a Design Service for your advertisement\r\nGIRAFFE has a broad and diverse readership with an age range of 18-59\r\nGIRAFFE is a reliable source of full monthly comedy listings\r\nGIRAFFE is currently offering a special introductory price\r\n\r\nA press pack is available on request.\r\nContact us for more details:\r\nadvertising@giraffemag.co.uk", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brighton"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.giraffemag.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Comedy", 
+      "Stand-up", 
+      "Advertising"
+     ]
+    }, 
+    "universalName": "giraffe-magazine", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "GIRAFFE Magazine"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "He-Van are a fun team hence the He-Man Pun! However as a company, we are firm believers that removals, collection and delivery services should be carried out in a professional way with high standards and respect to property and people, hence that\u2019s why were good at what we do. I believe that our can-do attitude and hard working approach truly sets us apart from most of our competitors.\r\n \r\nHe Van is more than the average man and van service and more than a Brighton removals firm. We are a professional team with commitment to the customer experience at an affordable price within everyone\u2019s reach. We also take pride in supporting community events in Brighton such as the Brighton and Hove food and drink festival. More collaborations are set for 2013.  \r\n\r\nHe-Van, Movers of the Universe now offer cheap storage facilities in the heart of Brighton and can provide a complete packing and unpacking service. Furthermore we can now offer a removals service for bedsits and flats to large houses and offices. He-Van has teamed up with one of the UK's largest removal firms based in Brighton and have access to rigid 12 meter lorries. See the website for full details and services that are offered at www.he-vanandman.co.uk\r\n \r\nMy team and I hope that you feel confident with our service and welcome your feedback at any time. If you require a visit to your property to ascertain your moving needs, drop us a line and we\u2019ll arrange a convenient time for your free quote.", 
+    "twitterId": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07795 678200"
+       }, 
+       "address": {
+        "postalCode": "BN12FF", 
+        "city": "Brighton", 
+        "street1": "63 Regency Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.he-vanandman.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Removals", 
+      "Storage", 
+      "Packing / Unpacking Service", 
+      "Man and Van", 
+      "Business Deliveries / Collections"
+     ]
+    }, 
+    "universalName": "hevanremovals", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "HeVanRemovals"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 290, 
+    "description": "Welcome to One Crown Office Row\r\n\r\nWe are one of England\u2019s largest barristers Chambers with 66 barristers, including 22 QCs, based in London and 43 based in our Annexe in Brighton.\r\n\r\nWe are regularly rated as one of the top 30 sets of Chambers in England with large numbers of our barristers listed in Legal Directories as leaders in their field of practice.\r\n\r\nTracing our history back to the 1930\u2019s, we have developed a strong reputation in particular for our advocacy skills. High standards are set to obtain a tenancy here. This strict \u201cquality control\u201d is reflected in the large numbers of Members who have become QCs and in the regularly high numbers of appointees (22 in 2011) to the Attorney General\u2019s A, B and C Panels. \r\n\r\nWe run the widely acclaimed UK Human Rights Blog (http://ukhumanrightsblog.com) and its older sister the UK Human Rights Update site (www.humanrights.org.uk).\r\n\r\nIn Brighton, we practise in Family, Civil and Criminal law from a centrally located Annexe established 40 years ago with clients drawn from Brighton & Hove and a wide swathe of the South Coast and areas South of London.\r\n\r\nWe provide mediation services in London and Brighton and several Brighton-based barristers also accept work in accordance with the Bar\u2019s public access scheme i.e. receiving instructions direct from members of the public.  \r\n\r\nVisit our website at www.1cor.com for further information.", 
+    "twitterId": "1CORBrighton", 
+    "blogRssUrl": "", 
+    "industry": "Law Practice", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.1cor.com", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Clinical Negligence", 
+      "Personal Injury", 
+      "Professional Discipline", 
+      "Public Law and Public Inquiries", 
+      "Human Rights", 
+      "Family Law", 
+      "Employment and Equality Law", 
+      "Property Law", 
+      "Environmental Law", 
+      "Tax", 
+      "Criminal Law", 
+      "Inquests and Coroners", 
+      "Costs", 
+      "Professional Negliegence"
+     ]
+    }, 
+    "universalName": "crown-office-row", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Crown Office Row"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 156, 
+    "description": "The Brighton Group \r\n\r\nOverview:\r\nThe Brighton Group provides business leaders with the highest quality and most comprehensive career and organizational consulting services available. We are successful because of our ability to understand the unique needs of the organizations we serve and the 'people' challenges they face. \"A better human experience . . . for a better business outcome.\"\r\n\t\r\n\tRepresentative clients: \r\n        City of Bellevue\t\r\n\tDHL / Airborne Express\r\n\tRussell Investments\r\n\tFred Hutchinson Cancer Research Center\r\n\tNintendo of America Inc.\r\n        World Vision\r\n\tPhilips Medical Systems\r\n        Symetra Financial\r\n\tK & L Gates\r\n\tQwest\r\n\tSafeco\r\n\tWorld Vision\r\n\tZymoGenetics\r\n\t\r\nHeadquarters: Bellevue, Washington: 425.451.3929 \r\nSatellite offices: Spokane and Tacoma, Washington\r\n\t\r\nAreas served: Washington State through local offices \u2014 other US states and 27 other countries through OI Partners. \t\r\n\r\nPrincipals:\t\r\nSusan H. Stringer\r\nManaging Partner\r\n\r\nStace Rudd\r\nManaging Partner\r\n \t\r\nBusiness highlights: Only national provider offering one-on-one-coaching as the foundation for every transition program. Member of OI Partners, the world's largest career consulting partnership. Through OI Partners, The Brighton Group can manage projects across 27 countries from 200 offices. Demonstrated success in managing all sizes of projects from individual assignments to large-scale, multi-state downsizings.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "425.749.5720", 
+        "phone1": "425.451.3929"
+       }, 
+       "address": {
+        "postalCode": "98005", 
+        "city": "Bellevue", 
+        "street1": "11747 NE 1st Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "509.252.5012"
+       }, 
+       "address": {
+        "postalCode": "99201", 
+        "city": "Spokane", 
+        "street1": "505 W. Riverside Avenue"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "888.212.6148"
+       }, 
+       "address": {
+        "postalCode": "98402", 
+        "city": "Tacoma", 
+        "street1": "1201 Pacific Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.brightongrp.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Consulting", 
+      "Executive Coaching", 
+      "Career Transition", 
+      "Strategic Planning", 
+      "Talent Management", 
+      "Human Resource Performance Management", 
+      "Change Facilitation", 
+      "Nonprofit Consulting", 
+      "Executive Search"
+     ]
+    }, 
+    "universalName": "the-brighton-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Brighton Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 192, 
+    "name": "Brighton Fringe", 
+    "twitterId": "", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273764900"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EF", 
+        "city": "Brighton", 
+        "street1": "5 Palace Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightonfringe.org", 
+    "universalName": "brighton-fringe", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Brighton Fringe is the largest arts festival in England and one of the largest fringe festivals in the world and what makes it exceptional is that it is set in an iconic city with unique cultural heritage. It sets out to stimulate, educate and entertain a wide audience by providing a showcase for diverse art forms.\r\n\r\nIt takes place every May and for the second time, it is a 4-week festival in 2014 (3 May \u2013 1 June) to include the summer half-term week. Brighton Fringe has grown out of and is inspired by home-grown creativity: more than 50% of events are put on by artistic companies based in Brighton & Hove. In 2013, it had 734 individual events, 176 free events, 3654 performances at 185 venues.\r\n\r\nIt is also a completely open access festival, which means anyone can put on an event and be included in the brochure and website listings on payment of a fee. By definition, Brighton Fringe can include any art form. No artistic judgment or selection criteria are imposed on participants, enabling the development of both new and established work to attract fresh audiences, press and promoters."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4184, 
+    "name": "University of Brighton", 
+    "twitterId": "@uniofbrighton", 
+    "industry": "Higher Education", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1859, 
+    "websiteUrl": "http://www.brighton.ac.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Teaching", 
+      "Research", 
+      "Consultancy", 
+      "Training & Development"
+     ]
+    }, 
+    "universalName": "university-of-brighton", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Thriving, coastal university delivering professionally focused courses that fulfil ambitions; research that transforms lives and knowledge that nurtures communities worldwide. We have three campuses in Brighton with further campuses in Eastbourne and Hastings."
+   }
+  ]
+ }
+}

@@ -1,0 +1,791 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1500, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 236, 
+    "description": "Dalco is a full-line distributor of commercial, institutional and industrial cleaning supplies and equipment. \r\n \r\nDalco\u2019s regional market area covers the state of Minnesota, parts of Wisconsin, Northern Iowa, and the Upper Peninsula of Michigan. Our four distribution locations include Dalco\u2019s corporate headquarters in New Brighton, MN, with branch facilities in Duluth, MN Rochester, MN and LaCrosse, WI.\r\n\r\nSince starting business in 1959, Dalco\u2019s growth has been on a \"service philosophy\" that addresses the total needs of our customers. With today\u2019s ever increasing labor costs, your annual \"cleaning dollar\" budget will be more effectively managed by implementing quality, preventive maintenance products and equipment. Moreover, Dalco provides hands-on training programs and maintains an extensive audiovisual film library.", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "300 5th Street NW"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "55811", 
+        "city": "Duluth", 
+        "street1": "4133 Stebner Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(507) 288-0085", 
+        "phone1": "(507) 288-3388"
+       }, 
+       "address": {
+        "postalCode": "55904", 
+        "city": "Rochester", 
+        "street1": "42 Wood Lake Drive SE"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(608) 781-2956", 
+        "phone1": "(608) 781-2534"
+       }, 
+       "address": {
+        "postalCode": "54601", 
+        "city": "La Crosse", 
+        "street1": "3132 Berlin Drive"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "(906) 228-6691", 
+        "phone1": "(906) 228-6350"
+       }, 
+       "address": {
+        "postalCode": "49855", 
+        "city": "Marquette", 
+        "street1": "475 River Park Circle"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1959, 
+    "websiteUrl": "http://www.dalcoonline.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Commercial, Institutional and Industrial Cleaning Supplies", 
+      "Customized Floor Matting", 
+      "Paper Products", 
+      "Equipment and Repair", 
+      "Laundry and Warewash Products"
+     ]
+    }, 
+    "universalName": "dalco_2", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dalco"
+   }, 
+   {
+    "numFollowers": 26, 
+    "name": "Gay Business Conference", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.gaybusinessconference.com", 
+    "universalName": "gay-business-conference", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The 1-day GAY BUSINESS CONFERENCE taking place on 29 June 2010 in London, UK. This conference is for representatives from organisations and businesses of all types ('gay' and 'mainstream') in the UK, Europe and worldwide, to facilitate the exchange of information and expertise in doing business with consumers who identify as gay or bisexual.\r\n\r\nWe have a full programme of excellent guest speakers, ready to speak from personal experience about how they have developed their businesses and organisations successfully, targeting gay and bisexual customers, including: 6PC member Juan P. Juli\u00e1 (Axel Hotels), Kim Watson (Millivres Prowler Group), Neil Spring (Village Drinks), Ian Johnson (Out Now Consulting), Matthew Todd (Attitude Magazine), Andrew Roberts (AMRO Worldwide) and Matthew D'Arcy (OMTAC and GMen Brighton).\r\n\r\nPlease visit the website for full details and to book securely online (www.gaybusinessconference.com), see you on Tuesday 29 June 2010!"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Bulletin Newspapers", 
+    "industry": "Newspapers", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02136"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bulletinnewspapers.com", 
+    "universalName": "bulletin-newspapers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "The Boston Bulletin is a weekly newspaper with local coverage in the Allston-Brighton, Northend, South Boston, Jamaica Plain, West Roxbury, Roslindale and Hyde Park neighborhoods."
+   }, 
+   {
+    "numFollowers": 229, 
+    "name": "British Arts Festival Association (BAFA)", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "WC2N 4LL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.artsfestivals.com", 
+    "universalName": "british-arts-festival-association-bafa-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "BAFA is a vibrant membership organisation covering the widest span of arts festivals in the UK. These include some of the large international cultural events such as the Edinburgh International Festival and Brighton Festival through to small dynamic festivals such as the Winchester Hat Fair and the Corsham Festival in Wiltshire."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "name": "VisitJourneys.com Limited", 
+    "twitterId": "http://twitter.com/#!/visitjourneys", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "020 7252 0046", 
+        "phone1": "020 7231 4672"
+       }, 
+       "address": {
+        "postalCode": "SE16 4NZ", 
+        "city": "London", 
+        "street1": "13 West Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.visitjourneys.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Youth Hostel Accomodation", 
+      "Backpacking", 
+      "Budget Accomodation"
+     ]
+    }, 
+    "universalName": "visitjourneys.-com-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Journeys Hostels are a leading international hostel franchise based in London Bridge, England. They currently run four hostels in the UK- Kings Cross, Kennington, Greenwich West and Brighton and will be expanding internationally in the next five years. \r\n\r\nTheir unique franchise model allows new and existing hostels to join the Journeys group, operate under its ever growing brand name, and take advantage of a comprehensive list of services and benefits.\r\n \r\nJourneys are also one of the fastest growing backpacker brands in the world, priding themselves on, 'keeping the true spirit of backpacking alive'. Each of their hostel locations retains a unique personality, whilst at the same time conveying something that's 'unmistakably Journeys'. \r\n\r\nWhen guests stay at a Journeys Hostel they receive something more than just a place to lay their head. They become part of an international network of like minded backpackers who celebrate cultural interchange, responsible travel and global discovery."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "name": "CIIS", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.ciis.ac.in", 
+    "universalName": "ciis_2", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Continental Institute for International Studies, formerly known as the Canadian Institute for International Studies, has truly carved out a niche for itself as a provider of accredited International Education that transcends the boundaries of inter-continental divides, thus preparing the right groundwork for students to become future global professionals. CIIS has also established tie-up with UCOL, New Zealand, University of Brighton-UK and with AYR College, Scotland"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Synapse Firing Squad is an independent Boston-based game development studio dedicated to making fun, innovative games for a variety of platforms.   We are based in Brighton, Massachusetts and we are all very passionate about games, and creating them.", 
+    "twitterId": "sfsgames", 
+    "blogRssUrl": "http://synapsefiringsquad.com/blog/", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "SFS Lane"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.synapsefiringsquad.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Innovative multi-faceted games"
+     ]
+    }, 
+    "universalName": "synapse-firing-squad", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Synapse Firing Squad"
+   }, 
+   {
+    "numFollowers": 3, 
+    "name": "Konfine Limited", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN176SD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.konfine.co.uk", 
+    "universalName": "konfine-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "A little about Konfine and what we do.\r\n\r\nKonfine is a small Web Design and Development agency based along the South Coast of the UK, located between Brighton and Chichester. We specialise in combining our knowledge of the internet, databases and wide range of programming languages to provide bespoke web solutions that match our and your clients needs.\r\n\r\nWe have a huge range of services that can help in getting your website started in the best possible way. We start our process developing your solution in a graphical form - Web Deisgn. Once you're happy with the design and added any additions to the design phase the web development stage commences. Konfine uses the latest in development tools and all our websites are created with the maximum potential of Search Engine Optimisation (SEO) in mind. Choose as much content that you would like to be manageable using our easy to use Content Management System (CMS)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Scribble Digital are a mobile apps agency dedicated to connecting you with your audience in the digital sphere. We are looking at the future and how to sit your brand at the forefront.\r\n\r\nBased by the sea in Brighton, we are a creative team with backgrounds across the media industry, that have come together to help clients create engaging digital and mobile solutions which fully integrate with the bigger picture. We work with our clients closely to take ideas from conception through to launch.\r\n\r\nIn the constantly evolving landscape of mobile we have committed ourselves to staying at the forefront of technology and what is possible. Scribble was formed in 2009 and we have over three years of expertise in creating and building apps, which in the world of mobile, is almost a lifetime.\r\n\r\nWe understand the importance of a strategy that is harmonious across a multi-channel environment. We specialise in digital; develop cross-platform mobile applications, create integrated digital strategies, embrace future technology, love augmented reality and deliver compelling website solutions.\r\n\r\nWorking with clients across the world to deliver creative and innovative digital solutions, we deliver measurable results providing genuine return on investment.\r\n\r\nScribble Digital are excited about digital and what is coming next.\r\n\r\nImagine, create, communicate.", 
+    "twitterId": "scribbledigital", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 871 8011"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "18 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.scribbledigital.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Mobile Applications", 
+      "Website Design & Development", 
+      "Mobile Strategy Guidance & Consultancy", 
+      "Augmented Reality"
+     ]
+    }, 
+    "universalName": "scribble-digital", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Scribble Digital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 37, 
+    "name": "Edgars Cool Water Limited", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 888338", 
+        "phone1": "01273 701618"
+       }, 
+       "address": {
+        "postalCode": "BN43 6RN", 
+        "city": "Shoreham By Sea", 
+        "street1": "New Wharf"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.edgarscoolwater.co.uk", 
+    "universalName": "edgars-cool-water-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Edgars Cool Water is one of the largest independant suppliers of water coolers and bottled water in the South of England, and provides an established quality service throughout the UK.\r\n\r\nWe provide a wide range of drinks solutions to support all of our customers needs from bottled and mains fed water coolers, water fountains, boilers and vending machines.\r\n\r\nWe are proud supporters of the British Heart Foundation and have played a significant role in their London to Brighton Bike Ride for many years handing out over 24,000 bottles of water at the finishing line, to rehydrate the deserving riders.\r\n\r\nWhether you require a drinks solution or a complete profile of products, Edgars Cool Water can provide a service and soultion that meets your requirements and budget."
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Tanks and Targets", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN14 0RQ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.tanksandtargets.co.uk", 
+    "universalName": "tanks-and-targets", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Tanks and Targets is the ideal Activity Centre for Stag or Hen weekends, Corporate Activity days, couples and individuals. Located in Findon West Sussex, North of Worthing, only 30 minutes from Brighton.\r\nWith 1200 acres set in the beautiful South Downs we cater for groups of all sizes and abilities. We're ideal for: Stag & Hen activity days, Corporate activity days, Group days and Birthdays."
+   }, 
+   {
+    "numFollowers": 27, 
+    "name": "Chapmans of Sevenoaks Ltd", 
+    "industry": "Fishery", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "TN14 5EZ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.chapmanshomedelivery.co.uk", 
+    "universalName": "chapmans-of-sevenoaks-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Chapman's of Sevenoaks supply superior locally sourced fish and seafood to many of the very best restaurants and hotels in Kent, East Sussex and London.\r\n\r\nChapman's have forged strong local partnerships that enable us to buy some of the best day boat catches along the Kent and Sussex coast, from Whitstable round to Brighton, allowing us to provide superior quality, locally sourced fish, fresh from the boats. This approach means that our local fish is fresher and will keep longer than most market fish, whilst reducing food miles and improving the traceability."
+   }, 
+   {
+    "numFollowers": 9, 
+    "name": "Apex Group, LTD", 
+    "industry": "Machinery", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "75070"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.apex-group.org", 
+    "universalName": "apex-group-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "About Us - Apex Group (www.apex-group.org) is an international company headquartered in Brighton, England with offices in Chicago and Dallas.  In 1963 we began and continue today to be a used metalworking machinery dealer.  In 2001 we launched our auction services using an in-house online platform (www.apexauctions.com).  We are high focused on selling machine tools and complete plant contents.  Apex continually reinvests into this technology to better the results we attain for our clients.  An Apex online auction averages over 98% sell through with over 28% of all lots posted going offshore.  We have 150,000+ registered buying customers located in 59 countries and often realize 15% higher values over competitive solutions selling like type machines.  In 2009 Apex conducted over 150 equipment sales, averaged 118 registered bidders at each sale, with over 7,000,000 web views, selling 10,000+ machine tools at more than $24,000,000 in value."
+   }, 
+   {
+    "numFollowers": 5, 
+    "name": "Matt Wright Graphic Design", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1AU"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.mattwrightgraphicdesign.co.uk", 
+    "universalName": "matt-wright-graphic-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "T.07545 093 585 \r\n\r\nA Brighton based graphic designer with 6 years experience and a personal passion for the creative process. I specialize in branding and corporate identity, striving to build and strengthen your company through distinctive visual communication. I can deliver unique ideas through to a powerful and impressive outcome. With a thorough understanding of print processes and finishes, I always strive to achieve the maximum for the client."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "BarCamp London", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.barcamplondon.org/", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "free community events"
+     ]
+    }, 
+    "universalName": "barcamp-london", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "BarCamp London has traditionally been one of the UK's largest BarCamps. This free community event, is entirely funded from contributions from our generous sponsors.\r\n\r\nOur last event was held in October 2009 and attracted well over 200 people from across the UK and Europe.\r\n\r\nAs well as BarCamp London, there have been events held in Bath, Blackpool, Bournemouth, Brighton, Cambridge, Leeds, Manchester and Newcastle, to name but a few.\r\n\r\nAbsolutely anyone can organise a BarCamp, and they can be as large or small as you wish. See barcamp.org for details."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Netleap is an innovative digital agency with offices in Brighton.\r\n\r\nOur strategy focuses on you, and helps you promoting your style, products/services and brand.\r\n\r\nDESIGN\r\n\r\nWe ensure that your website provides a compelling experience, which:\r\n\r\n    * Creates an emotional power inspiring the hearts and minds of buyers/users\r\n    * Delivers a strong message that establishes your value proposition \r\n\r\nINTERACTION\r\n\r\nWe set objectives that fit with your particular business model, and ensure your website delivers on:\r\n\r\n    * Accessiblity: who you are, what you do, and how you do it\r\n    * Communication: Open new channels of communication\r\n    * Availability: Consistent delivery and always reachable \r\n\r\nREPORTING\r\n\r\nWe set up key performance indicators (KPIs) to ensure that focus is kept solely on the requirements and business objectives. Once the site has been delivered, we then report on a monthly basis.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 818 100"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ZE", 
+        "city": "Brighton", 
+        "street1": "5 The Offices"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.netleap.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "websites", 
+      "mobile applications and online marketing"
+     ]
+    }, 
+    "universalName": "netleap", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Netleap"
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "DoubleD Photography", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.photoboxgallery.com/sussexfootball", 
+    "universalName": "doubled-photography", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "A one stop shop for professional action photographs from the Brighton and Hove football league.\r\nView and buy your pictures here."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Personal styling. Set up in 2009, I am a self-employed stylist and writer working in Brighton. I work with women to help them realise their own style potential and am particularly involved in helping brides-to-be and mothers of the bride.\r\n\r\nI also work as a writer.", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 3PT"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.mulhollandandbruen.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Styling", 
+      "personal shopping", 
+      "weddings", 
+      "fashion writing"
+     ]
+    }, 
+    "universalName": "mulholland-&-bruen", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mulholland & Bruen"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 36, 
+    "description": "RAP Office Contracts provide a complete solution for office refurbishments for business, commercial, public sector, Housing Associations, blue chip companies throughtout London, Brighton and the South East.  \r\n\r\nIdentifying and understanding our clients key priorities we can provide a turnkey solution from space planning to design and build. Our business is enriched by the huge difference in projects and delivering outstanding refurbishments, all to ISO standard. \r\n\r\nConstructionline/Safe Contractor approved, appointed H & S Manager, CDM compliance.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0333 6001234"
+       }, 
+       "address": {
+        "postalCode": "ME15 9YE", 
+        "city": "Maidstone", 
+        "street1": "6 Orchard Industrial Estate"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0333 600 1234"
+       }, 
+       "address": {
+        "postalCode": "CM12", 
+        "city": "Chelmsford", 
+        "street1": "Waterhouse Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "www.rapofficecontracts.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Office Refurbishment", 
+      "Office Design", 
+      "Office Facilities Management", 
+      "Office Relocation", 
+      "Office Furniture", 
+      "Office Space Planning", 
+      "School Design & Fit Out", 
+      "School Refurbishment", 
+      "School Furniture", 
+      "Care Home Design & Fit Out", 
+      "Care Home Refurbishment", 
+      "Care Home Furniture"
+     ]
+    }, 
+    "universalName": "rap-group-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "RAP Office Contracts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "Smooth Transitions has been specializing in Newborn Care Specialist placements for over 15 years, making us one of the most established and respected agencies in Colorado.\r\n\r\nOur unique system of determining a family's needs and matching them to our qualified, nonjudgmental Specialists makes the process of finding custom, in-home care easy and stress-free.\r\n\r\nWe care about and listen to everyone's needs. Our goal is to build long-lasting relationships and to help find the right Specialist for each family and the right family for each Specialist.\r\n\r\nWe place Newborn Care Specialists in the Denver Metro area, including but not limited to:\r\n\r\nArvada - Aurora\r\nBoulder - Brighton - Broomfield\r\nCastle Rock - Centennial - Colorado Springs - Commerce City\r\nDenver\r\nEdgewater - Englewood - Erie - Evergreen\r\nFrederick\r\nGlendale - Golden - Greenwood Village\r\nHenderson - Highlands Ranch\r\nLafayette - Lakewood - Littleton - Lone Tree - Louisville\r\nMorrison\r\nNederland - Northglenn\r\nParker\r\nSuperior\r\nThornton\r\nWestminster - Wheat Ridge\r\n\r\nContact us today to find out more about our services and how we can help whatever your situation may be.\ufeff", 
+    "twitterId": "smthtransitions", 
+    "industry": "Individual & Family Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "720-746-6393", 
+        "phone1": "303-635-0979"
+       }, 
+       "address": {
+        "postalCode": "80206", 
+        "city": "Denver", 
+        "street1": "44 Cook St"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "http://www.smoothtransitions.net/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Newborn Care Specialist", 
+      "Temporary Nanny", 
+      "Night Nanny", 
+      "Postpartum Support"
+     ]
+    }, 
+    "universalName": "smooth-transitions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Smooth Transitions"
+   }
+  ]
+ }
+}

@@ -1,0 +1,783 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 260, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 875, 
+    "description": "The GDST (Girls' Day School Trust) is the leading network of independent girls\u2019 schools in the UK, with nearly 4,000 staff, and 20,000 students between the ages of three and 18. \r\n\r\nAs a charity that owns and runs a network of 24 schools and two academies in England and Wales, it reinvests all its income in its schools. \r\n\r\nFounded in 1872, the GDST has a long history of pioneering innovation in the education of girls, and is the largest single educator of girls in the UK (and the UK\u2019s largest educational charity).\r\n\r\nGDST schools and Academies:\r\nThe Belvedere Academy, Liverpool\r\nBirkenhead High School Academy\r\nBlackheath High School\r\nBrighton & Hove High School\r\nBromley High School\r\nCentral Newcastle High School\r\nCroydon High School\r\nHeathf ield School, Pinner\r\nHowell\u2019s School, Llandaff, Cardiff\r\nIpswich High School\r\nKensington Prep School\r\nNorthampton High School\r\nNorwich High School for Girls\r\nNotting Hill & Ealing High School\r\nNottingham Girls\u2019 High School\r\nOxford High School\r\nPortsmouth High School\r\nPutney High School\r\nThe Royal High School, Bath\r\nSheffield High School\r\nShrewsbury High School\r\nSouth Hampstead High School\r\nStreatham & Clapham High School\r\nSutton High School\r\nSydenham High School\r\nWimbledon High School", 
+    "twitterId": "GDST1872", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7393 6666"
+       }, 
+       "address": {
+        "postalCode": "SW1P 1JP", 
+        "city": "London", 
+        "street1": "100 Rochester Row"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1872, 
+    "websiteUrl": "www.gdst.net", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Girls' education"
+     ]
+    }, 
+    "universalName": "gdst", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "GDST (The Girls' Day School Trust)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2447, 
+    "description": "Jaeger is a world class, contemporary British fashion and lifestyle brand with a rich history and dynamic future built on womenswear, menswear and accessories. \r\n\r\nEstablished in 1884, Jaeger was built around the benefits of wearing natural fibres such as, merino wool, alpaca, camel hair and cashmere; fabrics that hove become synonymous with the brand today. Our heritage of natural fibres, luxury fabrics, unique graphics, cut, fit and design are always memorable and distinctive. For over 125 years, Jaeger has epitomised classic British style.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.jaeger.co.uk", 
+    "universalName": "jaeger", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Jaeger"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 708, 
+    "description": "ticketscript is Europe\u2019s number one provider of self-ticketing software. It's a free-to-use solution and, unlike traditional event ticketing, empowers event organisers to take control of their sales and data. The service provides its customers with the tools and technology to sell more tickets directly to their audiences and communities in a highly targeted and profitable way. \r\n\r\nTo date, over 10 million tickets have been sold through ticketscript, with over 50,000 events choosing the \r\ndigital service and over \u00a3200 million generated in ticket revenues.\r\n\r\nThe organisation was founded in 2006 and has its head office in Amsterdam along with offices in London, Barcelona, Berlin and Antwerp. ticketscript is proud to work with a wide range of music events, festivals, trade fairs, exhibitions and sports events - including Hed Kandi, Ministry of Sound, Awakenings, MTV, Secret Cinema, WarChild, Berlin Music Week, Nature One, Groezrock, Euro Hockey League, Primavera Sound, Brighton & Hove Pride, Metro Club. \r\n\r\nwww.ticketscript.com\r\nwww.facebook.com/ticketscript\r\ntwitter.com/ticketscript", 
+    "twitterId": "ticketscript_en", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+31(0)20 528 90 68"
+       }, 
+       "address": {
+        "postalCode": "1011 TD", 
+        "city": "Amsterdam", 
+        "street1": "Prins Hendrikkade 185"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+49(0)2102 420 724"
+       }, 
+       "address": {
+        "postalCode": "40221", 
+        "city": "Dusseldorf", 
+        "street1": "Speditionstrasse 21"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+49(0)30 2065 9 400"
+       }, 
+       "address": {
+        "postalCode": "10117", 
+        "city": "Berlin", 
+        "street1": "Friedrichstrasse 191"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44(0)207 484 5075"
+       }, 
+       "address": {
+        "postalCode": "WC2N 4JF", 
+        "city": "London", 
+        "street1": "8 Duncannon Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+32 3 218 2185"
+       }, 
+       "address": {
+        "postalCode": "2018", 
+        "city": "Antwerp", 
+        "street1": "Korte Kievitstraat 22"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.ticketscript.com", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "Ticketing", 
+      "Online Ticketing", 
+      "Mobile Ticketing", 
+      "Ticketing Sofware", 
+      "Ticketing Solutions", 
+      "Online Ticketshop", 
+      "Facebook Ticketshop", 
+      "Ticket Presale", 
+      "E-tickets", 
+      "Mobile Event App", 
+      "M-tickets", 
+      "Entrance Management", 
+      "Event Management", 
+      "Event Marketing", 
+      "Event Promotion", 
+      "Social Media"
+     ]
+    }, 
+    "universalName": "ticketscript-bv", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ticketscript"
+   }, 
+   {
+    "numFollowers": 59, 
+    "name": "Diocese of Chichester", 
+    "industry": "Religious Institutions", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "PO19 1PY"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "websiteUrl": "www.diochi.org.uk", 
+    "universalName": "diocese-of-chichester", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Church of England in Sussex and Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 66, 
+    "description": "Walas Concepts houdt zich bezig met Creative City Concepts, het hergebruik en de revitalisering van industrieel en stedelijk erfgoed en stedelijke gebieden. Uitgangspunt vormt daarbij de duurzame en effectieve exploitatiefase van het project. Walas verzorgt daarin ontwerp en advies  en programmering, realisatie en branding van activiteiten en concepten. Walas is actief in Noord Amerika (Walas Concepts Inc. Victoria/Vancouver Canada) en Nederland, waar de activiteiten zijn verdeeld in de samenwerking tussen Juli ontwerp en advies BV  en Niet van Steen BV. Het overkoepelende Walas Concepts vestigt zich in Rotterdam.\r\nGerben van Straaten, Ben ten Hove en Pim van der Ven vormen de kern van Walas Concepts en brengen een uitgebreide expertise en internationale praktijkervaring  mee die het hele proces van complexe multifunctionele revitalisering en de business development ervan bestrijkt. Walas werkt doelgericht en resultaatgericht aan meervoudige waardeontwikkeling rondom de projecten, waarbij de aandacht voor de waardeontwikkeling door het optimaliseren van de economische, sociale en/of culturele activiteiten tevens tot optimale waardeontwikkeling voor het desbetreffende vastgoed leidt.  Naar Angelsaksisch model kan de Walas aanpak de doorloopsnelheid van de projecten aanzienlijk versnellen, alsmede het rendement doen toenemen. \r\nMen is gewend te werken met complexe heterogene projecten, met een grote verscheidenheid aan stakeholders en interessen en weet op basis van haar concepten deze belangen tot sterke, dynamische en vermarktbare eenheden te bundelen.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3027 GK", 
+        "city": "Rotterdam", 
+        "street1": "x"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.walasconcepts.com", 
+    "universalName": "walas-concepts", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Walas Concepts"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "J2B provides consultancies in the Telecommunication, Security and Gaming industries. We specialise in Information Assurance and Business Continuity Management. Our consultants provide ISO 27001 Audit and pre-audit consultancy.\r\nOne of our services is in consultation of security in Lottery operation. In particular, we had supported Camelot in the area of Security, Risks and Integrity matters. J2B specialise in offering practical recommendations and actions for implementation by professional Lottery Organisations. We will work in partnership with Lottery Operators to ensure a quick but solid result and ongoing 'stakeholder' confidence.\r\nOur team in IT Service Management provides organisational change design and implementation for businesses delivering mission critical products. We have successfully worked with governments in introducing ITIL best practises and ITSM processes for the service delivery. This included the intensive training of ITIL components to all levels of the service delivery organisations. We are very accustomed to designing fit-for-purpose ITSM frameworks for all types of service delivering environment, taking into consideration of the local operating style.\r\nJ2B is based at Hove, in the Southern England near Brighton, we are specialists in designing solutions in Security Management Solutions, Business Continuity Management and ITSM for all businesses that significantly use IT to deliver their services.", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.wlaj2b.co.uk", 
+    "universalName": "j2b-security-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "J2B Security Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 351, 
+    "description": "Choosing the right agent is a tough one and deciding on the right one will probably be  one of the most important decisions you make. At Lanes Lettings they realise that their business is not just properties, it is much more, Landlords and tenants alike know that local knowledge and a personal touch can go a long way. Lanes Lettings have worked in Brighton and Hove for many years, so not only do they have vast experience of the property business but they also have huge knowledge of this unique city and properties both within it and surrounding areas. Feel free to call Ben and his team on  01273 600068 or simply drop them an email.\r\n\r\nWe come recommended:\r\n\r\n\"I am very pleased with the service I received from Lanes Lettings. They had potential tenants to show round my property within 24 hours of instruction. It was let very quickly, and I was impressed they wanted to get the right tenants,with the best references for my property. The whole process has been quick and stress free. I would recommend Lanes Lettings\"\r\n\r\nMs W Dumelow - Brighton Landlord \r\n\r\n\"Lanes Lettings, Brighton - I was pleased and impressed by the efforts of Lanes Lettings. The team made the letting process so much easier. They were enthusiastic, pro-active and helpful. I happily recommend them for their professional, customer friendly approach\"\r\n\r\nMr C Runmble - Brighton Landlord", 
+    "twitterId": "@laneslettings", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 600068"
+       }, 
+       "address": {
+        "postalCode": "BN1 4JN", 
+        "city": "Brighton", 
+        "street1": "42 Baker Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.laneslettings.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Residential Property letting and management"
+     ]
+    }, 
+    "universalName": "lanes-lettings", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Lanes Lettings"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Expert Messaging was created to promote the work of award-winning international facilitator Bob Hallewell.\r\n\r\nGive us an hour and we'll give you back a month.\r\n\r\nBob is an outstanding and entertaining communicator who has been developing people for over 25 years. For the last ten he has specialised in email best practice and has helped hundreds of thousands of people across a broad range of sectors.\r\n\r\nAs well as delivering all over the UK, Bob has run sessions for companies in USA, Saudi Arabia, the Far East, Eire, Czech Republic, Germany, Holland, Italy, Norway and France (in French, alors).\r\n\r\nHe is the leading email consultant, having produced more change in messaging habits than anyone else in the UK, probably the world.\r\n\r\nBob has gained invaluable insights into the causes of problems that organisations have with messaging, including email addiction. He has developed the expertise and unique processes with which to solve those problems.\r\n\r\nHere are just some of Expert Messaging's clients:\r\n\r\n    * Age Concern\r\n    * Bank of America\r\n    * Bank of New York Mellon\r\n    * Barnardos\r\n    * Brighton & Hove City Council\r\n    * Business Link\r\n    * Cadbury\r\n    * Canada Life\r\n    * Capgemini\r\n    * Deutsche Bank\r\n    * E.on UK\r\n    * HBOS\r\n    * Hermes\r\n    * House of Fraser\r\n    * Kent County Council\r\n    * London Borough of Croydon\r\n    * London Borough of Wandsworth\r\n    * Newstar Asset Management\r\n    * NSPCC\r\n    * Red Cross\r\n    * Save the Children\r\n    * Scottish & Southern Energy\r\n    * Shelter\r\n    * Shropshire County Council\r\n    * Southampton City Council\r\n    * XL Capital Ltd", 
+    "twitterId": "http://www.expert-messaging.com/blog.php", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)20 7633 0050"
+       }, 
+       "address": {
+        "postalCode": "SE1 0HS", 
+        "city": "London", 
+        "street1": "30 Great Guildford Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.expert-messaging.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "email", 
+      "communication", 
+      "expert"
+     ]
+    }, 
+    "universalName": "expert-messaging", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Expert Messaging"
+   }, 
+   {
+    "numFollowers": 16, 
+    "name": "Werkshop CIC", 
+    "industry": "Management Consulting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 2BE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thewerks.org.uk", 
+    "universalName": "werkshop-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Werkshop CIC is an umbrella organisation which provides events, workshops, mentoring, strategic consultancy, dedicated spaces and support for creatives and social enterprises. Our network is currently 2500 people mostly in Brighton, Hove and Lewes. Since 2007 we have supported the development of 4 unique spaces/ communities, hundreds of events, supported start-ups and growing companies and built virtual teams from our network."
+   }, 
+   {
+    "numFollowers": 1329, 
+    "name": "New York Theatre Workshop", 
+    "industry": "Performing Arts", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "10003"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.nytw.org", 
+    "universalName": "new-york-theatre-workshop", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "New York Theatre Workshop is a remarkable off-Broadway theatre noted for its acclaimed and innovative productions... a workshop where artists create new work, hone their craft and collaboratively explore theatre... all rooted in our cozy East Village digs located in the heart of New York's downtown arts scene. NYTW is committed to the development of innovative theatre by supporting theatre artists at all stages of their careers, providing an environment where work can be created free from the artistic compromise and forbidding financial demands often associated with commercial ventures. Over the past two decades, NYTW has evolved to become a significant force in New York City's vibrant cultural landscape and is now recognized as one of the leading producing theatres of original work in the United States.\r\n\r\nThe Workshop places the artist at the center of its mission, and, as a result, the work developed and produced here is aesthetically, thematically, and methodologically diverse. During the course of a season, audiences can engage with an eclectic mix of theatre, including full-scale musicals, bare-bones readings, and multimedia productions. NYTW is renowned for producing intelligent and complex plays that expand the boundaries of theatrical form and in some new and compelling way address issues that are critical to our times. The Workshop boasts a long list of acclaimed work that includes Tony Kushner's Slavs! and Homebody/Kabul, Martha Clarke's KAOS and Vienna: Lusthaus (revisited), Caryl Churchill's Mad Forest, Far Away and A Number, Jonathan Larson's Rent, Athol Fugard's My Children! My Africa!, John Guare's Lydie Breeze, Doug Wright's Quills, Claudia Shear's Blown Sideways Through Life and Dirty Blonde, and Ivo van Hove's productions of A Streetcar Named Desire and Hedda Gabler. Will Power\u2019s hip-hop Greek tragedy The Seven will be seen around the country in upcoming years."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 395, 
+    "description": "BrightonandHoveJobs.com is a partnership that brings together Brighton\u2019s businesses, its universities, colleges & schools, the City Council, charities and community groups and other organisations across the City. We\u2019re committed to providing an accessible and cost effective job board that enables local businesses to connect with the City while providing the people of Brighton with access to local jobs and the skills, training and information that they need to be successful. Post your job vacacancies online for only \u00a399 + vat!\r\n\r\nWe go beyond a normal job board and work with our partners to offer all candidates help and assistance in their employment search. Whether you\u2019re a school leaver, someone looking to get back into work or just simply looking for a new opportunity, we have the information and expertise that will help you. Our support for charities and the third sector means you can also find voluntary positions on our site.\r\n\r\nWe have recently been recognised for our efforts in the community and won an award for the Greatest Contribution to the Community Award at the Brighton and Hove Business Awards 2013 (BAHBA's), which we were thrilled with and was a great honour.\r\n\r\nWe have also just announced the Sussex County Cricket ground is now known as: The BrightonandHoveJobs.com County Ground!", 
+    "twitterId": "BrightonHoveJob", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN1 1GE", 
+        "city": "Brighton", 
+        "street1": "One Jubilee Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 651100"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AN", 
+        "city": "Hove", 
+        "street1": "BrightonandHoveJobs.com County Ground"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.brightonandhovejobs.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Recruitment", 
+      "Marketing", 
+      "Locally", 
+      "Jobs", 
+      "Advertising", 
+      "Online"
+     ]
+    }, 
+    "universalName": "brightonandhovejobs.com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BrightonandHoveJobs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Championing Young People\r\n\r\nThe Starr Trust has one main objective - to champion young people and help them achieve their goals.\r\n\r\nWe are an independent, family run charity, based in Hove in the UK which supports young people aged 10 \u201318 to fulfil their potential in sports, arts and education, by giving a helping hand to achieve their goals at a time when they really need it. We provide:\r\n\r\n- financial grants up to \u00a35000 for young people in need living in the BN post code area of the UK (Edward Starr Awards)\r\n- training and development of skills\r\n- connections and mentoring\r\n\r\nWe do this through local fundraising, events, creating local networks of mentors and other interested professionals, providing opportunities for training and skills sharing and connecting communities locally and around the world. We aim to encourage independent thinking, entrepreneurship and a social conscience in young people through all our activities.\r\n\r\nWe believe in a world in which young people are supported to achieve their fullest potential; where they flourish as individuals whilst making a positive contribution to their community and in turn are recognised for their achievements. We rely on the energy and generosity of all our supporters and guarantee to turn your donation into an amazing opportunity for a local young person.\r\n\r\nWe look forward to welcoming you to one of our events and invite you to be part of our community.", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+441273206565", 
+        "phone1": "+441273778888"
+       }, 
+       "address": {
+        "postalCode": "BN3 3RJ", 
+        "city": "Hove", 
+        "street1": "Goldstone Business Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.starrtrust.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "charitable trust", 
+      "young people", 
+      "fundraising", 
+      "training"
+     ]
+    }, 
+    "universalName": "the-edward-starr-charitable-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Starr Trust"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Metranet Communications", 
+    "industry": "Wireless", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4GA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.metranet.co.uk", 
+    "universalName": "metranet-communications", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Wireless Internet Service Provider in Brighton & Hove. Wireless network for transport management applications for Reading Borough Council's Transportation Department and Police: http://www.readingseedaproject.co.uk/"
+   }, 
+   {
+    "numFollowers": 24, 
+    "name": "Arscotts Solicitors", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1FG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.arscotts.com", 
+    "universalName": "arscotts-solicitors", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "As a highly regarded commercial and private client law firm in Hove, our objective is to deliver clear legal solutions which match our clients needs by gaining a thorough understanding of their business and personal goals. \r\nOur clients tell us that our realism and our ability to deal with complex problems and our strong emphasis on continued communication throughout their case are the reasons why they work with us. We\u2019re proud of our creative, go-ahead approach.\r\nTo ensure that we deliver our advice in the most effective way possible our teams are split into specific areas, for more information please visit our website at www.arscotts.com. We believe that this structure helps us to provide a seamless service to our clients."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Kirsten Chick", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN41 2HA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.connectwithnutrition.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Nutritional Therapy", 
+      "Natural Nutrition", 
+      "Cellular Awakening"
+     ]
+    }, 
+    "universalName": "kirsten-chick", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Kirsten Chick D.N.N. (formerly Kirsten Santry) is a qualified and practising nutritional therapist, and a member of the Federation of Nutritional Therapy Practitioners. She trained with Barbara Wren at the College of Natural Nutrition.\r\n\r\nKirsten Chick now lectures at the College of Natural Nutrition, and also at Sussex Downs College in Lewes. Kirsten runs her nutrition practice from Brighton & Hove, and also leads regular talks, workshops and short courses around the country. Her recipe booklet \u201cNatural Recipes\u201d is still selling well, and she also writes for local and national publications.\r\n\r\nFro more information please visit:\r\n\r\nwww.connectwithnutrition.co.uk\r\nwww.naturalrecipes.co.uk\r\nhttp://www.naturalrecipes.co.uk/goodfood.html\r\nwww.wholewoman.co.uk\r\nwww.visionofhopeclinic.com"
+   }, 
+   {
+    "numFollowers": 21, 
+    "name": "Direct Employment", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN6 9GB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.direct-employment.co.uk", 
+    "universalName": "direct-employment", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Recruitment Specialists with comprehensive job listings available in Brighton and Hove, and surrounding areas to include Mid Sussex, Ditchling, Hassocks, Hurstpierpoint, Henfield, Burgess Hill and Haywards Heath. Candidate and Employer registration."
+   }, 
+   {
+    "numFollowers": 2, 
+    "name": "Body Origami", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 7JU"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.bodyorigami.co.uk", 
+    "universalName": "body-origami", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Hatha Flow Yoga, Pregnancy Yoga and Mother & Baby Yoga (incorporating baby massage) with qualified yoga instructor Hannah Waldman (BWY dip).\r\nBody Origami offers tailor made group classes and private lessons in small friendly classes held at her private garden studio in Hove (no parking restrictions). Group bookings available (e.g. NCT)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Highpass design are a small design agency currently based in Brighton and Hove, Sussex. We have worked on projects from graphic design for major TV companies to website creation for small local businesses and we love the world of design. We've been at this lark for over 10 years and watched the trends of design come and go.\r\n\r\nAt Highpass we employ our staff on a job-by-job basis, with a creative pool of great designers, developers and general boffins that can provide you with the solutions you need.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 3RA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.highpass.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "web design", 
+      "web page design", 
+      "web solutions"
+     ]
+    }, 
+    "universalName": "highpass-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Highpass Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Probridge", 
+    "industry": "Commercial Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "8180AB"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.probridge.nl", 
+    "universalName": "probridge", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Probridge is an experienced go-between in the real estate sector with an excellent reputation and a fresh and sensible approach to business. Probridge is led by Gerda ten Hove who has been very succesful in the real estate and property market for years.\r\n\r\nWhen buying or selling realty or immovable property many interests can be at stake. Naturally financial interests but sometimes less tangible ones like your corporate image for example. Our small but commited staff ensures made-to-measure succesful transactions for both sellers and investors. A personalized, discrete and competent approach is therefore what you're after. We are well-known for our service-oriented dealings, but also our fair and sensible approach to business.\r\n\r\nBringing in Probridge is a safeguard for succes and security. Wij deliver on our promise and work swift and effective."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Blipmedia", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.blipmedia.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Web design", 
+      "graphic design", 
+      "search engine optimisation"
+     ]
+    }, 
+    "universalName": "blipmedia", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "We are a  network of internet professionals, based in the beautiful seaside city of Brighton and Hove, offering agency level web design, development and search engine optimisation at freelance prices. We also specialise in low cost content management systems"
+   }
+  ]
+ }
+}

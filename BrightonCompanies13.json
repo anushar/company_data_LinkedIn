@@ -1,0 +1,232 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 260, 
+  "values": [
+   {
+    "websiteUrl": "http://www.brightonartfair.co.uk/", 
+    "numFollowers": 10, 
+    "industry": "Arts & Crafts", 
+    "universalName": "brighton-art-fair-ltd", 
+    "name": "Brighton Art Fair Ltd"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 2, 
+    "industry": "Commercial Real Estate", 
+    "universalName": "brighton-real-estate-advisors", 
+    "name": "Brighton Real Estate Advisors"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 56, 
+    "industry": "Retail", 
+    "universalName": "audi-centre-brighton", 
+    "name": "Audi Centre Brighton"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 6, 
+    "industry": "Marketing & Advertising", 
+    "universalName": "brighton-&-hove-actually-directory", 
+    "name": "Brighton & Hove Actually Directory"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Oilfield service company providing primary cementing casing hardware and float equipment. As well as other products and services requested such as chemicals, pipe dope, thread lock, abandonment plugs and services, trucking, generator & light tower rentals, and more.", 
+    "twitterId": "", 
+    "industry": "Oil & Energy", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "661-589-4901"
+       }, 
+       "address": {
+        "postalCode": "93389", 
+        "city": "Bakersfield", 
+        "street1": "PO BOX 10207"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.brightonbeachenterprises.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Float Equipment", 
+      "Casing", 
+      "Centralizers", 
+      "Chemicals"
+     ]
+    }, 
+    "universalName": "brighton-beach-enterprises-dba.-tek-star", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Beach Enterprises dba. Tek Star"
+   }, 
+   {
+    "websiteUrl": "www.iogallery.co.uk", 
+    "numFollowers": 4, 
+    "industry": "Design", 
+    "universalName": "brighton-designers-&-makers-ltd", 
+    "name": "Brighton Designers & Makers Ltd"
+   }, 
+   {
+    "websiteUrl": "brightonco.gov", 
+    "numFollowers": 96, 
+    "industry": "Government Relations", 
+    "universalName": "city-of-brighton", 
+    "name": "City of Brighton"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 3, 
+    "industry": "Nonprofit Organization Management", 
+    "universalName": "csa-brighton-&-hove", 
+    "name": "CSA Brighton & Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "We focus on helping businesses get online \u2013 building a professional and engaging online presence to extend and maximise online relationships with customers. Our services include: social websites, social media, event amplification, photography, videography and social media training.", 
+    "twitterId": "abigHELLO", 
+    "blogRssUrl": "feed://hellobrightonandhove.co.uk/feed/", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://hellobrightonandhove.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Social Media", 
+      "Social Websites", 
+      "Event Reporting", 
+      "Photography", 
+      "Training", 
+      "Videography"
+     ]
+    }, 
+    "universalName": "hello-brighton-and-hove", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "hello! Brighton and Hove"
+   }, 
+   {
+    "websiteUrl": "www.kirkoriginals.com", 
+    "numFollowers": 21, 
+    "industry": "Apparel & Fashion", 
+    "universalName": "kirk-originals---london-&-brighton", 
+    "name": "KIrk Originals - London & Brighton"
+   }, 
+   {
+    "websiteUrl": "www.web-brighton.co.uk", 
+    "numFollowers": 0, 
+    "industry": "Internet", 
+    "universalName": "web-brighton", 
+    "name": "Web Brighton"
+   }, 
+   {
+    "websiteUrl": "www.BrightonWellness.org", 
+    "numFollowers": 4, 
+    "industry": "Alternative Medicine", 
+    "universalName": "brighton-natural-wellness-center", 
+    "name": "Brighton Natural Wellness Center"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 1, 
+    "industry": "Financial Services", 
+    "universalName": "brighton-capital-ltd.", 
+    "name": "Brighton Capital, Ltd."
+   }, 
+   {
+    "websiteUrl": "brighton-mastery.co.uk", 
+    "numFollowers": 2, 
+    "industry": "Performing Arts", 
+    "universalName": "brighton-mastery", 
+    "name": "Brighton Mastery"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 1, 
+    "industry": "Internet", 
+    "universalName": "igd-solutions-corporation---member-greater-brighton-chamber-of-commerce", 
+    "name": "IGD Solutions Corporation - Member, Greater Brighton Chamber of Commerce"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 39, 
+    "industry": "Health, Wellness & Fitness", 
+    "universalName": "brighton-hospital", 
+    "name": "Brighton Hospital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "An extraprovincial construction company operating in both Alberta and British Columbia. Specializing in the construction of multi millon dollar custom homes. .........................................................................................................................................................................................................................", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1982, 
+    "websiteUrl": "www.Brightongroup.ca", 
+    "universalName": "brighton-interiors-inc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Interiors Inc"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 0, 
+    "industry": "Information Technology & Services", 
+    "universalName": "brighton-7", 
+    "name": "Brighton 7"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 2, 
+    "industry": "Nonprofit Organization Management", 
+    "universalName": "brighton-bid-limited", 
+    "name": "Brighton BID Limited"
+   }, 
+   {
+    "websiteUrl": "", 
+    "numFollowers": 11, 
+    "industry": "Nonprofit Organization Management", 
+    "universalName": "brighton-&-district-chamber-of-commerce", 
+    "name": "Brighton & District Chamber Of Commerce"
+   }
+  ]
+ }
+}

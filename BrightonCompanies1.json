@@ -1,0 +1,793 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 20, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 65, 
+    "description": "Brighton Engineering Solutions Ltd. is a Canadian owned multi-disciplinary consulting firm. Brighton has been providing professional engineering and management services since 1988 to industrial clients in Canada and countries around the world.\r\n\r\nOur multi-discipline firm includes integrated engineering-to-fabrication, installation and maintenance services. We also have full engineering, design, fabrication and construction capabilities to provide complete start- to-finish project solutions to the energy and mining industries in Western Canada and other countries.\r\n\r\nBrighton specializes in engineering design, project management, industrial equipment fabrication, construction material handling, international labor sourcing and training. We are also well versed in the areas of SAGD, oil sands, refineries, petrochemicals, pipeline segments that cover both operational and engineering aspects.\r\n\r\nOur approach has been to develop long term relationships and we recognize our clients\u2019 success is our success. Brighton has provided value engineering through auditing piping and structural designs, innovation logs and risk assessment of projects.", 
+    "twitterId": "", 
+    "industry": "Mechanical or Industrial Engineering", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "403-705-6797"
+       }, 
+       "address": {
+        "postalCode": "T2G 2B9", 
+        "city": "Calgary", 
+        "street1": "#201, 303 Centre Street SW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "zpipe.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Mechanical Engineering", 
+      "Process Engineering", 
+      "Stress Analysis", 
+      "Failure Analysis", 
+      "Structural Module Design", 
+      "Fitness for Service Reports"
+     ]
+    }, 
+    "universalName": "brighton-engineering-solutions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Engineering Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "name": "Brighton Togs", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightontogs.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "PR", 
+      "Commercial", 
+      "Portraits", 
+      "Weddings & Civil Partnerships", 
+      "Architectural", 
+      "Prints", 
+      "Business"
+     ]
+    }, 
+    "universalName": "brighton-togs", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "'Tog' is an abbreviation of photographer and can often be heard getting shouted across newsrooms up and down the country.  Brighton Togs is an agency of handpicked, exceptional and media experienced Brighton based photographers.  We specialise in PR, and commercial photography and undertake private commissions such as Private Portraits or Weddings/Civil Ceremonies by request.  Our photographers are all ex-media. \r\n\r\nWe are based in Brighton but regularly travel around the whole of the South East.  We are dedicated professionals that passionately insist in ensuring each individual client receives the best service, fantastic photographs and first class attention they should. We are all also CRB (enhanced) checked.  \r\n\r\nSusi is the Managing Agent at Brighton Togs and so is your point of contact for bookings.  She will discuss and confirm your requirements with you, book your photographer and ensure everything goes smoothly.  After the commission, she will also help with pitching to local media if required and lots of other extras that will help you make the most of your photographs.\r\n\r\nOh yes - and Deborah Meaden, the famous Dragon, follows us on Twitter."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 235, 
+    "description": "Brighton College offers students the opportunity to develop high-quality, in-demand, professional skills that are recognized and needed in the workplace.  We help our students, who come from a variety of backgrounds and abilities, to improve their lifestyle through targeted education.  This education is the foundation for our reputation for excellence in the academic community.\r\n\r\nBrighton College is an accredited institution of PCTIA (Private Career Training Institutions Agency)\r\n http://www.pctia.bc.ca/\r\n\r\nBrighton College has earned BC EQA designation (British Columbia Education Quality Assurance)\r\nhttp://www.bceqa.ca/\r\n\r\nBrighton College is a member of:\r\n    BC Career College Association (BCCCA)\r\n    National Association of Career Colleges (NACC)\r\n    Oracle Workforce Development Program (WDP)\r\n    Forum for International Trade Training (FITT) Certified Partner\r\n    Canadian Payroll Association (CPA) Certified Partner\r\n    Canadian International Freight Forwarders Association (Ciffa) Certified Partner", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "604-227-3883"
+       }, 
+       "address": {
+        "postalCode": "V5H 4T9", 
+        "city": "Burnaby", 
+        "street1": "305-4538 Kingsway"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "604-901-5131"
+       }, 
+       "address": {
+        "postalCode": "V6B 1P1", 
+        "city": "Vancouver", 
+        "street1": "200-688 West Hastings"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "V3T 5X3", 
+        "city": "Surrey", 
+        "street1": "295-13450 102 Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.brightoncollege.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Architectural Design", 
+      "Computer Aided Design", 
+      "Information Technology", 
+      "Hospitality Management", 
+      "Health Care", 
+      "Business Management", 
+      "Civil Infrastructure Design Technology", 
+      "Accounting", 
+      "Construction Technician", 
+      "International Trade", 
+      "Advanced Business", 
+      "Office Administration"
+     ]
+    }, 
+    "universalName": "brighton-career-college", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton College Canada"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Brighton Designs, AKA The Brighton Group, was founded in 2001 with a single mission, develop affordable high quality marketing materials for small to medium businesses. Over the years, Brighton Designs has engaged and developed marketing solutions within many industries including automotive, consumer products, aerospace and defense, electronics, finance and banking, green products, health care, hospitality, medical devices, technology, and more.\r\n\r\nOur goal is to continue to expand our services to all markets by providing small to medium businesses with an opportunity to compete within the global economy. From website design, to complete identity branding and corporate collateral, we offer turn-key solutions that support market penetration and growth while maintaining a highly efficient cost model.\r\n\r\nThe founder and president of Brighton Designs, Gregory M. Saisselin, has been involved with multiple businesses for over thirty-five years and has developed relationships with hundreds of organizations throughout the world. Mr. Saisselin is an experienced sales and marketing professional that has extensive knowledge in a wide array of technologies. His diversity and experience in working all levels of the business spectrum enables him to quickly understand unique customer requirements and develop solutions that meet industry and corporate requirements at all levels.", 
+    "twitterId": "brightondesigns", 
+    "blogRssUrl": "http://www.brightondesigns.com/brighton_designs_news_feed", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.brightondesigns.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Website Design", 
+      "Branding", 
+      "Small Business Marketing", 
+      "Creative Services"
+     ]
+    }, 
+    "universalName": "brighton-designs", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Designs"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Here at Hot Bikram Yoga Brighton, you can take a Hot Yoga class in a hot humid room. A chance to sweat through the largest organ of your body: your skin. Yoga Brighton has never been so hot. Hot Yoga Classes Brighton is yoga Bikram style, offering 26 Hatha yoga postures as a beginners yoga. Bikram Yoga Teachers Brighton have all been certified by Bikram himself. So bring your yoga mat, towel and water and let's get sweaty.", 
+    "twitterId": "bikrambrighton", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.bikramyogabrighton.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "ho"
+     ]
+    }, 
+    "universalName": "bikram-yoga-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bikram Yoga Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 50, 
+    "description": "Brighton Fresh has been providing professional fashion services from England's most popular seaside resort since 2008. From complete product creation to just a little helping hand. Brighton Fresh can offer many freelance services for all creative sectors of the fashion industry. We specialise in providing commercial apparel designers, knitwear designers and knitwear production services, accessories designers, footwear, graphic designers, stylists, trend specialists, photographers and pattern cutters. Brighton Fresh is able to provide corporate and bespoke printing services on site and can help in some areas of apparel manufacturing in the UK and abroad.\r\n\r\nBrighton Fresh was founded by Jonathan Mitchell. Jonathan is an extremely talented fashion designer with around ten years industry experience. His resume includes clients such as Adidas, Puma, Timberland, Next, Bench, Moss Bros, Cecil Gee, SLN,  Corporatecothing.com, One11retro and Tru Thoughts.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 (0) 1273 806947"
+       }, 
+       "address": {
+        "postalCode": "BN3 7GA", 
+        "city": "Brighton and Hove", 
+        "street1": "89a Boundary Rd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://brightonfresh.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Fashion Design", 
+      "Bespoke T-Shirts"
+     ]
+    }, 
+    "universalName": "brighton-fresh-design-solutions", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Fresh Design Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Guide2Brighton.com is everything you need to know about Brighton and Hove from  Accommodation, Restaurants, Property, Events, Discount Vouchers, Community site, Guide and Business Listings.\r\n \r\nNot only do we give you all this we have our awesome news section which keeps you up to date with everything fun that\u2019s going on in Brighton, as well as reviewing everything that\u2019s worth going to in Brighton by our ever so lovely journalists, who are always out and about, if you see them say Hi!\r\n \r\nWe don\u2019t report any doom and gloom that\u2019s going on in Brighton, only fun and happiness here.\r\n \r\nIf you would like someone to come down to write about your event, restaurant, club night or anything really, do get in touch and we will be happy to come down and see you.\r\n \r\nAlso don\u2019t hesitate to give us a call or email if you\u2019re stuck on what to do or where to go in Brighton, someone will always give you some sound advice to make your trip or day the best Brighton experience ever!", 
+    "twitterId": "", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 419 824"
+       }, 
+       "address": {
+        "postalCode": "BN3 7FL", 
+        "city": "Hove", 
+        "street1": "40 Wilfrid Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.guide2brighton.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Marketing", 
+      "Advertising", 
+      "Social Networking", 
+      "Social & Online Presence"
+     ]
+    }, 
+    "universalName": "guide2brighton-com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Guide2Brighton.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 966, 
+    "name": "Brighton & Sussex University Hospitals NHS Trust", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 5BE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "websiteUrl": "www.bsuh.nhs.uk", 
+    "universalName": "brighton-&-sussex-university-hospitals-nhs-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Brighton & Sussex University Hospitals provides general acute services to Brighton & Hove and Mid Sussex and more specialist services for patients across Sussex and the South East of England.  \r\n\r\nBSUH is the regional teaching hospital working across two sites: the Royal Sussex County Hospital in Brighton and the Princess Royal Hospital in Haywards Heath. The Brighton campus includes the Royal Alexandra Children\u2019s Hospital and the Sussex Eye Hospital, and the Haywards Heath campus includes Hurstwood Park Regional Centre for Neurosciences."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 764, 
+    "name": "Adelaide Brighton Ltd", 
+    "twitterId": "", 
+    "industry": "Building Materials", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "www.adbri.com.au", 
+    "universalName": "adelaide-brighton-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Adelaide Brighton Ltd is a leading, integrated construction materials and lime producing company heavily focussed on the growing resources, engineering and infrastructure sectors.\r\n\r\nWith its origins going back to 1882, Adelaide Brighton is a S&P/ASX200 Company with market capitalisation in excess of $1.8 billion, 1300 employees and operations in all mainland states and territories of Australia.\r\n\r\nThe principal activities of the Adelaide Brighton Group are the production and marketing of clinker, cement and lime products; ready mixed concrete and aggregates and concrete products."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Breathe Brighton", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 1DJ"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.breathebrighton.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "recruitment", 
+      "training", 
+      "advertising", 
+      "marketing", 
+      "promotions", 
+      "events", 
+      "networking"
+     ]
+    }, 
+    "universalName": "breathe-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Breathe Brighton is a place where you can create a profile page so you can meet other Brighton people, local artists, musicians and other local talent and businesses. Making recruitment through social networking easier.\r\n\r\nWhatever Brighton job you\u2019re looking for, a great looking virtual C.V. will help you stand out from the crowd, and get you that next dream role.\r\n\r\nWith so many looking for the right Brighton job, recruiters are looking toward other factors to identify the right candidates, especially with media and creative roles. Mycvspace.com gives them a link to your passions and personality with great design and links to your social networking sites.\r\n\r\nFinding employment in Brighton can be tough. With mycvspace.com, you can create a stunning online CV in minutes and have it work hard for you for the rest of your life, whether it\u2019s temp work or a new career you\u2019re after. Start right now and take the next step to towards that perfect job."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "description": "Brighton Language College is a dynamic EFL college located in central Brighton. Year round provision for adult students in addition to teenage, young learner, family, school group and specialist courses taught from 2 sites opposite The Royal Pavilion. Brighton Language College offers a full package of courses addressing the learning needs of international students throughout the year.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.brightonlc.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "General English Courses", 
+      "Teenage Courses", 
+      "Examination Preparation Courses", 
+      "Family and Young Learner Courses", 
+      "Tailored packages for schools and collleges", 
+      "50 Plus Courses", 
+      "Private Tuition"
+     ]
+    }, 
+    "universalName": "brighton-language-college", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Language College"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Relson Gracie Academy in Brighton, Colorado  focuses on many different aspects of Jiu-Jitsu. Our Jiu-Jitsu teachings are from the founder of the Gracie family himself Master Helio Gracie.\r\n\r\nOur teachings and theories are the original teachings that have been passed down from Helio Gracie himself \u2026nothing has been altered or changed.\r\n\r\nWE DO NOT PROMOTE OR ENCOURAGE ANY SORT OF VIOLENCE\r\n\r\nWE FOCUS ON SELF-DEFENSE OUR ACADEMY ALLOWS PEOPLE TO LEARN:\r\n\r\nSELF-DEFENSE SELF-CONTROL DISCIPLINE AND MANY MORE TRAITS OF SUCCESS\r\n\r\nThe world has shown that if you are not prepared\u2026it can be a menacing place\u2026. especially for those without the knowledge to protect themselves or those with a frail physique. Our goal is\u2026to give that person the edge.\r\n\r\nThe impact of these lessons do not end with individuals\u2026they go deep into our entire community.\r\n\r\nOur Academy Features: A safe and fun learning environment Over 1,600 square feet of mat space, locker rooms and waiting area Daily Classes, Kids programs, Self-Defense & original Gracie Jiu-Jitsu\r\n\r\nThe Relson Gracie Academy  team in Brighton, Colorado functions like a family. Each member does their part to help each other become more successful. Many people have their own individual reasons to begin training. Some want to get in shape, some want to protect themselves and others want to become a fighter. Whatever your motive is\u2026we will help you pave your own future.\r\n\r\nThe fact is, we are an extension of the MAIN SOURCE.\r\n\r\nWE ARE RELSON GRACIE JIU-JITSU in Brighton, Colorado.", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.GracieBrighton.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Mixed Martial Arts", 
+      "Brazilian Jiu Jitsu", 
+      "Self Defense Training & Instruction", 
+      "Kick Boxing", 
+      "MMA", 
+      "Youth Self Defense Training & Instruction", 
+      "Adult Mixed Martial Arts Instruction"
+     ]
+    }, 
+    "universalName": "relson-gracie-brighton", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Relson Gracie Academy in Brighton, Colorado"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Brighton based craft brewery making great beers and also selling some of the UK's best beers through our wholesale business.  \r\n\r\nAs well as a full range of cask ales, Brighton Bier will also be producing bottled, canned and keg beers including a new lager, in response to customer demand.  We are also thrilled at the prospect of collaborating with other microbreweries on exciting one-off projects, and believe us when we say we\u2019ve got some great ideas for this. \r\n\r\nIn addition to brewing our own range of beers, our wholesale business means that we are able to provide our customers with an unparalleled range of beer from some of the UK's most exciting breweries; many of the beers would otherwise be unavailable to order as single casks, if at all in the South East region.\r\n\r\nBrighton Bier merged with Franklins Brewery and specialist cask and craft wholesaler WithSoul.", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.brightonbier.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "craft beer", 
+      "brewery", 
+      "cask ale", 
+      "wholesale"
+     ]
+    }, 
+    "universalName": "brighton-bier", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Bier"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Brighton Comedy Course", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightoncomedycourse.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Comedian tuition", 
+      "presenting", 
+      "public speaking", 
+      "building confidence"
+     ]
+    }, 
+    "universalName": "brighton-comedy-course", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Welcome to Brighton Comedy Course. There are a number of stand up comedy courses available to fit a range of time schedules and budgets. These comedy courses aren\u2019t just for aspiring comedians; they are for anyone who wants to;\r\n\u25feImprove their confidence                                                             \r\n\u25feEnhance their public speaking ability\r\n\u25feIncrease their presentation skills\r\n\r\nAll courses are taught in a relaxed and encouraging atmosphere. You could be the next stand up sensation or you could just have fun, make new friends and enjoy the challenge.\r\n\r\nWe pride ourselves on our reputation and the quality of Brighton Comedy Course tuition is well documented by previous students both on our Facebook page and our testimonies page.\r\n\r\nThis course is different from others because it starts with the individual rather than the field of knowledge.  In other words, the natural comedic talents of the individual are developed by learning through doing practical exercises and experience backed up with theory. This approach relies on motivated individuals, close group interaction (rather than impersonal classes) and the natural talents and deep industry experience of Brighton Comedy Course. BCC also believes in delivering a course that allows each student to have the necessary time to perform and to have constructive, personalised feedback on every session. For this reason there is a maximum of 12 attendees in a class.\r\n\r\nFor more details www.brightoncomedycourse.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "We are the Brighton Arts, Culture & Tourism website from the Office of Arts & Culture in the City of Brighton.  We are focusing locally . . . reaching globally.  Check us out for Things to Do, Arts & Culture, Get to know Brighton, and much more.  Our new website will be launched soon!", 
+    "twitterId": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightoncoarts.org", 
+    "universalName": "brighton-arts-culture-&-tourism", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Arts, Culture & Tourism"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "Brighton Catering Supplies", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightoncateringsupplies.com", 
+    "universalName": "brighton-catering-supplies", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "BCS is a family owned business based in Brighton, servicing Hotel's, Restaurants, Bars and Cafe's all over the UK.  Thanks to the internet it enables us to meet amazing people, running great businesses in all areas of the country.  If you're in Brighton & Hove and the surrounding area then our base on Lewes Road is perfect for you to put your hands on the things you need immediately, as well as getting same day deliveries. \r\n\r\nNext day delivery on orders placed before 4pm as standard.\r\n\r\nFree Same Day delivery to Brighton & Hove and the surrounding area.\r\n\r\nOpen 6 days a week. \r\n\r\nA real person, in our shop to talk to on 01273 35 85 35 as well as a dedicated Account Manager for you.\r\n\r\nWe make the effort to learn about your business, which means you get the right products every time.\r\n\r\nConsistently high quality products at fair prices."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Evolution Studios is a rehearsal and recording studios based in Brighton and Hove. We are found at Shoreham Port and offer solutions for all your rehearsal and recording needs. \r\n\r\n\r\nTel:      01273 415160\r\nEmail: info@evolution-studios.co.uk\r\n\r\nWeb:           www.evolution-studios.co.uk\r\nFacebook: facebook.com/evolutionstudiosbrighton\r\nTwitter:       @ES_Brighton\r\n\r\n_____________________________________________________________________________________\r\n\r\nEvolution Studios Brighton is part of the Evolution Music Ltd group, which also runs events, promotions, and management. \r\n\r\nenquiries@evolution-music.co.uk\r\nwww.evolution-music.co.uk", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 415160"
+       }, 
+       "address": {
+        "postalCode": "BN41 1UY", 
+        "city": "Portslade", 
+        "street1": "Unit 7, Hove Enterprise Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.evolution-studios.co.uk", 
+    "universalName": "evolution-studios-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Evolution Studios Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Brighton Cabinetry,Inc", 
+    "twitterId": "", 
+    "industry": "Consumer Goods", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "62447", 
+        "city": "Neoga", 
+        "street1": "1095 Industrial Park Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.brightoncabinetry.com/", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Custom Cabinets", 
+      "Custom Cabinetry", 
+      "Bookcases", 
+      "Desks", 
+      "Dressers", 
+      "Fireplace Surrounds", 
+      "Hutches", 
+      "Kitchen Islands", 
+      "Vanities", 
+      "Wood Stove Hoods"
+     ]
+    }, 
+    "universalName": "brighton-cabinetry-inc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Our purpose is to provide high quality custom cabinetry at competitive prices while maintaining outstanding credibility, unmatched customer service, and a basis for a comfortable living for those who help contribute to our success.\r\n\r\nBrighton Cabinetry, Inc. has been providing custom cabinetry to customers across the Midwest and along the East Coast for more than a decade.\r\n\r\nFrom stylish simplicity to decorative elegance, Brighton Cabinetry offers endless possibilities for personal expression.\r\n\r\nAt Brighton Cabinetry, we\u2019re dedicated to creating elegant and functional cabinets for every area of your home.\r\n\r\nChoose from more than 700 combinations of door styles, woods, and finishing options designed to please even the most discriminating homeowner.\r\n\r\nAfter all you\u2019ve invested in your home, you deserve the very best \u2014 starting with the highest quality materials and distinctive designs of master craftsmen, who create that one-of-a-kind look you want."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "name": "Audio Brighton", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.audiobrighton.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "private hire", 
+      "nightclub", 
+      "cocktail bar", 
+      "table bookings", 
+      "terrace parties", 
+      "late night bar"
+     ]
+    }, 
+    "universalName": "audio-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Since 2004, Above Audio has set the standards for Brighton\u2019s bar scene, delivering first class service, lip-smacking cocktails, and the finest sounds around, all set in the gorgeous surroundings of our stunning seafront location.\r\n\r\nKick back among the palm trees on the terrace by day, or head into the elegant retro grandeur of the bar itself later on, while our professionally-trained mixologists serve up award winning drinks, and Brighton\u2019s favourite DJs treat your ears with a vast range of quality music from across the board.\r\n\r\nThrow in bundles of drinks deals (including our 241 cocktails every Thursday), our legendary weekend terrace parties, and the most stylish yet unpretentious vibe of any bar in Brighton, and we\u2019re sure you\u2019ll agree that there are few better places to soak up the surroundings in serious style."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "Brighton House is a 4 star B&B located in Regency Square on Brighton seafront. We are very proud of our friendly and comfortable guest house, and the reviews we have gained on TripAdvisor and other websites.\r\n\r\nWith single, double, twin and triple rooms, we have bed & breakfast options to suit varied budgets, with a delicious continental buffet style breakfast available to all our guests, plus convenient nearby parking. Please visit our website or call the hotel for further details.", 
+    "twitterId": "BrightonHouse", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 32 32 82"
+       }, 
+       "address": {
+        "postalCode": "BN1 2FF", 
+        "city": "Brighton", 
+        "street1": "52 Regency Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.brighton-house.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "AA 4 Star Guest Accomodation", 
+      "Central Brighton, close to the seafront", 
+      "Eco friendly B&B", 
+      "Locally sourced & organic breakfast options", 
+      "B&B Special Offers", 
+      "Advanced Bookings", 
+      "Convenient nearby parking", 
+      "Home made cake!"
+     ]
+    }, 
+    "universalName": "brighton-house", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton House"
+   }
+  ]
+ }
+}

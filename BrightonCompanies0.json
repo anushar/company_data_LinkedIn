@@ -1,0 +1,842 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 0, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Got Blocked Drains in Brighton? Need an emergency plumber in Brighton?\r\n\r\nBlocked Drains Brighton - DrainBoss will clear your blocked drain or fix your leaky tap, burst pipe, water tank, replace ball valves and unblock your toilet at a set price and no callout fee.\r\n\r\nWe are a local Brighton drain and plumbing company with fully qualified drain technicians and emergency plumbers. We are an independent company, not a franchise, which means we can offer better rates as we have no 3rd parties to pay.\r\n\r\nBlocked drains Brighton - DrainBoss also provide CCTV Drain Surveys, gutter cleaning, drain repair and no dig drain lining repairs. We also do appliance installations, property maintenance and Saniflo repairs.\r\n\r\nBlocked Drains Brighton - DrainBoss provide blocked drain clearance and emergency plumbers in Brighton, Burgess Hill, Crawley, Crowborough, Eastbourne, East Grinstead, Haywards Heath, Horsham, Lewes, Reigate, Tunbridge Wells, Worthing and all towns in between.\r\n\r\nOur vans are standing by to help - please call 01273 921789 or 07772 535248.", 
+    "twitterId": "", 
+    "industry": "Environmental Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 921789"
+       }, 
+       "address": {
+        "postalCode": "BN11AD", 
+        "city": "Brighton", 
+        "street1": "Ship Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 331789"
+       }, 
+       "address": {
+        "postalCode": "BN12 6PW", 
+        "city": "Worthing", 
+        "street1": "Meadow Road Industrial Estate"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 737789"
+       }, 
+       "address": {
+        "postalCode": "rh10 9az", 
+        "city": "Crawley", 
+        "street1": "Oakwood Industrial Park"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01444 657789"
+       }, 
+       "address": {
+        "postalCode": "RH16 1TW", 
+        "city": "Haywards heath", 
+        "street1": "Industrial Estate Haywards Heath"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "drainboss.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Unblocking blocked drains Brighton", 
+      "Emergency plumbers Brighton", 
+      "Gutter cleaning Brighton", 
+      "CCTV Drain Surveys Brighton"
+     ]
+    }, 
+    "universalName": "blocked-drains-brighton---drainboss", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Blocked Drains Brighton - DrainBoss"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Providing Tennis Coaching Courses for children in Brighton and Hove aged between 4 and 12 years.  Offeing after school clubs at Downs Infants, Stanford Infants and Brighton and Hove.  Mini Tennis Tournament programme in Brighton and Hove.  Tennis Coaching courses for those who want to learn to become tennis coaches held regularly in Dyke Road Tennis Courts in Brighton.\r\n\r\nAdditional services include:\r\n\r\nWeekend Tennis coaching courses every weekend in Preston Park, Brighton.  Open to children from 4 to 12 years 10am to 12pm. Drop in available.\r\n\r\nHoliday Booster courses held in Preston Park , Brighton. 10am to 12 noon Monday to Friday.  Any combination of days available.", 
+    "twitterId": "tennistigers", 
+    "blogRssUrl": "http://tenniscoachingbrighton.co.uk/", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07531879404"
+       }, 
+       "address": {
+        "postalCode": "BN1 6HB", 
+        "city": "Brighton", 
+        "street1": "Beaconsfield Villas"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.tennisigrs.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "After School Club Tennis Coaching Courses in Brighton", 
+      "Tennis Qualification Coaching Courses in Brighton", 
+      "Weekend Tennis Coaching in Brighton", 
+      "Holiday Booster Tennis Sessions in Brighton", 
+      "Individual Tuition in Brighton", 
+      "Tennis Tournaments in Brighton"
+     ]
+    }, 
+    "universalName": "tennis-tigers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tennis Tigers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 231, 
+    "name": "Brighton Dome Conference & Events", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 261524"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UE", 
+        "city": "Brighton", 
+        "street1": "Church Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://www.brightondome.org/", 
+    "specialties": {
+     "_total": 17, 
+     "values": [
+      "Conferences", 
+      "Events", 
+      "AGM's", 
+      "Gala Dinners", 
+      "Fashion Shows", 
+      "Exhibitions", 
+      "Trade Fairs", 
+      "Recruitment Fairs", 
+      "Product Launches", 
+      "Asian Weddings", 
+      "Drink Receptions", 
+      "Wedding Receptions", 
+      "Graduation Ceremony's", 
+      "Private Events", 
+      "Networking Events", 
+      "Breakout Rooms", 
+      "Awards Ceremony's"
+     ]
+    }, 
+    "universalName": "brighton-dome-conference-&-events", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Rich architectural features combined with stylish 1930s art deco detail and floodlit contemporary spaces make Brighton Dome an impressive setting for any conference or event. Originally built as the Prince Regent\u2019s Royal riding house in 1805, and following a spectacular renovation in 2002, Brighton Dome combines the best of Brighton\u2019s past, present and future establishing itself as one of the South Coast\u2019s premier event venues.\r\n\r\nOffering a choice of 5 venues catering for 20 \u2013 1700 people and boasting both Grade I and II listed heritage, Brighton Dome is ideally situated amidst the Royal Pavilion Gardens within the heart of Brighton\u2019s dynamic cultural quarter. Ensuring ease of access for guests, Brighton Dome is just a ten minute walk from Brighton Station and only 30 minutes by rail or road to Gatwick International Airport.\r\n \r\nFresh, locally sourced ingredients ensure the Brighton Dome can offer a variety of menus to suit your event, all of which are created with imagination and a simple elegance. \r\n\r\nSupported by the same dedicated event team behind the renowned annual Brighton Festival and equipped with cutting-edge AV technology, whatever you imagine your event to be, you can be confident that we can create it.\r\n\r\nContact the events team at events@brightondome.org or call us on 01273 261 524."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 41, 
+    "description": "GUITAR LESSONS BRIGHTON FROM A BRIGHTON GUITAR TEACHER!\r\n\r\n\r\nHave you ever wanted to play the guitar, either electric, acoustic or bass guitar? \r\n\r\nHave you been playing for a while but you feel you're not progressing & want to learn more? \r\n\r\nDo you want to learn music you want to play, your favourite songs by your favourite bands and artists? \r\n\r\nLearn to play in a fun, hands-on way, with me, Brendan!\r\n\r\n\r\n*I teach guitar from a fully equipped guitar studio in Brighton and have been a guitar tutor for over 10 years so i know how to move your playing forward. \r\n*I play in several bands and my music has appeared on TV programs for C4, DVD soundtracks & i've played many gigs including festivals such as 'Glastonbury' & 'The O2 Wireless Festival.' \r\n* I am CRB checked by the police & teach in schools in the Sussex area through West Sussex County Council- learn in a safe and relaxed atmosphere. \r\n* From beginner to advanced, all ages welcome! \r\n\r\nLessons are taught at:\r\nSparker Studios, 29 Tidy Street, Brighton, East Sussex. \r\n(2 Mins from the train station & several car parks in the heart of Brighton's North Laine area) \r\n**!!We also teach drums, violin, piano & keyboard!!** \r\n\r\nMy work hours are flexible, so please call or e-mail me today to discuss your needs and to find out the rates. \r\n\r\nemail: brendanfurniss@yahoo.co.uk\r\nmob: 07789 195715\r\nSparker Studios: 01273 818184", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07789 195715"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EL", 
+        "city": "Brighton", 
+        "street1": "29 Tidy Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.guitar-teacher-brighton.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Guitar Lessons Brighton", 
+      "Guitar Teacher Brighton", 
+      "Brighton Guitar Tuition", 
+      "Brighton Guitar Lessons"
+     ]
+    }, 
+    "universalName": "www.guitar-teacher-brighton.co.uk-", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "www.guitar-teacher-brighton.co.uk/"
+   }, 
+   {
+    "numFollowers": 181, 
+    "name": "Brighton Fashion Week", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 1aa"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.brightonfashionweek.co.uk", 
+    "universalName": "brighton-fashion-week", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Brighton has always been a creative hub, attracting the likes of Julien McDonald who studied Fashion Textiles at Brighton University and Barbara Hulanicki, fashion designer and founder of Biba. \r\n\r\nBrighton Fashion Week was born out of a desire to promote the city\u2019s eclectic fashion industry and celebrate the diversity of talent. Its longterm aim is to establish Brighton as a recognised style centre with its own annual Fashion Week. \r\n\r\nThe first Brighton Frocks show took place in 2005, a free catwalk show featuring the work of 12 designers. Last year saw the arrival of the first weekend-long event, with the Brighton Frocks Fashion Show selling out in hours.\r\n\r\nThis year we bacame Brighton Fashion Week! The event spanning 5 days included the world famous Trashion Show, a Couture Show, a Ready to Wear Show and clothing exhibition and market!\r\n\r\nThe event has won many plaudits, being named \u2018Event of the Week\u2019 by Grazia, as well as featuring on Channel 4\u2019s Gok Wan\u2019s Fashion Fix and BBC 2's Scene Stealers."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "name": "Restaurants Brighton", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://restaurantsbrighton.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Online Publishing", 
+      "Food & Drink", 
+      "Entertainment", 
+      "Directory Listings"
+     ]
+    }, 
+    "universalName": "restaurants-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Restaurants Brighton is a comprehensive online eating out guide featuring Brighton and Hove restaurants and the nearby Sussex restaurants which serve Brighton. \r\n\r\nIncluding top quality and diverse restaurants - Brighton and the surrounding areas definitely takes the lead as a food destination. \r\n\r\nRestaurants Brighton is a food guide drawn together by people that live in Brighton, providing information for locals and tourists for Brighton and its neighbouring areas. \r\n\r\nFeaturing top ten restaurants, brunches, reviews, chef interviews and restaurant features. \r\n\r\nhttp://restaurantsbrighton.co.uk\r\n\r\neat@restaurantsbrighton.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 108, 
+    "description": "Brighton College International Schools Limited was established in 2009 as a subsidiary of Brighton College to plan and set up British-style international schools around the world under licence to Brighton College.  Each international school is privately and independently owned, and is operated by our investor partners.  They are managed by boards of governors, which include representatives of the school's owners.\r\n \r\nBrighton College International Schools recruits the Head and the teaching staff, and encourages all schools operating under the Brighton College umbrella to seek ways to bring mutual educational benefit from their relationship through pupil and staff exchanges, sports and music tours and in-service training.\r\n \r\nBrighton College Abu Dhabi opened in 2011. Our second sister school, Brighton College Al Ain, will open in the city of Al Ain in the Emirate of Abu Dhabi in September 2013.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 704359"
+       }, 
+       "address": {
+        "postalCode": "BN2 0AL", 
+        "city": "Brighton", 
+        "street1": "Eastern Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightoncollegeinternational.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Education Management", 
+      "British International Schools"
+     ]
+    }, 
+    "universalName": "brighton-college-international-schools-ltd.", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton College International Schools Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3016, 
+    "name": "Brighton Collectibles", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "91746", 
+        "city": "City of Industry", 
+        "street1": "14022 Nelson Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "http://www.brighton.com/", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Accessories", 
+      "Handbags", 
+      "Footwear", 
+      "Home & Gifts", 
+      "Jewelry", 
+      "Men's accessories", 
+      "Men's & Ladies belts"
+     ]
+    }, 
+    "universalName": "brighton-collectibles", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Our Story\r\n\r\nJerry Kohl and Terri Kravitz (now Terri Kohl) \u2013 met, fell in love and started a specialty store east of Los Angeles while still in high school. They opened after classes, selling T-shirts and leather goods to their classmates. Upon graduating in 1969, they operated the store full-time.\r\n\r\nThey faced the challenge of getting merchandise delivered on time. Jerry had ideas for improving things. Coincidentally, a couple named Lee and Ginny \u2013 vendors of theirs who made belts, handbags and sandals \u2013 wanted to phase out of their business. Two years later, they decided to sell their company and move to New Zealand. Jerry bought into their company, Leegin, and began supplying specialty stores with leather goods.\r\n\r\nWhen Jerry took over Leegin, it was a men\u2019s belt manufacturer. Jerry and Terri wanted it to be a different kind of business, built from the heart by knocking on doors and personally servicing stores. Products would be created by their own designers and produced in their own factories to assure beauty and exceptional quality.\r\n\r\nThe designs evolved. Brighton began in 1985 out of the heritage of well-tailored, finely crafted men\u2019s belts. Since men\u2019s stores often had ladies\u2019 departments, Lady Brighton belts were launched in 1990. With the debut of Brighton handbags in 1993 stores were able to offer customers fine quality handbags.\r\n\r\nWallets, small leathers, timepieces, fragrances, jewelry, gifts and sunglasses followed. In 1998, the first Brighton-only store opened in the Dallas Galleria... and became a runaway success! In 1995, footwear was added\u2013 making Brighton the only product line to accessorize women from head to toe!\r\n\r\nToday there are over 160 Brighton Collectibles stores. Jerry and Terri are committed to empowering families through supporting a variety of charities."
+   }, 
+   {
+    "numFollowers": 24, 
+    "name": "Brighton Holistics", 
+    "industry": "Alternative Medicine", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn2 6dd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.brightonholistics.co.uk", 
+    "universalName": "brighton-holistics", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Brighton Massage - Brighton Holistics\r\n\r\nLooking for somewhere to go for a massage in the area of Brighton, Worthing or Eastbourne? \r\n\r\nBrighton Holistics is a leading centre for massage and massage courses. Offering variety in our treatments and relaxation methods, from sports massages to facials, we will have something for you!\r\n\r\nIf  you are looking to relax and indulge,  you may also want to consider a Swedish Massage, Body Wrap or  Aromatherapy in the comfort of our Brighton base.\r\n\r\nIn addition to our massages, we also offer a full range of Reiki Treatments and Reiki Courses.\r\n\r\nSo, next time you need a massage, gift ideas, or just some peace from the troubles in life, make sure you contact us here at Brighton Holistics.\r\n\r\nBrighton Holistics: your first choice for massages and Reiki Courses in Brighton, Worthing and Eastbourne."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2427, 
+    "description": "Brighton & Hove City Council  is a unitary authority and city on the south coast of England. It is England's most vibrant and cultural seaside city.\r\n\r\nIt was formed as a unitary authority area on 1 April 1997 by the merger of the East Sussex districts of Brighton and Hove. It immediately applied for and was granted borough status. In 2000 it was awarded city status together with two other UK towns, to mark the Millennium. \r\n\r\nBrighton and Hove is not part of the non-metropolitan county of East Sussex, but it is still part of the ceremonial county of East Sussex.", 
+    "industry": "Government Administration", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 290000"
+       }, 
+       "address": {
+        "postalCode": "BN3 2LS", 
+        "city": "Hove", 
+        "street1": "Kings House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "H", 
+     "name": "5001-10000"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.brighton-hove.gov.uk", 
+    "universalName": "brighton-&-hove-city-council", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "name": "Brighton & Hove City Council"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "SEE Brighton provides premium English language-learning services for Spanish-speaking visitors to this unique city on the south coast of England. Our service is tailored for adults so you can increase your confidence in English in a relaxed, non-classroom environment.\r\n\r\nWe believe learning English is more enjoyable when you can practice with others who share your interests, especially native speakers. We use our extensive local knowledge to provide a genuine \u2018insider experience\u2019. With access to the city\u2019s wide range of cultural and social events, you can SEE Brighton while improving your English at the same time!\r\n\r\n[En castellano]\r\nSEE Brighton provee servicios de calidad para hispano-hablantes que quieren aprender ingl\u00e9s en esta ciudad \u00fanica en la costa del sur de Inglaterra. Hemos dise\u00f1ado nuestro servicio para adultos con el fin de que todos puedan aumentar su confianza con el ingl\u00e9s en un entorno relajado y social, y no solamente acad\u00e9mico. \r\n\r\nCreemos que aprender ingl\u00e9s es m\u00e1s divertido cuando puedes practicar con otros que comparten tus intereses, especialmente con los nativos. Aprovechamos nuestro amplio conocimiento de la zona para proveer una experiencia aut\u00e9ntica. Al mismo tiempo que mejoras tu ingl\u00e9s puedes SEE Brighton y acceder a una gran diversidad de eventos culturales y sociales.", 
+    "twitterId": "seebrighton", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.see-brighton.org.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "English language for Spanish speakers", 
+      "English language for business & leisure", 
+      "English pronunciation for Spanish speakers"
+     ]
+    }, 
+    "universalName": "spanish-english-exchange-brighton-see-brighton-", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Spanish English Exchange Brighton (SEE Brighton)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 57, 
+    "name": "XYZ Magazine", 
+    "twitterId": "", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.xyzmagazine.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Marketing", 
+      "Advertising"
+     ]
+    }, 
+    "universalName": "xyz-magazine", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "XYZ Magazine, Brighton's FREE monthly guide to what\u2019s on! \r\n\r\nWe find the best club nights, gigs, shows, comedy, theatre, shopping & more, publishing it in a colourful glossy magazine. We're proud to have been guiding thousands of Brighton visitors, residents & students through the hustle and bustle of the busy Brighton entertainment scene every month for over six years.\r\n\r\n- Est readership 100k pcm\r\n- Distribution 600+ Stockists.  \r\n- Age range 35+ 30% |25-34 35% |18-24 32% |13-17 3% \r\n- Gender split = Female 45% Male 55% \r\n- Pick-up 98% \r\n- Website 100-300k Unique Visitors per month \r\n- Social Media Network 25k connections \r\nInfo/reserve space at Sales@xyzmagazine.co.uk or visit xyzmagazine.co.uk\r\n\r\nEstablished in 2006, XYZ is a trusted guide to what's on,  and a trusted partner for businesses wishing to share appropriate offers and news with XYZ readers. \r\n\r\nWe service institutions in Brighton for whom access to the best advertising platform is key, such as Brighton & Hove City Council, Brighton Institute of Modern Music and Brighton City College. We provide advertising for key brands with clout who need an experienced partner to provide the best in performance and value, such as Reading & Leeds Festivals, Fat Face Clothing or Jack Daniels Bourbon. We also ensure that local businesses enjoy access to the same service, with advertising available at a budget to allow access to thousands of local potential new customers in Brighton - one of the UK's most 'current' and cosmopolitan cities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "name": "Brighton Creatives", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.brightoncreatives.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Graphic Design", 
+      "Branding", 
+      "Illustration", 
+      "Logo Design", 
+      "Social Media Skins"
+     ]
+    }, 
+    "universalName": "brighton-creatives", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Creative Directors Emilie & Jen formed Brighton Creatives in 2012. They have a shared passion for the arts and the wonderful inhabitants of Brighton who have creative talent in abundance. With a mutual vision to uncover and promote these talents, Brighton Creatives was born.\r\n\r\nBrighton Creatives produces up-to-date, design-led portfolios and promotional websites for filmmakers, musicians, fashion designers, photographers, artists, and craft workers, as well as other creative individuals. Brighton Creatives can also provide expertise with illustration, branding, logos and website re-design.\r\n\r\n\u201cWe thrive on the creativity and ambition of our clients and the people we work alongside. A core ethos of Brighton Creatives is to continue to support our clients, both through our blog and our network of contacts.\u201d"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "At the Brighton Economic Development Corporation, our vision is to enhance Brighton\u2019s quality of life by fostering and supporting economic growth that will ensure Brighton as an ideal place to live, work, learn & play.  We provide the comprehensive data and resources that site selectors and business representatives need to do a comprehensive search of the Brighton area. \r\n\r\nThe Brighton growth area is one of the fastest growing in the nation. We have a strong, well-educated workforce and a diverse industry that includes energy, healthcare, retail, hospitality, higher education, agriculture and manufacturing. We have lower taxes and sustainable growth \u2013 a winning combination for a new business owner, or a large manufacturer planning to relocate. \r\n\r\nBut it\u2019s no secret to site selectors that one of our greatest assets is location!  Brighton is just 15 minutes from the Denver International Airport and downtown Denver is a 20-minute drive away.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303-655-2155"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "1850 E. Egbert St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.brightonedc.org", 
+    "universalName": "brighton-economic-development-corporation", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Brighton Economic Development Corporation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 35, 
+    "description": "A comprehensive, up-to-date and free on-line resource for parents living in and visiting Brighton, listing everything that is child friendly in Brighton. It includes what\u2019s on for children in Brighton and Hove, things to do, events and activities for children, places to visit, attractions, and listings of groups, clubs and classes such as parent and baby groups, music groups, swimming lessons, ballet, dance and drama classes, arts and crafts classes. From indoor activities such as soft play centres, pottery painting and cinema, to outdoor activities such as farms, zoos, playgrounds and beaches, it provides an invaluable resource for parents looking for ideas for things to do with their children in Brighton and Hove. \r\n\r\nThe website also provides listings of child friendly restaurants, cafes, pubs and hotels with details on facilities for children. The website is free to use, and free to be listed on. It is updated on a daily basis.", 
+    "twitterId": "http://twitter.com/chldfriendlybtn", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07884075772"
+       }, 
+       "address": {
+        "postalCode": "BN3 5BA", 
+        "city": "Hove, East Sussex", 
+        "street1": "Byron Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.childfriendlybrighton.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Activities and events for families and children in Brighton and Hove", 
+      "Child friendly restaurants, cafes and pubs in Brighton and Hove"
+     ]
+    }, 
+    "universalName": "child-friendly-brighton-and-hove", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Child Friendly Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "The Brighton Board of Trade was established in 1945 to help the neighborhood business community of Brighton, specifically by:\r\n\r\nLowering the costs of doing business in Brighton,\r\n\r\nIncreasing individual member\u2019s sales and profits, and\r\n\r\nPromoting a community spirit that improves the overall quality of life of Brighton residents.\r\n\r\nThe Brighton Board of Trade also works in conjunction with the neighborhood schools, small businesses, and sports organizations to help with their financial needs. In addition, the Brighton Board of Trade annually awards scholarships, makes donations to local little league and other non-profit organizations to assist with their financial needs.\r\n\r\nThe Brighton Board of Trade is in place for the community to take advantage of for support and assistance. In existence for 58 years we feel that there are numerous ways for the BBOT to reach out to help all interested parties and those in need.", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "02135"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1945, 
+    "websiteUrl": "http://www.brightonbot.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Business Association"
+     ]
+    }, 
+    "universalName": "brighton-board-of-trade", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Board of Trade"
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 38, 
+    "description": "Brighton Chrysler Dodge Jeep Ram has been family owned for 30 years. Honesty and integrity have been the driving force behind the success of our company.  We have a top rated service department with rental/shuttle/loaner availability, excellent special finance department, top notch on site collision shop as  well as a certified and knowledgable laid back NO pressure sales staff.\r\n\r\nThe staff at Brighton Chrysler Dodge is ready to help you purchase a new Dodge, Jeep, Chrysler, or used car in Brighton. When you visit our car dealership, expect the superior customer service that you deserve. With years of experience and training, the Brighton Chrysler Dodge team will get you into the vehicle that was built for you. Get the new or used car by Dodge, Jeep, or Chrysler in Brighton that you have been dreaming of by calling or visiting us today. We are located a stone's throw away from South Lyon, New Hudson, Howell, Pinckney and Ann Arbor.", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810-229-9802", 
+        "phone1": "810-229-4100"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "9827 E. Grand River Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "http://www.brightonchrysler.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "New Chrysler Dodge Jeep Ram Vehicles", 
+      "Used Chrysler Dodge Jeep Ram Vehicles", 
+      "On-site Body Shop", 
+      "Top-rated Service Department", 
+      "Certified & Knowledgeable Sales Staff", 
+      "Excellent Special Finance Department", 
+      "Automotive Parts"
+     ]
+    }, 
+    "universalName": "brighton-chrysler", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Chrysler"
+   }, 
+   {
+    "status": {
+     "code": "RRG", 
+     "name": "Reorganizing"
+    }, 
+    "numFollowers": 24, 
+    "description": "I set up the Unique to Brighton directory in 2005. Its locational data has now been reconfigured as a map for general interest only. The map is not a list of recommendations nor does it attempt to include all of the lovely specialist & independent places that you can find all across Brighton & Hove.", 
+    "twitterId": "", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1YD", 
+        "city": "Brighton", 
+        "street1": "Brighthelm Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.uniqueto.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Brighton and Hove local issues", 
+      "Unique, independent outlets", 
+      "SEO Brighton and Hove", 
+      "Local economy", 
+      "Sustainable Brighton", 
+      "Environmental issues"
+     ]
+    }, 
+    "universalName": "unique-to-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Unique to Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A free job listing board for Brighton and Hove in East Sussex, offering free recruitment advertising for employers and free local job alerts for job seekers. \r\n\r\nFor people seeking jobs in Brighton and Hove, or the surrounding towns and villages in Sussex, the website offers a free account management area for keeping track of applications, uploading CVs for local employers to view, adding jobs as 'favourites' and organising job alert settings. \r\n\r\nFor employers seeking to recruit candidates for positions based near Brighton and Hove, the website offers both free and low cost recruitment advertising solutions. In addition to being able to post jobs free of charge for 30 days, employers can upgrade from as little as \u00a320. Upgrades offer greater exposure and response. \r\n\r\nWhether you're a job seeker or an employer, Jobs in Brighton and Hove has the tools and the options to help connect the right people to the right job.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273726411"
+       }, 
+       "address": {
+        "postalCode": "BN3 2JD", 
+        "city": "Hove", 
+        "street1": "5 Adelaide Crescent"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.jobsinbrightonandhove.co.uk", 
+    "universalName": "jobs-in-brighton-and-hove", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Jobs in Brighton and Hove"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "name": "Brighton Lewis, Inc.", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonlewis.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Professional Investigations", 
+      "Criminal Defense Assistance", 
+      "DWI Training and Consulting", 
+      "Process Service"
+     ]
+    }, 
+    "universalName": "brighton-lewis-inc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Thanks to Brighton Lewis, finding the most reputable Missouri private investigators just got a whole lot easier. Brighton Lewis offers the most experienced investigative assistance around. Whether you need to get to the bottom of suspected infidelity, settle a child custody dispute, explore alleged employee deception or feel the need for personal security, Brighton Lewis is here to help.\r\n\r\nBrighton Lewis also offers DUI consulting and training seminars to attorneys, legal staff and law enforcement. NHTSA DUI Instructors conduct seminars ranging from introduction of DUI Detection and SFST up to instructor level courses several times a year.  Services are available nationwide."
+   }
+  ]
+ }
+}

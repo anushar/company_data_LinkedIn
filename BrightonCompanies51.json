@@ -1,0 +1,733 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1020, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 87, 
+    "description": "Mead Structures Ltd are a Consulting Civil and Structural Engineer based in Sussex near Brighton and Worthing. Offering Structural Engineering services throughout Southern England, London and beyond, our friendly Engineers have a client focused approach to Structural Engineering that puts service before fees.\r\n\r\nWorking closely with our Clients, Architects and Contractors, we pride ourselves in providing a fast, reliable, cost-effective Structural Engineering service tailored to suit their specific needs. Residential, commercial or industrial, minor works or larger development, we have the expertise to meet your Structural Engineering requirements.\r\n\r\nOur experience covers a wide variety of Civil and Structural Engineering disciplines, from renovation and refurbishment projects to new build schemes in a variety of market sectors. Using their specialist local and historical knowledge our skilled Engineers also undertake detailed Structural Inspections and prepare Structural Engineers Reports on specific defects for valuation and remedial purposes.\r\n\r\nFor an informal discussion with one of our Structural Engineers, please do not hesitate to contact us.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Civil Engineering", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01903 851943", 
+        "phone1": "01903 756544"
+       }, 
+       "address": {
+        "postalCode": "BN15 8UE", 
+        "city": "Lancing", 
+        "street1": "Unit 9a Parkland Business Centre"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 756544"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Worthing", 
+        "street1": "Serving Worthing"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 756544"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Serving Brighton"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 756544"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "Serving London"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.meadstructures.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Structural Engineering", 
+      "Civil Engineering", 
+      "Structural Inspections and Reports", 
+      "Engineering Design", 
+      "Subsidence Investigations"
+     ]
+    }, 
+    "universalName": "mead-structures-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Mead Structures Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "CHP specialises in press photography, PR photography and commercial photography across the UK. Owner Chris Hutty is a professional photographer and fully qualified photojournalist.  With bases in London, Brighton and the North of England, Chris is able to offer his services to corporate, media and PR clients throughout the country.", 
+    "twitterId": "chutty", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.press-pr-photography.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Commercial photography", 
+      "Press photography", 
+      "PR photography", 
+      "Sports photography", 
+      "Conference photography", 
+      "Professional photography", 
+      "Headshot photography", 
+      "Editorial photography"
+     ]
+    }, 
+    "universalName": "chris-hutty-photography", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Chris Hutty Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 68, 
+    "description": "Founded in 1971, Valley Bank & Trust is a Colorado family owned community bank based in Brighton. We currently have 10 locations that span the northern Front Range. It is our mission to be the premier provider of not only financial products, but also the highest levels of customer service and business leadership in the communities we serve.", 
+    "twitterId": "", 
+    "industry": "Banking", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.659.5450"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "4900 E Bromley Lane"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.659.5450"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "30 N 4th Ave"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.823.6668"
+       }, 
+       "address": {
+        "postalCode": "80540", 
+        "city": "Lyons", 
+        "street1": "304 2nd Ave"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.460.7209"
+       }, 
+       "address": {
+        "postalCode": "80020", 
+        "city": "Westminster", 
+        "street1": "11145 Sheridan Blvd"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303.622.6598"
+       }, 
+       "address": {
+        "postalCode": "80136", 
+        "city": "Strasburg", 
+        "street1": "56641 Colfax Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1971, 
+    "websiteUrl": "www.valleybankandtrust.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "commercial loans", 
+      "construction loans"
+     ]
+    }, 
+    "universalName": "valley-bank-&-trust", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Valley Bank & Trust"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Established for over 147 years, Off Licence News is the voice of drinks retailing. Editor Rosie Davenport has been writing about the drinks industry for more than ten years. Before editing OLN, she was features and brands editor of sister on-trade magazine Morning Advertiser. Deputy editor Christine Boggis started her career at the Eastbourne Herald and has since worked for international newswire AFP and legal magazine In Brief. She has completed her WSET Diploma, and speaks fluent German and French. Features editor Nicola Collenette began her career at the Evening Argus in Brighton and has since written for travel magazines and been news editor for on-trade title The Publican. She joined OLN in October 2008 after living and working in Japan for two years, and now handles features, supplements and beer and cider news.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01923 590055"
+       }, 
+       "address": {
+        "postalCode": "RH10 6AS", 
+        "city": "Crawley", 
+        "street1": "Zurich House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.offlicencenews.co.uk", 
+    "universalName": "off-licence-news", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Off Licence News"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "name": "Light Foot LED Limited", 
+    "twitterId": "lightfootled", 
+    "industry": "Import & Export", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.lightfootled.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "LED lighting", 
+      "Carbon reduction"
+     ]
+    }, 
+    "universalName": "light-foot-led-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Light Foot LED supplies energy efficient LED lighting products to the United Kingdom. Our products offer eco solutions to reduce electrical consumption, CO2 footprint and energy spend.\r\n\r\nWe are based in Brighton, Sussex and deliver to the whole of the UK."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "name": "POPmedia Ltd", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.popmedia.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Graphic Design", 
+      "Illustration", 
+      "Photography", 
+      "Digital Film", 
+      "Art Direction", 
+      "Consultancy/strategy", 
+      "Network of creative professionals"
+     ]
+    }, 
+    "universalName": "popmedia-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Creative services for business communications.\r\n\r\nPOPmedia is a dynamic little design collective working out of the beaconsfield studios in Brighton. \r\n\r\nOur Mission is simple. We want to deliver the most beautiful, creative and effective designs to enable our clients to grow their business. \r\n\r\nWe handle projects from concept to completion without breaking the bank. We work with established brands and startups.\r\n\r\nWe're always looking for new challenges and exciting briefs so please get in touch to see how we can help."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Please visit our websites: www.indiahealthtoday.com  www.michiganhealthotday.com www.myeasycener.com/health and also found us on face book as ayurvedic practitioner (Rajiv Kumar)\r\n\r\nour office: 400 west Main St. Ste., 20,4Gaylord MI 49730\r\nand\r\n325 East Grand River Ave. Brighton, MI 48116", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.indiahealthtoday.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Natural Healer, Herbal Consultation, Acupressure, Ayurveda, Reiki Healing"
+     ]
+    }, 
+    "universalName": "india-health-today", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "India Health Today"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "CSE Web Solutions", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.csewebsolutions.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Local Search Marketing", 
+      "Search Engine Optimization (SEO)", 
+      "Website Development", 
+      "Web Hosting", 
+      "Pay Per Click (PPC)", 
+      "WordPress"
+     ]
+    }, 
+    "universalName": "cse-web-solutions", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Provide full scale website solutions for the small and medium size business \u2013 Web Hosting, Web Design, SEO, and Content Management are just a few of our specialized services offered.  We are a company from Michigan serving all of Michigan, but localized in the Ann Arbor, Brighton, Howell, and Dexter areas including all of Livingston and Washtenaw counties."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Mac Made Easy was developed by Mufidah Kassalias to help people get more from their Mac experience with one-to-one tuition on the Mac basics and more. Based in Lewes, East Sussex, Mac Made Easy serves the surrounding area, including Brighton and Hove.\r\n\r\nMufidah is a Mac woman in a PC world.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.macmadeeasy.biz", 
+    "universalName": "mac-made-easy", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mac Made Easy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Freelance communications consultant, specialising in youth, community and stakeholder engagement and PR. Extensive experience designing, developing and implementing strategic and integrated campaigns that raise awareness, set agendas and change behaviour.\r\n\r\nServices:\r\n - Youth marketing and stakeholder engagement\r\n - Youth professional training \r\n - Community engagement\r\n - Social marketing, research and audience insight\r\n\r\nNational campaigns: \r\n - Talk to FRANK (drugs)\r\n - Want Respect? Use a condom (teenage pregnancy and sexual health) \r\n - It doesn\u2019t have to happen (knife crime)\r\n - Alcohol: Know Your Limits (binge drinking)\r\n\r\nPrevious clients:\r\n - Home Office \r\n - Department for Education Department of Health \r\n - Department for Communities and Local Government \r\n - The Stroke Association\r\n - British Heart Foundation\r\n - Burnley and Pendle Community Safety Partnerships\r\n - Thames Valley Constabulary\r\n - Rotherham Council\r\n - NHS Brighton and Hove, NHS Buckinghamshire and NHS Harrow  \r\n - Telford and Wrekin Children\u2019s Workforce Development Team", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Public Relations", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.it-is-currently-under-construction.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Youth campaigns", 
+      "Stakeholder engagement", 
+      "Community engagement", 
+      "Social marketing"
+     ]
+    }, 
+    "universalName": "credo-comms", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Credo Comms"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Ingenuity Business Services Limited", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.businessingenuity.co.uk", 
+    "universalName": "ingenuity-business-services-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Ingenuity Business Services Limited is an IT service provider established in 2010 but encompassing over a decade of professional IT experience, specialising in Business Intelligence system development, IT infrastructure design and implementation, Project Management and System Development, based in Brighton, East Sussex (UK)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "designed by wallpaper provide  web design and developement services to all sectors of business. Based in Tunbridge Wells in the South East of the UK we are ideally placed to service our clients in London, Tunbridge Wells, Brighton and all surrounding areas and as with all clients a 'face to face' meeting is essential to gain a proper understanding of the project involved. \r\nOur growing SEO (search engine optimisation) service offers very competitive packages and can be put into place by our specialised team.", 
+    "twitterId": "wallpaperdesign", 
+    "blogRssUrl": "", 
+    "industry": "Online Publishing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.designedbywallpaper.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "SEO & SEM", 
+      "Consultancy"
+     ]
+    }, 
+    "universalName": "designed-by-wallpaper", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Designed By Wallpaper"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "\u00a0\r\nAmerican Imaging History\r\n\u00a0\r\n Independent Digital Office Equipment dealer with branches in Brighton, and Livonia \r\n17 years serving the SE marketplace \r\nIncorporated in 1992\r\nPC service center servicing all of SE Michigan\r\nActivity involved in civic and community charitable organizations\r\nReceived the \u201cPotter Award\u201d on demonstration of superior performance in the service industry for commitment and devotion to service excellence to our customers\r\n\u00a0\r\n\u00a0\r\n Offerings\r\n\u00a0\r\nFull line of B/W, Color Digital Imaging systems, duplicators, facsimile, wide format solutions, B/W and  color  commercial grade laser printers ( lower operating cost vs HP and Lexmark)\r\nMFP Solutions- B2C  w/embedded capabilities in network environment\r\nContracts with GSA, US Communities, National Church Purchasing Group, Premier,\r\n Med Assets, Amerinet, and others.\r\n\u00a0\r\nWe have partnerned with LANIER, OKIDATA, and HP due to user friendliness and connectivity of product line\r\nConsultative approach via full understanding of current environment and organization ( workflow, bottlenecks, dept interaction)\r\nProvide continual contact with our customer base, to educate on how new technologies can benefit them.\r\n\r\n\u00a0", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Business Supplies & Equipment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "8102205858", 
+        "phone1": "8102205800"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "7041 Grand River"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.american-imaging.com", 
+    "universalName": "american-imaging", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "American Imaging"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Retail Boutique, specializing in women's apparel & accessories; home & garden.  Conveniently located in Santa Clarita's premiere community of Valencia, CA.  Cobblestone Cottage has won many awards in their community such as \"Best Gift Store\", 'Best Place to Buy Women's Shoes\", Best Boutique\", and \"Best Looking Store\".  Know for their warm customer service, this business has been family-owned since its inception in 1987.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.cobblestone-cottage.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Brighton, Vera Bradley, Pandora, Christine Alexander", 
+      "Complimentary Gift Wrap"
+     ]
+    }, 
+    "universalName": "cobblestone-cottage-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cobblestone Cottage, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "BBP Consulting Engineers Ltd, specialises in Civil, Structural and Municipal Engineering.  The Company was originally established in 1986 as a Partnership and has been engaged in a wide range of projects, from inception to completion,from its Brighton Office, for Clients across the UK and overseas.\r\n\r\nDetails of the range of the Company\u2019s services and expertise, together with information concerning projects and Clients both past and current, can be found in the Company's current web site.\r\n\r\nWe believe in the application of experience and judgment to Engineering design as well as to calculation and analysis.\r\n\r\nThis philosophy is generally achieved by employment of competent and committed Engineers and Designers, Technical and support staff, and by the creating of a working environment in which innovative design can flourish.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.bbpengineers.com", 
+    "universalName": "bbp-consulting-engineers-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BBP Consulting Engineers Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 16, 
+    "description": "2nd Seasons, LLC  has High-quality, gently seasoned clothing for the entire family. We are a mid to high end consignment boutique. We are located in downtown Greenfield, IN . We have clothing, shoes, handbags, coats, etc for men, women, and children. Many of the items that are here are brand new. We also carry Brighton jewelry, handbags, and shoes (consigned). Many brands such as Vera Bradley, Coach, Ann Taylor, Ralph Lauren, aeropostale, abercrombie & Fitch, you name it, we probably have it here.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "317-318-1383"
+       }, 
+       "address": {
+        "postalCode": "46140", 
+        "city": "Greenfield, IN", 
+        "street1": "22 E. Main Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.2ndSeasons.com", 
+    "universalName": "2nd-seasons-llc", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "2nd Seasons, LLC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Motion & Colour is a creative audio-visual production company based in Brighton, UK. We produce bespoke video and sound for a wide range of clients, helping them to more effectively communicate with their audiences. Our team is highly skilled in all aspects of the video production process, from pre to post, and experienced working creatively with both motion graphics and sound design.", 
+    "twitterId": "motionandcolour", 
+    "blogRssUrl": "", 
+    "industry": "Motion Pictures & Film", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Brighton & Hove", 
+        "street1": "Everywhere St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.motionandcolour.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "HD VIDEO PRODUCTION", 
+      "BESPOKE SOUND", 
+      "ANIMATION & GRAPHICS", 
+      "LIVE VISUALS & EVENTS"
+     ]
+    }, 
+    "universalName": "motion-and-colour", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Motion and Colour"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "TackTracker", 
+    "twitterId": "", 
+    "industry": "Sports", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.tacktracker.com", 
+    "universalName": "tacktracker", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "TackTracker is well recognised as being the world's best yacht tracking and analysis system.  After a year of development and testing in 2008 it gained this reputation at the 2009 Etchells Worlds held at Royal Brighton Yacht Club, Melbourne, Australia and has managed to consolidate its performance by simply responding rapidly to further suggested enhancements from the world's leading sailors including gold medallists and world champions. If you're a club sailor, just beginning, Olympic sailor or a club coach you will benefit enormously from using TackTracker.  Feel free to look: www.tacktracker.com    Trial TackTracker for free for two weeks using a GPS or your iPhone!"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Lodging central reservations for visitors to northern Utah--including Snowbasin, Powder Mountain, Ogden Valley, Park City/Deer Valley, The Canyons, Alta, Snowbird, Solitude, and Brighton.  Properties include condos, private homes, B&Bs, cabins, and ski-in/ski-out lodging.  Powder Mountain lodging/lift ticket packages are a specialty.  Family reunion groups are welcome.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.utahresortreservations.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Powder Mountain lodging", 
+      "Snowbasin lodging", 
+      "Powder Mountain winter packages", 
+      "Northern Utah lodging"
+     ]
+    }, 
+    "universalName": "utah-resort-reservations", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Utah Resort Reservations"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "DST Media is a digital marketing consultancy headquartered in Brighton with partners in London and New York. We operate a network of digital marketing, creative and design practitioners and provide planning and execution for clients in a range of digital disciplines.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.dst-media.co.uk", 
+    "universalName": "dst-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "DST Media"
+   }
+  ]
+ }
+}

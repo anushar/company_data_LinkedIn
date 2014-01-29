@@ -1,0 +1,1074 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 380, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "We offer a bespoke design, print, distribution and display service for your\r\nposters, leaflets, flyers, brochures, magazines and other promotional material. \r\n\r\nOur experienced in-house design team can produce high quality material to your specification or design from scratch, all at very competitive prices.\r\n\r\nWe can display A4, A3, A2 and Double Crown size posters throughout Brighton & Hove and across the wider Sussex region. We have over 1,500 exclusive poster sites in Brighton alone, of which 95% are A3 with the remainder A4 size. \r\nOur custom-built display racks give excellent coverage throughout Brighton & Hove, ensuring your print is highly visible at all times. These are located in cafes, bars, tourist attractions, retail outlets.", 
+    "twitterId": "swatbrighton", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273690573", 
+        "phone1": "01273 690573"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GE", 
+        "city": "Bnrighton", 
+        "street1": "50 Providence Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.swatmarketing.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Design", 
+      "Printing", 
+      "Leaflet Distribution and display", 
+      "Poster display"
+     ]
+    }, 
+    "universalName": "swat-marketing-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "SWAT Marketing Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 404, 
+    "description": "The largest supplier of wholesale fasteners in North America servicing distribution since 1925.  With 20 US locations and 31 locations globally, Brighton Best is the value-driven, global leader in fastener distribution providing fasteners to all aspects of industry including construction, electrical, industrial and OEM applications.", 
+    "twitterId": "", 
+    "industry": "Wholesale", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "562-808-8000"
+       }, 
+       "address": {
+        "postalCode": "90805", 
+        "city": "LONG BEACH", 
+        "street1": "5855 OBISPO AVENUE"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "800-935-2375"
+       }, 
+       "address": {
+        "postalCode": "08085", 
+        "city": "LOGAN TOWNSHIP", 
+        "street1": "2100 CENTER SQUARE RD"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "800-275-0048"
+       }, 
+       "address": {
+        "postalCode": "44149", 
+        "city": "STRONGSVILLE", 
+        "street1": "16065 IMPERIAL PARKWAY"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "800-929-2378"
+       }, 
+       "address": {
+        "postalCode": "60188", 
+        "city": "CAROL STREAM", 
+        "street1": "250 KEHOE BLVD"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "800-275-0028"
+       }, 
+       "address": {
+        "postalCode": "90670", 
+        "city": "SANTA FE SPRINGS", 
+        "street1": "12825 CARMENITA RD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1925, 
+    "websiteUrl": "www.brightonbest.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Fasteners", 
+      "Threaded Rod", 
+      "Alloy and Stainless products", 
+      "Inch & Metric products", 
+      "Socket Products", 
+      "Hex Cap Products", 
+      "Nut & Washer Products", 
+      "Structural Products", 
+      "Screw Products", 
+      "Bolt Products"
+     ]
+    }, 
+    "universalName": "brighton-best-international-inc", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton-Best International"
+   }, 
+   {
+    "numFollowers": 54, 
+    "name": "The Greater Brighton Area Chamber of Commerce", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48116"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.brightoncoc.org", 
+    "universalName": "the-greater-brighton-area-chamber-of-commerce", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "The Greater Brighton Area Chamber of Commerce's mission is to promote and maintain a favorable environment and quality of life for the business and professional members of the community."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9325, 
+    "description": "We\u2019re passionate about finding the right person for the right role, taking the time to understand our candidates needs and aspirations. For our clients, it's this process that delivers the best people for their organisations.\r\nAs an official supporter of Glasgow 2014 Commonwealth Games, we're offering you the opportunity to be part of something truly unique and exciting. Call our Glasgow office today to find out how you can get involved.\r\n\r\nOur sectors:\r\n\r\n\u2022\tAccountancy & Finance\r\n\u2022\tCall Centre\r\n\u2022\tConstruction\r\n\u2022\tEnergy\r\n\u2022\tEngineering\r\n\u2022\tHospitality\r\n\u2022\tHR\r\n\u2022\tInsurance and Financial Services\r\n\u2022\tIT\r\n\u2022\tLegal\r\n\u2022\tManufacturing, Transport, Logistics\r\n\u2022\tMarketing\r\n\u2022\tMedical\r\n\u2022\tOffice Services\r\n\u2022\tProcurement\r\n\u2022\tSales\r\n\u2022\tScientific\r\n\u2022\tSocial Care\r\n\u2022\tInternational\r\n\r\nTo find out more about Search Consultancy visit our website www.searchconsultancy.co.uk or call your local branch today.\r\n\r\n\u2022\tAberdeen: 01224 611 100\r\n\u2022\tBelfast: 028 9073 7271\r\n\u2022\tBrighton: 01273 862 222\r\n\u2022\tCrawley: 01293 848 100\r\n\u2022\tDundee: 01382 305 400\r\n\u2022\tDunfermline: 01383 734 444\r\n\u2022\tEdinburgh: 0131 718 8000\r\n\u2022\tGlasgow: 0141 272 7777\r\n\u2022\tLeeds: 0113 308 8000\r\n\u2022\tLeicester: 0116 247 3300\r\n\u2022\tLiverpool: 0151 229 5555\r\n\u2022\tManchester: 0161 835 8600\r\n\u2022\tSheffield: 0114 379 2051", 
+    "twitterId": "", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0141 272 7788", 
+        "phone1": "0141 272 7777"
+       }, 
+       "address": {
+        "postalCode": "G2 2NR", 
+        "city": "Glasgow", 
+        "street1": "198 West George Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0161 835 8700", 
+        "phone1": "0161 835 8600"
+       }, 
+       "address": {
+        "postalCode": "M2 5WR", 
+        "city": "Manchester", 
+        "street1": "1 Central Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01293 848 190", 
+        "phone1": "01293 848 100"
+       }, 
+       "address": {
+        "postalCode": "RH10 1DD", 
+        "city": "Crawley", 
+        "street1": "117-119 High Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0114 278 7500", 
+        "phone1": "0114 379 2051"
+       }, 
+       "address": {
+        "postalCode": "S1 2DW", 
+        "city": "Sheffield", 
+        "street1": "1st Floor, North Church House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.searchconsultancy.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "permanent, temporary & contract recruitment", 
+      "response handling", 
+      "advertising", 
+      "payroll solutions", 
+      "volume recruitment / project management", 
+      "skills testing", 
+      "outplacement & redundancy counselling", 
+      "executive search & selection", 
+      "outsourcing & total account management"
+     ]
+    }, 
+    "universalName": "search-consultancy", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Search Consultancy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3495, 
+    "description": "FDM Group is an international IT services provider with offices in Brighton, London, Manchester, Frankfurt, Luxembourg, Zurich, New York, Hong Kong and Singapore. FDM services over 200 clients worldwide in 6 service areas: Project Management Office & Analysis, Development, Testing, Application Support, Infrastructure and Training.\r\n\r\nWe train tomorrow\u2019s IT professionals in our award-winning Academies, and to date FDM has trained over 3000 individuals to the highest industry standards, specialising in either: Java, .NET, Application Support, Testing Analysis, PMO or Infrastructure Support. These talented professionals are freshly trained and ready to make a positive impact on your business. In fact, our innovative approach is already working for some of the most prominent businesses in the world, with solutions tailored to meet specific needs.\r\n\r\nFDM is renowned for its superior performance and high-class solutions, which are tailored to suit individual clients and projects. A profound understanding of current technologies allows FDM to deliver even the most complex projects successfully. Our flexible approach continues to add value throughout the globe, which is why many of our clients have been loyal to FDM for over a decade.", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "websiteUrl": "http://www.fdmgroup.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "IT", 
+      "Consulting", 
+      "Services", 
+      "Training"
+     ]
+    }, 
+    "universalName": "fdm-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "FDM Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 766, 
+    "description": "Since 1994, RDF Group have delivered high quality IT solutions and consultancy services to a wide range of long standing clients, from start-ups to FTSE 100 companies. \r\n\r\nHeadquartered in Brighton with a regional development facility in Livingston, RDF\u2019s complementary blend of services include systems and application development, support and maintenance, testing and IT recruitment. \r\n\r\nWhether you need help with a small project, a major development challenge or hiring the right IT expertise, we have the scale and flexibility to deliver. Call us on 0845 608 3250 if you would like more information.", 
+    "twitterId": "RDFgroup", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 200500", 
+        "phone1": "01273 200100"
+       }, 
+       "address": {
+        "postalCode": "BN1 1HG", 
+        "city": "Brighton", 
+        "street1": "Ecovert House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 608 3250"
+       }, 
+       "address": {
+        "postalCode": "EH54 7BH", 
+        "city": "Livingston", 
+        "street1": "Centrex House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.rdfgroup.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Software Development", 
+      "IT Recruitment", 
+      "Support & Maintenance", 
+      "Testing"
+     ]
+    }, 
+    "universalName": "rdf-group", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "RDF Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 736, 
+    "description": "Train to be a Journalist in the Offices of a busy daily newspaper - the fastest NCTJ accredited course in the country, designed to give you the skills, portfolio and work experience to build your career in Journalism. Newswriting, sub-editing, media law, local and central government, online and video and freelance journalism provide you with the skills Editors are looking for.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Newspapers", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1", 
+        "city": "Brighton", 
+        "street1": "Argus House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.journalistworks.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Journalist Training", 
+      "multi media journalism skills to get you a job"
+     ]
+    }, 
+    "universalName": "brighton-journalist-works", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Journalist Works"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1725, 
+    "description": "Domestic & General provides warranty services for UK and International clients and comprehensive product protection for more than fifteen million customers. \r\n\r\nWe were founded 100 years ago, and for the past 60 years we have been looking after people when their appliances break down. Today our primary focus is on providing protection for major domestic appliances and consumer electronic products. Together with our manufacturing, retail and financial services clients, we provide warranty services for many major UK and International brands. We manage the whole warranty process, including: customer mailing; contact centres; repair networks; in-house administration; claims handling.\r\n\r\nWe operate across a number of different international markets, most notably in Germany, Spain, Australia, France, Italy and Portugal. To learn more about us, visit www.domesticandgeneral.com\r\n\r\nWe also have career opportunities at our UK sites in Brighton, Nottingham and Bedworth as well as our Head Office in Wimbledon. You can find out more about life here at Domestic & General and view all current vacancies by visiting:  careers.domesticandgeneral.com", 
+    "twitterId": "domgeneralcares", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "02089470896", 
+        "phone1": "02089467777"
+       }, 
+       "address": {
+        "postalCode": "SW19 4JS", 
+        "city": "LONDON", 
+        "street1": "Swan Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "NG1 5JU", 
+        "city": "NOTTINGHAM", 
+        "street1": "77 Talbot Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "CV12 8JP", 
+        "city": "BEDWORTH", 
+        "street1": "Leicester House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3FD", 
+        "city": "BRIGHTON", 
+        "street1": "Queen Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1912, 
+    "websiteUrl": "http://www.domesticandgeneral.com", 
+    "universalName": "domestic-&-general", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Domestic & General"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 102, 
+    "description": "West Pier Telecom Ltd is a leading UK VOIP business telephone system and Unified Communications specialist with their head office based in Brighton, UK. West Pier offers business telephone systems in Brighton, Sussex, the UK, and Europe. The company has over 20 year's experience, selling, installing and maintaining AVAYA SME (small to medium sized enterprise) business telephone system solutions for our customer sites situated throughout the UK and Europe.\r\n\r\nWest Pier's clients include the largest online auction company, one of the UK's largest travel companies, the MOD: Sandhurst Military Academy and the Royal Navy's new T45 warships. West Pier specialise in the supply of systems to travel, legal, medical and service sectors. West Pier are an innovative forward thinking company who are continually looking for new ways to improve and simplify communication technology for our customers. West Pier have consistently maintained the highly coveted AVAYA Silver Partner Status and specialise in the award winning Avaya portfolio including the Avaya IP Office, Avaya Definity and Avaya Aura Communication Manager UC communications solutions.\r\n\r\nWest Pier works hard to build long-term relationships with its customers, providing them with consistent and reliable service and support. The ongoing account management helps clients keep up to date with new technologies to meet their changing business telephone system needs, and this in turn drives down costs.", 
+    "twitterId": "", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+441273 391201", 
+        "phone1": "0800 8492080"
+       }, 
+       "address": {
+        "postalCode": "BN2 6NX", 
+        "city": "Brighton", 
+        "street1": "Unit 2 Woodingdean Business Park"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1996, 
+    "websiteUrl": "www.westpiertele.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "AVAYA Solutions", 
+      "Installation & Support", 
+      "Voice & Data Converged Networks", 
+      "Hosted Telephony", 
+      "VOIP & IP Telephony", 
+      "CTI & Unified Communications", 
+      "On Hold Marketing & Music", 
+      "Voicemail & IVR", 
+      "Call Logging & Call Centre", 
+      "Voice Recording", 
+      "Fixed Line & Mobile", 
+      "SIP & ISDN"
+     ]
+    }, 
+    "universalName": "sabre-telecommunications-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "West Pier Telecom Ltd"
+   }, 
+   {
+    "numFollowers": 133, 
+    "name": "St Leonard's College, Brighton East", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3187"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.stleonards.vic.edu.au", 
+    "universalName": "st-leonard's-college-brighton-east", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "Early Learning Centre to IB and VCE"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2270, 
+    "description": "Named Best Airport Retailer for the past 16 consecutive years by Airport Revenue News, The Paradies Shops was established in 1960.  A family-owned business, The Paradies Shops operates over 500 stores in 70 airports across the United States and Canada.  With extensive experience in operating both local and national brands, to include CNBC News, PGA TOUR Shops, Brooks Brothers, Brighton Collectibles, Harley-Davidson, Bass Pro and The New York Times Bookstores, The Paradies Shops maintains a substantial presence as one of the largest airport retailers. Additionally, The Paradies Shops operates in hotel resort properties such as the Gaylord Palms in Orlando and the Tropicana in Atlantic City.  \r\n\r\nThe company is headquartered in Atlanta.  The support center is home to the merchandising, payroll, accounting, human resources and executive staff.  \r\n\r\nThe Paradies Shops operations in Phoenix, Sacramento, Des Moines and Orlando are a few of the locations that have been recognized as a Best Place to Work by the local sponsors of the survey.  \r\n\r\nThe Paradies Shops is proud of it's tradition as a great place to work and as a leader in customer service.  The Paradies Shops has been recognized by ARN as the retailer with the highest regard for customer service for 14 years.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "30336", 
+        "city": "Atlanta", 
+        "street1": "5950 Fulton Industrial Blvd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1960, 
+    "websiteUrl": "www.theparadiesshops.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Specialty Retail", 
+      "News and Convenience Retail", 
+      "Food and Beverage"
+     ]
+    }, 
+    "universalName": "the-paradies-shops", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "The Paradies Shops"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4943, 
+    "description": "The University of Sussex was the first of the new wave of universities founded in the 1960s, receiving its Royal Charter in August 1961. As we celebrate our 50th anniversary, Sussex has become a leading teaching and research institution.\r\n\r\nSussex is a leading research university, with over 13,000 students, of which over a third are postgraduates. Creative thinking, pedagogic diversity, intellectual challenge and interdisciplinarity have always been fundamental to a Sussex education.\r\n\r\nOur goal is to deliver teaching and learning programmes that are informed by current research, are attractive to students from all socioeconomic and cultural backgrounds, and which deliver skills for life.\r\n\r\nSussex has developed a reputation for innovation and inspiration, and attracts leading thinkers and researchers. We have over 2,100 staff, including around 540 teaching and research staff, and 270 research-only staff. \r\n\r\nWe have counted three Nobel Prize winners, 13 Fellows of the Royal Society, six Fellows of the British Academy and a winner of the prestigious Crafoord Prize on our faculty. The University attracts staff and students to its campus from over 120 different countries across the world. Nearly a third of staff come from outside the UK.\r\n\r\nSussex has one of the most beautiful campus locations in Britain. We are surrounded by the South Downs National Park, but just a few minutes away from the lively city of Brighton and Hove.", 
+    "twitterId": "", 
+    "industry": "Higher Education", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0)1273 678335", 
+        "phone1": "+44 (0)1273 606755"
+       }, 
+       "address": {
+        "postalCode": "BN1 9RH", 
+        "city": "Brighton", 
+        "street1": "University of Sussex"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "http://www.sussex.ac.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Research", 
+      "Higher Education", 
+      "Innovation"
+     ]
+    }, 
+    "universalName": "university-of-sussex", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "University of Sussex"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1472, 
+    "description": "Established in 1985, Caritas Christi Health Care, New England's largest community-based hospital network, is a comprehensive, integrated health care delivery network providing community-based medicine and tertiary care in eastern Massachusetts, southern New Hampshire and Rhode Island.\r\n\r\nEach hospital and facility within the Caritas family, while part of an extensive network of health care providers, has its own rich history of providing outstanding, compassionate care right in the communities where patients need it most.  Caritas hospitals include: Carney Hospital in Dorchester, Good Samaritan Medical Center in Brockton, Holy Family Hospital in Methuen, Norwood Hospital in Norwood, Saint Anne's Hospital in Fall River, and St. Elizabeth\u2019s Medical Center in Brighton. \r\n\r\nOther members of the Caritas family, who provide social, educational or health care services include: Caritas Home Care, Good Samaritan Hospice, Labour\u00e9 College, and Por Cristo.  In addition, the system includes Caritas Physician Network, a 400-physician group practice serving patients throughout the system. \r\n\r\nTogether, the more than 12,000 individuals that comprise the Caritas family, work each day to provide world class care, close to home, where patients need it most.", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "617-789-3000"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Boston", 
+        "street1": "77 Warren Street"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "I", 
+     "name": "10001+"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.caritaschristi.org", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "World class health care in the neighborhoods where our patients live..."
+     ]
+    }, 
+    "universalName": "caritas-christi-health-care", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Caritas Christi Health Care"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 105, 
+    "description": "Modern Real Estate Inc. is recognized as one of the best and most reputable Real Estate companies in Boston area. Started by hard working and motivated friends in 2003, Modern now helps 20+ agents reach their goals and has over 40,000 active property listings. We have property and housing for any client living in the greater Boston area or looking to relocate into a better living situation throughout the city. We have over 21 combined years of proven real estate experience and most of our agents have been with us since the beginning. Feel free to log on, email us, or give us a call and we will be happy to find you your next apartment, condo, or investment property.\r\n\r\nWe are located at the corner of Brighton Ave and Harvard Ave. Please take the Green (B) line to the Harvard Ave T-stop and walk down Harvard Ave with Blanchard's Liquor Store on your left and McDonald's on your right.\r\n\r\nIf you are a client and looking to drive here, you can enjoy 2 hour parking all along Harvard Ave and Brighton Ave. If you need help with your parking situation please call your agent and he/she will assist you in finding a parking spot. We look forward to meeting you and helping with all your real estate needs.\r\n\r\nRegards,\r\nThe Modern Team", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "617-782-7510", 
+        "phone1": "617-782-7500"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Allston", 
+        "street1": "141 Brighton Ave"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "617-782-7510", 
+        "phone1": "617-782-7500"
+       }, 
+       "address": {
+        "postalCode": "02134", 
+        "city": "Allston", 
+        "street1": "141 Brighton Ave"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.modernre.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Rentals", 
+      "Sales", 
+      "and Property Managment"
+     ]
+    }, 
+    "universalName": "modern-real-estate", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Modern Real Estate"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 24, 
+    "description": "Callender Creates is a creative digital agency founded by web developer Jim Callender. We're based on the south coast of England in sunny Brighton.\r\n\r\nCallender Creates is owned and managed by Award Winner Jim Callender\r\n\r\nJim has worked in the web and new media industry since 1998. He has researched, designed and produced a variety of web based projects, for a wide range of clients including government, public, private and voluntary sector organisations.\r\n\r\nBefore founding Callender Creates, Jim worked for Compaq Europe as web designer, then for a number of years as Design Manager for LexisNexis, a subsidary of Reed Elsevier Publishing.\r\n\r\nAs director of Callender Creates, Jim is able to draw on a highly talented network of other small businesses and freelancers within Brighton and the South-East. Keeping a reliable team of developers and programmers busy with exciting work, Jim has managed to produce work of high quality and built a strong reputation for his brand and online presence within the web industry.\r\n\r\nBeing a small company allows Jim to always steer the company in the correct direction and allows more flexibility than working with larger agencies. Offering the customer the best of both worlds, low costs and always up to date web technologies.\r\n\r\nWhy buy our services?\r\n\r\nBecause we can actually give clients great web sites that work for them using the most up to date web technologies, at a very competitive cost.\r\n\r\n1. Web Consultancy\r\n2. Web Design\r\n3. Web Development\r\n4. Web Site Promotion\r\n\r\nIs this all you do?\r\n\r\nWe have a wide range of services to offer, however we find the above services are at the core of making your web site more successful in the long term.", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273806672"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BE", 
+        "city": "Hove", 
+        "street1": "The Werks"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "http://www.callendercreates.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "web design", 
+      "web development", 
+      "web site promotion", 
+      "seo", 
+      "accessibility", 
+      "css", 
+      "html", 
+      "user experience", 
+      "mobile development", 
+      "social media"
+     ]
+    }, 
+    "universalName": "callender-creates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Callender Creates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3434, 
+    "description": "Southern Water is one of the largest water and wastewater companies in the South East of England.\r\n\r\nWe supply drinking water to more than two million customers in Kent, Sussex, Hampshire and the Isle of Wight. We also treat and recycle wastewater for more than four million customers across our region.\r\n\r\nOur headquarters is in Worthing, West Sussex, and we also have offices at Falmer, near Brighton, and Chatham in Kent as well as more than 3,000 operational sites.\r\n\r\nWe employ nearly 2,000 people in a wide range of field and office-based roles and are committed to training and development. The company also indirectly supports about 2,900 jobs through our capital investment programme. \r\n\r\nSouthern Water is owned by Greensands Investments Limited, a consortium made up of pension and infrastructure funds.\r\n\r\n \r\n\r\nFind out more about us:\r\n\r\nWebsite: www.southernwater.co.uk\r\n\r\nYouTube: www.youtube.com/user/SouthernWaterUK\r\n\r\nFacebook: www.facebook.com/SouthernWater", 
+    "twitterId": "", 
+    "industry": "Utilities", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01903 262185", 
+        "phone1": "01903 264444"
+       }, 
+       "address": {
+        "postalCode": "BN13 3NX", 
+        "city": "Worthing", 
+        "street1": "Southern House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01634 829455", 
+        "phone1": "01634 830655"
+       }, 
+       "address": {
+        "postalCode": "ME5 7QA", 
+        "city": "Chatham", 
+        "street1": "Southern House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 675239", 
+        "phone1": "01273 606766"
+       }, 
+       "address": {
+        "postalCode": "BN1 9PY", 
+        "city": "Falmer", 
+        "street1": "Southern House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01962 714899", 
+        "phone1": "01962 714585"
+       }, 
+       "address": {
+        "postalCode": "SO21 2SW", 
+        "city": "Winchester", 
+        "street1": "Sparrowgrove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "http://www.southernwater.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Water", 
+      "Wastewater", 
+      "Metering", 
+      "Utility"
+     ]
+    }, 
+    "universalName": "southern-water", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Southern Water"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 334, 
+    "description": "Bennetts Associates is one of the UK\u2019s leading firms of architects, with a wide-ranging portfolio of award-winning projects and an established expertise in higher education, refurbishment and sustainability.\r\n\r\nInnovative projects such as the Wessex Water Operations Centre in Bath, Jubilee Library in Brighton and Hampshire County Council offices in Winchester have rooted Bennetts Associates as leading designers of sustainable architecture. A founding member of the UK Green Building Council, the firm is committed to promoting sustainable architecture through research, conferences and government committees surrounding this important issue.\r\n\r\nThe company\u2019s approach is characterised by careful management of the design process, personal involvement from the Directors, gradual expansion and a strong team ethic. An exceptional track record of consistent delivery on time and to budget are due to this methodical approach and desire to create a sense of enjoyment for all. This is demonstrated by the 125+ awards and commendations won by the firm, including a number of RIBA awards, the Prime Minister\u2019s \u2018Better Public Building\u2019 award for the Jubilee Library in Brighton and the Refurbishment Architect of the Year award in 2011.", 
+    "twitterId": "", 
+    "industry": "Architecture & Planning", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "EC1V 7NL", 
+        "city": "London", 
+        "street1": "1 Rawstorne Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "EH8 9NJ", 
+        "city": "Edinburgh", 
+        "street1": "3 Boroughloch Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1987, 
+    "websiteUrl": "www.bennettsassociates.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Higher education facilities", 
+      "Sustainable architecture", 
+      "Theatre design and arts projects", 
+      "Refurbishment", 
+      "Hotels and leisure", 
+      "Offices", 
+      "Urban regeneration", 
+      "Transport infrastructure", 
+      "Public buildings"
+     ]
+    }, 
+    "universalName": "bennetts-associates", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bennetts Associates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 191, 
+    "description": "Healys is a full-service law firm providing clients with a professional and highly effective legal service.Healys has offices in the heart of legal London and in Brighton. \r\n\r\nHealys prides itself on being able to offer creative legal solutions across the complete spectrum of legal services.\r\n \r\nHealys provides swifts, appropriate and creative response to clients\u2019 needs. The departments work collaboratively between London and Brighton offices thus offering clients a seamless, commercial and cost-effective service. \r\n\r\nCombining the two offices allows each member of the Healys team to provide a seamless service to the firm\u2019s clients, irrespective of in which office he or she is based.\r\n\r\nHealys has a robust management structure which ideally positions it to anticipate, adapt and address appropriately any changes in the legal market, particularly in an uncertain economic climate.   \r\n\r\nAs part of its ambitious development strategy, Healys has successfully achieved independent recognition in the form of the Law Society\u2019s Lexcel accreditation.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "020 7822 4100", 
+        "phone1": "020 7822 4000"
+       }, 
+       "address": {
+        "postalCode": "EC4A 3JB", 
+        "city": "London", 
+        "street1": "76 Shoe Lane"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 685454", 
+        "phone1": "01273 685 888"
+       }, 
+       "address": {
+        "postalCode": "BN1 1EJ", 
+        "city": "Brighton", 
+        "street1": "8 & 9 Old Steine"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1980, 
+    "websiteUrl": "www.healys.com", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Corporate", 
+      "Insolvency", 
+      "Private Client", 
+      "Property (Commercial and Residential)", 
+      "Employment", 
+      "Family and Matrimonial", 
+      "Intellectual Property/Media", 
+      "Dispute Resolution", 
+      "Commercial Contracts", 
+      "Immigration", 
+      "Property Disputes and Litigation", 
+      "Estate Planning", 
+      "Personal Injury"
+     ]
+    }, 
+    "universalName": "healys-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Healys LLP"
+   }, 
+   {
+    "numFollowers": 38, 
+    "name": "Thomas Locksmiths Ltd", 
+    "industry": "Security & Investigations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn3 5dp"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.thomaslocks.co.uk", 
+    "universalName": "thomas-locksmiths-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Thomas Locksmiths Ltd have been established since 1983 initially covering the City of Brighton & Hove.\r\nSince then we have grown to become one of the largest locksmiths in the South East of England covering major Towns and Cities such as Brighton, Hove,  Burgess Hill, Haywards Heath, Hastings Horsham, Crawley, Chichester, Worthing, Guildford, Reigate, Redhill, Eastbourne, Worthing, Lewes, Hastings, Tunbridge Wells and East Grinstead.  We are proud members of the Master Locksmiths Association, Guild of Master Craftsmen and are Safe Contractor approved.\r\n\r\nOur client list include Local authorities, Housing associations, Schools, Colleges, Police and Hospitals.\r\n\r\nOur services range from Simple non destructive gain entry to Access Control, CCTV, Door phone entry systems, Locksmiths & Key cutting which Includes car transponder keys all of which are very competitively priced.\r\n\r\nThomas Locks have a complete range of Safes both new and used with a new safes showroom opening soon.\r\n\r\nAll quotations and Surveys are completely free of charge, and we specialise in Insurance approved installations.\r\n\r\nLocked out? Need a Locksmiths?  Insurance company insisting you upgrade your locks?\r\n\r\nWhatever your security needs just simply call the above freephone number now for our fast, friendly, efficient locksmiths service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "AudioBeach Studios is Brighton & Hove's newest, and best, recording studio for all types of bands, groups and solo artists.\r\n\r\nAudioBeach Studios was set up in November 2009 by producers Forbes Coleman (Spitefire, My Red Angel, Amanda Shaw, Franny, Andy Walker) and Jez Larder, who has worked on tracks by David Bowie, Simply Red, Estelle and more recently One Eskimo and Amy MacDonald.\r\n\r\nAudioBeach Studios provides an affordable professional 48 track recording and live sound service. The studio will have a great size live room and sound booth and will cater for all types of bands and artists.\r\n\r\nAs part of AudioBeach Studios's commitment to promoting new talent, we offer discounted recording sessions to unsigned artists and young musicians at just \u00a3160 per day for a recording session.\r\n\r\nThe studio benefit's from ample, nearby low priced pay-and-display parking as well as being near a large cheap multi-storey carpark in Norton Road, Hove and is situated minutes away from Brighton and Hove stations.", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 1FW"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.audiobeachstudios.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Recording", 
+      "Production", 
+      "Workshops", 
+      "Rehearsal Space"
+     ]
+    }, 
+    "universalName": "audiobeach-studios", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "AudioBeach Studios"
+   }
+  ]
+ }
+}

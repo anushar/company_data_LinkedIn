@@ -1,0 +1,847 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 120, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Betterclean Services provide professional commercial cleaning services. We pride ourselves in using the best staff, equipment and methods to ensure we achieve the highest standards of cleaning in Brighton at an affordable price.\r\nWe have developed specific cleaning packages for a number of key sectors including:\r\n-       GP Surgeries\r\n-       Dental Surgeries\r\n-       Accountants & Solicitors\r\n-       Car Showrooms\r\n-       Schools\r\n\r\nOur cleaners are fully qualified and their work is strictly audited to ensure they achieve above and beyond the ISO 9001 quality standards.\r\n\r\nEach of our clients is appointed a site manager who is responsible for ensuring customer satisfaction and a consistent service. In the unlikely event that one of our cleaners is unable to attend their shift with you, we have a backup team on standby ready to fill in.\r\n\r\nIf you\u2019d like your company to benefit from a better clean, then please connect with me and get in touch.", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 003 5336"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Brook Way"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.bettercleanservices.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Commercial Cleaning", 
+      "Commercial Window Cleaning", 
+      "CQC Compliance", 
+      "Commercial Cleaning for the Catering Industry", 
+      "Properties Management Cleaning", 
+      "Holiday Park and Campsite Cleaning"
+     ]
+    }, 
+    "universalName": "betterclean-services-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Betterclean Services Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Blink is a new portrait studio that's spacious, relaxed and perfectly located to get most from your shoot.\r\n\r\nNow everyone - families, couples and individuals - can enjoy a professional photo-shoot with an award-winning photographer, right in the heart of Brighton\u2019s Lanes in spacious purpose-built studios. And as we're only a stones\u2019 throw from the seafront outdoor shoots are a breeze too!\r\n\r\nGreat portraits are about feeling comfortable in front of the lens, so to complete the picture lead photographer David Streeter uses his wit and charm to create a chilled environment, along with help from his friendly Assistant Photographer and Makeup Stylist on applicable sessions. \r\n\r\nPost-shoot you'll be able to preview your shots, chat about options and later you'll have on-line access to edited images and over 500 photo products to choose from.\r\n\r\nBetter facilities, a fun team, more choice; It all adds up to a great photo-shoot experience and more natural results.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07803 743782"
+       }, 
+       "address": {
+        "postalCode": "BN3 2RB", 
+        "city": "HOVE", 
+        "street1": "54 Osborne Villas"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07803 743782"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "BRIGHTON", 
+        "street1": "Brighton Media Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.blinkbrighon.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Family & Baby portraits", 
+      "Portfolio photo-shoots (Comedians/Models/Actors)", 
+      "Makeover photo-shoots (with make-up/hair stylist)", 
+      "Studio & Beach photo-shoots", 
+      "Corporate/Business portraits"
+     ]
+    }, 
+    "universalName": "blink-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Blink Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 23, 
+    "name": "Brighton & Hove Energy Services Company", 
+    "twitterId": "", 
+    "industry": "Oil & Energy", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.bhesco.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "ESCO", 
+      "Eco-retrofit", 
+      "Renewable Energy"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-energy-services-company", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "BHESCO is a new community owned energy services company created to help residents of Brighton & Hove (and Sussex) reduce their exposure to rising energy prices. We are a not for profit, social enterprise helping people take more control over their energy supply. Offering a three tiered service, we act as a bulk buying club for energy and re-invest a significant part of the profits earned in retrofitting properties to reduce energy bills even further as well as installing renewable energy micro-generation, all designed to buffer the impacts of wholesale fuel price hikes on our customers."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Since 1993 BHIMS has worked with residents, organisations and businesses across Brighton and Hove to promote and deliver mediation services and build stronger more cohesive local communities. We develop and share conflict resolution and communication tools to resolve current problems and reduce future conflicts. We achieve this by training locally based volunteers in the skills they need to mediate conflict within our communities, working with families, neighbours, groups and organisations to find realistic solutions to problems that are acceptable to all involved.", 
+    "twitterId": "", 
+    "industry": "Alternative Dispute Resolution", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 700812"
+       }, 
+       "address": {
+        "postalCode": "BN2 9NG", 
+        "city": "Brighton", 
+        "street1": "Ecclesden"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "http://www.bhims.org.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Mediation", 
+      "Conflict Resolution", 
+      "Mediation Training", 
+      "Workplace Mediation", 
+      "Commercial Mediation", 
+      "Family Mediation"
+     ]
+    }, 
+    "universalName": "brighton-&-hove-independent-mediation", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton & Hove Independent Mediation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 65, 
+    "name": "Brighton Rehabilitation", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.brightonrehab.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Physical Therapy", 
+      "Occupational Therapy", 
+      "Speech Language Pathology"
+     ]
+    }, 
+    "universalName": "brighton-rehabilitation", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We are a full-service, therapist owned, rehabilitation company. Visit us at www.BrightonRehab.com. Brighton Rehabilitation\u2019s goal is to provide the highest quality, comprehensive therapy available to our patients.\r\n\r\nWe deliver quality rehabilitation services to skilled nursing facilities, outpatient clinics, hospitals, sub-acute rehabilitation units, transitional care units, home health agencies, and at job sites. Operating throughout the western United States, we specialize in providing a continuum of rehabilitation programs for skilled nursing facilities.\r\n\r\nOur Clinical Staff treats patients in a variety of settings including: \r\n\r\n- Outpatient Clinics \r\n- Skilled Nursing Facilities \r\n- Hospitals \r\n- Subacute rehabilitation units\r\n- Transitional Care Units \r\n- Home Rehabilitation Services \r\n\r\n\r\nWith locations in 5 Western states, we specialize in providing a continuum of rehabilitation programs for skilled nursing facilities."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Founded in 2004, Alexander Technique Central Brighton offers clients a way of re-educating themselves into better postural habits. This aids confidence and helps with stress management.\r\n\r\nClients are taught in a dedicated, light and airy studio centrally located just off Western Road.", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3EF", 
+        "city": "Brighton", 
+        "street1": "16 Spring St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.alexandertechniquebrighton.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Stress Management", 
+      "Healthy Posture", 
+      "Confidence building", 
+      "Pain Reduction"
+     ]
+    }, 
+    "universalName": "alexander-technique-central-brighton", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Alexander Technique Central Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Safety Net\u2019s vision is to create communities across Brighton, Hove and Sussex that work together to keep children safe. We aim to ensure all children and young people are aware that they have the right to feel and be safe, and that they can get help when they need it.  We work with families,  in schools and in local communities.\r\n\r\nOur Vision is to build safer communities for children and young people, where all children, young people and families know that they have the right to feel safe, the responsibility to keep others safe and the support to reach their full potential.\r\n\r\nOur Mission: To work with communities to improve the safety and well-being of children, young people and families, at home, school and in their neighbourhoods.", 
+    "twitterId": "", 
+    "industry": "Primary/Secondary", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 1273 411613"
+       }, 
+       "address": {
+        "postalCode": "BN41 2PA", 
+        "city": "Brighton", 
+        "street1": "Drove Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.safety-net.org.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Safeguarding and Child Protection", 
+      "Training and development", 
+      "Parenting support and Family Link", 
+      "Children and young people", 
+      "Youth Participation", 
+      "CRB checking Service", 
+      "Home safety Equipment"
+     ]
+    }, 
+    "universalName": "safety-net-brighton", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Safety-Net Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 32, 
+    "description": "Community Living Campbellford/Brighton support people with intellectual disabilites in many different aspects of their lives.\r\n\r\nVISION \"A diverse community that respects the dreams and aspirations of all its members.\"\r\n \r\nMISSION \"To provide support and services to people that promote opportunities for personal growth within their community.\"", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "705-653-5738", 
+        "phone1": "705-653-1821  Ext 241"
+       }, 
+       "address": {
+        "postalCode": "K0L 1 L0", 
+        "city": "Campbellford", 
+        "street1": "65 Bridge St East"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1960, 
+    "websiteUrl": "www.communitylivingcampbellford.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Community Homes", 
+      "Family Home", 
+      "Supported Independent Living", 
+      "Employment Supports", 
+      "Respite", 
+      "Day Support", 
+      "Foundation Program"
+     ]
+    }, 
+    "universalName": "community-living-campbellford-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Community Living Campbellford/Brighton"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 96, 
+    "description": "BHT is a charity that provides accommodation, support and advice to homeless, insecurely housed and vulnerable people in Brighton and Hove, Eastbourne and Hastings. Our mission is to empower  disadvantaged people to make positive changes in their lives and their community.", 
+    "twitterId": "", 
+    "industry": "Civic & Social Organization", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 645402", 
+        "phone1": "01273 645400"
+       }, 
+       "address": {
+        "postalCode": "BN1 4PH", 
+        "city": "Brighton", 
+        "street1": "144 London Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1968, 
+    "websiteUrl": "http://www.bht.org.uk/", 
+    "universalName": "brighton-housing-trust", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton Housing Trust"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 116, 
+    "description": "Brighton School of Business and Management Ltd is a provider of online distance learning courses. \r\nSpecialising in Management and Business courses, all courses are UK accredited and range from degree level to masters level qualifications. We offer courses to students worldwide via our online virtual learning environment, Moodle.", 
+    "twitterId": "", 
+    "industry": "E-learning", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1273 704463"
+       }, 
+       "address": {
+        "postalCode": "BN1 9SB", 
+        "city": "Brighton", 
+        "street1": "Sussex Innovation Centre, Science Park Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1990, 
+    "websiteUrl": "http://www.brightonsbm.com/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Internationally Recognised Online Distance Learning Courses", 
+      "Degree Foundation Qualifications", 
+      "Management and Postgraduate Qualifications", 
+      "Professional Development Courses", 
+      "Short Professional Management Courses"
+     ]
+    }, 
+    "universalName": "brighton-school-of-business-&-management", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton School of Business & Management"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Pride Brighton & Hove CIC is the new community interest company operating the annual LGBT Pride parade and park event within the city.\r\n\r\nWe will be launching a website soon. At the moment you can follow us on facebook and twitter.\r\n\r\nwww.fb.com/brightonpride www.twitter.com/pridebrighton", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 257 225"
+       }, 
+       "address": {
+        "postalCode": "BN1 2TA", 
+        "city": "Brighton", 
+        "street1": "5-7 Marine Parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.fb.com/brightonpride", 
+    "universalName": "pride-brighton-&-hove-cic", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Pride Brighton & Hove CIC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Brighton Home Inspections is a lower mainland owned inspection business providing service to many communities.\r\nOur goal is to provide you with the utmost in peace of mind when purchasing a new home by doing our job expertly, professionally and correctly \u2013 the first time.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://brightonhi.com/?page_id=74", 
+    "industry": "Real Estate", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.brightonhi.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Vancouver Home Inspection Service", 
+      "Buyer Home Inspection", 
+      "Pre Sale Home Inspections", 
+      "Housing Inspector"
+     ]
+    }, 
+    "universalName": "brighton-home-inspections", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Home Inspections"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "We are building a citywide WiFi network providing affordable Internet access for residents, information for visitors and free access to local services. We want to bring all the social & economical benefits other cities have enjoyed from a public WiFi network to Brighton & Hove.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 728685"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton & Hove", 
+        "street1": "Brighton & Hove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.brightonandhovewifi.co.uk", 
+    "universalName": "brighton-and-hove-wifi", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton And Hove WiFi"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "The Brighton Online English School provides unique online English courses, designed to fit your needs. \r\n\r\nAll our courses are taught through a combination of Moodle and live online classes, where you can practice exactly what you need to succeed in business or pass international exams such as IELTS.  \r\n\r\nIn today's connected world, you owe it to yourself to be able to make yourself understood. Globally.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 274579"
+       }, 
+       "address": {
+        "postalCode": "BN3 3PA", 
+        "city": "Brighton", 
+        "street1": "46 Wilbury Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.brightononlineenglishschool.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Online Business English classes", 
+      "IELTS preparation"
+     ]
+    }, 
+    "universalName": "brighton-online-english-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Brighton Online English School"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "For 43 years Brighton Travelworld has created customised itineraries for discerning travellers to every corner of the globe including our own wonderful country, Australia. \r\n\r\nOur name has become synonymous with all facets of travel whether it be your first holiday on a budget, or your ultimate luxury escape. We are recognised for our research and understanding of the ingredients that create a great travel experience. \r\n\r\nWe invite you to meet our close team of highly trained, well travelled Consultants. Between us we have nearly 200 years of travel experience! We place that experience at your disposal for your corporate or leisure travel needs. \r\n\r\nWe are passionate about travel. Some of the secrets of what we love can be discovered in our newsletters and travel gems. And we can tell you all you need to know about cruising! \r\n\r\n\"A local award winning business supporting our local community\".", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1968, 
+    "websiteUrl": "www.brightontravel.com.au", 
+    "universalName": "brighton-travelworld", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Travelworld"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "We are happy to be able to offer you the most stylish and affordable holiday lets in Brighton and London. Our commitment is to provide you with only beautifully appointed self catering accommodation. If you are interested in a holiday let for a few days, a week, a month or even a few months, we can help. Our short term lets are highly affordable and we take great pride in catering to each tenants needs to ensure they have a comfortable stay they are able to boast about and wish to return to.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 241 608"
+       }, 
+       "address": {
+        "postalCode": "BN1 5LB", 
+        "city": "Brighton", 
+        "street1": "10 Dyke road avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bestbrightonholidaylet.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "High quality accommodation", 
+      "Quality property management", 
+      "Cost effective rentals in convenient locations", 
+      "Personal service with 24 hour assistance"
+     ]
+    }, 
+    "universalName": "best-brighton-holiday-let", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Best Brighton Holiday Let"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 44, 
+    "description": "Brighton Pier is a pleasure pier and a traditional seaside landmark established in 1899. We have two arcades, three bars, various rides and amusements as well as a variety of units and stalls that sell memorabilia and food. For more information visit our website at: http://www.brightonpier.co.uk/", 
+    "twitterId": "", 
+    "blogRssUrl": "http://www.brightonpier.co.uk/blog", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 609361"
+       }, 
+       "address": {
+        "postalCode": "BN2 1TW", 
+        "city": "Brighton", 
+        "street1": "Madeira Drive"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1899, 
+    "websiteUrl": "http://www.brightonpier.co.uk/", 
+    "universalName": "brighton-pier", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Pier"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Brighton Financial Planning (BFP) was established in 1984 by James J. Chesterton, Jr. CFP\u00ae to provide high quality Financial Planning and Investment Advisory services to individuals. John P. Middleton, CFA, CAIA assumed ownership in 2010.\r\n\r\nBFP was established with a belief that individuals expect and require personalized attention and customized service to maximize their financial well-being. We believe boutique firms, such as ours, are better able to provide that level of care and attention. We believe long-term relationships between the client and advisor are both desirable and essential. A financial plan or investment strategy is not a singular event. Circumstances will change in unanticipated ways over time and strategies must be continually adapted to meet those challenges. Thus a long-lasting client-advisor relationship is critical to making the right adaptations.\r\n\r\nAs a boutique, we offer several desirable, beneficial attributes to individuals. Most importantly, we are an independent firm whose sole source of compensation is the fees paid by our clients. This independence provides us the freedom to make recommendations and decisions we believe are in the best interests of our clients.\r\n\r\nWe offer co-ordinated Financial Planning, Discretionary Investment Management Services and Defined Contribution Advisory Services including endowment and foundation consulting and investment management and defined contribution consulting and management.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://feeds2.feedburner.com/brightonperspective", 
+    "industry": "Financial Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "908-730-6754", 
+        "phone1": "908-730-7000"
+       }, 
+       "address": {
+        "postalCode": "08809", 
+        "city": "Clinton", 
+        "street1": "1728 Rt. 31"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "www.brightonfinancial.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Discretionary Investment Management", 
+      "Defined Contribution Advisory Services", 
+      "Financial Planning", 
+      "Estate Planning"
+     ]
+    }, 
+    "universalName": "brighton-financial-planning", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Financial Planning"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "Brighton Peace & Environment Centre (BPEC) is an educational charity which inspires action through learning about the world.\r\n\r\nWe encourage people to explore the links between their own lives and with people, places and issues throughout the world. We host a teachers' resource centre and provide training and support for teachers to bring the world into the classroom through curriculum related subjects.\r\n\r\nWe also provide the public with information about local and global concerns, supporting choices which prioritise peace, people and planet, throughout daily life.", 
+    "twitterId": "bpecmedia", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 766610"
+       }, 
+       "address": {
+        "postalCode": "BN1 3PB", 
+        "city": "Brighton", 
+        "street1": "Brighton Eco-Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1982, 
+    "websiteUrl": "http://www.bpec.org/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Education", 
+      "Community Work"
+     ]
+    }, 
+    "universalName": "brighton-peace-&-environment-centre", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brighton Peace & Environment Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Brighton Pavilion produces the world's finest hand painted furniture.  We are represented by high end shops and designers worldwide.  All of our pieces are bench made in Memphis, TN from native hardwoods and other natural materials.  Our goal is to provide you the finest heirloom quality furniture available on the market today.  Each piece is hand finished to your personal specifications as to color, texture and design.  We are a family owned firm committed to building and maintaining a loyal customer base by consistently delighting our customers with our quality and our service", 
+    "twitterId": "Brightonpavilio", 
+    "blogRssUrl": "", 
+    "industry": "Furniture", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "www.paintedfurniture.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Manufacturer of Custom High End Furniture"
+     ]
+    }, 
+    "universalName": "brighton-pavilion", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brighton Pavilion"
+   }
+  ]
+ }
+}

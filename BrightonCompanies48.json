@@ -1,0 +1,839 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 960, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "We are in Lewes nr Brighton, 17 fisher st which is just of the high st, closed on sun/mon stay open late on thurs, 01273 479425 is the number to call.\r\nWe cut  colour etc hair, and we do it rather well, 'up' do's for any event, we are very patient with people and DO listen to what you say, thats about it, come see us,", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.thecuttingclub.co.uk", 
+    "universalName": "the-cutting-club-hairdressers", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Cutting Club Hairdressers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "* We can provide Energy Performance Certificates (EPC) in the Brighton & Hove, East Sussex area and can ensure that your EPC will be carried out by us and not contracted out to anybody else. \r\n\r\n* All EPCs will be carried out by our fully qualified and accredited Domestic Energy Assessor who has over 19 years experience in all aspects of Property management. Information will be entered onto the Landmark Register and documents provided via email within 48 hours of the site visit (unregistered properties may take slightly longer). \r\n\r\n* We have extensive knowledge of the local area and can offer impartial advice, are current members of the Southern Landlords Association (SLA) and adhere to their code of practice. \r\n\r\n* We can undertake small building works (kitchen and bathroom refits), decorating, general maintenance, lock replacement, carpet cleaning, flat roofs and guttering. No obligation estimates provided upon request. Private and commercial.\r\n\r\n* We also offer property for rental, carry out building maintenance and management (www.Lewis-Property.com)\r\n\r\n* Our mission is to ensure a professional, personal and reliable service at all times.", 
+    "twitterId": "LewisProperty", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0775 9779651"
+       }, 
+       "address": {
+        "postalCode": "BN3 6LR", 
+        "city": "BRIGHTON", 
+        "street1": "Hove,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.lewisestatesltd.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Energy Performance Certificate EPC", 
+      "Domestic Energy Assessor DEA", 
+      "building management", 
+      "building maintenance", 
+      "property rental", 
+      "landlord services"
+     ]
+    }, 
+    "universalName": "lewis-estates-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Lewis Estates Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "69degreesC is based in Brighton, in Sussex. I specialise in Search engine optimisation and  and some front end web development.\r\nSEO Skills include:\r\nOn-page\r\n-Keyword research, keyword competition For Organic and PPC traffic.\r\n-Title tags, Keyword tags, Description tags, H1 9header tags Optimised, Images optimised for SEO, Keywords in content, Anchor text optimised for links within the site, Optimising content, Google webmaster tools and Google Analytic set up, 301 page redirects\r\n\r\nOff-page SEO \r\n-Analysis of competition websites (keywords and Link building Prospects) \r\n-link building campaigns\r\n-Social Media Optimisation\r\n-Social Media Marketing\r\n-Keyword Rank Tracking\r\n-Analysis of SEO campaigns using Google Analytics,\r\n\r\nGoogle Adwords PPC\r\nCampaign management and set up including:\r\n-budget management\r\n- PPC campaign management on search network and display network\r\n-Landing page optimisation\r\n\r\nOther Skills include:\r\n-Hand coded HTML, CSS,Javascript.\r\n-Wordpress\r\n-Joomla \r\n-SEO basic training , Wordpress training, joomla training\r\n-E-commerce sites, galleries, magazine sites, cloning sites, HTML Sites, HTML templates from design", 
+    "twitterId": "69degreesC", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07590005944"
+       }, 
+       "address": {
+        "postalCode": "BN6 8AB", 
+        "city": "Hassocks", 
+        "street1": "27a Keymer road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.69degreesc.co.uk/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Affordable SEO", 
+      "Wordpress", 
+      "SEO training", 
+      "HTML websites", 
+      "Linkbuilding", 
+      "On-page SEO", 
+      "PPC", 
+      "SEO copy writing  and editing"
+     ]
+    }, 
+    "universalName": "69degreesc", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "69degreesC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 116, 
+    "name": "Active Sussex", 
+    "twitterId": "activesussex", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 643869"
+       }, 
+       "address": {
+        "postalCode": "BN1 9PH", 
+        "city": "Brighton", 
+        "street1": "University of Brighton Sports Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.activesussex.org", 
+    "universalName": "active-sussex", 
+    "companyType": {
+     "code": "G", 
+     "name": "Government Agency"
+    }, 
+    "description": "Welcome to the Linkedin company page for Active Sussex. As one of the 49 County Sports Partnerships in England, we aim to get more people taking part in sport more often. From lobbying for greater sporting investment across the region to hosting the annual Sussex Sports Awards, Active Sussex is the key partner for business and community sport in East Sussex, West Sussex and Brighton & Hove."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "name": "Aimer Media", 
+    "twitterId": "@aimermedia", 
+    "industry": "Publishing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "aimermedia.com", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Creating apps for the publishing sector"
+     ]
+    }, 
+    "universalName": "aimer-media", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Aimer Media is a Brighton-based app developer specialising in creating sustainable models for the publishing sector that take advantage of emerging mobile frameworks. The company works with publishers to help bring the structure and cleverness behind the printed page into innovative downloads. \r\n\r\nOur  apps include:\r\n\r\nUNESCO World Heritage \r\nGrayson Perry: The Vanity of Small Differences\r\nOsprey Military History Quiz\r\nTate Guide to Modern Art Terms\r\nLectionary: The Official Common Worship Calendar from the Church of England\r\nInsight Guides Travel Photography\r\nInsight Travel Guide app series \r\nBerlitz Cruise Ships 2014 \r\nPara Fitness\r\nMy Yoga Guru & My Pilates Guru\r\nNew Daylight, Guidelines and Day by Day with God\r\nThe Daily Toss\r\n\r\n\r\nClients include Osprey Publishing, Collins, Insight Guides, Modern Toss and Berlitz Publishing."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "It has been about 5 years since Flawless first hit the London scene and they have certainly come a long way since their first party. \r\n\r\nWe use the word party because despite holding events at many clubs and bars, Flawless are determined to ensure that every event is a party... for the people. Yes, it is themed around a general love of all things house. Yes the resident and guest DJs can rock the crowd. Yes, they can have the crowd lingering on every build-up and breakdown. Yes, they manage to pick that luscious blend of known and new floor-fillers. Yes, they always leave the crowd screaming \u201cONE MORE!\u201d \r\n\r\nA good night out should encapsulate the experience from start to finish and the Flawless team always work hard to deliver in every aspect, minor or major, and they do it with class and consistency.\r\n\r\nTheir brief history can boast a wide variety of amazing party nights, from their initiation at London's Rose Bar, to venues in Central London including Caf\u00e9 De Paris, Studio Valbonne at Greenwich's 02 Dome plus branching out to the suburbs of Surrey & Kent, as well as their recently successful tour of Ibiza and a 2010 Summer long residency at Kanya Ibiza.\r\n\r\n2011 residencies include, The White House, Pacha London, Noir Weybridge, The Funky End, The Palace, Digital Brighton, Egg London.", 
+    "twitterId": "flawlesslondon", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.flawlesslondon.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Event Promotion", 
+      "Club Nights", 
+      "Professional Djs", 
+      "Exclusive Parties"
+     ]
+    }, 
+    "universalName": "flawless-london", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Flawless London"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "The College of Classical Massage is a highly regarded & well-established massage college, teaching various internationally accredited and recognised Diploma training courses.  We are committed to being a centre of excellence in all aspects of massage training.   Courses are held in Brighton and Bath at weekends and on weekdays to cater for different studying needs and locations. We offer high quality tuition with specialist tutors, in a supportive group setting.\r\n\r\nCareer Opportunities -These massage courses cater for varying requirements.   Many of our students intend to work as Professional Therapists, often practising alternative therapy in addition to their current career or as a full time occupation. Others study for the pleasure of learning about the body and its healing systems and the opportunity to work on their family and friends.\r\n\r\nFor beginners: we run ITEC Diploma courses in Holistic Massage; Anatomy and Physiology; Professional conduct and Business Awareness.  For fully qualified practitioners, we offer ITEC Diplomas in Sports Massage, Certificates in Pregnancy Massage, On-Site Massage and a Certificate in Myofascial Techniques: Introductory and Advanced.  We also run Introductory courses in Body Massage and Indian Head Massage, Acupressure for Childbirth and workshops in Creating a Successful and Thriving Practice.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 562676"
+       }, 
+       "address": {
+        "postalCode": "BN1 8TB", 
+        "city": "Brighton", 
+        "street1": "149 Ladies Mile Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273562676"
+       }, 
+       "address": {
+        "postalCode": "BN2 3RG", 
+        "city": "Brighton", 
+        "street1": "20-26 Round Hill Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "phone1": "01273562676"
+       }, 
+       "address": {
+        "postalCode": "BA1 6RA", 
+        "city": "Bath", 
+        "street1": "Brookleaze Buildings"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.collegeofclassicalmassage.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Professional Massage Training", 
+      "ITEC Diploma in Holistic Massage", 
+      "Level 4 Certificate in Sports Massage", 
+      "Certificate in Onsite Massage", 
+      "Certificate in Pregnancy Massage", 
+      "Certificate in Myofascial Techniques"
+     ]
+    }, 
+    "universalName": "college-of-classical-massage", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "College of Classical Massage"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Eco Camp UK offer ecological woodland camping, set in two beautiful Sussex campsites allowing open campfires.\r\n\r\nWild Boar Wood Campsite and Beech Estate Woodland Campsite are set within bluebell woods in West and East Sussex. Both campsites are in designated Areas of Outstanding Natural Beauty (AONBs) and are within easy reach of London, Brighton, Hastings and the South Coast.\r\n\r\nBeech Estate Woodland Campsite and Wild Boar Wood Campsite offer 'off-grid' forest camping through our Bell Tent \u2018glamping\u2019 experiences, with Beech Estate also offering Forest Tent Pitches. Perfect for team building holidays and activities for the corporate sector.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 612 7390"
+       }, 
+       "address": {
+        "postalCode": "RH17 7EA", 
+        "city": "Haywards Heath", 
+        "street1": "Treemans Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 612 7390"
+       }, 
+       "address": {
+        "postalCode": "TN33 0LL", 
+        "city": "Battle", 
+        "street1": "Beech Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.ecocampuk.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Eco Camping", 
+      "Team Building", 
+      "Glamping Accommodation", 
+      "Off-Grid Woodland Campsite"
+     ]
+    }, 
+    "universalName": "ecocampuk", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "EcoCampUk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 113, 
+    "description": "Max Serviced Apartments specialise in luxury, solely managed furnished apartments in 11 prime City Centre locations. Apartments can be booked for long or short term stays... We have apartments in London, Manchester, Glasgow, Brighton, Cardiff, Norwich and Farnborough.\r\n\r\nMax is a fast growing independent serviced apartment provider that can offer you an environment that is as close to home as it can be with the flexibility to stay from 1 night to 1 year\u2026\r\n\r\nMax apartments have a wide range of apartments available to you...  \r\n\r\nWe offer studio, 1, 2 or 3 bedroom apartments.\r\n\r\nCall our enquiries and reservations team on: 0844 55 75 130 or visit us at www.max-servicedapartments.co.uk", 
+    "twitterId": "", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 5575 130"
+       }, 
+       "address": {
+        "postalCode": "GU14 7RE", 
+        "city": "Farnborough", 
+        "street1": "Max House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 832 0891", 
+        "phone1": "0844 5575135"
+       }, 
+       "address": {
+        "postalCode": "M1 2HG", 
+        "city": "Manchester", 
+        "street1": "81 Dale Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 832 0891", 
+        "phone1": "0844 55 75 130"
+       }, 
+       "address": {
+        "postalCode": "CF10 2FE", 
+        "city": "Cardiff", 
+        "street1": "Meridian Gate"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 832 0891", 
+        "phone1": "0844 5575134"
+       }, 
+       "address": {
+        "postalCode": "G2 1HG", 
+        "city": "Glasgow", 
+        "street1": "38 Bath Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "0207 832 0891", 
+        "phone1": "0844 5575130"
+       }, 
+       "address": {
+        "postalCode": "RG1 2SE", 
+        "city": "Reading", 
+        "street1": "Number 18"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.max-servicedapartments.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Serviced Apartments", 
+      "City Centre Accommodation", 
+      "Long Stay Apartments with On-site Parking", 
+      "Free Wi-fi"
+     ]
+    }, 
+    "universalName": "max-serviced-apartments", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "MAX Serviced Apartments"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "The Martlets Hospice cares for people affected by advanced terminal illness living in and around Brighton & Hove.  \r\nPatients can stay on our 18 bed InPatient Unit, visit our Day Hospice or be cared for at home by our  Martlets at Home team.  Practical and emotional support is also offered to the families and carers of our patients including helping them through bereavement. \r\nWe believe that a good and dignified death is everyone\u2019s entitlement. Our main aim is to maximise the quality of life for our patients and we strive to support patient choice, dignity and independence in all we do. We are a registered charity and all our services are provided free of charge. We must raise over \u00a39,000 a day to care for our patients and their families, local community support is essential to our survival.", 
+    "twitterId": "martletshospice", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.themartletshospice.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "palliative care"
+     ]
+    }, 
+    "universalName": "the-martlets-hospice", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Martlets Hospice"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Exercise With Your Baby or Toddler\r\n\r\nBay City Strollers is Australia's most innovative post natal exercise program for new mums. Click below to see the mums in action.\r\n\r\n\r\nExercise with your children in an invigorating environment under professional guidance, and restore your body and mind after the rigors of childbirth.\r\n\r\n Catering to different levels in the post natal exercise cycle, this proven training system will have you back in pre-pregnancy shape, or better!\r\n\r\nRegister online now to try a session for free\r\n\r\nGroups exercising at Geelong, Melbourne, Elwood, Williamstown, Carlton, Clifton Hill, Hawthorn, South Yarra, Brighton, Parkdale, Murrumbeena, Box Hill", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.baycitystrollers.com.au", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Post Natal exercise", 
+      "Pregnancy exercise", 
+      "Play group", 
+      "Mothers Group", 
+      "Personal Trainer", 
+      "Group Exercise"
+     ]
+    }, 
+    "universalName": "bay-city-strollers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bay City Strollers"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 0, 
+    "description": "Two-man tag team making lovely little games for Android, Playbook and whatever else we can get our hands on. Our games can be played from 6 years up on a variety of platforms and are made with the utmost care and love. Our directors, Tim Frost and Owen Bennett have about 1000 years interactive and children's media experience between them*\r\n\r\nOur current platforms are Android, Playbook and the web. We will soon be publishing to Windows Phone 7 and iOS. We're based in and around Brighton UK, so check us out and get in touch > http://pieandmash.me\r\n\r\n* = maybe not 1000 years, but a lot of years. Say 35.\r\n\r\n:-)", 
+    "twitterId": "pieandmashgames", 
+    "blogRssUrl": "http://pieandmash.me/feed/", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://pieandmash.me", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Games", 
+      "Android", 
+      "Playbook", 
+      "Flash"
+     ]
+    }, 
+    "universalName": "pie---mash", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pie + Mash"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Welcome to My Stronger Self \u2013 where \u201cA Stronger body starts with a stronger mind!\u201d This is the absolute core of our training philosophy. We must be strong from the inside out to truly thrive in life no matter what we\u2019re trying to accomplish.\r\n\r\nFounder and long time Brighton, Michigan resident, Lori Murphy, has spent more almost 20 years realizing this philosophy with My Stronger Self. A completely different approach to the standard \u201cgym training system\u201d, Lori\u2019s approach is challenging for everyone regardless of your experience level or goals. While weight loss is a common goal, lifetime results are the most significant and what Lori stresses to each of her clients. Lifetime results that not only translate into lost pounds and inches but also more energy, confidence, better stress management, and a healthier relationship with food. The type of results that can never be weighed on scale or measured, but are just as important to a lifetime of personal health and wellbeing.\r\n\r\nIf you\u2019re a person who has exercised for years or just getting started but not seeing the results you have always wanted and need we are here to help. We offer programs customized just for you, in our studio or the convenience of your own home.\r\n\r\nWe offer :\r\n\r\n\u2022Private In Studio Training\r\n\u2022Private In Home Training\r\n\u2022Group Training\r\n\u2022Cardio Classes: Zumba, Step, Kickboxing, & Cardio Mixer\r\n\u2022Nutritional Tracking\r\n\u2022And Much More \u2026\r\n\r\nWe welcome the opportunity to help you achieve your goals.", 
+    "twitterId": "@MyStrongerSelf", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "810-844-1650"
+       }, 
+       "address": {
+        "postalCode": "48114", 
+        "city": "Brighton", 
+        "street1": "1361 Old Us Highway 23"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.MyStrongerSelf.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Personalized Group Training", 
+      "Zumba, Kickboxing, Step, Cardio Fusion", 
+      "Fit For Life Weight Loss Program", 
+      "Sports Training for Youth", 
+      "Personal Traininng", 
+      "Boot Camps"
+     ]
+    }, 
+    "universalName": "my-stronger-self-fitness-studio-&-gym", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "My Stronger Self Fitness Studio & Gym"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "The Welch Corp. is a family owned, fourth generation construction company located in Brighton, Massachusetts. We specialize in excavation, grading, sitework, utilities, soil remediation, landfill construction, paving and equipment rental. We have been in business over sixty-five years and have worked on large commercial projects throughout New England and upstate New York.\r\n\r\nThe Welch Corp. has a full time estimating department that is able to quickly provide our clients with budgets and estimates. Our project superintendents and foremen are fully trained in HAZMAT and OSHA 40 Hours Training. We are a union shop having agreements with the Massachusetts Laborers and the Operating Engineers Local 4. We presently employ over one hundred and fifty skilled laborers, equipment operators and foremen.\r\n\r\nThe Welch Corp. is a member of the Building Trades Employer Association (BTEA) and The Massachusetts Building Congress. Also, we are affiliated with the Albert J. Welch Equipment Corp., which owns and operates in excess of ninety-five pieces of late model heavy equipment and support vehicles. We employ a full-time maintenance staff to ensure all our equipment is operating safely and efficiently.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.thewelchcorp.com", 
+    "universalName": "the-welch-corp", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Welch Corp"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "description": "The Aldridge Foundation is an educational charity founded by Sir Rod Aldridge OBE in 2006 to help young people to reach their potential and improve their communities, principally through the sponsorship of entrepreneurial academy schools and colleges.\r\n\r\nThe Foundation sponsors Academies at Darwen in Lancashire, which opened in 2008, Brighton (2010) and Portslade (2011) in Sussex and on Portland in Dorset (2012), with Darwen Aldridge Enterprise Studio School opening in 2013 and Kensington Aldridge Academy in London opening in 2014. The Foundation is also a lead partner in the recently announced University Technical College for MediaCity in Salford.\r\n \r\nThe Foundation aims to harness entrepreneurship as a catalyst for social change. We are unafraid to challenge conventional thinking, and a culture of low expectations. We believe there are no limits to what people can achieve.\r\nThe entrepreneurial attributes of passion, creativity, teamwork, risk-taking, determination and problem solving are embedded into the heart of our work in the classroom and out in the community.", 
+    "twitterId": "aldridgeonline", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7925 7900"
+       }, 
+       "address": {
+        "postalCode": "WC2N 6EF", 
+        "city": "London", 
+        "street1": "19, Buckingham Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.aldridgefoundation.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Entrepreneurship", 
+      "Education"
+     ]
+    }, 
+    "universalName": "the-aldridge-foundation", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "The Aldridge Foundation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Dream Scapes Complete Landscaping Solutions provides all aspects garden design, construction and maintenance. From simply mowing lawns to commercial project, no job is too small or too large. We cover all of the north east of England and we have offices opening shortly in Brighton and Wales.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Environmental Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.dream-scapes.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "hard and soft landscaping", 
+      "garden design"
+     ]
+    }, 
+    "universalName": "dream-scapes-landscaping-solutions", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Dream Scapes Landscaping Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "description": "The Brighton and Hove Child Contact Centre is a non-profit organisation based in the heart of the city. We provides a safe, friendly and neutral place where children of separated families can spend time with one or both parents and sometimes other family members.\r\nThe centre is fully accredited by the National Association of Child Contact Centre.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.salvationarmybch.org.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Children and families support", 
+      "community services", 
+      "Independant Charity", 
+      "NACCC"
+     ]
+    }, 
+    "universalName": "bhccc", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "BHCCC"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 218, 
+    "description": "Pro Motion is a broadcast equipment hire company that delivers an unrivalled service by listening to its clients' needs, offering the best technical advice, and investing in the latest equipment including high definition, solid state and other tapeless technology.\r\n\r\nFounded in 2005, Pro Motion's core business is the dry hire of broadcast equipment from acquisition to post production. The company supports a wide variety of customers internationally, including independent production companies, lighting camera operators, audio visual production companies, post production facilities and broadcasters.\r\n\r\nPro Motion's equipment is primarily used for factual programming, documentaries, corporate work, sports broadcasting and multimedia, while its Cine Motion division handles mainly digital film and promo work.\r\n\r\nHeadquartered in London's Waterloo, Pro Motion also has a regional office in Brighton and a Soho-based facility which houses Pro Motion's latest acquisitions: broadcast hire facility Rent, and Eurocrew Worldwide which provides English speaking crews locally around the world.\r\n\r\nPro Motion is proud to operate in partnership with its customers in order to provide a seamless and stress-free service that complements the creative process. In parallel with the continual developments in new technologies Pro Motion offer training programmes, workshops and demonstrations to give clients the confidence to use new equipment that will further enhance their productions.", 
+    "twitterId": "promotionhire", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0845 460 6656", 
+        "phone1": "0845 460 9988"
+       }, 
+       "address": {
+        "postalCode": "SE1 7LD", 
+        "city": "London", 
+        "street1": "181 Hercules Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.promotionhire.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Broadcast Equipment Hire", 
+      "Partnership approach", 
+      "Training", 
+      "Early adopters of new technology"
+     ]
+    }, 
+    "universalName": "pro-motion-hire-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pro Motion Hire Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 48, 
+    "description": "Based in Brighton, Metway Electrical is a leading provider of electrical and PCB connectors. The company also offers a range of pre-fabricated wiring systems and lighting control. \r\n\r\nMetway Electrical has been providing connection solutions to the industry for over 70 years. Our product range extends to more than 20,000 products.", 
+    "twitterId": "@MetwayLtd", 
+    "blogRssUrl": "", 
+    "industry": "Electrical & Electronic Manufacturing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 439288", 
+        "phone1": "01273 439266"
+       }, 
+       "address": {
+        "postalCode": "BN41 1DG", 
+        "city": "Portslade", 
+        "street1": "Barrie House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1937, 
+    "websiteUrl": "www.metway.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "PCB Connectors", 
+      "Pre-Fabricated Wiring", 
+      "Lighting Control Systems"
+     ]
+    }, 
+    "universalName": "metway-electrical-ind.-ltd.", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Metway Electrical Ind. Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Some are born management consultants.\r\nSome have management consultancy thrust upon them.\r\n\r\nJames Wilby (Maurice, Gosford Park, Regeneration) and Pip Donaghy (An Inspector Calls, Blasted) head the cast for this disturbingly funny re-appraisal of business life.\r\n\t\r\nOlivier-Award winning Theatre503 continues its commitment to new writers with the world premiere of Neil Fleming\u2019s Faustian tale for the age of austerity.\r\n\r\n\r\nOver the past four years Hydrocracker has developed a national reputation for \u2018site specific theatre with a purpose\u2019. The company\u2019s most recent shows have been staged on Brighton Pier, in a pizza restaurant and in an old town hall. The Consultant is the company\u2019s first production in its new writing strand. \r\nTheatre503 is at 503 Battersea Park Rd, London SW11\r\nTrain to Clapham Junction, or bus routes 44, 49, 319, 344, 345\r\nTuesday-Saturday 7.45pm\r\nTickets \u00a314, concessions \u00a39\r\nSunday 5pm \u201cPay what you can\u201d", 
+    "twitterId": "HydrocrackerCo", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "http://www.hydrocracker.co.uk/Consultant.aspx", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Theatre"
+     ]
+    }, 
+    "universalName": "the-consultant---hydocracker-theatre503", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "The Consultant - Hydocracker/Theatre503"
+   }
+  ]
+ }
+}

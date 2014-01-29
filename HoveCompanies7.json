@@ -1,0 +1,756 @@
+{
+ "companies": {
+  "_total": 306, 
+  "_count": 20, 
+  "_start": 140, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Goldstone Homes Limited", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.goldstonehomes.co.uk", 
+    "universalName": "goldstone-homes-limited", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Goldstone Homes Limited provides all your building trades under one roof for Brighton & Hove as well as the surrounding areas. We offer a range of services for Homeowners, Landlords and Letting agents as well as Commercial Customers. \r\n\r\nWe can provide a reactive same day service and also provide planned property maintenance. Some projects will require a multiple of trades but we project manage the whole process as part of the service. With this it gives you, the customer, the peace of mind that all trades work is overseen, completed on time and to a high standard.\r\n\r\nWe are able to offer fixed price tradesmen to cater for your needs in the following areas:\r\n\r\nHandyman\r\nElectrical\r\nPlumbing & Heating\r\nKitchen & Bathrooms\r\nRoofing & Glazing\r\nDecorating & Tiling\r\nPlastering & Rendering\r\nLandscaping\r\nCleaning\r\n\r\nGoldstone Homes is devoted to producing a high quality product for its end user. We are very much customer focused and look at each project individually, taking into consideration the clients requirements and needs and what you are looking for from us. We are committed to the project from inception through to completion, delivering on time and within your budget; something that so many Contractors fail to achieve. We feel confident in making this promise due to our vast experience and knowledge of the industry.\r\n\r\nFor more examples of our work just log on to www.goldstonehomes.co.uk or give us a call today on 01273 455934"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 19, 
+    "name": "Chantrey Vellacott DFK Business Recovery Division", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7509 9000"
+       }, 
+       "address": {
+        "postalCode": "WC1B 5LF", 
+        "city": "London", 
+        "street1": "Russell Square House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "www.cvdfk.com/services/businessrecovery/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Business Rescue", 
+      "Insolvency", 
+      "Business Recovery", 
+      "Formal and Informal Arrangements with Creditors", 
+      "Bankruptcy", 
+      "MVL", 
+      "Pension and Employer Covenant reviews", 
+      "Fraud and Forensic"
+     ]
+    }, 
+    "universalName": "chantrey-vellacott-dfk-business-recovery-division", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Striving to offer positive solutions to financially distressed businesses through our comprehensive range of forward-thinking services.\r\n\r\nWe have 8 Partners working across 7 locations offering insolvency and restructuring advice to both companies and individuals in need to our help.\r\n\r\nOur offices locations are:\r\n\r\nBirmingham\r\nBrighton & Hove\r\nColchester\r\nLondon\r\nNorthampton\r\nSouthampton\r\nThames Valley"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Plumbing & Heating Company based in Brighton, Hove, and Horsham - We cover all aspects of plumbing & heating. Call now for a free no obligation quote - 07732 420088 or 01273 737459. The company was founded in 1997 by Arthur Huntley - The current company director. We have won awards for our customer service level and commitment to the plumbing & heating industry. We strive to make sure that we are working to the best of our abilities using the most advanced energy consumables at the current time.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07732 420088"
+       }, 
+       "address": {
+        "postalCode": "BN36GD", 
+        "city": "Hove", 
+        "street1": "22 Wilbury Villas"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07732 420088"
+       }, 
+       "address": {
+        "postalCode": "RH12 1SJ", 
+        "city": "Horsham", 
+        "street1": "26 Arunside"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1997, 
+    "websiteUrl": "www.midsussexplumbing.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Plumbing & Heating", 
+      "Oil & Gas", 
+      "Renewables"
+     ]
+    }, 
+    "universalName": "mid-sussex-plumbing-&-heating-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Mid Sussex Plumbing & Heating Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "At Parker Bathrooms we provide a personalised service designing and supplying bespoke bathrooms throughout Sussex, Surrey and London.  We are a family run business that offers an extensive selection of the world\u2019s leading brands. Located in the elegant Seven Dials area of Brighton and Hove we have been supplying tailor-made bathrooms for over 25 years.\r\n\r\nAs expert bathroom designers we collaborate with you to create the bathroom of your dreams, paying attention to even the smallest of details. Every client and every bathroom is important to us and we guarantee our bespoke service will give you the best design experience that you could wish for. \r\n\r\nWe invite you to browse our showroom or call us for more details - whether it\u2019s a stylish bathroom update or a complete remodel, we pride ourselves in offering an excellent service providing quality products at a competitive cost.\r\n\r\nWelcome to Parker Bathrooms.", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 3JD", 
+        "city": "Brighton, BN1 3JD", 
+        "street1": "66-70 Dyke Road,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "parkerbathrooms.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Bathroom Design", 
+      "Bathroom Supply", 
+      "Saunas & Wetrooms", 
+      "Italian Tiles", 
+      "Designer Bathrooms", 
+      "Bathroom CAD Design", 
+      "Sustainable Bathrooms", 
+      "Eco Bathrooms", 
+      "Kitchen Design", 
+      "Mosaic Tiles", 
+      "Aquaclean Showroom", 
+      "W+W showroom", 
+      "Wetroom showroom", 
+      "Bathroom flooring"
+     ]
+    }, 
+    "universalName": "parker-bathrooms", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Parker Bathrooms"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Beautiful Ink specialise in semi permanent makeup, also known as cosmetic tattooing. Lisa creates and styles eyebrows, defines eyes and colours lips using semi permanent pigments lasting 9 - 18 months before needing a top up visit. Eyebrow design for those with missing or misshapen eyebrows a speciality, separate design only bookings available. Based in Brighton city centre and mobile in Brighton & Hove.", 
+    "twitterId": "", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0800 987 5457"
+       }, 
+       "address": {
+        "postalCode": "BN1 3EH", 
+        "city": "Brighton", 
+        "street1": "Crown Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.beautifulink.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Semi Permanent Makeup", 
+      "Eyebrow Shape & Design"
+     ]
+    }, 
+    "universalName": "beautiful-ink", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Beautiful Ink, semi permanent makeup"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Brighton Implant Clinic", 
+    "twitterId": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.brightonimplantclinic.co.uk", 
+    "universalName": "brighton-implant-clinic", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton Implant Clinic is a group of three clinics based in Sussex offering affordable dental implant treatment. Our clinics are based in Hove, Brighton and Hailsham. Each of our clinics are equipped with CT scanners and onsite dental laboratory. For more information see our website www.brightonimplantclinic.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Hello, we are HOAV Studio, a multi-disciplinary design studio based in Hove.\r\n\r\nThere are two main sides to what we do; the design side and the making side. Whilst we love working on branding, print and web based projects, we are also passionate about products, objects, and large scale installations.\r\n\r\nWherever possible we like to see projects through the whole design process, from the initial generation of ideas to the final product or outcome.\r\n\r\nPlease feel free to get in contact to discuss any projects, products or collaborations, or if you would like anything made 20 times it's normal size.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 7789053333"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Hove", 
+        "street1": "Wilbury Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.hoavstudio.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Graphic Design", 
+      "Website Development", 
+      "Branding", 
+      "3D Design", 
+      "Digital Media Management", 
+      "Video Production", 
+      "Prop Building", 
+      "Print Services"
+     ]
+    }, 
+    "universalName": "hoav-studio", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "HOAV Studio"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "B-onweb is een website design- & development bedrijf gevestigd in Hove, Antwerpen.\r\nHet is goed uitgerust eenmanszaak dat al uw Joomla B2B en B2C websites omgaat.\r\n\r\n\u25cf Professioneel in het ontwerpen en ontwikkelen van content-rijke, full-responsive Joomla websites.\r\n\u25cf B-onweb maakt gebruik van website strategie\u00ebn en planningen en zorgt er voor dat het eindproduct voldoet aan de behoeften van de klant.\r\n\u25cf Verschillende niveaus van kennis: Werkt met: Joomla 2.5x & 3.x, HTML, CSS, PHP / MySQL, JQuery, Google Analytics, Acrobat, Photoshop, Microsoft Office Professional Suite, XML, ActionScript, SQL, Dreamweaver en Twitters Bootstrap.\r\n\u25cf Ontwikkelt 'full-featured' websites met sociale netwerkmogelijkheden\r\n\u25cf Praktische kennis van diverse sociale netwerken zoals: Facebook, Linked In, Google+, Instagram en Twitter.\r\n\u25cf Praktische kennis van verschillende e-commerce componenten, add-ons en de betaling gateways (in progress).\r\n\u25cf Verantwoordelijk voor het onderhouden, beveiligen en bijwerken van uw website.\r\n\u25cf Verantwoordelijk voor het installeren, verwijderen, configureren, updaten en testen van alle uitbreidingen, om zo de gaten in de beveiliging de hack-pogingen en andere bedreigingen te minimaliseren.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0496530718"
+       }, 
+       "address": {
+        "postalCode": "2540", 
+        "city": "Hove", 
+        "street1": "Merellaan 19"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.b-onweb.be", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Content Managment Systems", 
+      "Responsive webdesign", 
+      "Joomla 2.5x en 3.x", 
+      "Front-end webdevelopment"
+     ]
+    }, 
+    "universalName": "b-onweb", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "b-onweb"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Norsk M\u00e5lungdom", 
+    "twitterId": "", 
+    "industry": "Political Organization", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "http://www.m\u00e5lungdom.no", 
+    "universalName": "norsk-m-lungdom", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Norsk M\u00e5lungdom arbeider for at alle i Noreg skal ha h\u00f8ve og rett til \u00e5 skriva nynorsk, og \u00e5 fremja nynorsk, dialektbruk og spr\u00e5kleg mangfald p\u00e5 alle samfunnsomr\u00e5de. Me organiserer ungdom til \u00e5 g\u00e5 f\u00f8re i dette arbeidet.\r\n\r\nViktige konkrete arbeidsomr\u00e5de er handheving av nynorskelevane sin lovfeste rett til \u00e5 f\u00e5 l\u00e6remiddel p\u00e5 nynorsk, oppheving av nynorskforbodet i VG og Dagbladet, aksept og respekt for alle dialektar \u2013 ogs\u00e5 dei litt uglesette dialektane p\u00e5 sentralsaustlandet, betre og tidlegare sidem\u00e5lsoppl\u00e6ring, st\u00f8rre krav til oppl\u00e6ring og pr\u00f8ving i nynorsk og bokm\u00e5l i l\u00e6rarutdanninga, motverka og f\u00f8rebyggja spr\u00e5kskifte fr\u00e5 nynorsk til bokm\u00e5l, etc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "King's Church of England School", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "http://www.kingsschoolhove.org.uk/", 
+    "universalName": "king's-church-of-england-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "description": "King\u2019s School Hove has been approved by the Department for Education, for opening in September 2013. It will be an 11-18 Church of England (CofE) secondary school. \r\n\r\nFor more information, please visit the school website at http://www.kingsschoolhove.org.uk/."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "A well established friendly accountancy firm based in Hove and Lewes, East Sussex offering a wide range of accounting, taxation and business development and support services.\r\n\r\nThey include:\r\n\r\nBusiness Services\r\nWe provide a full range of services for small and medium sized businesses, including accounts preparation, taxation advice and auditing.  We can also provide bookkeeping services, completion of VAT returns, payroll assistance, preparation of year end forms such as P11Ds and provide a full company secretarial service.\r\n\r\nSelf Assessment\r\nOur clients value our self assessment service as it ensures their Returns are filed on time and they are advised as far in advance as possible of their tax liabilities.\r\n\r\nTax Planning\r\nWe have staff dedicated to planning on your behalf to reduce your current and future tax liabilities. This may be achieved by fairly simple methods or might involve complex planning over several generations of a family. We take into account our clients' general financial position and offer advice on an individual basis.\r\n\r\nOther Services\r\nPartnership Taxation\r\nForensic Accounting\r\nComputer Consultancy\r\nEstate Administration\r\nTrust Administration", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.clarkbrownscombe.co.uk", 
+    "universalName": "clark-brownscombe", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Clark Brownscombe Chartered Accountants"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Property Moves", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 884888", 
+        "phone1": "01273 321333"
+       }, 
+       "address": {
+        "postalCode": "BN3 2AF", 
+        "city": "Hove", 
+        "street1": "109 Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.propertymoves.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Lettings", 
+      "Property Management"
+     ]
+    }, 
+    "universalName": "property-moves", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "you'll be perfectly matched at Property Moves... after 20 years of successful trading Property Moves has gained significant respect in the market and a reputation as one of the leading lettings, sales and property management specialists in Brighton, Hove and the surrounding areas. We have utilised our years of experience to design our website (www.propertymoves.co.uk) and make it a user friendly and helpful tool to assist you through the letting process; whether you are a tenant or a landlord."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Brighton & Hove based accountants serving Sussex and beyond. \r\n\r\n\u2022 We simplify accounting and bookkeeping procedures for business, contractors and the self employed. \r\n\u2022 We will help you consider the most appropriate business structure for your business \u2013 sole trader, partnership or limited company. \r\n\u2022 We can recommend online accounts software that is fast reliable and easy to use. You manage it but we keep an eye on it! \r\n\r\nARE YOU JUST STARTING UP IN BUSINESS? Need to manage your money as you get going? \r\n\r\nCoastal Tax and Accountancy specialises in new start up businesses and offers comprehensive, straight forward advice and an all inclusive service for your accountancy and bookkeeping needs. \r\n\r\nContact us today for a free consultation on 01273 420127 to see how we can help you.\r\n\r\nWebsite: www.coastaltax.co.uk\r\n\r\nFor up to date accounting news and more...\r\n\r\nFollow Coastal Tax & Accountancy on Twitter @coastalaccounts\r\n\r\nor Like us on Facebook www.facebook.com/CoastalTax", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273420127"
+       }, 
+       "address": {
+        "postalCode": "BN3 4EB", 
+        "city": "Hove", 
+        "street1": "244 New Church Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.coastaltax.co.uk/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Self Assessment for Self Employed", 
+      "Limited Companies", 
+      "Tax Returns & Accounts", 
+      "Start Ups", 
+      "Small Business Specialist"
+     ]
+    }, 
+    "universalName": "coastal-tax-&-accountancy", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Coastal Tax & Accountancy"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Restaurants Brighton", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://restaurantsbrighton.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Online Publishing", 
+      "Food & Drink", 
+      "Entertainment", 
+      "Directory Listings"
+     ]
+    }, 
+    "universalName": "restaurants-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Restaurants Brighton is a comprehensive online eating out guide featuring Brighton and Hove restaurants and the nearby Sussex restaurants which serve Brighton. \r\n\r\nIncluding top quality and diverse restaurants - Brighton and the surrounding areas definitely takes the lead as a food destination. \r\n\r\nRestaurants Brighton is a food guide drawn together by people that live in Brighton, providing information for locals and tourists for Brighton and its neighbouring areas. \r\n\r\nFeaturing top ten restaurants, brunches, reviews, chef interviews and restaurant features. \r\n\r\nhttp://restaurantsbrighton.co.uk\r\n\r\neat@restaurantsbrighton.co.uk"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Macfixer", 
+    "twitterId": "", 
+    "industry": "Computer Hardware", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://mymacfixer.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Apple Mac Computer Repairs", 
+      "Apple Mac Computer upgrades", 
+      "Apple Mac Computer Support", 
+      "Apple Mac Computer sales"
+     ]
+    }, 
+    "universalName": "macfixer", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "At Macfixer we understand the needs of the Apple mac user. With 15 years experience with mac systems we can get you back up and running quickly without drama\r\n\r\nRepairs carried out on all Apple Mac models from Macbook and imac to ibook and ipad. We offer full support help and assistance \r\n\r\nWe offer an affordable and friendly service from emergency data rescue to solving that annoying little niggle that spoils your Apple Macintosh experience\r\n\r\nYour place or ours, just give Clive a call on  07812 990026 \r\nor mail us if you are reading this!  \r\n\r\nMacfixer are located in Southwick just outside the centre of Brighton and Hove with free Parking and good access by bus bike or train"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Crosby and Woods is a firm of Solicitors and Notaries based in Brighton and Hove, \r\nEast Sussex, that offers a full and comprehensive range of specialised legal services.  \r\n\r\nWe aim to deliver a results driven, jargon-free service to all our clients.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 773674", 
+        "phone1": "01273 734600"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BB", 
+        "city": "Hove", 
+        "street1": "Sussex House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.crosbywoods.co.uk", 
+    "universalName": "crosby-&-woods", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Crosby & Woods"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "Makers of the finest domestic audio reproduction equipment money can buy, using the best available technology and the finest of components. We are the largest European manufacturer of high-performance audio with a world wide distribution network. Audio Note is headquartered in Hove, UK.", 
+    "twitterId": "", 
+    "industry": "Consumer Electronics", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "44 1273 731 498", 
+        "phone1": "+44 1273220511"
+       }, 
+       "address": {
+        "postalCode": "BN3 1RD", 
+        "city": "Hove", 
+        "street1": "25 Montefiore Road,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "http://www.audionote.co.uk", 
+    "universalName": "audio-note-uk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Audio Note UK Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Brunswick Court Dental Practice is a well established yet modern private dental practice conveniently located in the heart of Hove, offering high quality care in pleasant, relaxing surroundings.\r\n\r\nOur specialities in dentistry include:\r\n\r\nDENTAL IMPLANTS - Dental implants look and act like your own teeth. They are usually made of pure titanium and are small root shaped structures which are placed gently and carefully into the bone. \r\n\r\nCOSMETIC DENTISTRY - This includes tooth whitening, veneers, cosmetic bonding ( used to reshape individual teeth, close very small gaps and repair slight defects such as chipped teeth ), ceramic inlays and onlays ( tooth coloured porcelain fillings, bonded into or over a broken-down tooth ).\r\n\r\nCROWNS & BRIDGES - A crown is used to protect and restore a broken or heavily filled tooth and a bridge is used to replace a missing tooth.\r\n\r\nPREVENTATIVE DENTISTRY - we believe in preventing problems rather than just treating them as they occur, so routine appointents every 6 months are recommended.\r\n\r\nX-RAYS - They will show up any signs of tooth decay and bone loss.\r\n\r\nROOT CANAL TREATMENTS - (or endodontics) means removing damaged or dead pulp and filling the space with a special filling material.", 
+    "twitterId": "", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273779156"
+       }, 
+       "address": {
+        "postalCode": "BN3 1NA", 
+        "city": "Brighton", 
+        "street1": "14 Brunswick Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1986, 
+    "websiteUrl": "http://www.brunswickcourtdental.co.uk/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Dental implants", 
+      "Route Canal Treatments", 
+      "Cosmetic Dentistry", 
+      "Dental x-rays", 
+      "Preventative dentistry"
+     ]
+    }, 
+    "universalName": "brunswick-court-dental-practice", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Brunswick Court Dental Practice"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Hell Yeah Mastering", 
+    "twitterId": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.hellyeahmastering.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Mastering", 
+      "Vinyl", 
+      "Archiving", 
+      "Restoration"
+     ]
+    }, 
+    "universalName": "hell-yeah-mastering", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "We provide high quality CD mastering and vinyl pre-mastering and cutting services. Based in Brighton & Hove, we service labels and artists in the UK and EU. We are known not only for the sonic superiority of our masters but also our highly efficient service."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "iSKILLu", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.iskillu.co.uk", 
+    "universalName": "iskillu", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "iSKILLu enables people to share skills knowledge and ideas, face-to-face or over the internet, without the need for money.\r\n\r\nIt enables you to teach what you know and learn what you want.\r\n\r\nVisit the website to join in, currently only for Brighton & Hove users."
+   }
+  ]
+ }
+}

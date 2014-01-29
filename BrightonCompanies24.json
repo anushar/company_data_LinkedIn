@@ -1,0 +1,948 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 480, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "It's a twice-monthly developer meetup in Brighton with a focus on JavaScript and related technologies. Async has seen a remarkable input from the community, with local and visiting speakers talking about their technical discoveries and passions.\r\n\r\nMany of our sessions focus on specific subjects, such as using JavaScript on the server, or developing mobile web apps. Other meetups are more open and collaborative, e.g. show n\u2019 tells and hack nights. We put as much emphasis into learning new things, as into coming together as a community and making connections that are useful in our daily work as web developers.\r\n\r\nEntry is free. Each meetup is followed by an evening social nearby.", 
+    "twitterId": "asyncjs", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07941 192398"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "45 Gloucester Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://asyncjs.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "JavaScript", 
+      "Web development", 
+      "Programming", 
+      "HTML5"
+     ]
+    }, 
+    "universalName": "async", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Async"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "We\u2019re a non-profit organisation that supports and connects people, businesses and organisations who are helping to create a better economy. A three-thinking economy that values people and planet, not just profit.\r\n\r\nWe're based in Brighton, East Sussex but work nationally.\r\n\r\nPurple Dot supports three-thinking organisations via: \r\n\r\n\u2022\tPurple Mapping \r\nOur nationwide directory of three-thinking businesses, helping people to find products and services from businesses that value people and planet.\r\n\r\n\u2022\tPurple Connecting \r\nHelping three-thinking businesses collaborate with others that are valuing more than just money.  \r\n\r\n\u2022\tPurple Consulting \r\nFinancial, social and environmental management from an organisation that understands and shares your values.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.purpledot.org", 
+    "universalName": "purple-dot", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Purple Dot"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We start, organise and support activities at the intersection of technology and entrepreneurship.\r\n\r\nBased in Brighton, UK we have also made things happen in London, New York and San Francisco.\r\n\r\nSince 2006 over 2,000 people have participated in the activities that we've made happen, they include engineers, artists, designers, writers, musicians, marketers, journalists, academics and investors.", 
+    "twitterId": "inuda", 
+    "blogRssUrl": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "6 Gloucester Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://inuda.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "technology", 
+      "entrepreneurship", 
+      "coworking", 
+      "unconferences"
+     ]
+    }, 
+    "universalName": "inuda-innovations-ltd.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Inuda Innovations Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 155, 
+    "description": "UNIGLOBE Preferred Travel, with offices in London and Brighton, provides high quality global business travel management to companies across the United Kingdom and Europe. \r\n\r\nUNIGLOBE Preferred Travel is part of the world\u2019s largest single-brand travel management group, with over 700 locations in more than 60 countries. The company works with more than 400 airlines to facilitate thousands of business meetings all over the world, using the latest online booking technology and a team of expert travel consultants to create bespoke travel management solutions for its clients. \r\n\r\nThe very best in online self-booking technology enables clients to manage all aspects of travel directly from their own offices.  This technology combined with comprehensive expense management solutions means UNIGLOBE Preferred Travel is able to offer complete \u201cend-to-end\u201d travel management producing cost savings throughout the process. \r\n\r\nThe firm holds a coveted place in the top 10 best performing companies in the global UNIGLOBE travel alliance, made up of 800 individual firms.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 180 7820"
+       }, 
+       "address": {
+        "postalCode": "SW1E 6LB", 
+        "city": "Westminster", 
+        "street1": "18 Buckingham Gate"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 180 7800"
+       }, 
+       "address": {
+        "postalCode": "BN1 6SB", 
+        "city": "Brighton", 
+        "street1": "11 South Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "http://www.uniglobepreferred.co.uk/", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Business Travel Management", 
+      "Meetings, Incentive, Conference, Exhibition Management", 
+      "Online Travel Solutions", 
+      "Global Travel Management", 
+      "Group Travel", 
+      "Expense Management", 
+      "Private Clients", 
+      "Corporate Events", 
+      "Secure Travel Specialist"
+     ]
+    }, 
+    "universalName": "uniglobe-preferred-travel", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Uniglobe Preferred Travel"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "A few well chosen words can define your future. \r\n\r\nWe\u2019re a team of established copywriters, brand language consultants, content strategists and trainers.\r\n\r\nWhen you choose words for your business, you need to choose wisely. We're here to make sure you're using language as powerfully as possible - firstly to answer your audience's needs, and secondly make sure you're giving them a great experience when they're reading your web copy, brochure text, or even an email. \r\n\r\nWe're here to help you choose exactly the right words to represent business so that your message can be infectious, inspiring, influential, transformational, or creative.\r\n\r\nJoin us at our next 'Copywriting for the Web' training session in the heart of Brighton:\r\nhttp://thecopyhouse.net/events/the-copy-school-the-fundamentals-of-copywriting-for-the-web/", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 251 247"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "The Skiff"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.thecopyhouse.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Copywriting training", 
+      "Copywriting", 
+      "Brand language", 
+      "Content strategy"
+     ]
+    }, 
+    "universalName": "the-copy-house", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "The Copy House"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "www.Moko3D.com\r\nhttp://www.moko3d.com\r\n\r\nAnimation Studio based in the city of Brighton UK, specialising in computer 3D since 1995. Engaging your audiences. Distilling & transferring information. Creating excitement. We use CGI & 3D to help clients succeed.\r\n\r\nWe animate things yet to be made (& often composite them into real life footage/stills), or create things that haven't existed for hundreds of years or will never exist, simulate the entirely un-filmable and visualise the purely conceptual.\r\n\r\nProgram Titles & Content. Commercials. Info & Motion Graphics. Music Videos. Visualisations & Walkthroughs. Brand, Product & Marketing Materials. Corporate Videos. Web & Print Artwork. Presentation & Operational Resources. Animations, Simulations & Cutscenes. Desktop, Projection, Tablet, Mobile & Print Media Creation.\r\n\r\nhttp://www.youtube.com/moko3d\r\nhttp://vimeo.com/moko3d\r\nhttp://www.behance.net/moko3d\r\nhttps://twitter.com/Moko3D", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 677647"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "134-136 marine parade"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1995, 
+    "websiteUrl": "www.moko3d.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Visualisation", 
+      "Rendering", 
+      "Animation", 
+      "Editing", 
+      "Post Production", 
+      "Special Effects", 
+      "Modelling", 
+      "Texturing", 
+      "3D", 
+      "CGI", 
+      "Motion Graphics", 
+      "Info Graphics"
+     ]
+    }, 
+    "universalName": "moko3d", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Moko3D"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "name": "Root Interactive", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44.7929865498"
+       }, 
+       "address": {
+        "postalCode": "BN32BE", 
+        "city": "Hove", 
+        "street1": "The Werks"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.rootinteractive.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "web design", 
+      "online marketing", 
+      "copywriting for the web", 
+      "wordpress website design", 
+      "illustration", 
+      "content developement", 
+      "social media marketing"
+     ]
+    }, 
+    "universalName": "root-interactive", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Root Interactive is a Brighton based web design consultancy. We produce playful, usable yet beautiful websites and brand identities for socially conscious organisations and charities, social enterprises, and local small businesses.\r\n\r\nOur flexible, collaborative approach ensures that we bring fresh ideas to each project. As we use only the personnel required for the job, we can deliver cost-effective solutions for our clients. From simple web design to complete website launch and re-branding , we are able to take on commissions of any size.\r\n\r\nSince day one, we\u2019ve worked hard to be a truly sustainable business. We love working with organisations who share our commitment to positive social, culture and environmental change."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "We are an award winning communications consultancy working in B2B and B2C sectors, nurturing growth and delivering commercial success.\r\n\r\nWe apply a joined-up approach to public relations, marketing and design, making sure opinions are blossoming in your direction.\r\n\r\nProud to be nominated for 'Small Business of the Year' and 'Employer of the Year' in Brighton Venus Awards 2013.\r\n\r\nWe are a knowledgeable and friendly bunch of Roses- not a thorn in sight!", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "RH15 0LA", 
+        "city": "Burgess Hill", 
+        "street1": "Rolfe House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.aneelarosepr.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Public Relations", 
+      "Marketing Communications", 
+      "Creative Design", 
+      "Social and Digital Media"
+     ]
+    }, 
+    "universalName": "aneela-rose-pr", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Aneela Rose PR"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 22, 
+    "description": "Ithaca Audio is a Brighton based creative audio studio specialising in audio visual remix, composition, sound design and out of the ordinary audio projects.\r\n \r\nWe create compelling audio for projects large and small with an imaginative outlook on the audio process that has helped us gain:\r\n \r\n- Over 1,000,000 views for our own videos online.\r\n- 50,000+ Facebook shares.\r\n- Features about us by CBS, Gizmodo and Vimeo.com\r\n- A client list including AMV BBDO, Saatchi & Saatchi, UEFA, Nestle, Red Bull, and many more\r\n- Nomination for the 2012 Vimeo Awards & 2013 Webby Awards\r\n- Live performances in Rome, Stockholm and Nashville\r\n- An exhibition in the New York Museum of the Moving Image\r\n \r\nNice things people say about our work:\r\n\r\n\u201cThis is simply brilliant\u201d Lucy Jones, NME\r\n\u201cSpectacular mashup of 24 music videos\u201d \u2013 Will Goodman, CBS News\r\n\u201cRandom film vs random music. Awesome\u201d \u2013 Ben Goldacre", 
+    "twitterId": "ithacaaudio", 
+    "industry": "Music", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0844 332 1233"
+       }, 
+       "address": {
+        "postalCode": "BN1 4JA", 
+        "city": "Brighton", 
+        "street1": "London Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.ithacaaudio.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Music Composition", 
+      "Sound Design", 
+      "Audio Visual Remixing", 
+      "Mashup", 
+      "Splitscreen Video Editing"
+     ]
+    }, 
+    "universalName": "ithaca-audio-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ithaca Audio Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 110, 
+    "description": "Here at CSnotepad we offer telephone call answering services across the UK and beyond from our offices based in Brighton & Hove, Sussex. We are experts in call handling and professional virtual receptionist solutions. Our virtual receptionist solutions offer businesses, regardless of their size, an alternative way of handling their telephone calls and unlike the majority of our competitors we charge per call not per minute so you are not caught out with large unexpected bills.\r\n\r\nWe demonstrate the difference a team of enthusiastic and motivated staff can make to customer satisfaction and ultimately retention. We are not a call centre and so our customers are not simply numbers. We instead are a series of small teams each dedicated to a limited number of customers. As a result, each of our customers and their callers receive an outstanding personal service. Our customers also have their own account manager who is on hand to discuss and address their virtual receptionist needs whenever they want.\r\n\r\nOur staff (who we call virtual receptionists) are professional and skilled call handling agents who answer inbound telephone calls in your business name as an overflow or outsourced service. Our virtual receptionists can offer far more than just a message taking service. Other services include (but are not limited to): call patching, appointment booking, order taking, outbound calling, etc...", 
+    "twitterId": "csnotepad", 
+    "industry": "Outsourcing/Offshoring", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 7BD", 
+        "city": "Brighton", 
+        "street1": "Gemini House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.csnotepad.co.uk", 
+    "specialties": {
+     "_total": 14, 
+     "values": [
+      "Telephone Answering", 
+      "Virtual Receptionist", 
+      "Call Handling", 
+      "Call Patching", 
+      "Order Taking", 
+      "Virtual Address", 
+      "Prestigous Address", 
+      "Fax to Email", 
+      "Voicemail Box", 
+      "Teleconferencing", 
+      "Outbound Calling", 
+      "Virtual Phone Numbers", 
+      "Virtual Office Solutions", 
+      "Inbound Call Handling"
+     ]
+    }, 
+    "universalName": "csnotepad", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CSnotepad"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Fractured Films", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 4gh"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.fracturedfilms.com", 
+    "universalName": "fractured-films", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Fractured Films are an award-winning independent Film Company based in Brighton.\r\n\r\nEstablished by Will Jewell (screenwriter/director) and Dominic Jones (DoP/director), Fractured Films have produced dramas, documentaries & music promos."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 68, 
+    "description": "Digital Marketing, Search Engine Marketing (SEO) & Social Media Marketing Consultant providing Internet Marketing Services, SEO Services & Social Media Marketing based in Brighton. \r\n\r\nI provide affordable, ethical, natural Search Engine Optimisation (SEO), Social Media Marketing and Wordpress web design at freelance rates. Search Engine Optimisation (SEO) and Social Media have most impact when they are integrated together. That's where I enter the conversation.\r\n\r\nWebyogi Search engine marketing services are designed meet your business goals and customers needs. I have a genuine interest in online marketing, search optimisation, social media, coaching and how it influences human relationships and business practices. I help small businesses and entrepreneurs to get online, understand Search Engine Optimisation (SEO) & Social Media.", 
+    "twitterId": "webyogi", 
+    "blogRssUrl": "http://feeds.feedburner.com/WebyogiDigitalMarketing", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn41 2je", 
+        "city": "Brighton", 
+        "street1": "Cornford close"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.webyogi.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "social media marketing", 
+      "wordpress web design", 
+      "search engine optimisation (SEO)", 
+      "digital marketing", 
+      "digital marketing", 
+      "link building", 
+      "online marketing", 
+      "Google analytics"
+     ]
+    }, 
+    "universalName": "webyogi-digital-marketing-seo-&-social-media-marketing", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Webyogi Digital Marketing, SEO & Social Media Marketing"
+   }, 
+   {
+    "numFollowers": 15, 
+    "name": "Uden sales and lettings", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "bn1 3jd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.udenestateagents.com", 
+    "universalName": "uden-sales-and-lettings", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "We sell and let a wide variety of propery in the Brighton and Hove area, we have every type of landlord from single property owners to large professional landlords, we always taylor of service to suit our customers needs. and we live my our morals and provide a top quality service"
+   }, 
+   {
+    "numFollowers": 3063, 
+    "description": "Founded in 1999 by brothers Rupert and Nick Loman, Brighton-based Eurogamer Network is the publisher of Europe\u2019s most popular independent videogames website, Eurogamer.net. The company also publishes a video site, Eurogamer TV, and a social network for gamers, Eurogamers. Eurogamer is available in German, French, Spanish, Italian, Dutch and Portuguese editions. The company also operates live events such as the Eurogamer Expo and the GamesIndustry.biz Career Fair, and publishes the world's market-leading industry resource, GamesIndustry.biz. See www.eurogamer.biz for more information on the company\u2019s products and services.", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 (0)1273 746 864"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RH", 
+        "city": "Brighton", 
+        "street1": "2nd Floor, Wenlock House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://www.eurogamer.net", 
+    "universalName": "eurogamer", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Eurogamer"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 204, 
+    "description": "Access to Music is the leading popular music college in the UK, with a national presence from Brighton in the south to Darlington in the north.\r\n\r\nAccess to Music has music centres in the following towns and cities: Birmingham, Brighton, Bristol, Darlington, Lincoln, London, Norwich and York. It also operates in partnership with further education colleges and higher education institutions such as the Royal Northern College of Music and Birmingham City University.\r\n\r\nAccess to Music employs in the region of 200 employees. Many are music industry professionals with experience of working in the industry.\r\n\r\nAccess to Music is interested in working in partnership with music organisations in England to develop partnerships for the delivery of courses. Typical organisations/companies might be community music organisations, rehearsal rooms/studios, venues, Level 1 providers, arts/media centres etc.\r\n\r\nWe are also interested in music and creative industry companies (e.g. festivals, venues, labels) who would like to work with students and apprentices.\r\n\r\nIf you are interested in working in partnership with Access to Music then please email: martin.smith@accesstomusic.ac.uk", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0330 123 3155"
+       }, 
+       "address": {
+        "postalCode": "B9 4AR", 
+        "city": "Birmingham", 
+        "street1": "Heath Mill Studios"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.accesstomusic.ac.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Popular music courses", 
+      "Media courses", 
+      "Popular music degrees"
+     ]
+    }, 
+    "universalName": "access-to-music", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "Access to Music"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "We offer a unique boutique experience for your child and family photography at affordable prices.  From Pregnancy to birth, First steps, and all the way through High School Graduation, we create art from your family's faces through the years that transform your house to a home.", 
+    "twitterId": "anissalong", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "303-219-0866"
+       }, 
+       "address": {
+        "postalCode": "80601", 
+        "city": "Brighton", 
+        "street1": "3 N Main St"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.Brighton-Photography.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Bellies & Babies", 
+      "Baby's First Year", 
+      "Fairies", 
+      "High School Seniors"
+     ]
+    }, 
+    "universalName": "anissa-long-photography", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Brighton Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4203, 
+    "description": "With an unrivalled reputation for executive search within supply chain management, Proco Global focus on senior roles for many of the world\u2019s leading organisations; dedicated teams within procurement, supply chain & op\u2010ex have completed searches across the globe including Europe, USA & Asia.\r\n\r\nWith offices based in Brighton, London, New York, Vancouver, Hong Kong, Sao Paulo, Singapore & Sydney and the planned opening of 2 more locations in 2013, our consultants' international reach and industry expertise \u2010 from FMCG & pharmaceuticals to aerospace and oil & gas \u2010 is a key differentiator for both clients and candidate.", 
+    "twitterId": "@ProcoGlobal", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0044 (0)1273 648080"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "Gloucester House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)207 213 9070"
+       }, 
+       "address": {
+        "postalCode": "EC1A 9LQ", 
+        "city": "London", 
+        "street1": "5th Floor"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "00 852 2970 1008"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Hong Kong", 
+        "street1": "16th Floor, 29 Queens Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(778) 329-6788"
+       }, 
+       "address": {
+        "postalCode": "V6C 3E8", 
+        "city": "Vancouver", 
+        "street1": "885 West Georgia Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+1 646 837 5880"
+       }, 
+       "address": {
+        "postalCode": "NY 10174", 
+        "city": "New York", 
+        "street1": "The Chrysler Building"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.procoglobal.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Executive Search", 
+      "Supply Chain", 
+      "Operational Excellence", 
+      "Procurement", 
+      "Logistics", 
+      "Lean Six Sigma", 
+      "Manufacturing", 
+      "Purchasing", 
+      "Sourcing", 
+      "Recruitment"
+     ]
+    }, 
+    "universalName": "proco-global-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Proco Global Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Select Gardens Ltd", 
+    "twitterId": "", 
+    "industry": "Facilities Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.selectgardens.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Garden and Grounds Maintenance", 
+      "Landscaping"
+     ]
+    }, 
+    "universalName": "select-gardens-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Select Gardens offer a high quality Garden and Grounds Maintenance service to both commercial and domestic clients. We pride ourselves in producing excellent workmanship, which is both competitively priced and ensures total client satisfaction. The business is based in Brighton and Seaford and operates throughout East Sussex and West Sussex."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Mark's Master Service specializes in wood floor refinishing, dustless sanding, and installation of all types of flooring, including oak, maple, ash, fir and pine. Mark's Master Service also offer wood staining, your choice of water- or oil-based finishes, and wall/wall carpet removal. Customer service and providing quality work are very important to Mark's Master Service.\r\n\r\nMark's Master Service serves Acton, MA; Arlington, MA; Ashby, MA; Ashland, MA; Ayer, MA; Bedford, MA; Belmont, MA; Beverly, MA; Billerica, MA; Boston, MA; Boxborough, MA; Brighton, MA; Burlington, MA; Cambridge, MA; Carlisle, MA; Chelmsford, MA; Chestnut Hill, MA; Concord, MA; Dracut, MA; Dunstable; Everett, MA; Framingham, MA; Groton, MA; Holliston, MA; Hopkinton, MA; Hudson; Lexington, MA; Lincoln, MA; Littleton, MA; Lowell, MA; Malden, MA; Marlborough, MA; Maynard, MA; Medford, MA; Melrose, MA; Natick, MA; Newton, MA; Newtonville, MA; Nonantum, MA; North Billerica, MA; North Chelmsford, MA; North Reading, MA; Pepperell, MA; Pinehurst, MA; Reading, MA; Sherborn, MA; Shirley, MA; Somerville, MA; Stoneham, MA; Stow, MA; Sudbury, MA; Tewksbury, MA; Townsend, MA; Tyngsboro; Village Of Nagog Woods; Waban, MA; Wakefield, MA; Waltham, MA; Watertown, MA; Wayland, MA; Wellesley, MA; Wellesley Hills, MA; Westford, MA; West Acton, MA; West Concord, MA; West Groton, MA; West Medford, MA; West Newton; West Somerville, MA; West Townsend; Westford, MA; Weston, MA; Wilmington, MA; Winchester; Woburn, MA; Woodville, MA", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "(781) 325-8070"
+       }, 
+       "address": {
+        "postalCode": "02420", 
+        "city": "Lexington", 
+        "street1": "6 Myrna Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1984, 
+    "websiteUrl": "http://marksmasterservice.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Wood Floor Refinishing", 
+      "Hardwood Floor Sanding", 
+      "Wood Floor Staining", 
+      "Floor Face-Lift", 
+      "Laminate & Flagstone Resurfacing"
+     ]
+    }, 
+    "universalName": "mark's-master-service", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Mark's Master Service"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Fizz Creations Limited", 
+    "twitterId": "", 
+    "industry": "Consumer Goods", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01903 327006"
+       }, 
+       "address": {
+        "postalCode": "BN15 8TA", 
+        "city": "Lancing", 
+        "street1": "21 Commerce Way"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "852 2389 6227", 
+        "phone1": "852 2389 9869"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Kwun Tong", 
+        "street1": "Room B12, 1/F Block B, East Sun Ind. Centre"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.fizzcreations.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Innovative Products", 
+      "Gifts", 
+      "Homeware", 
+      "Toys", 
+      "Range Building", 
+      "Packaging Design"
+     ]
+    }, 
+    "universalName": "fizz-creations", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Fizz Creations Ltd is a creative novelty gift supplier based on the sunny south coast of England near Brighton. We specialise in fun and quirky products under 5 main categories of Home, Tech, Gift, Toys and Girl.\r\n\r\nWe supply major retailers in the UK, and have distributors all over the globe. We always welcome new customers, so please get in touch if you are interested in working with us, or if you just want to say hi!"
+   }
+  ]
+ }
+}

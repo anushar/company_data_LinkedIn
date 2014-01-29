@@ -1,0 +1,992 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1220, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Sarah Middleton-Lee Ltd", 
+    "industry": "International Affairs", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 7JA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.middletonlee.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Policy analysis", 
+      "advocacy and writing; multi-sectoral consultation and facilitation; strategy development", 
+      "planning and evaluation; and good practice research and tool development."
+     ]
+    }, 
+    "universalName": "sarah-middleton-lee-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Consultancy company based in the UK, with 20 years of experience. I support organisations - working in the fields of HIV, gender, sexual and reproductive health and rights (SRHR) and maternal and child health - at the global level, in developing countries and in my local city of Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "Sodaworks is a digital marketing and social media agency based in Brighton, UK. With over 10 years of design, marketing and digital media experience, we provide social media marketing strategies to small businesses and entrepreneurs. Sodaworks aim to demystify social media to business owners and empower blog and website authors to utilise the power of digital media and social networking.", 
+    "industry": "Online Publishing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN2 1TL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://sodaworks.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "social media marketing", 
+      "digital media arts", 
+      "digital marketing", 
+      "wordpress", 
+      "seo", 
+      "website design"
+     ]
+    }, 
+    "universalName": "sodaworks", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Sodaworks"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "rehabdesign\u2122 was formed in 2001. We are a multi- disciplinary graphic design and print practice based in Brighton (well, Hove, actually). Our team mixes diverse backgrounds, skills and hairstyles, working together to bring out the best in each other and our clients, whatever the project. We take an informal approach to encourage the best and most appropriate ideas, and then apply them with commercial realism. Simple.\r\n\r\nWe\u2019re pretty flexible in the way we work and adapt the design process to fit each project, whether it be a simple business card, a website or a complete corporate identity. We always welcome ideas or specific requirements you may have and our creative team liaise directly with the client to make sure each project is delivered on brief, on time and to budget and with the minimum of stress.", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 1273 772702", 
+        "phone1": "+44 1273 772702"
+       }, 
+       "address": {
+        "postalCode": "BN3 3YP", 
+        "city": "Hove", 
+        "street1": "One Blatchington Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.rehabdesign.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Print design & management", 
+      "Illustration", 
+      "Photography", 
+      "Web design", 
+      "Social media consultation"
+     ]
+    }, 
+    "universalName": "rehabdesign-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "rehabdesign\u2122"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 193, 
+    "description": "Humphrey & Co has been practicing as a firm of Chartered Accountants since 1928.  With eleven partners and over forty staff, including former Inspectors of Taxes, collectively, we have considerable expertise and experience in the provision of taxation, financial and business advice.\r\n \r\nOur range of clients is vast and includes individuals, self employed, small enterprises and international corporations. We are committed to providing approachable, professional customer service and practical, straightforward advice to all our clients, irrespective of their size or the complexity of their financial situation.\r\n \r\nDespite constantly evolving personal and corporate financial legislation, you can rely on Humphrey & Co to be fully aware of accountancy opportunities and challenges, and one step ahead of our competitors in anticipating and planning for future legislative changes. All members of our staff receive continuous training and development and we take full advantage of information technology to ensure Humphrey & Co remains a dynamic and forward thinking company.\r\n \r\nWe currently operate from two offices, in Eastbourne and Brighton & Hove. The offices are open from 9.00 to 5.30 each weekday; however, realising that this may not be convenient for all our clients, we are happy to make flexible arrangements to meet with you out of hours, at evenings and weekends.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01323 738355", 
+        "phone1": "01323 730631 (Eastbourne Office)"
+       }, 
+       "address": {
+        "postalCode": "BN21 3YA", 
+        "city": "Eastbourne", 
+        "street1": "7 - 9 The Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1928, 
+    "websiteUrl": "www.humph.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Dental Accountants"
+     ]
+    }, 
+    "universalName": "humphrey-&-co", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Humphrey & Co"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Cutting Edge Tree Care, LLC is a family owned and operated company based out of Lafayette, CO. Our primary focus is tree structuring, cleaning, trimming, removals, and planting. Charley is an ISA certified arborist, a 5 time Rocky Mountain Regional Tree Climbing Champion, an International tree climber and competitor and a training instructor for tree climbers around the world. He has over 15 years of experience in the tree industry and is eager to help you manage the tree strategy for your property. Call or email for a free estimate.\r\n\r\nWe primarily serve Adams, Boulder, and Broomfield counties. This includes, but is not limited to, Lafayette, Louisville, Superior, Broomfield, Westminster, Thornton, Northglenn, Erie, Longmont, Boulder, Niwot, Gunbarrel, and Brighton.  We will occasionally come down to Denver too so if you need service and you are not in one of these towns, please call us at 303-362-1002 to see if we will service your property.", 
+    "industry": "Consumer Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "303-362-1002"
+       }, 
+       "address": {
+        "postalCode": "80026", 
+        "city": "Lafayette", 
+        "street1": "701 W. Lucerne Dr."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.cetreecare.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "tree care", 
+      "tree services", 
+      "tree pruning", 
+      "tree trimming", 
+      "tree planting", 
+      "stump gridning", 
+      "plant health care"
+     ]
+    }, 
+    "universalName": "cutting-edge-tree-care-llc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cutting Edge Tree Care, LLC"
+   }, 
+   {
+    "numFollowers": 10, 
+    "name": "Diamond Computers", 
+    "industry": "Computer Hardware", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 4GG"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.diamondhardware.com", 
+    "universalName": "diamond-computers", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Brighton & Hove based computer services business established 2001. Specialising in B2B IT support and maintenance and PC/Laptop repair/upgrade"
+   }, 
+   {
+    "numFollowers": 5, 
+    "name": "New Life Construction, LLC", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "65617"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://417construction.com", 
+    "universalName": "new-life-construction-llc", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "New Life Construction, LLC is a full-service residential/construction remodeling company that provides complete turn-key solutions from the planning stage through completion for customers in and around the Brighton, Missouri area. New Life Construction\u2019s dedication to quality has created lasting relationships and a strong reputation in the community."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "name": "Renaissance Legal", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "0845 505 60 51", 
+        "phone1": "0845 505 60 50"
+       }, 
+       "address": {
+        "postalCode": "BN1 1YR", 
+        "city": "Brighton", 
+        "street1": "Tower Point"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.renaissancelegal.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Wills", 
+      "Trusts", 
+      "Probate", 
+      "Tax Planning", 
+      "Court of Protection", 
+      "Lasting Powers of Attorney", 
+      "Protection of the disabled, elderly and vulnerable"
+     ]
+    }, 
+    "universalName": "renaissance-legal", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Renaissance Legal is a niche Brighton based law firm providing wills, trusts, tax planning,\r\npowers of attorney and probate services across the South East and London.\r\nLed by Directors Philip Warford (Law Society Legal Executive of the Year 2011) and Katherine Miller.\r\nRenaissance Legal was shortlisted for the Law Society Excellence Award for Community Investment in 2012."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 42, 
+    "description": "ODT Solicitors LLP is a forward thinking firm of solicitors formed in 1998 and based in the centre of Brighton & Hove. \r\n\r\nOur team aims to shed the image of unapproachable law firms by adopting a less formal and much more friendly and personal approach towards our clients.", 
+    "twitterId": "", 
+    "industry": "Law Practice", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 221584", 
+        "phone1": "01273 710712"
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "Pavilion View"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 221584", 
+        "phone1": "01273 831574"
+       }, 
+       "address": {
+        "postalCode": "BN6 9PU", 
+        "city": "Hurstpierpoint", 
+        "street1": "133 High Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.odt.uk.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Business Law", 
+      "Commercial Property", 
+      "Residential Property and Conveyancing", 
+      "Leasehold Enfranchisement", 
+      "Landlord and Tenant", 
+      "Litigation", 
+      "Wills and Probate"
+     ]
+    }, 
+    "universalName": "odt-solicitors-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "ODT Solicitors LLP"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "description": "Innovative, strategic and creative marketing and design company based in central Brighton.\r\n\r\nWe provide: customer acquisition, business growth and long term client satisfaction through workshop based marketing planning, strategic marketing consultancy, creative direction & digital marketing. We build long term relationships working on retained contracts so we can grow and understand business objectives and measure and analyse our results. Some employees surnames resemble 70s cop characters.", 
+    "twitterId": "@wallandpleece", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 201 151"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton", 
+        "street1": "Suite 202"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.pleeceandco.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Strategy & Planning", 
+      "Marketing", 
+      "Brand Identity", 
+      "Digital Marketing", 
+      "Call: 01273 201 151 and prepare to be challenged!"
+     ]
+    }, 
+    "universalName": "pleece&co", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Pleece&Co"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 445, 
+    "name": "Travelbag", 
+    "twitterId": "travelbag1979", 
+    "industry": "Leisure & Travel", 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1979, 
+    "websiteUrl": "www.travelbag.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "ggg"
+     ]
+    }, 
+    "universalName": "travelbag", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Established in 1979, Travelbag is a leader in worldwide travel. Its reputation for value, independence, specialist knowledge and bespoke experience means thousands of holidaymakers put their faith in Travelbag every year. Travelbag specialises in creating bespoke holidays to Asia, Australasia, North America, The Middle East, Indian Ocean, Latin America, Caribbean and the Mediterranean. Travelbag also offers holidaymakers a wide portfolio of cruise itineraries, escorted tours, safaris, car hire and insurance.\r\n\r\nIn addition to three dedicated call centres, there are seven specialist Travelbag stores located across England: London (Kensington), Alton, Winchester, Solihull, Cheltenham, Knutsford and Brighton."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 52, 
+    "description": "For over 29 years, Machining Center, Inc. has been the single source for precision CNC machined products and assemblies, servicing the automotive, racing, performance, construction, off-road, and energy industries.  We are a veteran-owned, Michigan-based manufacturer that is ISO/TS 16949, ISO 14001 certified and as of October 2010,  AS 9100 Aerospace certified. \r\n\r\nWith an on-time delivery rate in excess of 99%, we specialize in global sourcing and precision machining services of complex castings and forgings, from prototype to low and high volume production, and for parts ranging from a small automobile connecting rod to a large earth mover transmission case.\r\n\r\nOur services include in-house tooling design and build capabilities that reduce our customers\u2019 lead-time on average of 2 to 4 weeks.  By providing a global sourcing capability for your castings and forgings requirements, MCI reduces raw material costs for our customers on an average of 10% to 20%.   We further reduce our customers\u2019 overall program cost by collaborating and communicating with our customers and suppliers, making us a premium service source for machining large and complex parts.\r\n\r\nMCI is located in Brighton, Michigan, off of I-96 and Grand River Avenue. Our 42,000 sq foot machining facilities are home to the latest CNC equipment resources, capable of meeting your precision machining requirements.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "810 229 8449"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "5959 Ford Court"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "810 229 8449", 
+        "phone1": "810 229 9208"
+       }, 
+       "address": {
+        "postalCode": "48116", 
+        "city": "Brighton", 
+        "street1": "5959 Ford Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1981, 
+    "websiteUrl": "www.machining-center.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "CNC precision machining", 
+      "experience", 
+      "automotive, heavy duty, prototype", 
+      "tooling", 
+      "Michigan", 
+      "castings", 
+      "forgings", 
+      "construction", 
+      "energy"
+     ]
+    }, 
+    "universalName": "machining-center-inc", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Machining Center Inc"
+   }, 
+   {
+    "numFollowers": 43, 
+    "name": "Macaulay Sinclair", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01159 507 313"
+       }, 
+       "address": {
+        "postalCode": "NG1 1HS", 
+        "city": "Nottingham", 
+        "street1": "Macaulay Sinclair"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.macaulaysinclair.com", 
+    "universalName": "macaulay-sinclair", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Macaulay Sinclair are a successfulinterior design and architecture studio working from Nottingham's Lace Market. \r\n\r\nHeaded by Directors John Macaulay and Mike Sinclair, over the last decade, Macaulay Sinclair have worked in almost every major city in Britain. Their work spans Glasgow, Cardiff, Liverpool, Manchester, Birmingham, Brighton, Leicester, London and, of course, Nottingham. \r\n\r\nAuthors of Marston's Bluu brand, Macaulay Sinclair have recently completed Urban Reef in Dorset and The Curlew in East Sussex. They are currently working on the new homes of Hawksmoor and Inamo."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Delivering excellence in rotational moulding since 1970. Originally established in Sussex, tecni-form now has 2 manufacturing sites: the head office and the southern factory are in Brighton & Hove, on the south coast of the UK; their Midlands UK factory is based in Stone, near Stoke-on-Trent and ideally placed to serve the majority of the UK and export markets to the rest of the world.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Plastics", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1273 822715", 
+        "phone1": "+44 (0) 1273 72359"
+       }, 
+       "address": {
+        "postalCode": "BN3 7BU", 
+        "city": "Hove", 
+        "street1": "Goldstone Lane"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "+44 (0) 1785 286096", 
+        "phone1": "+44 (0) 1785 286476"
+       }, 
+       "address": {
+        "postalCode": "ST15 8LQ", 
+        "city": "Stone", 
+        "street1": "Whitebridge Industrial Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1970, 
+    "websiteUrl": "www.tecni-form.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "rotational moulding", 
+      "plastic moulding"
+     ]
+    }, 
+    "universalName": "tecni-form-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Tecni-form Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "name": "Italk Ltd", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN3 7BD"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.italktelecom.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Telecoms and Debt Management"
+     ]
+    }, 
+    "universalName": "italk-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "One of Brighton and Hove\u2019s best kept secrets is Italk, a well established and fast expanding Telecoms company. \r\n\r\nAt Italk we pride ourselves on offering superb value call packages backed up with unrivalled customer service.\r\n\r\nOur head office and call centre is situated within a large hi-tech establishment which is centrally located in Hove. \r\n\r\nWe pride ourselves on our UK-based team who understand their customers\u2019 needs exactly and expectations are always exceeded both in service and quality. Consequently we value, train and nurture each and every employee as we recognise that they are vital to our future growth and success.\r\n\r\nOver the past year the company has grown and developed to a point where we have hired a dedicated Recruitment and HR Manager to handle the huge demand. \r\n\r\nItalk have many campaigns to assist with our recruitment drive and have teamed up with our local Job Centre and City College to offer unemployed and freshly trained Contact Centre staff the opportunity to work in our newly renovated and refurbished call centre.\r\n\r\nOur focus is on the employee and their potential. We are not looking for just another Sales agent, what we are striving for is staff retention and a team who are not only great at what they do but who are honest, committed, dedicated and part of our expanding team.\r\n\r\nWith a friendly team of 50 employees stretching over head office and sales we are looking to double our call centre numbers which will in effect double our head office positions making our recession survived company sought after to work for."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1075, 
+    "description": "Risdall is an award winning advertising agency that doesn't stand still. Our marketing and advertising capabilities are always evolving, driven by our independent culture and profound understanding of the online space. We embrace your business and make change real.\r\n\r\nHeadquartered in New Brighton, Minnesota, Risdall is heralded as one of the oldest and most successful agencies in the Twin Cities market and is recognized nationally for its leading-edge interactive marketing capabilities. The full-service agency embraces an integrated approach offering marketing, advertising, public relations, design, traditional and interactive media, research and fundraising capabilities", 
+    "twitterId": "risdall", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "651-631-2561", 
+        "phone1": "651-286-6700"
+       }, 
+       "address": {
+        "postalCode": "55112", 
+        "city": "New Brighton", 
+        "street1": "550 Main Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1972, 
+    "websiteUrl": "http://www.risdall.com", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Advertising", 
+      "Web Development and Design", 
+      "Online Marketing", 
+      "Public Relations", 
+      "Strategy and Research", 
+      "Branding and Design", 
+      "Direct to Consumer", 
+      "Crisis Management", 
+      "Event Marketing", 
+      "Media Services"
+     ]
+    }, 
+    "universalName": "risdall-marketing-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Risdall Marketing Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 699, 
+    "name": "DMH Stallard LLP", 
+    "twitterId": "", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7822 1500"
+       }, 
+       "address": {
+        "postalCode": "EC4A 3BF", 
+        "city": "London", 
+        "street1": "6 New Street Square"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 605000"
+       }, 
+       "address": {
+        "postalCode": "RH11 7FZ", 
+        "city": "Crawley", 
+        "street1": "Gainsborough House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 329833"
+       }, 
+       "address": {
+        "postalCode": "BN1 3YB", 
+        "city": "Brighton", 
+        "street1": "98 Queens Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "GU9 8LQ", 
+        "city": "Surrey", 
+        "street1": "Firlex House, 18 Firgrove Hill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "GU2 4RG", 
+        "city": "Guildford", 
+        "street1": "1 Farnham Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "websiteUrl": "www.dmhstallard.com", 
+    "specialties": {
+     "_total": 18, 
+     "values": [
+      "Corporate", 
+      "Real Estate", 
+      "Technology", 
+      "Intellectual Property", 
+      "Employment", 
+      "Private Client", 
+      "Dispute Resolution", 
+      "Litigation", 
+      "Insolvency", 
+      "Public Markets", 
+      "AIM", 
+      "Mergers & Acquistions", 
+      "Private Equity", 
+      "Banking", 
+      "Planning", 
+      "Public Sector", 
+      "Local Government", 
+      "Waste and Renewables"
+     ]
+    }, 
+    "universalName": "dmh-stallard-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "DMH Stallard provides integrated legal services from offices in London, Gatwick, Guildford, Farnham and Brighton.\r\n\r\nDMH Stallard was named Corporate Law Firm of the Year at Insider South East Dealmakers Awards 2012.  At the MPF European Practice Management Awards DMH Stallard was received the Best Financial Management Award in 2010 and was awarded Best Use of Technology in 2009. The firm is recognised in the leading legal directories, Chambers & Partners and Legal 500, across all its key practice areas.\r\n\r\nDMH Stallard is dedicated to making our clients the centre of our business and delivering technical excellence, so we can work together as legal and commercial partners. The firm invests in building long term relationships with its clients, so we can support their strategic objectives and deliver solutions that are needs driven.\r\n\r\nOur practice has been developed to provide users of traditional City firms with a genuine alternative. To put it simply, our clients benefit from technically excellent advice led by senior partners whilst enjoying sensible and transparent pricing structures. \r\n\r\nWe are proud to work with some of the most innovative and successful organisations in the country including major financial institutions, many FTSE listed companies, private equity backed businesses and high profile public sector bodies. We are also delighted that the firm continues to be recognised with prestigious awards."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 855, 
+    "description": "Franciscan Hospital for Children, located in the Brighton neighborhood of Boston, is the largest pediatric rehabilitation facility in New England. Programs and services offered address the diverse medical, behavioral and educational needs of children.", 
+    "twitterId": "franciscanhfc", 
+    "industry": "Hospital & Health Care", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "617-254-3800"
+       }, 
+       "address": {
+        "postalCode": "02135", 
+        "city": "Brighton", 
+        "street1": "30 Warren Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 1949, 
+    "websiteUrl": "http://www.franciscanhospital.org/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "pediatric rehabilitation", 
+      "pediatric behavioral health", 
+      "education for children with special needs", 
+      "behavioral health", 
+      "mental health"
+     ]
+    }, 
+    "universalName": "franciscan-hospital-for-children", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Franciscan Hospital for Children"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 232, 
+    "name": "Korus Recruitment Group", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08456046392"
+       }, 
+       "address": {
+        "postalCode": "EC1N 8TN", 
+        "city": "London", 
+        "street1": "16-18 Kirby Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01244 261020"
+       }, 
+       "address": {
+        "postalCode": "CH1 2BE", 
+        "city": "Chester", 
+        "street1": "Merchants House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 956060"
+       }, 
+       "address": {
+        "postalCode": "BN1 2RT", 
+        "city": "Brighton", 
+        "street1": "Phoenix House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.korusgroup.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "IT Contract Recruitment", 
+      "IT Permanent Recruitment"
+     ]
+    }, 
+    "universalName": "korus-recruitment-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Korus Recruitment Group Limited is a growing group of sector specific recruitment businesses, providing contract, interim and permanent recruitment services across a range of complimentary industry sectors .\r\n\r\nFounded in January 2009 by Chief Executive David Seear and now part of the Interquest Group of companies, the business now provides services throughout the UK, from regional offices in London, Chester and Brighton.\r\n\r\nKorus Recruitment Group provides Contract, Senior Interim and Permanent recruitment solutions across a range of specialist sectors. We believe in providing a qualitative and timely approach to recruitment, ensuring that our consultants have the experience and knowledge to understand both the business requirements of our clients and the needs and objectives of our candidates.\r\n\r\nWe build strong partnerships with both our clients and candidates, managing the entire recruitment process, realising both time and money savings for our clients and maintain those relationships throughout the project life cycle.\r\n\r\nSpecialist sectors include:\r\n\r\nIT Development, Support & Infrastructure\r\nProject/Programme Management, Business Analysis\r\nNetwork & Communications \r\nArchitecture & Design\r\nQA/Testing \r\nSenior Interim Roles\r\nLegal IT\r\nFinancial (banking, risk, insurance)\r\nEducation"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 419, 
+    "description": "Cogapp helps clients use digital media to grow their organisations\r\n\r\nFounded in 1985, Cogapp has worked with almost every digital media technology from the floppy disk to the iPad.  Current projects include websites, interactive installations and next generation mobile applications. \r\n\r\nMany companies do similar things. What sets us apart is our experience of delivering large-scale mission-critical projects for prominent organisations.\r\n\r\nWhatever we do our aim is always to produce work that is well-conceived and beautifully executed; work that will enrich the lives of the people who use it and create exceptional long-term value for our clients.\r\n\r\nInnovation is a fact of life for anyone working in digital media.  We strive to innovate in all aspects of our work; in design, technology and methods of working. For evidence of this commitment see our portfolio and our blog.\r\n\r\nThe Cogapp team currently features 35 friendly professional staff who share more than 200 years of high-level experience. We operate nationally and internationally from an office in Brighton and an outpost in New York.  We have an extensive network of associates that we can call on for specialist services.\r\n\r\nOur clients include prominent public-facing organisations notably the British Museum, the BBC, Dorling Kindersley, the Home Office, the Children's Society and the Metropolitan Museum of Art in New York. Our work has won numerous awards. \ufeff", 
+    "twitterId": "cogapp", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 821600"
+       }, 
+       "address": {
+        "postalCode": "BN1 3FE", 
+        "city": "Brighton", 
+        "street1": "3rd Floor Lees House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "10022", 
+        "city": "New York", 
+        "street1": "641 Lexington Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1985, 
+    "websiteUrl": "www.cogapp.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "user experience consultancy", 
+      "websites", 
+      "internet", 
+      "mobile", 
+      "applications", 
+      "user-centred design", 
+      "Sitecore development", 
+      "web development"
+     ]
+    }, 
+    "universalName": "cogapp", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Cogapp"
+   }
+  ]
+ }
+}

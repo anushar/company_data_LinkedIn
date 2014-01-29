@@ -1,0 +1,828 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 920, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "Osmosis Apps is a mobile app development company based in Brighton, UK. \r\n\r\nWe are the Developers of Tap to Chat - the best Instant Messenger App on iPhone, iPod Touch and iPad!\r\n\r\nFacebook Chat Addict? Google Talk Fanatic? Tap to Chat is your dream app with over half a million downloads so far!\r\n\r\nChat to all your Facebook and Google friends on the go using this easy-to-use, free Instant Messenger App!", 
+    "twitterId": "osmosisapps", 
+    "blogRssUrl": "http://www.osmosisapps.com/blog", 
+    "industry": "Computer Software", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.osmosisapps.com", 
+    "universalName": "osmosis-apps", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Osmosis Apps"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 80, 
+    "description": "Websites need content. From destination guides to itineraries, placeholder text to punchy reviews, we can deliver web content written in line with your SEO needs. By creating writing teams \u2013 all accountable to an editor \u2013 we can prepare hundreds of pages of content with ease. Getting your new page online is never easy, so entrust the content delivery to us. Our range of SEO services and packages combine captivating copy with proven SEO knowledge, ensuring that your web pages are liked as much by your visitors as they are by Google.\r\n\r\nElement is a copywriting & SEO specialist with offices in Brighton (UK) and Perth (Australia).", 
+    "twitterId": "elementinternet", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+61 (0) 8 6365 4140"
+       }, 
+       "address": {
+        "postalCode": "6011", 
+        "city": "Subiaco", 
+        "street1": "Suite 3a, Level 1"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0) 1273 782042"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GA", 
+        "city": "Brighton", 
+        "street1": "5 St Georges Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.elementinternet.com", 
+    "specialties": {
+     "_total": 13, 
+     "values": [
+      "Blog Copywriting", 
+      "SEO Copywriting", 
+      "Article Copywriting", 
+      "Press Release Copywriting", 
+      "Ebook Copywriting", 
+      "Brochure Copywriting", 
+      "Guide Copywriting", 
+      "SEO Reporting & Analysis", 
+      "Article Submissions", 
+      "Onsite Optimisation", 
+      "Keyword Research", 
+      "Link Building", 
+      "Social Engagement"
+     ]
+    }, 
+    "universalName": "element-internet", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Element Internet"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 46, 
+    "description": "ShortRound is an independent games developer based in Brighton in the South of England. The company was founded by four industry veterans, with over 40 years collective experience, to produce high quality games for multiple platforms - both developing their own IP and undertaking project based work.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Computer Games", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "18 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.shortroundgames.com", 
+    "universalName": "shortround", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ShortRound"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 30, 
+    "description": "Pebble Productions is a full service creative event management agency. \r\n\r\nWe deliver integrated sustainable solutions for corporate parties, conferences and meetings, live communications, charity events, awards shows, product launches, press events and team building days.\r\n\r\nWe do more than simply manage events, we deliver powerful and memorable experiences that help you communicate key messages to your staff, the press, consumers, clients and stakeholders alike.\r\n\r\nAnd, most importantly of all, we are committed to making our events more sustainable through the implementation of sustainable management systems and greener cleaner event solutions.\r\n\r\nAs part of our commitment to CSR, we have adopted two legacy projects and we will be making quarterly donations to support the work of Solar Aid and Nourish Farm, a local Community Interest Group in Brighton. \r\n\r\nFor your peace of mind, we offer a Quality Standards Guarantee, so you can be sure that we will always deliver on budget, on time and above your expectations.", 
+    "twitterId": "timpebble", 
+    "blogRssUrl": "http://www.pebbleproductions.net/?page_id=259", 
+    "industry": "Events Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+ 44 (0)1273 252 132"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GA", 
+        "city": "Brighton", 
+        "street1": "1 st Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.pebbleproductions.net", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Event Management", 
+      "Event Design, Styling & Decor", 
+      "Conference & Meeting Mangement", 
+      "Sustainable Event Solutions", 
+      "Technical Event Production", 
+      "Entertainment", 
+      "Project Management", 
+      "Renewable Energy Solutions"
+     ]
+    }, 
+    "universalName": "pebble-productions-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Pebble Productions Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 318, 
+    "description": "Production of Award-Winning Features, B2B & B2C Corporate Videos, Charity Films and Shorts.\r\n\r\nCorporate and charity clients have included THE DORCHESTER COLLECTION hotel group, OZWALD BOATENG, Made in Africa, Nottm Community Housing Association, Nottm City Council, Derby Homes, Natural Environmental Research Council, Royal Swedish Academy of Sciences, Exeid, STEP, The Workers' Educational Association and Groundworks.\r\n\r\nWith our ULTRABAND service and FTP, we are able to deliver huge files at tremendous speeds (up to 1Gb/s), cutting out time delays on those all important deadlines and beating our competition.\r\n\r\nTheir BAFTA nominated d\u00e9but feature, LONDON TO BRIGHTON earned them the Best Achievement in Production award at the 2006 British Independent Film Awards and a nomination at the London Critics Circle Film Awards for British Film Producers of the Year. It has since been named by TimeOut London as one of the top 100 British films of all time.\r\n\r\nOther production credits include BETTER THINGS, the critically acclaimed debut feature film by Duane Hopkins (Cannes Film Festival - Critics Week 2008), Alexis Dos Santos\u2019 UNMADE BEDS, (Sundance Film Festival, Berlin International Film Festival) and Justin Molotnikov\u2019s CRYING WITH LAUGHTER (Best Film at BAFTA Scotland 2009).\r\n\r\nDocumentary feature film A MAN\u2019S STORY chronicles twelve years in the life of British designer and fashion icon Ozwald Boateng. It was released in the UK in January 2012 and is released in the US in November 2012.", 
+    "twitterId": "WellingtonFilms", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)115 8400043"
+       }, 
+       "address": {
+        "postalCode": "NG1 3AL", 
+        "city": "Nottingham", 
+        "street1": "14-18 Broad Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "www.wellingtonfilms.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Feature Film Production", 
+      "Corporate Film and DVD Production", 
+      "Charity Film Production", 
+      "Video Editing", 
+      "Production Consultation", 
+      "Lecturing", 
+      "Festival Strategy Consultation"
+     ]
+    }, 
+    "universalName": "wellington-films", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Wellington Films"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Concentric Marketing Ltd", 
+    "twitterId": "ConcentricMkt", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "0845 034 5603"
+       }, 
+       "address": {
+        "postalCode": "BN3 1EE", 
+        "city": "Hove", 
+        "street1": "47A Brunswick Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.concentricmarketing.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Inbound Marketing", 
+      "HubSpot Certified Partner", 
+      "Lead generation"
+     ]
+    }, 
+    "universalName": "concentric-marketing-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Concentric Marketing is a Brighton based inbound marketing agency and HubSpot Certified Partner, with meeting facilities in Central London. \r\n\r\nWe help our clients be found by their online audience, whether they\u2019re new customers, clients or stakeholders. Our focus is on enhancing this process of digital discovery through content creation, search engine optimisation, business social media communications and lead development. \r\n\r\nWe take a proven approach built upon a process of research, planning and continuous evaluation, to achieve measurable results and a real return on investment."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "The R\u00e1mos Roofing Company a roofing contractor located in Brighton, Colorado, serves the Denver Metropolitan and Front Range region of Colorado. R\u00e1mos Roofing specializes in steep slope construction, low slope construction, and roof maintenance. Our services are available to the residential and commercial markets.\r\n\r\nWe are very proud of the reputation The R\u00e1mos Roofing Company has built sinse its inception in 2002. Our success can be attributed to our commitment to providing customers with reliable roofing systems. The R\u00e1mos Roofing commitment to quality is attained by employing onsite supervision, utilizing experienced employees, using quality materials and paying special attention to detail.\r\n\r\nVisit our Request a Quote page or call 303-659-8241 for more information.", 
+    "twitterId": "ramosroofing", 
+    "blogRssUrl": "http://www.ramosroofing.com/news", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2002, 
+    "websiteUrl": "http://www.ramosroofing.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Residential Roofing", 
+      "Commercial Roofing", 
+      "Roofing Maintenance", 
+      "Hail and Storm Damage Roofing Repair"
+     ]
+    }, 
+    "universalName": "ramos-roofing", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Ramos Roofing"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 13, 
+    "description": "In 2008 Sophie Martin, former Head Chef at \u2018Occasional Cuisine\u2019 formed 'Dinner Parties to go' specialising in gourmet canapes and meals cooked in the home. As business expanded it was decided in 2011 that we should rebrand as Sophie Martin Catering, hoping to reflect the diverse range of catering we offer, and the personal touch that Sophie puts in.\r\n\r\nWe can cater for dinner parties, birthdays, anniversaries, christenings, weddings, funerals or any other event. \r\n\r\nWe can supply a large variety of different meal options, some examples being buffets, sandwiches, afternoon teas and hog roasts. If you're looking for special canap\u00e9s we have a variety of hot or cold, sweet or savory. \r\nTry our exceptional hand crafted canap\u00e9s, perfection in one bite!\r\n\r\nWhether you want your food delivered with the appropriate serving instructions or a chef to cook in your kitchen, we can accommodate your wishes. Maybe you would like serving staff? We can provide a friendly and experienced team.\r\n\r\nContact us to discuss your requirements, we can personalize each of our menus to suit any budget or dietary needs. We can even create a menu for a special themed night!\r\nWe deliver within a 35mile radius of Haslemere. See our coverage map below: we deliver to Portsmouth, Brighton, Basingstoke, Reading, Kingston, Greater London and everywhere in between. Delivery charges apply depending on order quantity. We will deliver and cater in other areas too, please call us for a quote.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Food Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01428658424"
+       }, 
+       "address": {
+        "postalCode": "GU27 1BE", 
+        "city": "Haslemere", 
+        "street1": "Kiln Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "Www.sophiemartincatering.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Canap\u00e9s", 
+      "Dinner Parties", 
+      "Events", 
+      "Buffet"
+     ]
+    }, 
+    "universalName": "sophie-martin-catering", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Sophie Martin Catering"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 39, 
+    "description": "Based in Brighton, Family Law Partners are a specialist team of family solicitors, mediators and collaborative lawyers supporting clients to make informed decisions. \r\n\r\nOur approach is to support clients who need assistance with family law related issues at the beginning and end of relationships. \r\n\r\nOur experience, expertise and commitment to client service is externally recognised by Resolution, Chambers UK and the Law Society,", 
+    "twitterId": "@familylawflp", 
+    "industry": "Legal Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 646909", 
+        "phone1": "01273 646900"
+       }, 
+       "address": {
+        "postalCode": "BN1 3HR", 
+        "city": "Brighton", 
+        "street1": "Clifton Hill"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.familylawpartners.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Mediation", 
+      "Divorce", 
+      "Collaborative Law", 
+      "Cohabitation issues", 
+      "Dispute resolution", 
+      "Family law", 
+      "Separation", 
+      "Civil Partnerships", 
+      "Wealth protection", 
+      "Financial issues"
+     ]
+    }, 
+    "universalName": "family-law-partners", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Family Law Partners"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "We are a full web, graphic design and internet marketing agency service based in Brighton. With a passion for design, our experience and creative mindset we achieve excellent results for our clients by adding value to their business and always excel their expectations.", 
+    "twitterId": "seventy1st", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.seventy1st.co.uk", 
+    "universalName": "seventy1st-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Seventy1st Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Xobo Design is a young multi-disciplinary design collective based in London and Brighton. We draw on our skills as architects, interior designers, furniture designers and graphic designers to produce designs that are rooted in their context and craftsmanship. \r\n\r\nAs inter-disciplinary designers, we work across the full design spectrum to deliver a total design package for residential and commercial projects.\r\n\r\nXobo Design comprises four divisions: Xobo Architecture, Xobo Interiors, Xobo Furniture and Xobo Graphics. Each division is led by an experienced designer who shares the Xobo ideals of bringing together creative thinking while remaining mindful of our client\u2019s brief and budget.", 
+    "twitterId": "xobodesign", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.xobodesign.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Architecture", 
+      "Interiors", 
+      "Furniture", 
+      "Graphics"
+     ]
+    }, 
+    "universalName": "xobo-design", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Xobo Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "We are a complete home building and remodeling company proudly serving the South Eastern Lower Michigan. We are committed to excellence with dedicated Service to the Customer. We specialize in Building, Remodeling, and Handyman Services or any projects designed to fit your budget needs. Whether you are doing a major remodel or minor home improvements; we have the resources to complete all phases of your project. Our goal is 100% satisfaction guaranteed.\r\n\r\nOur main areas of service include Livingston County, Brighton, Pinkney, South Lyon, Hamburg, Howell, Fowlerville and Hartland but we may be willing to travel in order to get a job done for you.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Construction", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://tb-construction.net/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Building", 
+      "Remodeling", 
+      "Handyman Services", 
+      "New Construction", 
+      "Carpentry"
+     ]
+    }, 
+    "universalName": "t&b-construction", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "T&B Construction"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Netfuse provide business phone systems, international numbering, IVR, SMS and mobile services to the business sector. Our specialities include high-load hosted IPBX, intelligent number routing, and low-cost outbound termination. Based in Brighton since 2007, we aim to change people's perceptions about the costs associated with telecoms and cut through much of the false marketing that's common in the sector.", 
+    "twitterId": "netfuse", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "05601 056 056"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AB", 
+        "city": "Brighton", 
+        "street1": "49 Cheltenham Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.netfuse.net", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Phone Systems", 
+      "International Numbering", 
+      "Mobile", 
+      "Switched Minutes"
+     ]
+    }, 
+    "universalName": "netfuse", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Netfuse"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 77, 
+    "description": "Platinum Lace is one of the largest brand operators of Gentlemen's Club in the United Kingdom. With venues in London, Norwich, Glasgow, Leicester and Brighton.\r\n\r\nPlatinum Lace prides itself on being of the latest generation of clubs and entertainment for the adult lifestyle making the venues a hybrid of club culture and sensual entertainment for both men and women.\r\n\r\nPlatinum Lace have over the past supplied hostesses for Poppy Appeal (Canary Wharf, Twickenham & Stamford Bridge Boxing Dinner), Help For Heroes, Villas4Veterans, Debra and most recently Lords Cricket Ground. We also supply Frank Warren's Boxing events with hostesses and ring girls for Sky Sports. The venues across the UK also support local events and charities within their own area. \r\n\r\nThe brand is more than a venue, its becoming a lifestyle.", 
+    "twitterId": "platinum_lace", 
+    "blogRssUrl": "", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+44 02072973200"
+       }, 
+       "address": {
+        "postalCode": "W1D 7DH", 
+        "city": "London", 
+        "street1": "13 Coventry Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "F", 
+     "name": "501-1000"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.platinumlace.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Promotions and Marketing Staff", 
+      "Pole Dancing Shows", 
+      "Fund Raising", 
+      "Charity Work"
+     ]
+    }, 
+    "universalName": "platinum-lace-bar-&-gentlemen's-club", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Platinum Lace Bar & Gentlemen's Club"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 56, 
+    "description": "Mr Bongo started life in 1989 as a small record shop underneath Daddy Kool\u2019s Reggae Store on Berwick Street in London.  It was the first shop to sell vinyl releases from independent hip hop labels such as Def Jam, Rawkus, Nervous and Big Beat outside of the USA.  It also established itself as the standard bearer for hard-to-find, classic Latin music, particularly Brazilian, outside of the Americas.\r\n\r\nOver the following years it moved three times within Soho and opened in Shibuya, Japan. Mr Bongo moved its offices to Brighton in 1999 and closed all shops in 2003 to turn its focus online.\r\n\r\nThe label now has a recording roster featuring some of the best Brazilian, Latin, reggae, African and Jazz music by artists including Terry Callier, Jorge Ben, Seu Jorge, Prince Fatty, Incredible Bongo Band and Marcos Valle.  \r\n\r\nMr Bongo has a publishing arm with an in-house team that produces and licenses music for use by third parties including advertising, film and TV companies worldwide; brands such as Bacardi, Nike, Adidas, Fosters, Nissan and Guinness have used Mr Bongo music.  They also deal with worldwide royalty collection for artists and organizations.\r\n\r\nIn 2004 Mr Bongo began releasing films, a venture that grew to compliment the music.  In keeping with the record labels philosophy, titles are carefully selected and sourced from around the world and now include essential works by esteemed directors including as Scorsese, Coppola, Has, Bertolucci, Rocha and Dovzhenko amongst others.", 
+    "twitterId": "therealmrbongo", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1989, 
+    "websiteUrl": "http://www.mrbongo.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Recording", 
+      "Publishing", 
+      "Synchronisation", 
+      "Royalties", 
+      "World Cinema", 
+      "World Music"
+     ]
+    }, 
+    "universalName": "mr-bongo-worldwide", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Mr Bongo Worldwide"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "London based Dr J is a commercial photographer specialising in Events and Performance (Theatre and Film stills) and is also available for Headshots for Artists and Business Professionals.\r\n\r\nWorking in London, Brighton, and in Sweden in both Stockholm and Upsalla, she has photographed in venues like Royal Covent Garden Opera House, Royal Festival Hall, Bistrotheque, and The Royal Vauxhall Tavern, Battersea Arts Centre, Soho Theatre and has worked with artists including Dorian Wood, Our Lady J, Justin Bond, Bourgeois and Maurice, Scottee, Jonny Woo, Josephine Wilson, Jet Moon, Mister Meredith, and Michael Twaits.", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London", 
+        "street1": "Vauxhall Cross"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.photosbydrj.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Theatrical Photography", 
+      "Photography", 
+      "Portrait Photography", 
+      "Headshots"
+     ]
+    }, 
+    "universalName": "photos-by-dr-j", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Photos by Dr J"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 70, 
+    "name": "Austin Post", 
+    "twitterId": "austinpost", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.austinpost.org", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "austin news", 
+      "austin politics news", 
+      "austin technology news", 
+      "austin business news", 
+      "austin entertainment news", 
+      "austin events", 
+      "austin sports news", 
+      "texas longhorns news"
+     ]
+    }, 
+    "universalName": "austin-post", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "We are the Austin Post, and so \u2013 for that matter \u2013 are you. \r\n\r\nWe started the Austin Post in July 2009 as we watched, with a mix of sadness and fascination, at the slow unraveling of the traditional newspaper business.\r\n\r\nWe believe that newspapers play a critical role in the democratic process.  That they help frame the conversation, and encourage informed debate and decision-making.\r\n\r\nBut we also recognize that the traditional newspaper model doesn\u2019t work in the age of the Internet.  And this issue is even more acute when it comes to local news.  Many communities are facing the prospect of life without a local paper.\r\n\r\nBut while the Internet creates problems for the traditional model of local journalism, it also creates opportunities for a new kind of newspaper that can play the same critical democratic role \u2013 perhaps even more effectively.\r\n\r\nAnd that\u2019s why we started the Austin Post \u2013 a not-for-profit, community-centric newspaper that leverages the very same technology changes that have created the so-called \u201ccrisis of journalism.\u201d \r\n\r\nThe Austin Post is a venture of the Trilogy Employee Foundation, the charitable arm of Trilogy Enterprises \u2013 one of Austin\u2019s first and longest-lived technology firms.  We have a small team led by Trilogy President Scott Brighton and our Editor, Karie Meltzer.  Feel free to reach out to either of us with thoughts, suggestions, or frustrations at scott@austinpost.org and karie@austinpost.org."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 51, 
+    "description": "CKA is a woman-owned, SDB 8(a) corporation, incorporated and headquartered in Reston VA. CKA provides systems integration solutions to our federal customers.\r\n\r\n     Customer satisfaction is the foundation of our business. We focus upon trust, responsibility, and a firsthand understanding of our customer, their requirements, and their missions. Currently, we provide design, implementation, and O&M support for the Enterprise SAN for the Pentagon Renovation and Construction Program (PENREN) to support the Defense Continuity Integrated Network/Pentagon Continuity Information System (DCIN/PCIS).\r\n\r\n     We played a major role in the O&M support for the disaster recovery of critical data to support the Continuity of Operations (COOP) and Continuity of Business (COB) for the Washington Headquarter Services (WHS), Office of Secretary of Defense (OSD), Defense Messaging Systems (DMS), Joint Chief of Staffs, Army Operations Center, and other DoD agencies.\r\n\r\n     We have expertise of providing solutions on software development, data warehouse, database, server and network administration. Our customers include:\r\n\r\nUS Department of Army (ITA-DC)\r\nWHS PENREN\r\nEMC\r\nThomson Financial\r\nEvergreen Enterprise\r\nCoagmentum Corp.\r\nBrighton Systems", 
+    "twitterId": "", 
+    "industry": "Information Technology & Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "703-581-6942", 
+        "phone1": "703-581-6926"
+       }, 
+       "address": {
+        "postalCode": "20191-3429", 
+        "city": "Reston", 
+        "street1": "12020 Sunrise Valley Drive, Suite 100"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.ckaonline.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Computer Systems Design & Related Services", 
+      "Custom Computer Programming Services", 
+      "Facilities Support Services", 
+      "Computer Related Services", 
+      "Data Processing, Hosting & Related Services", 
+      "Management Consulting Services", 
+      "Business Management Consulting Services"
+     ]
+    }, 
+    "universalName": "cka-llc-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "CKA, LLC."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "We are a website design agency based in Brighton with expertise in delivering brand, identity and creative concepts to suit your needs. We have an international phonebook of clients, with a portfolio of projects ranging from music and entertainment, sports and properties.\r\n\r\nIf you like the look of our style and tone of our voice, then just enter your details and we'll give you a buzz back shortly to chat about your requirements.", 
+    "twitterId": "godfreydigital", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.godfreydigital.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Website design", 
+      "Branding", 
+      "Digital Strategies", 
+      "Print", 
+      "Motion Graphics", 
+      "Social Media Management", 
+      "Mobile Development"
+     ]
+    }, 
+    "universalName": "godfrey-digital", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Godfrey Digital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "We Install and Maintain Fire Alarm System, Burglar Alarm System, Fire Doors and Emergency Lighting to both Residential and Commercial properties.\r\n\r\nWe are based in Brighton and cover Sussex, Surrey and London.\r\n\r\n95% of our work comes from recommendation, see our reviews on Google and Yell.com.", 
+    "twitterId": "", 
+    "industry": "Public Safety", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.securicat.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Fire Alarm System Installation & Maintenance", 
+      "Burglar Alarm Installation & Maintenance", 
+      "Fire Doors, Cupboards, Screens & Partitions", 
+      "Emergency Lighting System Installation"
+     ]
+    }, 
+    "universalName": "securicat", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Securicat"
+   }
+  ]
+ }
+}

@@ -1,0 +1,830 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 540, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Visdom Utbildning is a social enterprise that strives to help companies, organizations, authorities and others to realize the potentials that uprise from diversity. \r\n\r\nA core value for Visdom Utbildning \u2013 taken into consideration in every aspect of business \u2013 is the concept of sustainability, as well as the premiss of the equal value of every human being and the idea that diversity is a valuable asset. By offering training, consulting and coaching in issues related to diversity, we help our customers to become more successful. The disposition of all courses and written material are adapted to the specific demands of each client. Visdom Utbildning offers its services for the private and public sectors, on the following subjects: \r\n\r\nGender equality\r\nDiversity\r\nLeadership\r\nPersonal Development\r\n \r\nVisdom Utbildning dwells on the conviction that commitment to these issues is directly linked to profitability \u2013 on both economical and social levels. \r\n\r\nVisdom Utbildning has been engaged by organizations like:\r\n\r\nStora Enso\r\nVattenfall\r\nPolice force in Gothenburg and Malm\u00f6\r\nRescue Services in Gothenburg and Malm\u00f6\r\nThe Gothenburg Opera\r\n\r\nWe have also had undertakings abroad:\r\n\r\nSida \u2013 Latvia and Moldova\r\nYMCA/YWCA \u2013 Kaliningrad, Russia\r\nSpringboard Consultancy \u2013 Brighton, England\r\n\r\nDon't hesitate to contact us for further information.", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "41301", 
+        "city": "Gothenburg", 
+        "street1": "S\u00f6dra All\u00e9gatan 13"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "www.visdom.se", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Diversity management", 
+      "Leadership and Inclusion", 
+      "Gender equality", 
+      "Personal Development"
+     ]
+    }, 
+    "universalName": "visdom-utbildning", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Visdom Utbildning"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "For the past 40 years, Thames Valley Summer Schools has run among the most consistently popular residential English language courses in the country, with more than 55,000 students choosing to spend their summers with us.\r\n\r\nWe work with only the most prestigious English boarding schools. Though they were founded hundreds of years ago, they\u2019re as up-to-date as any in the country. Millions of pounds are spent on them every year to make sure they\u2019re constantly being developed. All are within easy reach of London, Heathrow airport and some of England\u2019s most historic towns and cities.\r\n\r\nOur courses are designed for students aged 9-17 and they're the only ones in the country to concentrate exclusively on the Trinity College examinations in spoken English. Last year, our pass rate was 99%, with 83% of students achieving merit or distinction.\r\n\r\nWe build language exercises around trips to many of the country\u2019s most famous landmarks. Places like Canterbury, Cambridge, Oxford, Brighton and Stratford-upon-Avon are all on the itinerary \u2013 depending on the centre. There are also regular excursions into London, which include an educational tour of great museums combined with the opportunity to do some shopping in Oxford Street, Covent Garden or Knightsbridge. Depending on the centre, there\u2019ll be some splendid sightseeing with a ride on the London Eye, a cruise on the River Thames or the opportunity for a tour on an open top bus.\r\n\r\nIn the afternoons, teachers and specialist staff organise a whole host of activities such as volleyball, tennis, badminton, basketball, squash, table-tennis, football, softball, swimming and water polo. And, depending on the centre, there may also be wall-climbing, rifle-shooting and trampolining.\r\n\r\nAll our centres have classes in ICT, arts and crafts, dance, aerobics and performing arts. In the evening, there are all sorts of entertainments, ranging from discos to karaoke, talent shows to sports competitions, film shows to themed barbecues.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01753 831165", 
+        "phone1": "01753 852001"
+       }, 
+       "address": {
+        "postalCode": "SL4 1LU", 
+        "city": "Windsor", 
+        "street1": "13 Park Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "http://www.thamesvalleysummer.com/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "English language courses", 
+      "Residential summer school", 
+      "Young learners", 
+      "Trinity Examination"
+     ]
+    }, 
+    "universalName": "thames-valley-summer-schools", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Thames Valley Summer Schools"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Bags by Troy, which operates under the Troy Sunshade Company (ASI/92252) name, is celebrating more than 125 years in business. Our products are made with pride by our employees in Greenville, Ohio, USA. Since 1887, we have always believed in good, old fashioned customer service. Our customers are our number one priority. In fact, our office does not have voice mail, meaning all inbound telephone calls are answered by a live company representative. We work closely with our customers to insure every order is produced to specification.\r\n\r\nIt was 1887 when Frank Douglass and Gus Stouder from Troy, OH, began manufacturing sunshades for carriages and called their business The Troy Carriage Sunshade Company. Their line eventually came to include sun visors, umbrellas and similar items, as well as metal hubcaps. When automobiles came into mass production, they also started producing windshields.\r\n\r\nAs World War II raged, the company did its part by supplying windshields for army trucks and components for generators and welders, while rebuilding interiors of worn-out aircraft cylinders.\r\n\r\nIn 1982, the company relocated from Troy to Greenville, OH. Ten years later, Troy Sunshade Company acquired Strayer Coin Bag Company of New Brighton, PA. In October 1999, the company officially joined the Advertising Specialty Institute and now it operates with 30 employees. No longer does Troy Sunshade Company produce carriage sunshades, though it has kept the original name. The leading force of Troy Sunshade Company is now the Bags by Troy line.", 
+    "twitterId": "", 
+    "industry": "Textiles", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "937-548-6102", 
+        "phone1": "800-833-8769"
+       }, 
+       "address": {
+        "postalCode": "45331", 
+        "city": "Greenville", 
+        "street1": "607 Riffle Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1887, 
+    "websiteUrl": "www.bagsbytroy.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "bags", 
+      "promotional", 
+      "advertising", 
+      "marketing"
+     ]
+    }, 
+    "universalName": "troy-sunshade-company", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Bags by Troy Sunshade"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Sussex Area Conservative Future", 
+    "twitterId": "", 
+    "industry": "Political Organization", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "sussexareacf.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Politics", 
+      "Youth Engagment", 
+      "Social Action", 
+      "Campaigning"
+     ]
+    }, 
+    "universalName": "sussex-area-conservative-future", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Set among the South Downs, Sussex Area encompasses the council territories of East Sussex, West Sussex and Brighton & Hove, providing fantastic opportunities for members and communities alike. With a population of over 1.6 million, we are one of the largest areas in the UK with 18 branches and universities available to join.\r\n\r\nConservative Future in Sussex has a host of social and campaign activities to be involved in aimed at supporting the Conservative party in Sussex and providing a fantastic opportunity for our members to hang out and meet up with friends."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "name": "Kundalini Rising (UK)", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.kundalinirising.org", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Kundalini Yoga Classes", 
+      "Kundalini Yoga Teacher Training", 
+      "Workshops & Retreats", 
+      "Spiritual Counselling", 
+      "Shiatsu", 
+      "Karan Kriya Numerology"
+     ]
+    }, 
+    "universalName": "kundalini-rising-uk-", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Kundalini Rising Yoga offers Kundalini Yoga, Gong Meditation, Karam Kriya Numerology and Spiritual Teaching in Brighton, London and across Europe.\r\n\r\nWe are dedicated to personal growth and raising the consciousness of humanity.\r\n\r\nAngad Singh is the Chairperson of the Kundalini Yoga Teachers Association (KYTA) and lives a multi-faceted life as a kundalini yoga teacher, shiatsu practitioner, spiritual coach and as a consultant to ethical businesses. He encountered Kundalini Yoga and the teachings of Yogi Bhajan after 10 years of spiritual searching. Through this technology and his relationship with spiritual teacher Shiv Charan Singh, he found the essence of truth he had been seeking. He now lives to share these teachings and serve others on their journey to find their own truth."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "Brighton based Creative Design & Communications Consultancy\u2026\r\n\r\nWhat do we do?\r\n\r\n    -  Website Design\r\n    -  Graphic Design\r\n    -  Branding & Identity\r\n    -  E-Commerce\r\n    -  Web Development \u2013 WordPress, Joomla, Opencart\r\n    -  Photography\r\n    -  Social Media Consultancy\r\n    -  Content Creation\r\n    -  Advertising (Print & Radio)\r\n    -  Web Hosting\r\n    - Training", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 4DD", 
+        "city": "Brighton", 
+        "street1": "281 Bear Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.aquariancommunications.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Webdesign", 
+      "Graphic Design", 
+      "Photography", 
+      "Social Media", 
+      "Training", 
+      "Branding & Marketing Strategy"
+     ]
+    }, 
+    "universalName": "aquarian-communications", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Aquarian Communications"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "OddPear is a digital ideas and image making collective based in Brighton.\r\n\r\nWith experienced designers and developers, the agency has a wealth of digital knowledge and an extensive client service repertoire, spanning across a wide range of industries, including music, fashion, sports and media.\r\n\r\nOddPear promise perfection, with a satisfaction guarantee policy. Meaning we won't stop until you're satisfied!", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "Brighton", 
+        "street1": "North Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.oddpear.co", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Web Design", 
+      "Web Development", 
+      "Graphic Design", 
+      "SEO"
+     ]
+    }, 
+    "universalName": "oddpear", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "OddPear"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "VoiceBubble", 
+    "twitterId": "", 
+    "industry": "Broadcast Media", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.voicebubble.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "voice over", 
+      "audio recording", 
+      "E learning", 
+      "Audio books", 
+      "radio", 
+      "promotional video", 
+      "voice artist", 
+      "script editing", 
+      "translation", 
+      "Sync matching"
+     ]
+    }, 
+    "universalName": "voicebubble", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "WELCOME\r\nWe are a male and female voice over team based in Brighton in the UK, between us we have many years of experience. \r\n\r\nWHAT WE DO \r\nIn our in house studio we produce broadcast quality voice overs for E learning, TV, radio, games, apps and online video. We work with clients to find exactly the right tone and style of delivery for their project. We are able to  deliver projects exceptionally fast but without compromising on great quality and super friendly support.  \r\n\r\nSend us a script if you want an audition, free of charge.  \r\n\r\nHOW WE DO IT\r\n\r\nWe have clients worldwide and work as a team on projects, combining our extensive production and creative skills with sound engineering.  \r\n\r\nSCRIPT EDIT AND POLISH\r\n\r\nWith many years experience across traditional broadcast and online media we assist many of our international clients with script editing and proof reading. \r\n\r\nWe also offer audio post production services including sound editing and sound design using found sound and licensed music."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "Write Arm", 
+    "twitterId": "", 
+    "industry": "Writing & Editing", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.writearm.co.uk/", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Copywriting", 
+      "Content creation", 
+      "Quality journalism"
+     ]
+    }, 
+    "universalName": "write-arm", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Write Arm is a multi-skilled content and copywriting agency. Whether you want an ad or an article, a blog or a book, a website or a rewrite, we can do it. We can provide the design and images, too. We\u2019re friendly, flexible and dementedly devoted to deadlines.\r\n\r\nWe\u2019re based in Brighton, Sussex, but our writers are located around the UK and Europe. We have many more than feature on the company website and, if you need a particular specialist, we can almost certainly find the right one anywhere in the world"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Time is a small accountants firm with offices in Lewes, Shoreham by Sea and Eastbourne that cover the Brighton and Sussex area. We are qualified chartered accountants that offer our clients a professional and personal service at competitive rates. We are not your stereotypical accountants as we are young, friendly, dynamic and approachable. We work around your busy schedule as we understand not everyone has spare time during the working day.", 
+    "twitterId": "", 
+    "industry": "Accounting", 
+    "locations": {
+     "_total": 3, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 446595"
+       }, 
+       "address": {
+        "postalCode": "BN8 5SN", 
+        "city": "Lewes", 
+        "street1": "Unit 2 The Byres"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 446595"
+       }, 
+       "address": {
+        "postalCode": "BN43 5HZ", 
+        "city": "Shoreham-by-Sea", 
+        "street1": "250 Harbour Way"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01323 509003"
+       }, 
+       "address": {
+        "postalCode": "BN22 0TW", 
+        "city": "Eastbourne", 
+        "street1": "5 Acacia Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://www.timeaccounts.co.uk/", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Bookkeeping & Accounts", 
+      "Corporate Tax", 
+      "Online Bookkeeping and Accounting", 
+      "Personal Tax", 
+      "Vat", 
+      "Payroll", 
+      "Management accounts", 
+      "Cashflow, business valuation, business plans, budgetig"
+     ]
+    }, 
+    "universalName": "time-accounts", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Time Accounts Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "name": "Velo Cafes Ltd", 
+    "twitterId": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.velo-cafe.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Cycling Cafe", 
+      "Coffee"
+     ]
+    }, 
+    "universalName": "velo-cafes-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Established in 2013, the team behind the concept are committed to creating \u2018community hubs\u2019 which will be appealing to residents, their families, visitors to the area as well as competitive, and not so competitive cyclists. \r\n\r\nThe first site opened in Brighton in November 2013 - a new single-storey caf\u00e9 with high sustainability credentials including a green wildlife-friendly roof, solar thermal and PV panels, air source heating and a rainwater harvesting system. Located at The Level, caf\u00e9 \u2018Velo\u2019 combines a cycling theme with great coffee and outstanding food."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "description": "We Are the Window Fashion Experts in Ann Arbor and the Surrounding Area\r\n\r\nDelux Drapery is a third-generation, family owned business offering expert decorating and friendly personal service since 1942. We have what you're looking for in custom draperies, valances, bedding, upholstery and hardware. Our services include in-house design, preparing budgets, measuring and certified installation. Let our specialists help you create the look you've always dreamed of! Our convenient shop-at-home service is just a phone call away. We pledge to give the best service to our customers at all times and guarantee complete satisfaction. Our staff will provide guidance and options based on the client's preferences, needs and budget. We will deliver our product in a timely and professional manner at a competitive price. Call on us for your next design project. We are your one-stop source for all your interior design and home d\u00e9cor needs, including custom window coverings, window treatments, custom furniture, curtains and wallpaper. We offer a wide variety of Hunter Douglas window fashions to meet all your needs, including favorites like Duette\u00ae Honeycomb Shades, Silhouette\u00ae, Luminette\u00ae , wood blinds, shutters and more. Our services include free design consultations and professional window treatment measuring and installation as well as upholstery, slipcovers, wallpaper, custom bedding and custom furniture. We are located in Ann Arbor, MI and service Ypsilanti, Saline, Chelsea, Dexter, Manchester, Howell, Brighton, all of Washtenaw County and all surrounding communities. Be sure to follow our blog at www.deluxdraperyblog.com", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "734 662-1193", 
+        "phone1": "734 662-6524"
+       }, 
+       "address": {
+        "postalCode": "48103", 
+        "city": "Ann Arbor", 
+        "street1": "2215 W Stadium Blvd"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1942, 
+    "websiteUrl": "www.deluxdrapery.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Hunter Douglas Gallery", 
+      "Custom Draperies", 
+      "Custom Bedding", 
+      "Interior Design", 
+      "Custom Furniture", 
+      "Window Treatments", 
+      "Window Top Treatments"
+     ]
+    }, 
+    "universalName": "delux-drapery-and-shade-co", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Delux Drapery and Shade Co"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "AJT undertake all aspects of electrical installations throughout the South Coast. Whether it be domestic or commercial, big or small - we have the capability and experience to meet your electrical needs.\r\n\r\nFrom an initial team of two electricians and an apprentice in 1983 - we currently employ over fifty, fully qualified engineers and apprentices who receive continual training while working with us. \r\n\r\nWe also have a dedicated and knowledgeable office team based in the centre of Brighton who are happy to answer any queries relating to our line of work. We are a friendly and efficient force to be reckoned with!", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 690037", 
+        "phone1": "01273 600089"
+       }, 
+       "address": {
+        "postalCode": "BN2 3PD", 
+        "city": "Brighton", 
+        "street1": "42 Brading Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "www.ajtaylor-electrical.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "Electrical Installation", 
+      "Solar PV Installation", 
+      "Electrical Design Service", 
+      "Heating & Air Conditioning", 
+      "Structured Data Cabling", 
+      "Fire Alarm Systems", 
+      "Intruder Alarm Systems", 
+      "Lightning Protection", 
+      "Lighting Design Service", 
+      "Inspection & Testing"
+     ]
+    }, 
+    "universalName": "a-j-taylor-electrical-contractors-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "A J Taylor Electrical Contractors Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Nuplanet Sustainable Solutions Ltd", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.nuplanet.co.uk", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Sustainable Design", 
+      "Energy Management", 
+      "Code for Sustainable Homes Assessments", 
+      "ON Construction SAP Assessments", 
+      "BREEAM Domestic Refurbishment Assessments", 
+      "Eco Refurbishment", 
+      "MMC Consultants", 
+      "Sustainability Audits", 
+      "Sustainability Management"
+     ]
+    }, 
+    "universalName": "nuplanet-sustainable-solutions-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Nuplanet Sustainable Solutions is a forward thinking Sustainable Design Consultancy. Based in Brighton, it was formed on the back of a strong desire to improve the way we build our properties and live our lives through the necessity to make our environment a healthier and more sustainable place."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "L-Wired", 
+    "twitterId": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "www.l-wired.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Event management", 
+      "Private events", 
+      "Social media", 
+      "Social networking"
+     ]
+    }, 
+    "universalName": "l-wired", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "L-Wired is the events team at the forefront of LGBT nightlife in the UK, bringing you events such as London Pride 2013\u2019s best afterparty - the Big Gay Bash. \r\n\r\nL-Wired was founded by Nicola Chubb and Rebecca Paisis, who have over 12 years experience running the best events in London for gay women and the LGBT community. Their events include MINT, Code, One Love, collaborations with As One Festival, Brighton Pride, OPP and many more.\r\n\r\nNow, with exciting new ventures, findhrr and Winter Pride UK, L-Wired is quickly becoming one of the fastest growing LGBT companies in the UK. \r\n\r\nfindhrr is the new essential app for gay women to discover their world, wherever they are. findhrr was launched in 2013 to great acclaim, with user numbers growing daily, it now has listings in over 60 countries, 120 cities and 4 languages. \r\n\r\nThe inaugural Winter Pride UK, to be held in London, will comprise of a number of cultural and charitable initiatives and will feature an exclusive, VIP awards ceremony \u2013 the Winter Pride UK Awards \u2013 in recognition of a wide range of LGBT individuals, communities and companies."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "The Square Lemon Training Company Ltd", 
+    "twitterId": "", 
+    "industry": "Professional Training", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://squarelemontraining.co.uk/", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Top quality training that gets results"
+     ]
+    }, 
+    "universalName": "the-square-lemon-training-company-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Square Lemon is a training company based in the South East of England. We are a passion bunch who deliver training in the catering, hospitality and care sectors (although we are very happy to work with anyone!!!).\r\n\r\nWe deliver courses including; first aid, food safety, health and safety, train the trainer and other short bespoke courses including; infection control for care staff, allergy awareness for caterers and many more.\r\n\r\nAlthough we are based in Brighton our customers extend across the south east and extend into London. We get many repeat customers as the service we deliver is second to none (although I guess we would say that)."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Fos Films", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.fosfilms.com", 
+    "universalName": "fos-films", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Video Production & Photography - Melbourne Australia\r\n\r\nNow operating as GoPR - www.gopr.com.au\r\n\r\n\r\nClients included:\r\n-Rowing Victoria\r\n-Melbourne Grammar School\r\n-Wesley College\r\n-Brighton Grammar School\r\n-Sculling Victoria\r\n-Jewelchic\r\n-Castran Gilbert\r\n-Wattle Accessories"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "name": "CTV North Suburbs", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.ctvnorthsuburbs.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Media Production", 
+      "Videography & Editing", 
+      "Webstreaming", 
+      "Mobile Truck Production"
+     ]
+    }, 
+    "universalName": "ctv-north-suburbs", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "CTV is a non-profit organization operated by the North Suburban Access Corporation.  The ten commission members represent the cities of Arden Hills, Falcon Heights, Lauderdale, Little Canada, Mounds View, New Brighton, North Oaks, Roseville, St. Anthony and Shoreview. \r\n\r\nCTV provides professional media production and webstreaming services along with providing the community access to media facilities.  We directly manage 4 cable channels and partner with local cities and schools to assist with managing 13 additional cable channels."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 54, 
+    "name": "Integration Training", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "city": "London, Brighton, Sussex and Birmingham", 
+        "street1": "Various locations,"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "http://www.integrationtraining.co.uk/", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Stress Management Training", 
+      "Leadership Training", 
+      "Team Building", 
+      "Communication Training", 
+      "Time Management Training", 
+      "Management Training"
+     ]
+    }, 
+    "universalName": "integration-training", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "Integration Training is a stress management training, leadership training, team building, communication training and time management training provider, based in London, Brighton, Sussex and Birmingham UK.\r\n\r\nWe are the UK specialist training company in the \"embodied\" approach to management training (sometimes called physical intelligence or somatics), providing reliable and effective third-sector, public-sector and business training. Because it's highly interactive our management training goes deep quickly, is enjoyable and lasts, providing an excellent return on investment.\r\nManagement Training Providers\r\n\r\nOur bespoke leadership training focuses on practical application and results most relevant to clients. Our specialities as training providers are helping people get more done while staying sane (stress management training and time management training), coordinate work more effectively (communication and team building) and become superb leaders (management training).\r\n\r\nOur leadership training and business training ranges from one-to-one coaching, consultancy, small group training and large group interventions. We do not provide open public courses expect occasional embodiment courses.\r\nWorkplace Stress Management Training\r\n\r\nOur stress management training ensures staff are healthier, happier and more productive. We are experienced stress management training providers and our work reduces staff turnover and sick-days, and increases morale and productivity."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "name": "Digital Massive", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "digitalmassive.com.au", 
+    "universalName": "digital-massive", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "What Return on Investment is your business currently receiving from all online marketing channels?\r\n\r\nDigital Massive assist a range of the World\u2019s leading E-Commerce brands achieve their online objectives through:\r\n\r\n\u2022\tDigital Strategy Consulting.\r\n\u2022\tAdvanced Pay-Per-Click Services.\r\n\u2022\tSearch Engine Optimisation.\r\n\r\nThe Digital game can provide the most targeted form of marketing if deployed and managed correctly through the use of advanced platforms and industry leading knowledge. With offices in Brighton (UK) and Sydney (Australia) and over 12 years\u2019 experience within the online industry, we pride ourselves on delivering unrivaled service, innovation and most importantly, the online edge to our clients."
+   }
+  ]
+ }
+}

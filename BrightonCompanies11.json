@@ -1,0 +1,517 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 220, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "Welcome to Brightonism! A site for watching Brighton's creative talent. Launching May 2011 - We're not open just yet but thanks for having a peek :) You can keep track of our pre-launch progress on Twitter.\r\n\r\nPlease use #brightonism and @brightonism to support us!", 
+    "twitterId": "brightonism", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.brightonism.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Brighton", 
+      "Creative", 
+      "Talent", 
+      "Scout"
+     ]
+    }, 
+    "universalName": "brightonism", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Brightonism"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "You need corporate entertainment that is so memorable that your delegates will still be talking about it at next years event. \r\n \r\nIf you need conference entertainment that is totally engaging and is about your company, then look no further!\r\n \r\nWe will turn your after dinner show or award ceremony into an occasion that will be talked about for years to come.\r\n \r\nSit back and enjoy the magic on stage as names, characters and episodes from your workplace are woven into scenes or your last meeting becomes the subject of a song. \r\n\r\nThe Maydays was founded by John Cremer in Brighton in 2001. There are currently 10 company members including our MD, Joe Samuel.\r\n\r\nAs well as a residency at Brighton Komedia, the company has performed to an enormously diverse range of clients, including:\r\nInvestec\r\nBritish Council - International Climate Champions Conference\r\nNorfolk Diocese - Clergy Conference\r\nWeald Horticultural Society - Centenary Show\r\nProfessional Speakers Association\r\nVarious Weddings & Birthdays\r\nCharacter role play at Record Launches, Secret Cinema and club nights\r\n\r\nIts a great experience, an excellent way to spend a couple of hours each week with other people. Great to just laugh and have tears in your eyes watching your course mates. A interesting path of self discovery and of course wonderful tutors! Do it, I think every one should at least have a go at improv.\r\nStephen D, Beginners Course Spring 2010", 
+    "twitterId": "themaydays", 
+    "industry": "Entertainment", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07753249410"
+       }, 
+       "address": {
+        "postalCode": "BN2 0EE", 
+        "city": "Brighton", 
+        "street1": "c/o 69 Toronto Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "www.themaydays-experience.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Performance", 
+      "Corporate training & performance", 
+      "Improvisation workshops (adults and schools)", 
+      "Management Training"
+     ]
+    }, 
+    "universalName": "the-maydays", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "The Maydays"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "brighton-saddlery", 
+    "name": "Brighton Saddlery"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Rocket Science (Brighton)", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273757718"
+       }, 
+       "address": {
+        "postalCode": "bn1 4er", 
+        "city": "Brighton", 
+        "street1": "100 trafalgar street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.myrocketscience.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "creative toys", 
+      "art supplies", 
+      "prints"
+     ]
+    }, 
+    "universalName": "rocket-science-brighton-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Rocket Science is a toy store for the whole family. We have got things for customers from 1 to 99 years old.  \r\n\r\nWe are very proud of our toys selection. They come from all over the world: France, Denmark, Spain, Australia, Russia, Japan (some come from China, of course). We work with local artists and artisans and stock beautiful postcards, prints, t-shirts, games, sweets and jewellery created by them.\r\n\r\nWe are very DIY oriented that\u2019s why we stock and use art supplies and art sets from DJECO, KIDSONROOF, Japanese washi tapes and activity books from ANORAK. We\u2019ve got lots of clay, coloured sands, paint, origami/kirigami sets, beads, stamps and everything one needs to make their own kite.\r\n\r\nDid we say we love science? Yes, we do. At rocket science you\u2019ll find books filled with experiments, giant microbes, encyclopaedias, microscopes and telescopes, horrible science kits, space shuttles and even astronaut ice-cream (from NASA headquarters).\r\n\r\nWe\u2019ve got a nice selection of beautifully designed board games.\r\n\r\nOur games are for ages 2 to 99, and 2 of them are created by local artists and thinkers.\r\n\r\nWe love to read (and talk in different languages), that\u2019s why we stock books and children\u2019s magazines (ANORAK and OKIDO) in different languages."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "name": "Silent Disco Brighton", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.silentdiscobrighton.co.uk", 
+    "universalName": "silent-disco-brighton", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "The South\u2019s answer for all your silent disco needs. But what exactly is a silent disco\u2026.?\r\n\r\nA silent disco is unlike any other experience for one simple, but very important reason: absolutely no music is played aloud. Sometimes referred to as a \u201cheadphone party\u201d or a \u201cheadphone disco\u201d, all the party-goers slip-on a pair of the wireless headphones, which we provide. They then listen to music transmitted to the headphones from your chosen source \u2013 whether that is a live DJ or an alternative source, such as an IPod, MP3 Player or Laptop. Another advantage is that these headphones can be switched between two separate channels, providing your guests the opportunity to decide what they would rather listen to \u2013 an option not available at your average party! So, while half your guests are enjoying 80s cheese that is playing on channel \u201cA\u201d and dancing to the Y-M-C-A, the other half can be rocking out to Nirvana on channel \u201cB\u201d \u2013 the choice is theirs!"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "brighton-natural-health-centre", 
+    "name": "Brighton Natural Health Centre"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "With over 15 years experience in the internet sector I help businesses effectively strategise their online presence and marketing activities. I can provide a comprehensive route map that will insure your online business will operate to it maximum potential. Services include competitor analysis, web analytics, PPC campaigns, SEO implementation and social media and networking integration.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07988 792337"
+       }, 
+       "address": {
+        "postalCode": "BN3 3TT", 
+        "city": "Brighton", 
+        "street1": "Eaton Gardens"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "www.seowebsiteanalysis.co.ukj", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "SEO", 
+      "Website Analysis", 
+      "Google Analytics", 
+      "Wordpress installations", 
+      "Joining up Social Networks for better SEO"
+     ]
+    }, 
+    "universalName": "seo-website-analysis-consultancy-brighton", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Michael J Stewart: SEO and Website Analyst (Brighton, UK)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "description": "Brighter Leads for switched on technology companies\r\n\r\n- We use our existing partner network, classic lead generation techniques and intelligent thinking to get more business from our clients.\r\n\r\nGet noticed with Digital Marketing\r\n\r\n- Generate inbound leads with digital and social media marketing - designed especially for companies in the IT sector.", 
+    "twitterId": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "07717 294801"
+       }, 
+       "address": {
+        "postalCode": "BN1 1NH", 
+        "city": "Brighton", 
+        "street1": "Blenheim House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2013, 
+    "websiteUrl": "www.bright-on-it.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Lead Generation", 
+      "Technology", 
+      "Marketing Capaigns", 
+      "Digital Marketing", 
+      "Telemarketing", 
+      "Event Management"
+     ]
+    }, 
+    "universalName": "brighton-technology", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "BrightOn Technology"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "flowers-unlimited-brighton", 
+    "name": "Flowers Unlimited Brighton"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "brighton-park-apartments", 
+    "name": "Brighton Park Apartments"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "name": "Lola Lo Tiki Bar & Nightclub, Brighton", 
+    "twitterId": "", 
+    "industry": "Entertainment", 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.lolalobrighton.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "VIP", 
+      "Cocktail Bar", 
+      "Nightlife", 
+      "Private Hire", 
+      "Corporate Bookings"
+     ]
+    }, 
+    "universalName": "lola-lo-brighton", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Fly free into a bounty paradise at Lola Lo, an intimate Tiki bar and club which will transport you to a tropical oasis where the party goes on and on. At Lola Lo, we've taken a dazzling array of showstopping cocktails, champagnes and rums and mixed it with an intoxicating blend of credible club classics and contemporary beats and are serving it all in a setting that captures the pure essence of care-free South Pacific joie de vivre. From a stunning interior featuring bamboo, hand-carved woods, evocative lighting, unique dancefloor and rustic decor to private booths and effervescent bar tenders.\r\n\r\nThe perfect venue for corporate events and parties, Lola Lo is available for Private Hire and VIP table or booth bookings. Get in touch or visit our website http://www.lolalobrighton.com for more information."
+   }, 
+   {
+    "status": {
+     "code": "OPS", 
+     "name": "Operating Subsidiary"
+    }, 
+    "numFollowers": 49, 
+    "description": "Authorised BMW, MINI and Motorad dealership in Sussex, with full aftersales facility including Parts, Service and Bodyshop. We have state of the art premises on Victoria Road, Portslade, and have access to a vast amount of new and used stock available across our group.", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 412951", 
+        "phone1": "01273 423312"
+       }, 
+       "address": {
+        "postalCode": "BN41 1YH", 
+        "city": "Brighton", 
+        "street1": "Victoria Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1968, 
+    "websiteUrl": "www.chandlersbrightonbmw.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "New and Approved Used Vehicles", 
+      "Service", 
+      "Bodyshop", 
+      "Motorrad"
+     ]
+    }, 
+    "universalName": "chandlers-brighton-bmw", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Chandlers Brighton BMW"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "brighton-website-company", 
+    "name": "Brighton Website Company"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Co-Active Coaching model puts you at the centre of a Designed Alliance between coach and client, it\u2019s about creating a structure unique to the client needs.\r\n\r\nI work with clients from the standpoint that they are Naturally Creative, Resourceful and Whole and I focus on the whole person during our coaching sessions.", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 9XD", 
+        "city": "Brighton", 
+        "street1": "20 Bentham Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "http://www.brightonbusinesscoaching.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Goal setting", 
+      "Changing Limiting Beliefs"
+     ]
+    }, 
+    "universalName": "brighton-business-coaching", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Business Coaching"
+   }, 
+   {
+    "numFollowers": 2, 
+    "universalName": "brighton-homes-letting-agent", 
+    "name": "Brighton Homes Letting Agent"
+   }, 
+   {
+    "numFollowers": 2, 
+    "universalName": "brighton-exteriors-inc-", 
+    "name": "Brighton Exteriors Inc."
+   }, 
+   {
+    "numFollowers": 8, 
+    "universalName": "brighton-colorado-chamber-of-commerce", 
+    "name": "Brighton Colorado Chamber of Commerce"
+   }, 
+   {
+    "numFollowers": 0, 
+    "universalName": "brighton-bootcamp", 
+    "name": "Brighton Bootcamp"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Sussex leading Fixings and Power Tool retailer. You want it, we got it!\r\nSupplying Tools and Fixings to the construction and and allied trade. Established since 1991. \r\nOver 250 years of combined experience, over 12,500 stock lines. Free delivery within the Sussex area. Full workshop facilities for repairs. Warranty agents for most manufacturers.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 620611", 
+        "phone1": "01273 620456"
+       }, 
+       "address": {
+        "postalCode": "BN2 4AW", 
+        "city": "Brighton", 
+        "street1": "Unit 7 Centenary Industrial Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.brightontools.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Power Tools", 
+      "Hand Tools", 
+      "Fixings", 
+      "Sealants"
+     ]
+    }, 
+    "universalName": "brighton-tools-and-fixings-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Brighton Tools and Fixings Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "If you think Age Concern is only for the very elderly, think again - we are for everyone over the age of 50 and also for these who support or care for those over this age.\r\n\r\n   As our local City Council faces reductions of at least 28% over the next 4 years it is inevitable that those who are struggling to stay independent in their own homes will get less support from the Council, and Health, and they will turn to us even more. Our values mean that this organisation will not simply cut and reduce services, in fact the Board of Trustees have been clear that we must prioritise any savings so that protect our direct delivery to the client group.\r\n\r\n   What we know for sure is that whatever the Big Society is, a concept that is such an important part of the Prime Ministers' thinking; it cannot be achieved without organisations like ours. Otherwise, yet again, older people and their local groups will be left behind because older people do not shout or work in `sound bites'.\r\n\r\n\r\n\r\n   The people we work with are not lonely victims they are funny, rude, outrageous and only limited by the society in which they live. If we all want them to enjoy their lives we can choose for that to happen.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 720603"
+       }, 
+       "address": {
+        "postalCode": "BN1 3TJ", 
+        "city": "Brighton", 
+        "street1": "29-31 Prestonville Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1962, 
+    "websiteUrl": "http://www.ageconcernbrighton-hove.org.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Crisis Care", 
+      "Information & Advice", 
+      "Counselling", 
+      "Horizons"
+     ]
+    }, 
+    "universalName": "age-concern-brighton-hove-&-portslade", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Age Concern Brighton Hove & Portslade"
+   }
+  ]
+ }
+}

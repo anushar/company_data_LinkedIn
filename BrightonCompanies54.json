@@ -1,0 +1,752 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1080, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "NE Seniors helps seniors living in NE Minneapolis, St. Anthony Village, Columbia Heights and New Brighton live independently with dignity in their homes.  Volunteers make it possible for NE Seniors to provide over 1,000 rides each year.  To keep seniors informed of services through a quarterly newsletter that reaches over 850 people.  To repond to over 150 inquiries per month on issues ranging from crime victim services to snow shoveling; home visitor programs to help caring for a pet.  NE Seniors works in partnership with many organizations to provide services.  Neighborhood Health Source outreach workers provide Medicare Part D consultations in our offices.  Lindquist & Vennum provides a free monthly legal clinic (individual consultations) for real estate related issues.  Little Brothers Friends of the Elderly provide visitors in the home and trains volunteers to become a friend. Adam Kaufman of Jensen, Sondrall & Persillin provides workshops on estate issues and health directives.  Local housing providers join with us to offer Senior Housing tours: Autumn Woods Apartments, The Kenzington of St. Anthony, Crestview, Catholic Eldercare, Chandler Place, Peter Nassef Maronite Home.  NE United Methodist provides free office space and is opening a senior coffeehouse on site.  Gustavus Adolphus Lutheran is sharing their bus.  Catholic Eldercare and Autumn Woods provide meeting space.  Many community and religious organizations provide financial support.  Together we make lives better for the seniors living in our neighborhood.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Individual & Family Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "612-781-5096"
+       }, 
+       "address": {
+        "postalCode": "55418", 
+        "city": "Minneapolis", 
+        "street1": "2510 Cleveland ST NE, suite 206"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1973, 
+    "websiteUrl": "www.neseniors.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "rides", 
+      "home/yard  maintenance", 
+      "information and referral", 
+      "wellness"
+     ]
+    }, 
+    "universalName": "northeast-senior-services-icn.", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Northeast Senior Services, Icn."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "Our Southeastern Michigan based company is your number one go to source when you need any type of Internet Marketing done for your business.  We specialize in SEO (search engine optimization), SEM (search engine marketing), social media marketing, email marketing campaigns, website content development and marketing materials.  We can get your website into the top search results on Google, Yahoo & Bing at very reasonable prices!\r\n\r\nIs your business on all the top social networking sites like Facebook, LInkedIn and Twitter?  Does your website have a blog?  Do you want to find ways to get maximum exposure for your website without drowning in the cost of Pay-Per-Click and AdWords advertising?  We are equipped with the secrets of the trade here at Internet Marketing Made Simple.\r\n\r\nLocated in Washtenaw County in Milan Michigan Internet Marketing Made Simple is owned and operated by Kimberly Kitson.  With over 15 years of small to medium sized business experience, along with training in the most up to date internet marketing techniques, she can increase traffic to your website with higher quality leads, in turn increasing your revenue.  Internet Marketing Made Simple is your hands down choice in Southeastern Michigan including Washtenaw, Livingston, Monroe, Wayne, Oakland, Macomb and Lenawee counties.  More specifically, serving but certainly not limited to, Ann Arbor, Milan, Dexter, Pinckney, Whitmore Lake, Chelsea, Monroe, Ypsilanti, Belleville, Canton, Plymouth and Brighton.", 
+    "twitterId": "emarketwithkim", 
+    "blogRssUrl": "http://internet-marketing-made-simple-by-kim.blogspot.com", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "734-508-6169"
+       }, 
+       "address": {
+        "postalCode": "48160", 
+        "city": "Milan", 
+        "street1": "24 W. Main St."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.internetmarketingmadesimple.org", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "search engine optimization", 
+      "social media marketing", 
+      "search engine marketing", 
+      "email marketing", 
+      "website content development", 
+      "printed marketing materials"
+     ]
+    }, 
+    "universalName": "internet-marketing-made-simple", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Internet Marketing Made Simple"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "We are a friendly Brighton-based graphic design and web development company. \r\nWe specialise in websites for freelancers and small to mid-sized businesses.\r\nOur sites are custom designed to meet your unique requirements. \r\nWe 'keep it simple' and guide you along each step of the way.", 
+    "twitterId": "eltonic", 
+    "blogRssUrl": "", 
+    "industry": "Internet", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2005, 
+    "websiteUrl": "www.eltonic.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "web design", 
+      "content management system", 
+      "value for money", 
+      "online promotion"
+     ]
+    }, 
+    "universalName": "eltonic-ltd.", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Eltonic Ltd."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 33, 
+    "description": "Richard is currently post-producing Keeping Rosy starring Maxine Peake (Silk) and Blake Harrison (The Inbetweeners). This film is the directorial debut of multi-award winning commercials director, Steve Reeves. \r\n\r\nRichard is currently delivering Jadoo, Amit Gupta\u2019s second feature, starring Amara Karan and Harish Patel to US agency, Resolution for North America and The Works for international sales. Jadoo was the closing night film of the Culinary Cinema section of at this year\u2019s Berlinale.\r\n\r\nIn 2011 he produced Resistance, based on the award-winning novel by Owen Sheers. The film was Amit Gupta\u2019s debut and stars Andrea Riseborough (Brighton Rock, W.E.), Michael Sheen and Sharon Morgan, who won the Best Actress prize at this year\u2019s BAFTA Cymru awards.\r\n\r\nRichard produced the award-winning thriller Eden Lake. Written and directed by James Watkins (The Woman In Black), it stars Kelly Reilly (Flight), Michael Fassbender (Shame). Eden Lake won the Best Horror award at the Empire Film Awards.\r\n \r\nRichard co-wrote and produced Stefan Schwartz\u2019s award-winning Shooting Fish, starring Kate Beckinsale and Stuart Townsend. Richard then went on to produce Kirk Jones\u2019 Waking Ned, gaining a nomination for a Producer\u2019s Guild of America award and both Shooting Fish and Waking Ned are posting net profits. \r\n\r\nRichard has lectured at the National Film & Television School, European Film College, Screen Academy Wales, Southampton Solent University and on the Royal Holloway MA Screenwriting course.", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.bigrichfilms.com", 
+    "universalName": "big-rich-films", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Big Rich Films"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Axfords makes beautiful, back lacing, steel boned corsets. Each corset is individually made by one of our highly skilled corsetieres in Brighton. Fast worldwide delivery and excellent client care. We provide an exceptionally quick service; orders are usually sent within 2 working days of receiving payment.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Apparel & Fashion", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1880, 
+    "websiteUrl": "www.axfords.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Corsets", 
+      "Suspender belts", 
+      "Waist cinchers"
+     ]
+    }, 
+    "universalName": "axfords", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Axfords"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "UK television production company developing and producing innovative and original returnable formats for terrestrial primetime; specialising in documentary, factual and features programming. Founded by Series Producer and Director Marc Heffernan in 2010. Based in Brighton, East Sussex.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Media Production", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.moreish.tv", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Features", 
+      "Factual", 
+      "Documentary", 
+      "Factual-Entertainment"
+     ]
+    }, 
+    "universalName": "moreish-television", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Moreish Television"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "The Drift Record Shop has been occupying number ninety one high street in the Devon county town of Totnes since 1994, selling a collection of music that is indefinable in it\u2019s collective genre, style or outlook. This we see as a good thing.\r\nDrift Records. In our time we\u2019ve even put out the occasional release as \u2018Drift Records\u2019. The label picked up glowing praise early on for it\u2019s lo-fi folk, with albums by The R.G.Morrison, Thirty Pounds of Bone and Birdengine receiving national attention. Our first compilation \u2018The Drift Collective\u2019 gave the whole roster a showcase, highlighting (much as with the shops ethos) how Electronica, Folk, Indie and Americana can not only sit next to one another, \r\nSubsequent albums from Matt Eaton, Tandy Hard and Mary Hampton also won the label many plaudits and more importantly lots of new friends. We were very proud to work with Muddy Suzuki and Thomas White (on his first solo album outside of Electric Soft Parade and Brakes) and also Scotland\u2019s Le Reno Amps, all three groups showing how far we\u2019d moved from the \u2018folk label\u2019 Drift had been billed as.\r\n\r\nAnother little miracle courtesy of Devon via Brighton\u2019s always excellent Drift Records - Time Out\r\n\r\nInventive, imaginative and different; long may they collect together - Record Collector\r\n\r\n\u201cDown at the roots of British folk, strange things continue to stir. Devon\u2019s Drift label has a small but intriguing roster of young talents\u201c - The Observer", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.driftrecords.co.uk/", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "records", 
+      "music"
+     ]
+    }, 
+    "universalName": "drift-records", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "drift records"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "Nigel French is a graphic designer, artist, photographer, author and teacher living in Brighton, UK. Author of InDesign Type and Photoshop Unmasked (both Adobe Press) he has also contributed more than 20 titles to the Lynda.com online training library.\r\n\r\nNigel has taught graphic design and design software for more than 15 years in the US and the UK to students from a wide range of backgrounds and ages, and covering all levels of experience. Concurrent with his design projects, Nigel travels nationally and internationally teaching InDesign, Photoshop, Illustrator, and Lightroom to a broad cross-section of the creative industries.", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.nigelfrench.com", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Graphic Design", 
+      "Creative Training", 
+      "Book Design", 
+      "Photography", 
+      "Page Layout", 
+      "Adobe Creative Suite", 
+      "InDesign Training", 
+      "Photoshop Training", 
+      "Public Speaking", 
+      "Illustrator Training", 
+      "Image Editing", 
+      "Lightroom Training"
+     ]
+    }, 
+    "universalName": "nigel-french-graphic-design", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Nigel French Graphic Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "We provide quality design for both print and online. Based in Brighton, Sussex but with clients all over the South East, we strive to be regarded as an integral part of your team. We are your very own design department who go the extra mile to understand your business requirements and provide creative but appropriate design solutions to help you achieve your goals.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.launchpad-design.co.uk", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "graphic design", 
+      "logo design", 
+      "web design"
+     ]
+    }, 
+    "universalName": "launchpad-design-partnership", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Launchpad Design Partnership"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 49, 
+    "description": "Electric Putty is a web design studio based in Brighton, UK. We make websites and applications that make sense for voluntary organisations, charities and businesses throughout the UK. \r\n\r\nWe are all expert, seasoned professionals with fantastic track records and really nice people too!\r\n\r\nPlease get in touch to discuss any ideas you have in pipeline, we'd love to work with you on your next project.", 
+    "twitterId": "electricputty", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 677557"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BE", 
+        "city": "Hove", 
+        "street1": "The Werks"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.electricputty.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web design for charities and non profits", 
+      "Email marketing for charities", 
+      "Web application development for charities and non profits", 
+      "User testing", 
+      "Digital strategy & communication", 
+      "ExpressionEngine developers"
+     ]
+    }, 
+    "universalName": "electric-putty", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Electric Putty"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 129, 
+    "description": "filthymedia is a graphic design studio based in the North Laine of Brighton. We work across print, web and motion to create concept-driven identities and campaigns for a wide range of clients and sectors.\r\n\r\nOur clients include the BBC, Boxpark, NHS, Pioneer, Red Bull, Virgin, Universal Music as well as a number of independents.", 
+    "twitterId": "filthymedia", 
+    "industry": "Graphic Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 683 591"
+       }, 
+       "address": {
+        "postalCode": "BN1 1UX", 
+        "city": "Brighton", 
+        "street1": "Studio 3"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.filthymedia.com", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Graphic Design", 
+      "Art Direction", 
+      "Illustration", 
+      "Photography", 
+      "Typography", 
+      "Logo & Corporate Identity", 
+      "Web Design & Build", 
+      "Print", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "filthymedia-ltd", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "FilthyMedia Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 1, 
+    "description": "Sonja Peshkoff is not a company itself, it is merely a name I created for LinkIn to fill out blank fields, ensuring that an account could be created. I am a July 2010 BA graduate from the University of Brighton, still looking for experience at an architecture firm somewhere between Europe and the United States.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Architecture & Planning", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.peshkoff.com", 
+    "universalName": "sonja-peshkoff", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Sonja Peshkoff"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Luxury Garra Rufa Fish pedicure Spa\r\nProviding Pedicure and manicure utilising Garra Rufa fish\r\nBluewater . Guildford . Bromley . Brighton . Hove\r\nThe ultimate feet treat has now arrived\r\nCome and let our Garra Rufa Dr fish give you a pedicure to remember. Gently and painlessly removing the dead skin from your shopping weary soles, our little fish will give you an experience that you and your friends will love and never forget.\r\nOnly \u00a310 for 10 minutes\r\nNo appointment necessary\r\nGift vouchers and fabulous foot care accessories available for that perfect present", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.heavenlysolesspa.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Fish Pedicure", 
+      "Manicure"
+     ]
+    }, 
+    "universalName": "heavenly-soles-spa-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Heavenly Soles Spa LTD"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "REAL ESTATE SALES IN STATEN ISLAND, NY.   RESIDENTIAL, COMMERCIAL, LAND, LEASE, MULTI FAMILY,  LAND AND ALL OTHER PHASES OF REAL ESTATE.\r\nSHORT SALE AND FORECLOSURE SPECIALISTS.   WE HAVE BEEN NAMED NUMBER ONE IN CLSED SALES IN MOST OF THE NORTH SHORE OF STATEN ISLAND, FOR 2009 AND 2010.\r\nOVER 30 YEARS EXPERIENCE, ALL IN STATEN ISLAND.  WE LIVE AND WORK IN THE COMMUNITY WE SERVE AND ARE A FAMILY OWNED AND OPERATED BUSINESS.\r\nWE ARE LOCATED IN WEST BRIGHTON, 1182 FOREST AVENUE (NEAR JEWETT).  OVER 30 AGENTS TO SERVE ALL OF YOUR REAL ESTATE NEEDS INCLUDING MORTGAGES. WETHER IT'S A TOWNHOUSE, SINGLE FAMILY, MULTI-FAMILY, LAND, INVESTMENTS, JUST CALL US,  YOU CAN ALSO GO TO:  \r\nWWW,SIEXCEL.COM   OUR  WEBSITE.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "718-720-8488", 
+        "phone1": "718-720-2300"
+       }, 
+       "address": {
+        "postalCode": "10302", 
+        "city": "STATEN, ISLAND", 
+        "street1": "1281-FOREST AVENUE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1988, 
+    "websiteUrl": "www.siexcel.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "RESIDENTIAL-COMMERCIAL", 
+      "SHORT SALES-FORECLOSURES", 
+      "FINANCIAL ADVICE", 
+      "FREE MARKET CONSULTATION"
+     ]
+    }, 
+    "universalName": "excel-realty-associates", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Excel Realty Associates"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "Training Alliance Group is a UK coalition of full time practitioners and trainers leading the way in developing and delivering both corporate and personal development training courses in NLP, CBT and Hypnosis for individuals looking for excellence in personal development; while also offering some of the country's leading corporate development training programmes, including sales performance, effective presentation skills, business motivation, goal setting, stress management and general business development.\r\n\r\nTAG's broad range of expertise has been built from over 35 years' experience in developing and delivering Hypnosis, NLP and CBT on a corporate and personal level, which is how we are able to train you in such a diverse range of skills.\r\n\r\nWhat is important to you when looking for a personal or corporate development training provider?\r\n\r\n~ Experience\r\n~ Diversity\r\n~ Options\r\n~ Continuing Professional Development\r\n~ Recognised professionally accredited awards\r\n~ Location: personal development training in London, Milton Keynes, Brighton\r\n~ Corporate development programmes delivered on-location to UK businesses\r\n\r\nTypical Courses and Programmes:\r\n\r\nEffective Presentation Skills\r\nEffective Sales Training\r\nGoal Setting\r\nMotivation\r\nSport Psychology Coaching\r\nOvercoming Fear of Flying\r\nSmoking Cessation\r\nWeight Control\r\nDept for Education Validated Graduate Training Courses for future therapists\r\n\r\n\r\nTAG offers all of the above and more. Call us on 07973 288988 to find out how we can support you.", 
+    "twitterId": "", 
+    "blogRssUrl": "http://trainingalliancegroup.co.uk/feed/", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7631 0156"
+       }, 
+       "address": {
+        "postalCode": "W1B 1PF", 
+        "city": "London", 
+        "street1": "The Hale Clinic"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.trainingalliancegroup.co.uk", 
+    "specialties": {
+     "_total": 12, 
+     "values": [
+      "Corporate & Business Development", 
+      "Presentation Skills", 
+      "Goal Setting", 
+      "Sales Performance", 
+      "Business Movitation", 
+      "Team Building", 
+      "Stress Management", 
+      "Employee Welfare", 
+      "Sport Motivation", 
+      "Sport Psychology", 
+      "Personal Development", 
+      "Hypnotherapy, NLP & CBT Training for Therapists"
+     ]
+    }, 
+    "universalName": "training-alliance-group", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Training Alliance Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 6, 
+    "name": "Willie Robb Photography", 
+    "twitterId": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.willierobb.com", 
+    "universalName": "willie-robb-photography", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "description": "I am an innovative commercial photographer who makes work in Brighton, London, Lewes, Eastbourne, Hastings, Worthing and around the UK. The majority of my work can be summarised as Lifestyle photography. I can offer additional services such as event photography, product photography, food photography, portraiture and video production."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Spot On Solutions, drivesnew revenue to Colorado schools through innovative marketing and school \r\nbusboard \u2122 campaigns. \r\n\r\nOur objective is to allow schools to focus on the safety and education of students while we administer a full service marketing and advertising solution driving alternative revenue.\r\n\r\nThis is a win-win solution as this targeted transit reaches head of households and builds loyalty through positioning  businesses as a community leader, giving back to local education.\r\n\r\nProudly representing:\r\nAdams 12\r\nAurora Public Schools\r\nBrighton 27J\r\nThe Pinnacle Charter School\r\nThompson School District\r\nWeld County 6\r\nand the The Veteran's Memorial Aquatic Center", 
+    "twitterId": "SOSBusboards", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "877-257-4847", 
+        "phone1": "877-SOS 4 EDU"
+       }, 
+       "address": {
+        "postalCode": "80122", 
+        "city": "Centennial", 
+        "street1": "7714 S. Elm Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.spotonsolutionsinc.com", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "School Bus and Venue Advertising", 
+      "Sponsorship Programs", 
+      "Marketing", 
+      "Graphic Design", 
+      "Niche Marketing Solutions"
+     ]
+    }, 
+    "universalName": "spot-on-solutions", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Spot On Solutions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Rodhus provides individual and co/working space to designer makers. The key objectives of the business are to promote the work of local craft based designer makers, forge links within the local community and create a resource centre for designers as well as the general public. I know that this kind of space is rare in Brighton. \r\n\r\nThe idea of building a community of creatives within a shared space is really exciting and the additional support services would make it ideal for someone who wants to start a new business and not be tied in to lengthy rents/leases etc...\r\n\r\nThe space is now ready for use having been cleared and cleaned up. We already  have a web designer, a furniture designer and a photographer using the space as well as  interest from a broad range of creatives including a  knitwear designer, furniture designer/maker and a printer - which is really encouraging.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 679560"
+       }, 
+       "address": {
+        "postalCode": "BN2 4AA", 
+        "city": "Brighton", 
+        "street1": "16-30 Hollingdean Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.rodhus.co.uk", 
+    "universalName": "rodhus-art-&-design", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Rodhus Art & Design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Part of the Indecs Group targetting SMB <250 market.   ICT Systems Integrator, Consultancy and provider of related products & services including hardware, software, network services and support.. \r\n\r\nVia our parent, Indecs we are able to also provide 3rd party Unix, Linux and IBM support. \r\n\r\nUK / European Coverage \r\n\r\nOffice locations Brighton, Weybridge, Redditch and Glasgow.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Redditch", 
+        "street1": "North Moons Moat"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "http://www.abbitek.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Unified Communications", 
+      "Contact Centres", 
+      "VoIP / SIP Overlay Solutions", 
+      "Multi-Site Private Voice Networks"
+     ]
+    }, 
+    "universalName": "abbitek-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "AbbiTek Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 43, 
+    "description": "Currently operate 62 Wendy's restaurants and 2 Biggby Coffee locations in Michigan . Office is based in Jackson, Michigan and we operate locations throughout the lower peninsula with the majority of the locations in the Greater Lansing Area , Ann Arbor /Ypsilanti Area, Jackson,MI, and Greater Brighton /Howell area.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Restaurants", 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1975, 
+    "websiteUrl": "0", 
+    "universalName": "david-j.-stanton-&-associates", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "David J. Stanton & Associates"
+   }
+  ]
+ }
+}

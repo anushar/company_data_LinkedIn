@@ -1,0 +1,874 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 460, 
+  "values": [
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "We pride ourselves on professionalism, an enjoyable working experience and satisfied clients. We offer a broad range of services and produce work of the highest standard in each area. \r\n\r\nWe are based in Brighton, but on many projects we can work with you wherever you are in the world. If you\u2019d like to talk to us about your next project please get in touch.", 
+    "twitterId": "", 
+    "industry": "Media Production", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 245 740"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AL", 
+        "city": "Brighton", 
+        "street1": "15-17 Middle Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.unitoneproductions.co.uk", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Web Design", 
+      "Video Production", 
+      "Graphic Design", 
+      "Motion Graphics", 
+      "Photography"
+     ]
+    }, 
+    "universalName": "unitone-productions", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Unitone Productions"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 14, 
+    "description": "We provide a variety of services for LGBT young people and we are staffed by a part-time Project Director, a team leader, two part-time Youth Support Workers, a Youth Volunteering Development Worker, three peer support workers, a part-time administrator and a team of 25 volunteers. A Teen to Adult Personal Advisor has been seconded to the project full-time from CAMHS.\r\n\r\nAn average of thirty young people attend our services and an average of eight young people currently receive one-to-one support each week either face-to-face, by phone or email.\r\n\r\nOur Purpose\r\n\r\nAllsorts works to raise awareness, promote good practice and facilitate the creation of safer and more supportive environments for LGBT young people in the wider community by:\r\n\r\n\u2022 Supporting vulnerable, alienated or marginalized young people in Brighton and Hove and the surrounding area who are LGBT or unsure of their sexuality and/or gender identity\r\n\r\n\u2022 Delivering peer led homophobia, biphobia and transphobia awareness and anti-bullying workshops in schools, colleges and youth organisations\r\n\r\n\u2022 Providing training for adults and agencies working with young people\r\n\r\n\u2022 Providing promotional and educational materials (booklets, toolkits, stickers, posters etc)", 
+    "twitterId": "", 
+    "industry": "Nonprofit Organization Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 721211"
+       }, 
+       "address": {
+        "postalCode": "BN1 1AE", 
+        "city": "Brighton", 
+        "street1": "69 Ship Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1999, 
+    "websiteUrl": "http://allsortsyouth.org.uk/", 
+    "universalName": "allsorts-youth-project", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Allsorts Youth Project"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 191, 
+    "description": "A unique accredited education provider with a focus on quality and a strong desire to lead in our market sectors. \r\n\r\nOur portfolio covers:\r\n- ISIS Junior (www.isisjunior.com) - spring, summer and year-round residential programmes\r\n- ISIS Schools (www.isisschools.co.uk) - English language schools in London, Brighton, Oxford, Toronto and Vancouver\r\n- ISIS Student Tours (www.isisstudenttours.co.uk) - College and university educational tours\r\n- ISIS Explore (www.isisexplore.co.uk) - Tours around the UK & Europe for international students\r\n- StudyTrips (www.studytrips.co.uk) - Group travel for UK schools in Europe and further afield\r\n- Key Stage History Tours (www.key-stage.co.uk) - Specialist history tours for schools\r\n- Bucksmore (www.bucksmore.com) - Summer English centres for individual junior students\r\n- Oxford Tutorial College (www.otc.ac.uk) - A leading independent college specialising in A-level and GCSE tuition\r\n- ISIS TEFL (www.isistefl.com) - English language teacher training courses in the UK    \r\n\r\nWe are a dedicated, enthusiastic and like-minded group, with a genuine interest in what we do. \r\n\r\nOh, and we're also a nice bunch of people.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 4, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "02082931188"
+       }, 
+       "address": {
+        "postalCode": "SE10 8NB", 
+        "city": "London", 
+        "street1": "259 Greenwich High Road"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "OX1 1BP", 
+        "city": "Oxford", 
+        "street1": "Pembroke House"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN3 1NA", 
+        "city": "East Sussex", 
+        "street1": "10 Brunswick Place"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "M5V 2H1", 
+        "city": "Toronto", 
+        "street1": "#220-111 Peter Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1991, 
+    "websiteUrl": "www.isisgroup.co.uk", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Education", 
+      "Travel"
+     ]
+    }, 
+    "universalName": "isis-education", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "ISIS Education"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Node Design", 
+    "twitterId": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.node.uk.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Graphic design", 
+      "Web design", 
+      "Information design", 
+      "Copywriting", 
+      "Marketing & CRM", 
+      "Events", 
+      "Branding"
+     ]
+    }, 
+    "universalName": "node-design", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "Node is...\r\na small, multi-discipline Brighton design agency. Formed around a designer / copywriter partnership of the type favoured by larger creative agencies, we offer a wide range of design services, including web design, illustration and branding. In addition, we provide help & support with editorial content, online marketing and CRM strategy on a consultancy basis."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A Queen's English (AQE Ltd) is a UK-based educational travel agency that specialises in the planning and execution of study trips for international secondary school students aged 13 to 17.\r\n\r\nAQE endeavours to provide international secondary schools with a unique insight into the reasoning, planning and execution of study tours abroad. This is in a bid to underline the value of extra-curricular activities and integrate them more fully into school curriculums. \r\n\r\nWe work closely with our clients to create study tours that are meticulously designed to inspire students to grow in self-confidence. Students will benefit hugely from mixing with other young people from a wealth of nationalities and backgrounds.\r\n\r\nFrom our offices in the UK\u2019s premier resort city of Brighton and Hove, just one hour from London, AQE offers your group a reassuring presence from the moment they arrive in the UK.", 
+    "twitterId": "", 
+    "industry": "Education Management", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "+44(0)1273731816", 
+        "phone1": "+44(0)1273207775"
+       }, 
+       "address": {
+        "postalCode": "BN2 0YS", 
+        "city": "Brighton", 
+        "street1": "20 Bedford Place"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.aqueensenglish.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Objective-Based Development Planning", 
+      "Promoting Extra-Curricular Travel in Secondary Schools", 
+      "Promoting the UK as a Study Destination", 
+      "Representing UK Language Schools Worldwide"
+     ]
+    }, 
+    "universalName": "a-queen's-english-aqe-ltd-", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "A Queen's English (AQE LTD)"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 15, 
+    "description": "HR Human Resources agency based in Brighton, UK. Help with people issues on a temporary, interim or ongoing basis.\r\n\r\nNeed help with employee issues but don\u2019t want to hire someone? Need extra HR resources or to cover because your HR employee is not available? Employed and worried about a work issue? Want training tailored for your business?\r\n\r\nWe can help - just say what you want to do or what the problem is, then we\u2019ll quickly set out your options. See www.quickhr.biz for more information or the following sites:\r\n\r\nTwitter @quickhr http://twitter.com/quickhr\r\nFacebook http://www.facebook.com/quickhr\r\nTumblr http://www.tumblr.com/blog/quickhr\r\nPinterest http://www.pinterest.com/quickhr\r\nInstagram http://instagram.com/quickhr/\r\nAbout.me http://about.me/quickhr\r\nXing http://www.xing.com/companies/quickhr", 
+    "twitterId": "", 
+    "industry": "Human Resources", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN2 3ET", 
+        "city": "Brighton", 
+        "street1": "79 Elm Grove"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2012, 
+    "websiteUrl": "www.quickhr.biz", 
+    "specialties": {
+     "_total": 9, 
+     "values": [
+      "Employment law", 
+      "Training", 
+      "Recruitment", 
+      "Coaching", 
+      "Restructuring", 
+      "Change projects", 
+      "Reward (compensation and benefits)", 
+      "Performance management and development", 
+      "Policies"
+     ]
+    }, 
+    "universalName": "quick-hr", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Quick HR"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 26, 
+    "description": "Tizuni is a digital agency based in Brighton, UK offering: Bespoke Development, eCommerce, Customer Relationship Management (CRM), Content Management Systems (CMS) and Digital Marketing.\r\n\r\nSince 2005, Tizuni has maintained a strong track record in helping clients transform challenging ideas into fully functional web applications. The Tizuni core team expands and contracts with freelance talent to meet demand. With this approach we are confident in our our ability to meet outrageous deadlines.\r\n\r\nOur digital marketing team pride themselves on devoting time to create an individual and integrated approach to your campaign.  There is no \"one size fits all\" solution at Tizuni.\r\n\r\nOur specialist areas include Media, Arts, Collaborative Consumption, Fashion & Retail and Charity.\r\n\r\nGive us a call on 01273 916219, or email us at info@tizuni.com, and discover what we can do for you and your project.", 
+    "twitterId": "", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 311810"
+       }, 
+       "address": {
+        "postalCode": "BN3 3AW", 
+        "city": "Brighton & Hove", 
+        "street1": "Rochester House"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.tizuni.com", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Web development", 
+      "Social Media", 
+      "Search Engine Optimisation", 
+      "eCommerce", 
+      "CRM", 
+      "CMS", 
+      "Coldfusion", 
+      "Mobile development", 
+      "SEO", 
+      "Programming", 
+      "System integration"
+     ]
+    }, 
+    "universalName": "tizuni", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Tizuni Digital"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Consulting in London and Brighton, on business, software and platform design, product creation, innovation, start-ups,  security, analysis and strategy, I love disruptive technology, and work with forward thinking companies and individuals to help them achieve their full potential.", 
+    "twitterId": "richardstubbs", 
+    "blogRssUrl": "", 
+    "industry": "Information Technology & Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2001, 
+    "websiteUrl": "http://www.richard-stubbs.com", 
+    "universalName": "richard-stubbs-com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "richard-stubbs.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "TexRAD Limited was launched in February 2011 with leading medical imaging companies; Imaging Equipment Limited (IEL), Cambridge Computed Imaging Ltd and Miles Medical Pty Ltd as partners.  \r\n\r\nTexRAD is a new spin-off from the University of Sussex (UK) and is a software application developed by Dr Balaji Ganeshan, Research Fellow at the Brighton and Sussex Medical School.  The specific applications of TexRAD include predicting early response to treatment, prognosis and tissue characterization.  Particularly in colorectal cancer, TexRAD can identify patients earlier with poor prognosis and thereby can assist clinicians to modify treatment at the early stages and so improve patient outcome.  TexRAD can be integrated easily within existing hospital imaging systems without the need for any hardware modifications and can also be accessed via a pay-per-click service.\r\n\r\nThe software can extract and quantify 'hidden' information from existing scans (CT,MIR, etc) thereby increasing considerably the depth of information given by radiological images.  \r\n\r\nIt is hoped that TexRAD will potentially support early diagnosis in other diseases and long term conditions such as dementia and other long term conditions, enabling early intervention and reducing disease progression.", 
+    "twitterId": "TexRADLimited", 
+    "blogRssUrl": "", 
+    "industry": "Medical Device", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "www.texrad.net", 
+    "universalName": "texrad-limited", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "TexRAD Limited"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "name": "Scarlet Monday Group", 
+    "twitterId": "siconroy", 
+    "industry": "Management Consulting", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.scarletmonday.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Management consulting", 
+      "Leadership coaching", 
+      "Board leadership", 
+      "Group facilitation"
+     ]
+    }, 
+    "universalName": "scarlet-monday-group", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Scarlet is a Brighton-based consultancy for people who run businesses. Scarlet specialises in helping bosses grow their companies better.\r\n\r\nScarlet works by quickly analysing what\u2019s blocking you and your company\u2019s success: normally strategy or people. A plan is agreed which Scarlet can then help you implement. Scarlet can be your chairman, coach, consultant or taskmaster: whatever you need."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "description": "Buffalo is a small web design agency based in Brighton, UK. Over the last few years we've made a reputation for building websites that look great and are easy-to-use.\r\n\r\nCollectively we've gained lots of experience working with large companies such as Sony, Financial Times and Channel 4, as well as start-ups, small teams and agencies.\r\n\r\nThis isn't just a job for us. We really enjoy what we do and believe that it shows in our work.", 
+    "twitterId": "builtbybuffalo", 
+    "industry": "Computer Software", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08454660030"
+       }, 
+       "address": {
+        "postalCode": "BN1 4AB", 
+        "city": "Brighton", 
+        "street1": "Ground Floor"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.builtbybuffalo.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Web design", 
+      "Web development", 
+      "E-commerce"
+     ]
+    }, 
+    "universalName": "built-by-buffalo", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Built by Buffalo"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Welcome to Alive...\r\n\r\nYour first step to a healthier lifestyle!\r\n\r\nWe are an independent gym located in the centre of Brighton just a 2 minute walk from Churchill Square and the seafront. We offer a range of great facilities including a fully equipped gym with qualified friendly instructors. From calorie burning spin classes to fun dance classes or relaxing massage there's something for everyone...\r\n\r\nFacilities:\r\nFully equipped gym\r\nFun & motivating fitness classes\r\nSpinning Classes\r\nRelaxing saunas and sunbed\r\nCr\u00e8che\r\nFull range of massages and osteopathy\r\nBeauty treatments and Hair Salon\r\n\r\nGYM\r\n\r\nWhether you're an experienced gym user or total beginner Alive's gym is a relaxed and friendly place for your workout. Our qualified and knowledgeable staff are on hand to offer advice and assistance with your workout and every month they run a 'weights and measures' session to help you track your progress.\r\n\r\nFacilities:\r\nQualified friendly instructors\r\nPersonal Training\r\nNautilus equipment\r\nFree Weights\r\nCardio Room and Stretch area\r\n\r\nTo get the best deal and arrange a tour of the Club contact us today.\r\n\r\n01273 739606", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Health, Wellness & Fitness", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.alivehealth.co.uk", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Dance Classes", 
+      "Cardo and weights", 
+      "Spinning", 
+      "Zumba", 
+      "Personal Training", 
+      "Therapies", 
+      "Body Balance"
+     ]
+    }, 
+    "universalName": "alive-health-gym", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Alive Fitness and Natural Health"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Passionate about Theatre\r\n\r\nFounded in 2006\r\n\r\nLondon, Edinburgh, Brighton, Oxford, Adelaide, Amsterdam - we are the Good Fringe Guide.\r\n\r\nWe provide quality theatre reviews, articles, interviews as well as audio and video content in the field of Fringe Theatre. All reviewers are practioners and we have a unique reviews policy.", 
+    "twitterId": "fringereview", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://www.fringereview.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Reviews", 
+      "Writing about Fringe theatre"
+     ]
+    }, 
+    "universalName": "fringereview", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "FringeReview"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 18, 
+    "description": "Self Storage Space in Lewes is directly opposite Lewes Train Station. It's very central making it easy for all customers to access their storage unit by public or private transport.\r\n\r\nThe Lewes branch provides:\r\n\r\n* Modern facility offering 100+ different sized storage units.\r\n* Temperature controlled, clean environment to store your belongings.\r\n* Easy to use with free trolleys & large goods lifts. Disabled access.\r\n* High security. Key fob access. Doors & gates electronically controlled.\r\n* 24 hour CCTV monitored throughout the facility.\r\n* Packing & storage materials available on site in the reception shop.\r\n\r\nVisit or call us for a free quotation.\r\n\r\nPhone: 01273 470000.\r\nWebsite: www.selfstoragespace.co.uk", 
+    "twitterId": "sussex_storage", 
+    "industry": "Warehousing", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01273 470047", 
+        "phone1": "01273 470000"
+       }, 
+       "address": {
+        "postalCode": "BN7 2YY", 
+        "city": "Lewes", 
+        "street1": "1 Station Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1975, 
+    "websiteUrl": "www.selfstoragespace.co.uk", 
+    "specialties": {
+     "_total": 10, 
+     "values": [
+      "storage", 
+      "mailboxes", 
+      "self storage", 
+      "bubblewrap", 
+      "storage lewes", 
+      "storage east sussex", 
+      "storage brighton", 
+      "boxes", 
+      "cardboard box", 
+      "storage space"
+     ]
+    }, 
+    "universalName": "self-storage-space", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Self Storage Space"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "Commercial & residential property acquisition, development & on-going management. Based in South East region, U.K. Primarily Brighton & Hove, Lewes. Independently owned and managed. Portfolio includes self storage, retail shops, residential apartments, student accommodation, offices.", 
+    "twitterId": "", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "BN7 2YY", 
+        "city": "Lewes", 
+        "street1": "1 Station Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.harket.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "self storage", 
+      "property", 
+      "offices", 
+      "shops", 
+      "commercial property", 
+      "HMOs", 
+      "residential property", 
+      "B8 storage"
+     ]
+    }, 
+    "universalName": "harket-property-llp", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "name": "Harket"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 856, 
+    "description": "Andrew Page is one of the UK's largest distributors of quality car parts, workshop equipment, tools and diagnostics. Their mission is to provide customers with only the best components in quality and availability. With the acquisition of Camberley Auto Factors, two companies built on such similar priniciples are now working together to combine strengths and cover an area from Brighton to Newcastle with over 90 branches.\r\n\r\nAs the company continues to grow, we regularly have new opportunities to join us, these are posted on our website at http://andrewpage.com/content/11/careers/job_listing", 
+    "twitterId": "", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)113 397 0200"
+       }, 
+       "address": {
+        "postalCode": "LS15 9JN", 
+        "city": "Leeds", 
+        "street1": "Apson House, Colton Mill"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 (0)1252 517272"
+       }, 
+       "address": {
+        "postalCode": "GU14 8EH", 
+        "city": "Farnborough", 
+        "street1": "Unit 2 Hawley Trading Estate"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "G", 
+     "name": "1001-5000"
+    }, 
+    "foundedYear": 1917, 
+    "websiteUrl": "www.andrewpage.com", 
+    "specialties": {
+     "_total": 7, 
+     "values": [
+      "Automotive Aftermarket", 
+      "Automotive Diagnostic Equipment", 
+      "Car Spares", 
+      "Commercial Vehicle Spares", 
+      "Automotive Tools", 
+      "Garage Equipment", 
+      "Automotive Systems Training"
+     ]
+    }, 
+    "universalName": "andrew-page-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Andrew Page Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 45, 
+    "description": "Full Moon Games Studios are a small innovative game company focused on digitally-distributed casual games in Brighton, UK.\r\n\r\nThe video game industry is getting exciting. Right now represents an incredible opportunity for change. Industry innovations like free-to-play casual games, digital distribution, investor funding and results-based production are just a few of the changes we are seeing in studios and publishers throughout the industry. Individually they are in practice at very successful studios all around the world. Like how Blizzard changed the MMO; we\u2019re not trying to reinvent the wheel, we\u2019re just trying to put the pieces together the right way.", 
+    "twitterId": "fullmoonstudios", 
+    "blogRssUrl": "", 
+    "industry": "Computer Games", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://fullmoongamestudios.com", 
+    "universalName": "full-moon-game-studios", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Full Moon Game Studios"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 38, 
+    "description": "Zerofiftyone is a wonderful mix of old hands and new, dynamic people who like to absorb the knowledge and then try it for themselves. We are in a constant state of discovery, learning new ways of doing things, but always seeking to enhance the performance of our clients. \r\n\r\nWe do great looking, affordable websites and all the work around them to get them in front of your public. We design everything from business cards to 48 sheet posters, devise media strategies which include television, radio and outdoor, write original copy, and participate fully in the business life of our clients. \r\n\r\nWe also love sport - and have a dedicated sports marketing agency called 051 Sports Marketing that enables our MD Neil Macadam to indulge his love of horseracing and keep our clients Plumpton, Brighton, Fontwell and Lingfield front of mind. \r\n\r\nWe're great at integrated campaigns and can do everything from Facebook advertising to database cleansing and email news letter creation and fulfillment. We also ask the right questions - of you, of the media you'll be using and ultimately, of your customers. \r\n\r\nWhy not book a meeting to see how this process works? (That was a question). \r\n\r\nWe have an office overlooking the English Channel and constant running tea and coffee. Some of our clients have had their best year ever. Come and find out how they did i", 
+    "twitterId": "roystannard", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 575102"
+       }, 
+       "address": {
+        "postalCode": "BN10 7NP", 
+        "city": "Brighton", 
+        "street1": "250a South Coast Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1983, 
+    "websiteUrl": "www.zerofiftyone.co.uk", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Digital design, web and SEO", 
+      "Advertising and marketing", 
+      "PR", 
+      "Media Strategy"
+     ]
+    }, 
+    "universalName": "zerofiftyone", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Zerofiftyone"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 5, 
+    "description": "Brighton's longest running underground sound system.\r\n\r\nDJ roster;\r\nDJ Mee\r\nSimon Atkinson\r\nMagnus Asberg\r\nDJ Kooki\r\nShreddie\r\nDizzy D\r\n\r\nClubnights 1992-2007:\r\nFlystyles\r\nMellowDubmarine\r\nHouse the Wife\r\nThe Custard Club\r\nEasybeats\r\nHousebreakers\r\nNotwork Southeast\r\nTechknowledge", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Music", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1992, 
+    "websiteUrl": "www.positivesounds.com", 
+    "universalName": "positive-sound-system", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Positive sound system"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "A social design and web software company based in Brighton, UK.\r\n\r\nDharmafly was born of the intention to wield the web - the greatest medium the world has known - for good works in the world. We've aimed to straddle the edge of possibilities with web technology, be an advocate for open source and help people achieve their vision through active listening, meticulous craft and creativity. We've strived to be a company that supports not only our clients and workers but also the wider community, by establishing city-based projects and programmes. \r\n\r\nWe've won awards for our work and created products for the BBC, The Guardian, the Science Museum and social enterprises like Participle.\r\n\r\nOur main technologies are JavaScript, (for instance, HTML5 scripting on the front-end and Node.js on the back-end), along with Python and Django, and to a lesser extent other languages and frameworks like Ruby on Rails, Perl, XSLT and PHP.", 
+    "twitterId": "dharmafly", 
+    "industry": "Internet", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "+44 7941 192398"
+       }, 
+       "address": {
+        "postalCode": "BN1 4EW", 
+        "city": "Brighton", 
+        "street1": "45 Gloucester Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "", 
+        "street1": ""
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "http://dharmafly.com", 
+    "specialties": {
+     "_total": 16, 
+     "values": [
+      "web apps", 
+      "social media", 
+      "web development", 
+      "data visualisation", 
+      "node.js", 
+      "python", 
+      "django", 
+      "html5", 
+      "css3", 
+      "javascript", 
+      "mvc", 
+      "backbone", 
+      "backbone.js", 
+      "d3", 
+      "jquery", 
+      "meteor"
+     ]
+    }, 
+    "universalName": "dharmafly", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Dharmafly"
+   }
+  ]
+ }
+}

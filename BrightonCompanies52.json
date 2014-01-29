@@ -1,0 +1,717 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1040, 
+  "values": [
+   {
+    "status": {
+     "code": "OOB", 
+     "name": "Out of Business"
+    }, 
+    "numFollowers": 47, 
+    "description": "They.Create are a design and development studio based in Brighton and founded in 2006. \r\n\r\nOur office in the North Laines is packed to the rafters with brilliance and ingenuity. \r\n\r\nOur work is award winning and our working culture simple; we love what we do.", 
+    "twitterId": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 679157"
+       }, 
+       "address": {
+        "postalCode": "BN1 4ET", 
+        "city": "Brighton", 
+        "street1": "25 Pelham Square"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "http://theycreate.co.uk/", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Responsive Design", 
+      "Development", 
+      "Data Insight and Strategy", 
+      "Project Management"
+     ]
+    }, 
+    "universalName": "they.create", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "They.Create"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 79, 
+    "description": "Gresham Blake is an innovative contemporary designer tailor, specialising in bespoke and made to measure suits for men and women. His relaxed approach makes a welcome alternative to Saville Row, providing the same consistently high level of personal service, professionalism, quality and attention to detail combined with his unique skill and creative flair.\r\n\r\nWith stores in Brighton and a showroom in London\u2019s Mayfair, we provide clients with guidance on all aspects of the made to measure and bespoke process, via our professional team of dedicated consultants and stylists. If you have a specific enquiry, or would like to book an appointment with us please call our customer service line on 01273 622 531\r\n\r\nYou can also use our website to buy directly, view previous collections, look through the company portfolio, keep up with all our latest news and sign up to our mailing list to receive information about special offers, promotions and customer events.", 
+    "twitterId": "greshamblake", 
+    "industry": "Apparel & Fashion", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01273 609 587"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "20 Bond Street"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "020 7493 9738"
+       }, 
+       "address": {
+        "postalCode": "E1 6BJ", 
+        "city": "London", 
+        "street1": "43 commercial street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.greshamblake.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Made to Measure Tailoring", 
+      "Mens & Womenswear", 
+      "Bespoke Tailoring", 
+      "Accessories"
+     ]
+    }, 
+    "universalName": "gresham-blake-ltd", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Gresham Blake Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 21, 
+    "description": "Welcome to LAHRA, the Livingston Area Human Resources Association.\r\n\r\n\r\nLAHRA was established in 2006 by a small group of Livingston County HR professionals who were looking for local networking and support.  Within six months of the first program meeting, LAHRA met the requirements for affiliation with the Society of Human Resource Management, and became its 708th chapter.  In early 2007, the chapter was designated a Superior Merit Chapter by SHRM for accomplishments during its first calendar year of existence, a distinguished honor. \r\n\r\n\r\nLAHRA prides itself on offering quality speakers at its monthly program meetings, with an emphasis on topics which are approved for HRCI recertification credits.  In addition, the organization looks for opportunities to contribute to the community through related volunteer efforts, and supports the national organization through fundraising for the SHRM Foundation.  LAHRA is closely linked with its sister chapters in Detroit, Lansing and Ann Arbor, and occasionally sponsors joint meetings or events with these chapters. \r\n\r\n\r\nLAHRA welcomes members and non-members to attend its monthly program meetings and other events.  We encourage interested professionals to submit a membership application, and to become actively involved in the organization as a volunteer.  For more information, please explore our website or contact us at info@livingstonhr.org.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Human Resources", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.livingstonhr.org", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "HR Resource for Small Businesses", 
+      "Local SHRM Chapter", 
+      "HR Certification Institute Recertification Credits", 
+      "HR Networking for brighton / Howell Area"
+     ]
+    }, 
+    "universalName": "livingston-area-human-resources-association", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "name": "Livingston Area Human Resources Association"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Freelance Illustrator working in publishing, editorial, design, advertising & new media.\r\n\r\nPeter started his career as a freelance Illustrator after gaining a Degree in Illustration at Brighton University in 1998.\r\nPeter has done high profile work for global clients including: Random House,Transport for London, ITV, Last Minute.com, Halifax, DLKW, The Guardian and Simon & Schuster.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 1998, 
+    "websiteUrl": "http://www.peter-mac.com", 
+    "universalName": "peter-mac-illustration", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Peter Mac illustration"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 258, 
+    "description": "Red Funnel is the original Isle of Wight ferry company with a history spanning over 150 years in its present form but with roots stretching back as far as the 1820's. Much has changed since Red Funnel's paddle steamers ran excursions from Southampton as far as Brighton, Cherbourg and Torquay but we are still just as passionate about delivering great customer service and providing value for money.", 
+    "twitterId": "", 
+    "industry": "Leisure & Travel", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "08448442699"
+       }, 
+       "address": {
+        "postalCode": "SO14 2JY", 
+        "city": "Southampton", 
+        "street1": "12 Bugle Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "E", 
+     "name": "201-500"
+    }, 
+    "foundedYear": 1861, 
+    "websiteUrl": "www.redfunnel.co.uk/jobs", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Isle of Wight Ferry Travel", 
+      "Holiday Accommodation", 
+      "Group Travel Solutions", 
+      "Attraction Ticket Sales", 
+      "Event/Festival Ticket Sales"
+     ]
+    }, 
+    "universalName": "red-funnel-group", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Red Funnel Group"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 53, 
+    "description": "Wikipedia defines a Gastropub as \u201ca British term for a Public House which specializes in high quality food a step above the more basic pub grub.\" The name is a portmanteau (combination) of \u201cpub\u201d (the short form of public house) and \u201cgastro\u201d (short for gastronomy, or food-related). It was first used in 1991 when David Eyre and Michael Belbon opened a pub in Clerkenwell, London named The Eagle, that placed an emphasis on food quality not common in existing British pubs. In its simplest form, a Gastro Pub is \u201ca place with a warm, inviting pub atmosphere that serves sophisticated, yet unpretentious food.\u201d An extensive, and creative, Beer and Wine List is an integral part of the concept. \r\n\r\nWhy Victoria? \r\n\r\nMany of the pubs in London are located in close proximity to \u201cTube\u201d stops on the Metro System. The name Victoria is derived from Victoria Station, a stop that connects the Brighton and Chatham Main Lines on that system. It is also the name of the pub's Chief Experience Officer and daughter of our Proprietors. \r\n\r\nWhat is Our Menu like? \r\n\r\nThe main objective of our kitchen is to serve innovative twists on classic pub fare that stress quality and freshness with every recipe, and every ingredient. The menu items will draw from both national and international cooking traditions and will remain in harmony with the seasonal availability of high-quality ingredients.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Restaurants", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "WWW.VICTORIAGASTROPUB.COM", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "SUNDAY NIGHT: Live Music: 9:30pm-12:30am", 
+      "MONDAY NIGHT: Beer club night in pub 5:00-2:00am", 
+      "ALL DAY TUESDAY: \u00bd Price House Martinis", 
+      "WEDNESDAY NIGHT: Cork Club Night", 
+      "ALL DAY THURSDAY: \u00bd Price Wine Bottles", 
+      "**WEEKEND BRUNCH: Saturday and Sunday 10am -2pm"
+     ]
+    }, 
+    "universalName": "victoria-gastro-pub", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Victoria Gastro Pub"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 12, 
+    "description": "Competitive Events is a new Events and Catering Management company based in London and Brighton that has a modern and flexible approach to the services it offers its clients. The main focus is to provide a service designed for each individual client to ensure maximum outcome and exceed customer expectations. Competitive Events will match the requirements of the clients with appropriate products and services to \u201coffer a valuable and professional service at a competitive price\u201d.\r\n\r\nWe offer events and catering management services to corporate clients and venues that would like to drive their brand and events forward in this competitive market. With background in sales, marketing, catering and venue management we hold the expertise to help you with your press days, product launches and other events that requires high end products and services.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Events Services", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.competitive-events.com", 
+    "universalName": "competitive-events-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Competitive Events Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 89, 
+    "description": "Established in 1994, Wildwood PR is a growing agency based in Horsham, West Sussex.\r\n\t\r\nThe agency specialises in the eco building, interiors, home technology and event sectors. Wildwood PR is clearly focussed on generating results for its clients with successful, pro-active business to business and business to consumer campaigns. \r\n\r\nThe company\u2019s current portfolio of clients in building services includes international lighting company Havells Sylvania, CEDIA, The British Institute of Interior Design, the Brighton Centre, Panasonic heating and cooling, Crestron, and many more.", 
+    "twitterId": "", 
+    "industry": "Public Relations", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01293 851115"
+       }, 
+       "address": {
+        "postalCode": "RH12 4SJ", 
+        "city": "Faygate", 
+        "street1": "Meadow Court"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 1994, 
+    "websiteUrl": "www.wildwoodpr.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Communications and PR", 
+      "Home technology PR", 
+      "Building and construction PR"
+     ]
+    }, 
+    "universalName": "wildwood-pr", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Wildwood PR"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "description": "Online store selling beautiful home wares and accessories designes and produced by graduates.\r\nGraduate-design.com is based in Brighton, east sussex with the hopes to open a store. \r\nOffers furniture, kitchen ware, lighting, textiles, jewellery + accessories and handmade limited edition products.\r\nSupports and promotes post graduate designers and helps to sell their products online.\r\nWe strive to represent the best!", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07769656737"
+       }, 
+       "address": {
+        "postalCode": "bn5 9au", 
+        "city": "woodmancote", 
+        "street1": "woolfly farm"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.graduate-design.com", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "furniture", 
+      "lighting", 
+      "kitchenware", 
+      "textiles", 
+      "jewellery and accessories", 
+      "boutique"
+     ]
+    }, 
+    "universalName": "graduate-design.com", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "graduate-design.com"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 1, 
+    "description": "A shopping portal dedicated to promoting the work of Britain\u2019s most talented independent designers and craftspeople \u2013 Brighton POD is the fast, simple and ethical alternative to shopping in our franchise-choked high streets. When you purchase a product from POD using the secure checkout, you are buying directly from the designer or craftsperson. This enables them to price their goods fairly and competitively, because they keep 80% of the retail price.", 
+    "twitterId": "http://twitter.com/#!/brightonpod", 
+    "blogRssUrl": "", 
+    "industry": "Arts & Crafts", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2009, 
+    "websiteUrl": "http://www.brightonpod.com/", 
+    "specialties": {
+     "_total": 5, 
+     "values": [
+      "Art", 
+      "Gifts", 
+      "Furniture", 
+      "Wall stickers", 
+      "Wall stickers"
+     ]
+    }, 
+    "universalName": "brightonpod", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "BrightonPOD"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 10, 
+    "description": "What is it? \r\nA professionally staffed nursery for up to 15 children on\r\nthe ground floor and above, on the top floor, a co-working space with\r\ninternet, printer, scanner, fax, private meeting rooms and IT support.\r\n\r\nWhere is it? \r\nIn central Brighton, just five minutes walk from the station.\r\nThree floors of large and light rooms; roll your buggy into the ground\r\nfloor nursery which has a secure and fun garden out the back. The two\r\nfloors above are for both work and networking - enough space to have a\r\nprivate phone call/meeting or chat over a coffee and your laptop.\r\n\r\nHow does it work? \r\nMonthly membership with 8 hours of childcare/\r\nco-working per week. These hours can be rolled on for a quarter of a\r\nyear. Hours should be booked online by midday Friday of the\r\npreceding week. If the membership allowance has been used up,\r\nmore can be purchased at an hourly rate.\r\n\r\nWho is it for? Any parent with a child under 5 years of age: freelance\r\nparents with unpredictable working hours; mothers who want a few\r\nhours to themselves in the first few months after their child\u2019s birth,\r\nbefore they think about going back to a fulltime job; mature student\r\nparents with timetables that change from term to term.\r\n\r\nBenefits? A community of like-minded families; a chance for a\r\nmother to ease herself back into work without stopping breastfeeding,\r\nfor a father to give the mother of his child a rest while still getting a\r\nchunk of work done; no more paying for nursery care when you don\u2019t\r\nneed it.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Facilities Services", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "city": "Brighton", 
+        "street1": "52 Dyke Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.officreche.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Flexible childcare", 
+      "Co-working"
+     ]
+    }, 
+    "universalName": "officr-che", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Officr\u00e8che"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 2, 
+    "name": "Krysalis Photography", 
+    "twitterId": "http://twitter.com/Krysalisphoto", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.krysalisphotography.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Portrait Photography", 
+      "Commercial Photography", 
+      "Wedding Photography"
+     ]
+    }, 
+    "universalName": "krysalis-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Krysalis Photography is a portrait specialist, whether it's business headshots or something less formal, let Krysalis Photography cater to your needs in their professional studio, based in Brighton.\r\n\r\nShould you be interested in Weddings or Commercial shoots we can cater for that too."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 4, 
+    "description": "Stephanie Anjos Photography has been running for  two years now. I do events, weddings, promotional work, advertisment, club and band photography. I also sell landscape and art photography on my website, primarily images from across the world. I am based in Brighton & Hove but will travel.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Photography", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.stephanieanjosphotography.com", 
+    "universalName": "stephanie-anjos-photography", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "name": "Stephanie Anjos Photography"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 7, 
+    "description": "MiniMove.eu your full removal service of up to 1-2 bed apartment/house for the busy professional. \r\nRelocation between London, Paris, Brussels, Dublin and anywhere in Europe.\r\nK9 Express, dedicated transport for Dogs/Cats between London & Paris, Paris & London or together with your MiniMove, other destinations by arrangement.\r\nSameday or Overnight MiniMoves, you can take the train-Eurostar, we take the strain and co-ordinate delivery for your arrival in your new home.\r\nWe offer personal care and attention throughout your MiniMove with the same dedicated vehicle and driver.\r\nMiniMoves.eu between London & Paris/Brussels/Amsterdam/anywhere Europe 0800 652 6716\r\nLocation: London Paris Brighton", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Transportation/Trucking/Railroad", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "75018", 
+        "city": "Paris", 
+        "street1": "Paris Base"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SW6 6TB", 
+        "city": "Fulham, London", 
+        "street1": "London Base"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2000, 
+    "websiteUrl": "http://www.minimoves.eu", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Overnight & Sameday European MiniMoves.", 
+      "K9 Express, Pet Chauffeur for Dogs/Cats between London & Paris", 
+      "Express Micro Moves up to 2.5m3 for urgent secure dliveries", 
+      "Express Baggages"
+     ]
+    }, 
+    "universalName": "minimoves.eu", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "MiniMoves.eu"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 11, 
+    "name": "Logo Logo", 
+    "twitterId": "logologouk", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "http://www.logologo.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Web Design", 
+      "Infographics", 
+      "Brand Development", 
+      "Responsive Websites", 
+      "Web Design", 
+      "Illustration"
+     ]
+    }, 
+    "universalName": "logo-logo", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "A Digital Web Design Agency that specialises in web design, branding, illustration, infographics, and web development. We are based in the big city of Brighton & Hove with an office just off Palmeira Square that is one step away from the seaside. We have recently started an intern programme that has resulted in two post graduates being employed part time.\r\n\r\nWe cater for many clients around the world and enjoy a challenge. We have recently been over to Miami to help run a four day event for one of our biggest clients, so as well as designing all the websites and printed media we helped run the social media too.\r\n\r\nWe have two developers working for Logo Logo, Chris Leggett and John Dillion. One a PHP dev and the other a .Net specialist. We are able to handle responsive, e-commerce or javascript motion graphics. As well as all the normal web jobs you would expect."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 47, 
+    "name": "Bay of Quinte Tourist Council", 
+    "twitterId": "Bay_of_quinte", 
+    "industry": "Hospitality", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 1982, 
+    "websiteUrl": "www.bayofquinte.ca/tourism", 
+    "universalName": "bay-of-quinte-tourist-council", 
+    "companyType": {
+     "code": "S", 
+     "name": "Partnership"
+    }, 
+    "description": "The official Tourism Organization for Bay of Quinte including Belleville and Quinte West, Deseronto, Tyendinaga. Partnered with Prince Edward County, Brighton and Napanee.  Bay of Quinte Tourism included voting members from The Chambers of Commerce from each area as well as municipal representation.  Non-voting members include over 120 member stakeholders who are listed on the main website www.bayofquintecountry.com.  Partnerships for Regional support of the Bay of Quinte Brand include the Quinte Economic Development Commission which can be seen in the portal:  www.bayofquinte.ca  ."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 8, 
+    "description": "Associates, Partners et Sons is a multi-disciplinary design studio based in Riga, Latvia. It was formed by Edgars Zvirgzdi\u0146\u0161 after graduating from Graphic Design course at University of Brighton. Studio is currently working with architecture, culture and music based clients, sharing an office with 1plus1 architect studio and collaborating with friends across Europe.", 
+    "twitterId": "et_sons", 
+    "blogRssUrl": "", 
+    "industry": "Graphic Design", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2011, 
+    "websiteUrl": "http://www.et-sons.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Identity design", 
+      "Print design"
+     ]
+    }, 
+    "universalName": "associates-partners-et-sons", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Associates, Partners et Sons"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "First class communications are the key to weathering the economic storm. Chris Dowling Print & Design will help you stand out from the crowd with top quality leaflets, brochures, newsletters, magazines, letterheads and stationery - all at competitive prices. Don't just survive - thrive.\r\n\r\nOur team of highly-experienced professionals is dedicated to ensuring that your promotional and marketing materials boost your sales and increase your profits.\r\nOur prices are highly competitive, giving you great value for money.\r\n\r\nBased in Uckfield, and we provide a service across East and West Sussex and the Kent and Surrey borders, including: Crowborough, East Grinstead, Hailsham, Haywards Heath, Heathfield, Lewes, Brighton, Eastbourne, Oxted, Gatwick and Tunbridge Wells. Our customer base reaches into London and The City.\r\n\r\nWe are always pleased to talk to you about your print and design projects and to provide prices and advice.", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Printing", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.dowlingprint.com", 
+    "specialties": {
+     "_total": 4, 
+     "values": [
+      "Printing - litho and digital", 
+      "Graphic design", 
+      "Large poster printing", 
+      "Copywriting and editing"
+     ]
+    }, 
+    "universalName": "chris-dowling-print-&-design", 
+    "companyType": {
+     "code": "C", 
+     "name": "Public Company"
+    }, 
+    "name": "Chris Dowling Print & design"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Italian Deli and Cafe providing good things to eat to the good people of Brighton and Hove.\r\nCatering services for fine dining, weddings, private functions and corporate lunches and events throughout the South East.\r\nGorgeous italian food with local ingredients", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Food & Beverages", 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.albertoli.co.uk", 
+    "universalName": "albertoli-deli---kitchen", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Albertoli Deli + Kitchen"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Beginning his career at the age of 16, Keith started his own gardening business: Good and Economical during the summer break following his GCSEs. Keith continued to run his business while completing his A Levels and then went on to read Biological Sciences at Brighton University.\r\n\r\nShortly after graduating he joined his first sales team gaining some of his biggest insights into business development, and while there won \u2018European Account Manager of the Year 2002\u2019 and \u2018Most New UK Logos 2002\u2019 awards. Keith continued to build and deliver his sales and marketing skills working directly as a business development manager and then ultimately delivering his services on a consultancy basis helping business owners create, build and realise value.\r\n\r\nKeith is also a keen runner; running for pain, pleasure and charity.  Since completing his first organised run in 2007, Keith has strived to complete at least one major personal challenge a year, from physical tests such as cycling the South Downs Way and running 2 marathons in 8 days to personal development such as volunteering for Young Enterprise and Chair for a property management company.\r\n\r\nKeith is currently taking time out from his usual work to pursue dreams and ideas. His full time job is as a stay-at-home-dad during which time Keith has been uniting SAHDs (stay-at-home-dads) in Worthing by co founding Worthing Dads.", 
+    "twitterId": "keith_fowler", 
+    "blogRssUrl": "http://feeds.feedburner.com/keithfowler", 
+    "industry": "Marketing & Advertising", 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2010, 
+    "websiteUrl": "www.keithfowler.co.uk", 
+    "universalName": "keith-fowler", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Keith Fowler"
+   }
+  ]
+ }
+}

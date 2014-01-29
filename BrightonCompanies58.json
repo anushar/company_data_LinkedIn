@@ -1,0 +1,842 @@
+{
+ "companies": {
+  "_total": 1572, 
+  "_count": 20, 
+  "_start": 1160, 
+  "values": [
+   {
+    "numFollowers": 24, 
+    "name": "KiwiOz Nannies Ltd", 
+    "industry": "Staffing & Recruiting", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "+64 9 309 3977"
+       }, 
+       "address": {
+        "postalCode": "1151", 
+        "city": "Auckland", 
+        "street1": "20 Augustus Terrace"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.kiwioznannies.co.nz", 
+    "universalName": "kiwioz-nannies-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "KiwiOz Nannies is a leading International nanny agency specialising in permanent and temporary nannies. We supply full time and part time nannies either live in or live out as well as afterschool nannies, maternity nurses, and babysitters.  \r\n\r\nWe have a dedicated team of experienced consultants who work hard to source top candidates in a professional and timely manner.\r\nKiwiOz Nannies has offices set up in London &, Brighton, UK, Sydney, Australia and Auckland, NZ."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 274, 
+    "name": "Rangeview Library District", 
+    "industry": "Libraries", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "(303) 405-3200"
+       }, 
+       "address": {
+        "postalCode": "80602", 
+        "city": "Thornton", 
+        "street1": "5877 E. 120th Ave."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "websiteUrl": "http://anythinklibraries.org", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "public library"
+     ]
+    }, 
+    "universalName": "rangeview-library-district", 
+    "companyType": {
+     "code": "N", 
+     "name": "Non Profit"
+    }, 
+    "description": "Rangeview Library District is proud to serve the residents of Adams County through its seven Anythink libraries located in the communities of Bennett, Brighton, Commerce City, Northglenn, Thornton and the Perl Mack neighborhood of Denver. For community members outside of these areas, the district offers outreach services through its bookmobile, Anythink in Motion, visiting area schools and homebound residents.\r\n\r\nAnythink is a new style of library - a place of unlimited imagination, where play inspires creativity and lifelong learning. Your community space where anything and everything is possible."
+   }, 
+   {
+    "numFollowers": 25, 
+    "name": "SportyCamps Ltd", 
+    "industry": "Sports", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "tn39 4tq"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.sportycamps.com", 
+    "universalName": "sportycamps-ltd", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "Hi, I'm Hadon Westerby, and I am the Program Director of SportyCamps Ltd.\t\r\n\t\t\t\t\t\t\t\r\n\t\t\tSportyCamps grew out of a seed of an idea in the middle of 2009.\r\nI established SportyCamps as a means of providing quality sports camp experiences for young boys and girls.\t\r\n\t\t\t\t\t\t\t\r\n\t\t\tI am an experienced teacher and coach of a variety of sports, to range of ages and abilities. Originally from New Zealand, I completed my Sports Science degree, while playing age group rugby for Otago University and the Otago RFU.\t\r\n\t\t\t\tHadon Westerby - Program Director\r\n\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\tI then worked in, and managed the Hamilton YMCA before arriving in the UK in 2002. Since then, I have worked as a teacher at St Bede's School, teaching PE, rugby and cricket to school students. In my time there, 3 former students have gone on to play international rugby around the world. This adds to the long list of regional and international players I have worked with and coached in New Zealand.\r\n\t\t\t\t\t\t\t\t\r\n\t\t\tI also worked in New York for 6 months, with Mark Griffin, setting up Play Rugby USA - a charity that teaches rugby to school students in New York, and now across the USA.\r\n\t\t\t\t\t\t\t\t\r\n\t\t\tCurrently I coach for the Harlequins rugby academy in Brighton, and for the Sussex U17 side. I am soon to complete my Level III RFU coaching qualifications.\r\n\t\t\t\t\t\t\t\t\r\n\t\t\tFinally, I also work as a referee and as a RFU Coach Educator in the local area.\r\n\t\t\t\t\t\t\t\r\n\t\tAs you can see, I am very experienced in this field, and well qualified to operate SportyCamps."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 9, 
+    "description": "Located in the Brighton and Howell Michigan area, the heart of Livingston county, TAB Massage and Fitness provides leading edge massage therapy, fitness training and nutritional counseling services. By offering a healthy alternative to medicine that focuses on muscle manipulation, relaxation techniques, nutrition guidance, and personal training, TAB Massage and Fitness is your one-stop mecca for alternative health and wellness. \r\n\r\nBy focusing on deep tissue muscle therapy, stress relief therapy, and myofacial massage techniques, TAB Massage and Fitness can correct many degenerative ailments such as poor posture, poor flow of the lymphatic system, and overall general body aches and pains. Massage therapy is becoming widely popular as an alternative healing method to prescription drugs and surgeries. \r\n\r\nTAB Massage and Fitness is your destination to a happier healthier you by providing all the necessary tools, techniques, and education needed for a healthy lifestyle.", 
+    "industry": "Health, Wellness & Fitness", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48843"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "http://www.tabmassage.com", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Massage", 
+      "Deep Tissue", 
+      "Prenatal", 
+      "Fitness Training", 
+      "Nutrition Counseling", 
+      "Stress Relief", 
+      "Wellness", 
+      "Yoga"
+     ]
+    }, 
+    "universalName": "tab-massage-and-fitness-inc.", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "TAB Massage and Fitness, Inc."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 3, 
+    "description": "Executive coaching, leadership development coaching,  personal development coaching, career coaching and life coaching - based in Brighton, Sussex, UK\r\nPaula also facilitates group working and provides coaching consultancy and copywriting support for employee engagement and organisational development projects", 
+    "industry": "Professional Training", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {}
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2003, 
+    "websiteUrl": "www.paulalloydcoaching.com", 
+    "universalName": "paula-lloyd-coaching", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Paula Lloyd coaching"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 20, 
+    "name": "The Lash Lounge Sydney", 
+    "industry": "Cosmetics", 
+    "locations": {
+     "_total": 2, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "02 9568 6026"
+       }, 
+       "address": {
+        "postalCode": "2049", 
+        "city": "Petersham", 
+        "street1": "Shop 1"
+       }
+      }, 
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "2049"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "http://www.thelashloungesydney.com.au", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "Eyelash Extension and Eyebrow Specialist"
+     ]
+    }, 
+    "universalName": "the-lash-lounge-sydney", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Sydney's leading Eyelash Extension and Eyebrow Specialist.\r\n\r\nShop 1, 58 Brighton Street\r\nPetersham NSW 2049\r\nT| 02 9568 6026\r\nE| info@thelashloungesydney.com.au\r\nW| www.thelashloungesydney.com.au\r\n\r\nRelax in our French boudoir inspired salon and experience the most beautiful eyelash extensions in Sydney."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 31, 
+    "description": "'The award winning choice for business to business telecommunications'\r\n\r\nBluetone is an innovative, successful and friendly Brighton based communications company. Established in 2004 we provide products and services to a wide range of business sectors across the South East and UK. In the world of business, we understand that communication is a necessity but it must also be managed efficiently to ensure costs are kept to a minimum. We specialise in providing tailored business to business solutions and pride ourselves on our great customer service \u2013 putting our customers at the heart of everything we do.", 
+    "twitterId": "", 
+    "industry": "Telecommunications", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "08454 100006", 
+        "phone1": "08454 100005"
+       }, 
+       "address": {
+        "postalCode": "BN3 2BX", 
+        "city": "Hove", 
+        "street1": "3rd Floor Suite"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "foundedYear": 2004, 
+    "websiteUrl": "www.bluetoneltd.co.uk", 
+    "specialties": {
+     "_total": 8, 
+     "values": [
+      "Business Mobile Phones", 
+      "Fixed Line Connections and Phone Systems", 
+      "Mobile Data Connections", 
+      "Broadband", 
+      "Repairs", 
+      "Laptops and Tablets", 
+      "Peripherals and Accessories", 
+      "Office 365"
+     ]
+    }, 
+    "universalName": "bluetone-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Bluetone Ltd"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 17, 
+    "description": "COMPANY INFORMATION: L J S  Sales LLC owns the Patent Rights to the \"My Smart Snacker\" (TM) Product Line which includes: \"My Smart Snacker\" (TM),  \"My Smart Snacker Junior\" (TM), \"My Smart Snacker XL\" (TM).  Currently, L J S  Sales, LLC has granted an exclusive license to Smart Snacker Products LLC to manufacture, and distribute the My Smart Snacker (TM) product line. \r\n\r\nRETAIL ORDERS:  The patented My Smart Snacker, SSP's flagship product, is now available for sale at the Suggested Retail Price of $14.99 each plus Shipping and Handling.  \r\n\r\nCOLORS: The patented My Smart Snacker (TM) is available from stock in either Black,Grey, Tan or White.  Retail consumers can place their orders for the greatest product since the invention of the cup holder at: www.MySmartSnacker.com . \r\n\r\nWHOLESALE ORDERS:  Smart Snacker Products LLC welcomes quote requests from Retail Stores for its products.  We do have a min. order quantity of two cases (24 units) for wholesale pricing.  Our product is shipped FOB: Brighton CO, 80602.\r\n\r\nPRIVATE LABELING: The patented My Smart Snacker (TM) can be private labeled with your company logo, name, and slogan.  Min. order is one 20 ft. container (7,920 units).  We can also run our product in any desired color as well.  Contact SSP for min. run qty. per color .", 
+    "twitterId": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "303 4980361", 
+        "phone1": "303-304-7186"
+       }, 
+       "address": {
+        "postalCode": "80602", 
+        "city": "Brighton", 
+        "street1": "7149 E. 163rd Avenue"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.mysmartsnacker.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Manufacturing Smart Products for Smart Snackers", 
+      "Private Labeling for Large Retail Clients"
+     ]
+    }, 
+    "universalName": "l-j-s-sales-llc-and-smart-snacker-products", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "L J S  SALES, LLC and Smart Snacker Products"
+   }, 
+   {
+    "numFollowers": 7, 
+    "name": "Bevan Stephens", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "07885 427 577"
+       }, 
+       "address": {
+        "postalCode": "BN1 1RD", 
+        "city": "Brighton", 
+        "street1": "18 Bond Street"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "A", 
+     "name": "myself only"
+    }, 
+    "websiteUrl": "www.bevanstephens.com", 
+    "universalName": "bevan-stephens", 
+    "companyType": {
+     "code": "E", 
+     "name": "Self Employed"
+    }, 
+    "description": "I'm a freelance web designer & developer based in the heart of Brighton\u2019s North Laines area. I'm an expert in user interface design, front-end development and open source content management systems."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 28, 
+    "description": "We are a plumbing and heating company based in Brighton UK. Our aim to strive for excellence in all fields of our trade, whether it be boiler servicing, landlords safety checks, full bathrooms, central heating, sheet leadwork, hot water systems, cold water configuration and drainage.\r\nWe endeavour  to be thorough, fair and reliable from initial qouting to full after care and guarantee.", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 7GL"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.seaplumbing.co.uk", 
+    "specialties": {
+     "_total": 6, 
+     "values": [
+      "Plumbing", 
+      "heating", 
+      "bathrooms", 
+      "kitchens", 
+      "drainage", 
+      "gas services"
+     ]
+    }, 
+    "universalName": "s.e.a-plumbing-and-heating", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "S.E.A Plumbing and Heating"
+   }, 
+   {
+    "numFollowers": 228, 
+    "name": "Liberty Chevrolet", 
+    "industry": "Automotive", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "48165"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.libertychev.com", 
+    "universalName": "liberty-chevrolet_2", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "description": "Liberty Chevrolet, located in New Hudson Michigan, 48165 with service to Detroit, is proud to provide for all your Chevy needs. Our dealership offers an online inventory of new and used Chevy cars, trucks and SUVs as a Detroit Chevrolet source in addition to being your hometown New Hudson Chevrolet dealer.\r\n\r\nLooking for a used Chevrolet in Detroit? Perhaps you're searching for a new Malibu in Detroit or Benton Harbor. We are your Michigan Chevrolet dealer! Liberty is here to serve all your Chevy needs, so stop in today! Our location allows us to be your Detroit Chevrolet dealer. View our hours and location and see just how close New Hudson and Detroit are. Looking for a Chevy Malibu in Detroit? Perhaps Chevy trucks in Detroit are what you've been searching for. Your New Hudson Chevrolet dealer is nearby, and the inventory of new Chevrolet models at Liberty Chevrolet is definitely worth the drive!\r\n\r\nAs your Detroit Chevrolet dealership located in New Hudson, Liberty Chevrolet is proud to serve our hometown as well as Farmington, Brighton, Howell, Livonia and Detroit. Not convinced that we can be your Detroit Chevrolet dealer? Please take a moment to look at our inventory and contact us about a vehicle. We look forward to the opportunity to earn your business for a lifetime. \r\n\r\nTrouble finding us? We are located at 30400 Lyon Center Drive E in New Hudson, MI 48165."
+   }, 
+   {
+    "numFollowers": 4, 
+    "name": "Atim 3D Pty Ltd", 
+    "industry": "Design", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "3186"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.atim3d.com.au", 
+    "universalName": "atim-3d-pty-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Small design company  based in Brighton, Victoria. Australia.\r\nSpecialising in retail, product and residential design"
+   }, 
+   {
+    "numFollowers": 56, 
+    "name": "Canyon sports", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "801-328-4902", 
+        "phone1": "801-359-2673"
+       }, 
+       "address": {
+        "postalCode": "84101", 
+        "city": "Salt Lake City", 
+        "street1": "517 South 200 West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "5015019712", 
+        "phone1": "18005274754"
+       }, 
+       "address": {
+        "postalCode": "84070", 
+        "city": "Sandy", 
+        "street1": "10600 South 45 west"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "8016214960", 
+        "phone1": "18005277801"
+       }, 
+       "address": {
+        "postalCode": "84405", 
+        "city": "Riverdale", 
+        "street1": "4598 South 700 West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "8013225015", 
+        "phone1": "18004824754"
+       }, 
+       "address": {
+        "postalCode": "84101", 
+        "city": "Salt Lake City", 
+        "street1": "517 South 200 West"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "8019420632", 
+        "phone1": "18007368754"
+       }, 
+       "address": {
+        "postalCode": "84121", 
+        "city": "Cottonwood Heights", 
+        "street1": "1844 East Fort Union Blvd."
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.canyonsports.com", 
+    "universalName": "canyon-sports", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Canyon Sports \u2013 Utah Ski and Snowboard Rentals\r\n\r\nUtah is famous for having the world\u2019s greatest snow, ski runs, and ski resorts. Along Utah\u2019s Wasatch Range you\u2019ll find excellent skiing for first-time skiers, novices, and experts. At Canyon Sports, we have been renting skis, snowboards, and related equipment to both locals and visitors from around the world. With ski and snowboard rental shops located throughout the Wasatch Front, our shops are found near Utah\u2019s most popular ski resorts.\r\n\r\n \r\n\r\nWith retail locations in Sandy, Cottonwood, Salt Lake City, and Ogden, Canyon Sports has been in business for over 20 years providing the best deals on ski and snowboard rentals, discount lift passes, and anything else you need to hit the slopes. Whether you\u2019re just taking a day off of work to unwind on the slopes or you\u2019re taking your entire family skiing or snowboarding, we can set you up with everything you need at the best prices available.\r\n\r\n \r\n\r\nDiscount Lift Passes for Skiers and Snowboarders\r\n\r\nCanyon Sports is the #1 discount lift ticket retailer in Utah. With discount lift passes available for all the major ski resorts in the state, Canyon Sports can help you get on the slopes for less money. Discount lift passes for ski resorts include Alta, Snowbird, Brighton, Solitude, Park City, Deer Valley, The Canyons, Snowbasin, Powder Mountain and Sundance.\r\n\r\nSummer Mountain and Road Bike Rentals\r\n\r\nDuring the off season, Canyon Sports operates Utah\u2019s largest mountain and road bike rental fleet. Enjoy Utah\u2019s excellent outdoor weather year round. During the summer, few sights are as beautiful as Utah\u2019s mountains viewed from the seat of a mountain bike.\r\n \r\n\r\nCanyon Sports also carries a variety of outdoor equipment. With over 15,000 products available, Canyon Sports has become a one-stop destination for outdoor enthusiasts across the Wasatch Front. Feel free to browse the site or drop by any one of our locations."
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 51, 
+    "description": "AERO ALLIANCE, an air charter / air taxi and aviation services company based in the south of England. \r\n\r\nWe specialise in flying passengers and high priority cargoes to and from destinations in the UK, Channel Islands and mainland Europe.\r\n\r\nAERO ALLIANCE was formed in 2008 to provide aircraft charter / air taxi and aviation services from its base at Shoreham (Brighton City) Airport, in the south of England, less than 30 miles (48 km) from London Gatwick.\r\n\r\nThe company is run and staffed by experienced charter pilots who specialise in flying passengers, patients and high-priority freight to and from destinations in the UK, the Channel Islands and mainland Europe.\r\nOur aim is to deliver our customers or their freight as close to their final destination as possible, with minimum fuss and maximum convenience.\r\n\r\nOur team also specialises in advanced flight instruction, aircraft management, fear of flying courses and aviation team building days.", 
+    "industry": "Aviation & Aerospace", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN43 5FF"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2008, 
+    "websiteUrl": "www.aeroalliance.uk.com", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Air Taxi", 
+      "Flight Charter"
+     ]
+    }, 
+    "universalName": "aero-alliance", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Aero Alliance"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 49, 
+    "description": "Ape is a Brighton based creative marketing agency, offering fresh, commercially focused graphic design and marketing across a number of disciplines; branding, packaging, POS, advertising, exhibition design, direct mail, brochures, annual reports, email, viral games and websites.\r\n\r\nApe's mission is a simple one, to create great design and marketing answers, thrill our clients, satisfy our creative urges and to have a bit of fun doing it.", 
+    "twitterId": "apecreative", 
+    "blogRssUrl": "", 
+    "industry": "Marketing & Advertising", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "phone1": "01273 821 858"
+       }, 
+       "address": {
+        "postalCode": "BN1 4GQ", 
+        "city": "Brighton", 
+        "street1": "5 Isetta Sq"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2007, 
+    "websiteUrl": "www.apecreative.com", 
+    "specialties": {
+     "_total": 3, 
+     "values": [
+      "Creative marketing", 
+      "design and advertising", 
+      "food and drink"
+     ]
+    }, 
+    "universalName": "ape-creative", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "Ape Creative"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 27, 
+    "description": "Home of RunningShoeShop, Brighton Marathon Store and Running Shoes London\r\n\r\nFollow us on Twitter www.twitter.com/runningshoeshop and Facebook www.facebook.com/runningshoeshop for the latest information, news, shop gossip, staff racing performances and which product has just arrived.\r\n\r\nStockists of:\r\nFOOTWEAR BRANDS: Adidas, Asics, Brooks, K-Swiss, Mizuno, New Balance, Newton, Nike and Saucony.\r\n\r\nCLOTHING BRANDS: 2XU, Crew Room, Helly Hansen, Montane, Ron Hill, Sugoi, Terramar, Yew and Zoot\r\n\r\nACCESSORIES: Balega, BodyGlide, ClifBar, Deuter, Dextro, Elaces, Engo, For Goodness Shakes, Fuel Belt, Greepers, Gregory, Gu, Halo, High5, Hilly, Isostar, Kinetica, Lucozade, Mueller, MuleBar, Nathan, Nuun, On-Running, Polar, PowerBar, Run&Move, Science26, Science in Sport, Sennheiser, SofSole, Soleus, Squeezy, Suunto, Thorlo, Timex, Torq, Trigger Point Therapy, Wigwam, Xtenex, Yew Clothing, Zoom", 
+    "twitterId": "www.twitter.com@runningshoeshop", 
+    "blogRssUrl": "", 
+    "industry": "Retail", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": ""
+       }, 
+       "address": {
+        "postalCode": "SL4 1SE", 
+        "city": "Windsor", 
+        "street1": "Running Shoes London"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "foundedYear": 2006, 
+    "websiteUrl": "www.runningshoeslondon.co.uk", 
+    "specialties": {
+     "_total": 1, 
+     "values": [
+      "For all things running."
+     ]
+    }, 
+    "universalName": "running-shoes-london", 
+    "companyType": {
+     "code": "O", 
+     "name": "Self Owned"
+    }, 
+    "name": "Running Shoes London"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 161, 
+    "description": "AVS Fencing Supplies are a specialist supplier of garden fencing, fence panels, railway sleepers, garden decking, timber decking boards, fence posts, driveway gates and security fencing. \r\n\r\nWe deliver to Sussex, Surrey, Hampshire, Berkshire, Cambridgeshire and also parts of London, Essex, Lincolnshire, Northampton & Kent.\r\n\r\nWe currently supply a large range of fencing and landscaping materials from eight  AVS Fencing branch outlets, using a delivery fleet consisting of 7.5 tonne trucks, 16 tonne crane self offloading lorries and smaller pick ups. \r\n\r\nBranches are located at Henfield near Brighton, Milford near Guildford, Lewes, Rudgwick near Horsham, Peterborough, Wokingham near Reading, Harlow in Essex and Stansted near Portsmouth & Southampton in Hampshire.\r\n\r\nYou will find that AVS Fencing Supplies staff are both helpful and knowledgeable and can provide you with assistance and a free quote on a range of products, including garden fences such as fence panels, timber fence posts and concrete fence post, as well as used and new garden railway sleepers, deck boards, garden gates and steel palisade fencing to name a few.\r\n\r\nOur fencing and landscaping materials are supplied to the general public, trade customers and commercial companies.\r\n\r\nAs a specialist fencing, railway sleeper, decking, & gate company, we have the expertise to help you with whatever your requirements may be.", 
+    "twitterId": "", 
+    "industry": "Construction", 
+    "locations": {
+     "_total": 5, 
+     "values": [
+      {
+       "contactInfo": {
+        "fax": "01403 330690", 
+        "phone1": "01403 212100"
+       }, 
+       "address": {
+        "postalCode": "RH12 4QD", 
+        "city": "HORSHAM", 
+        "street1": "First Floor, The Pavilion"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "", 
+        "phone1": "01376 564382"
+       }, 
+       "address": {
+        "postalCode": "CO6 1TE", 
+        "city": "Coggeshall", 
+        "street1": "The Warehouse"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01733 349537", 
+        "phone1": "01733 343030"
+       }, 
+       "address": {
+        "postalCode": "PE1 5XL", 
+        "city": "Peterborough", 
+        "street1": "Padholme Road East"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01483 860867", 
+        "phone1": "01483 410960"
+       }, 
+       "address": {
+        "postalCode": "GU8 5HE", 
+        "city": "Milford", 
+        "street1": "Unit 1 AVS Trading Park"
+       }
+      }, 
+      {
+       "contactInfo": {
+        "fax": "01273 813963", 
+        "phone1": "01273 814567"
+       }, 
+       "address": {
+        "postalCode": "BN8 5PN", 
+        "city": "Lewes", 
+        "street1": "Laughton Road"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1993, 
+    "websiteUrl": "www.avsfencing.co.uk", 
+    "specialties": {
+     "_total": 11, 
+     "values": [
+      "Garden Fencing", 
+      "Trade Fencing Supplies", 
+      "Railway Sleepers", 
+      "Timber Decking", 
+      "Security Fencing", 
+      "Gates", 
+      "Aggregate", 
+      "Wire Mesh", 
+      "Electric Fencing", 
+      "Ironmongery", 
+      "Gardening Supplies"
+     ]
+    }, 
+    "universalName": "avs-fencing-supplies-ltd", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "name": "AVS Fencing Supplies Ltd"
+   }, 
+   {
+    "numFollowers": 41, 
+    "name": "Terre a Terre", 
+    "industry": "Hospitality", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 1WE"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "C", 
+     "name": "11-50"
+    }, 
+    "websiteUrl": "www.terreaterre.co.uk", 
+    "universalName": "terre-a-terre", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Terre \u00e0 Terre was born, 17 years ago, out of a shared passion of two people with a mission, Amanda Powley and Philip Taylor. Classically trained as chefs and having cooked throughout the world, they wanted a platform for their innovative ideas where they could push the boundaries of traditional cuisine, while adhering to their beliefs in meat-free cooking.\r\n\r\nWhat began as a BYO with 30 covers, supported by friends, family and the local Brighton community/growers and very lovely staff, (thank you), has become one the most exciting and successful restaurants in the UK. And we\u2019re not just talking vegetarian restaurants, winning the title of 'Best for Vegetarian' - Observer Food Awards 2008 and continuously retaining the prestigious AA Two Rosettes and Michelin: \u201d Bib Gourmand\u201d awards. First and foremost it is an establishment that serves outstanding food, and the fact that you won\u2019t find meat on its menu is merely secondary.\r\n\r\nUltimately Terre \u00e0 Terre is about quality ingredients served with flair, creativity and playful exuberance. \r\n\r\nEating at Terre \u00e0 Terre will stimulate your mind as well as your taste buds and we believe it will change the way you view vegetarian cuisine forever"
+   }, 
+   {
+    "status": {
+     "code": "OPR", 
+     "name": "Operating"
+    }, 
+    "numFollowers": 127, 
+    "description": "All Hallows is an 11-18 Catholic mixed school and Sixth Form college situated in beautiful grounds on the borders of Surrey and Hampshire, midway between Farnham and Aldershot. Our school was opened in 1961, following the hard work and determination of the late Canon Daniel O'Hanlon, parish priest in Aldershot, with the support of local families, to ensure educational provision for Catholic families in the area.\r\n\r\nThe name All Hallows refers to all the Saints, all those who we believe have gone to be with God, and the superb sculpture above the main entrance was specially commissioned to reflect the school's name.\r\n\r\nAll Hallows has expanded ever since its opening, now serving a catchment area of some 400 square miles, and preparing to celebrate its Golden Jubilee in 2011-2012.  We provide Catholic education within the Diocese of Portsmouth, also taking a large number of pupils who live within the Diocese of Arundel and Brighton. Our school is founded on 'gospel values' and subject to availability of places, welcomes non-Catholic children whose parents wish to see them educated in a Christian environment.\r\n\r\nOur Mission Statement reflects our aim to provide every child with the opportunity to develop their full potential in an orderly and caring atmosphere. The school is within the Surrey LA and has Specialist School status. We have been  a Technology College since 1995 and in September 2009 have been granted a second specialism as a Music College, in recognition of our achievements to date. We are also designated as a Lead School for Gifted and Talented students", 
+    "twitterId": "", 
+    "blogRssUrl": "", 
+    "industry": "Education Management", 
+    "employeeCountRange": {
+     "code": "D", 
+     "name": "51-200"
+    }, 
+    "foundedYear": 1961, 
+    "websiteUrl": "http://www.allhallows.net", 
+    "specialties": {
+     "_total": 2, 
+     "values": [
+      "Technology College Status", 
+      "Music College Status"
+     ]
+    }, 
+    "universalName": "all-hallows-catholic-school", 
+    "companyType": {
+     "code": "D", 
+     "name": "Educational"
+    }, 
+    "name": "All Hallows Catholic School"
+   }, 
+   {
+    "numFollowers": 22, 
+    "name": "John Hoole Estate Agents", 
+    "industry": "Real Estate", 
+    "locations": {
+     "_total": 1, 
+     "values": [
+      {
+       "contactInfo": {}, 
+       "address": {
+        "postalCode": "BN1 5AA"
+       }
+      }
+     ]
+    }, 
+    "employeeCountRange": {
+     "code": "B", 
+     "name": "2-10"
+    }, 
+    "websiteUrl": "www.johnhoole.co.uk", 
+    "universalName": "john-hoole-estate-agents", 
+    "companyType": {
+     "code": "P", 
+     "name": "Privately Held"
+    }, 
+    "description": "Estate agents in Brighton\r\nProfessional N.A.E.A. members\r\nResidential property sales\r\nFree valuations and advice\r\nConveyancing\r\nMortgages and life products"
+   }
+  ]
+ }
+}
